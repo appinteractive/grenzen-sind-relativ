@@ -6,7 +6,10 @@
 */
 module.exports = {
   theme: {},
-  variants: {},
+  variants: {
+    textDecoration: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    zIndex: ['hover']
+  },
   plugins: [
     require('@tailwindcss/typography'),
   ],

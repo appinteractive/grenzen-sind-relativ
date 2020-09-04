@@ -8,6 +8,7 @@
     </p>
     <div class="grid gap-6 lg:grid-cols-2">
       <PostCard
+        link="/projekte/musikunterricht-fuer-hoergeschaedigte"
         image="https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
         title="Musikunterricht für Hörgeschädigte"
         description="

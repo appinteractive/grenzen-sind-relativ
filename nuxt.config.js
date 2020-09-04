@@ -1,3 +1,4 @@
+const isProd = process.env.NODE_ENV === 'production'
 
 export default {
   /*
@@ -75,5 +76,27 @@ export default {
   ** See https://nuxtjs.org/api/configuration-build/
   */
   build: {
+    babel: {
+      plugins: isProd ? ['transform-remove-console'] : [],
+    },
+    extend: (config) => {
+      const svgRule = config.module.rules.find((rule) => rule.test.test('.svg'))
+      svgRule.test = /\.(png|jpe?g|gif|webp)$/
+      config.module.rules.push({
+        test: /\.svg$/,
+        oneOf: [
+          {
+            resourceQuery: /inline/,
+            use: ['babel-loader', 'vue-svg-loader'],
+          },
+          {
+            loader: 'file-loader',
+            query: {
+              name: 'assets/[name].[hash:8].[ext]',
+            },
+          },
+        ],
+      })
+    }
   }
 }
