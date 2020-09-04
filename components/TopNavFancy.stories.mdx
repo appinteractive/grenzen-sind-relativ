@@ -1,0 +1,136 @@
+import { Meta, Story, Canvas, Props } from '@storybook/addon-docs/blocks'
+import { object, number, boolean } from '@storybook/addon-knobs';
+import TopNavFancy from '~/components/TopNavFancy.vue'
+
+<Meta title='Navigation/Top' />
+
+# Fancy Navigation
+With `MDX` we can define a story for `Checkbox` right in the middle of our
+Markdown documentation.
+
+<Canvas>
+  <Story name='Fancy'>{{
+    template: `
+      <div class="h-full w-full bg-gray-100 absolute left-0 top-0 overflow-hidden text-gray-700 antialiased leading-tight h-64">
+        <TopNavFancy :open="open" :currentMain="currentMain" :currentSub="currentSub" :navigation="navigation" />
+      </div>`,
+    props: {
+      open: {
+        default: boolean('Open', true)
+      },
+      currentMain: {
+        default: number('Current Main', 2)
+      },
+      currentSub: {
+        default: number('Current Sub', 1)
+      },
+      /*navigation: {
+        default: object('Navigation', [])
+      }*/
+    },
+    data: () => ({
+      navigation: [
+          {
+            title: 'Aktuelles',
+            url: '/aktuelles',
+          },
+          {
+            title: 'Über uns',
+            url: '/ueber-uns',
+          },
+          {
+            title: 'Aktivitäten',
+            url: '/aktivitaeten',
+            children: [
+              {
+                title: 'Allgemeine-Info',
+                url: '/aktivitaeten/allgemeine-info',
+              },
+              {
+                title: 'Projekte & Veranstaltungen',
+                url: '/aktivitaeten/projekte-und-veranstaltungen',
+                children: [
+                  {
+                    title: 'Grenzen sind relativ Festivals',
+                    url: '/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals',
+                  },
+                  {
+                    title: 'Erlebnistage Inklusion',
+                    url: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion',
+                  },
+                  {
+                    title: 'Spektralkombüse',
+                    url: '/aktivitaeten/projekte-und-veranstaltungen/spektralkombuese',
+                  },
+                ]
+              },
+              {
+                title: 'Musik & Inklusion',
+                url: '/aktivitaeten/musik-und-inklusion',
+                children: [
+                  {
+                    title: 'Musikunterricht für Hörgeschädigte',
+                    url: '/aktivitaeten/musik-und-inklusion/musikunterricht-fuer-hoergeschaedigte',
+                  },
+                  {
+                    title: 'Bandkamps',
+                    url: '/aktivitaeten/musik-und-inklusion/bandkamps',
+                  },
+                  {
+                    title: 'Inspirirende Texte',
+                    url: '/aktivitaeten/musik-und-inklusion/inspirirende-texte',
+                  },
+                ]
+              },
+              {
+                title: 'Kampagnien-Musikvideos',
+                url: '/aktivitaeten/kampagnien-musikvideos',
+                children: [
+                  {
+                    title: 'Workshops, Seminare & Vorträge',
+                    url: '/aktivitaeten/kampagnien-musikvideos/workshops-seminare-und-vortraege',
+                  },
+                  {
+                    title: 'Beratung & Coaching',
+                    url: '/aktivitaeten/kampagnien-musikvideos/beratung-und-coaching',
+                  },
+                  {
+                    title: 'GSR e.V. Channel',
+                    url: '/aktivitaeten/kampagnien-musikvideos/gsr-ev-channel',
+                  },
+                  {
+                    title: 'Blog',
+                    url: '/aktivitaeten/kampagnien-musikvideos/blog',
+                  },
+                  {
+                    title: 'Zitate',
+                    url: '/aktivitaeten/kampagnien-musikvideos/zitate',
+                  },
+                ]
+              },
+              {
+                title: "Öffentlichkeitsarbeit & Bewusstseinsbildung",
+                url: '/aktivitaeten/oeffentlichkeitsarbeit-und-bewusstseinsbildung',
+              },
+            ]
+          },
+          {
+            title: 'Media',
+            url: '/media',
+          },
+          {
+            title: 'Mitmachen',
+            url: '/mitmachen',
+          },
+          {
+            title: 'Kontakt',
+            url: '/kontakt',
+          },
+        ]
+    })
+  }}</Story>
+</Canvas>
+
+## Props
+
+<Props of={TopNavFancy} />

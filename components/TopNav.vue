@@ -95,7 +95,7 @@
             >
               Über uns
             </a> -->
-            <div
+            <!-- <div
                 class="flex text-gray-800 bg-white py-4 pb-6 px-3 rounded absolute shadow-2xl mt-2 -ml-5 cursor-default"
               >
                 <div class="flex flex-col mx-2">
@@ -148,7 +148,7 @@
                     </li>
                   </ul>
                 </div>
-              </div>
+              </div>-->
           </div>
           <div>
             <a

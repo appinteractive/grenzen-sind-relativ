@@ -71,6 +71,20 @@ export default {
   ** See https://content.nuxtjs.org/configuration
   */
   content: {},
+  /**
+   * See https://storybook.nuxtjs.org/options/
+   */
+  storybook: {
+    // Options
+    stories: [
+      '~/components/**/*.stories.js',
+      '~/components/**/*.stories.mdx'
+    ],
+    addons: [
+      '@storybook/addon-knobs',
+      '@storybook/addon-docs'
+    ]
+  },
   /*
   ** Build configuration
   ** See https://nuxtjs.org/api/configuration-build/
