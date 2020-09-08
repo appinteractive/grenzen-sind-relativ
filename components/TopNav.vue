@@ -21,7 +21,7 @@
         </div>
         <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto items-baseline bottom-0">
           <div class="lg:flex-grow">
-            <LinkMain
+            <NavItemLevelOne
               v-for="(nav, index) in navigation"
               :key="nav.url"
               :active="nav.url === navigation[currentMain].url"
@@ -29,13 +29,13 @@
               @click="currentMain = index"
             >
               {{ nav.title }}
-            </LinkMain>
-            <!-- <LinkMain to="/aktuelles">Aktuelles</LinkMain>
-            <LinkMain to="/ueber-uns">Über uns</LinkMain>
-            <LinkMain to="/was-wir-tun" :active="true">Was wir tun</LinkMain>
-            <LinkMain to="/media">Media</LinkMain>
-            <LinkMain to="/mitmachen">Mitmachen</LinkMain>
-            <LinkMain to="/kontakt">Kontakt</LinkMain> -->
+            </NavItemLevelOne>
+            <!-- <NavItemLevelOne to="/aktuelles">Aktuelles</NavItemLevelOne>
+            <NavItemLevelOne to="/ueber-uns">Über uns</NavItemLevelOne>
+            <NavItemLevelOne to="/was-wir-tun" :active="true">Was wir tun</NavItemLevelOne>
+            <NavItemLevelOne to="/media">Media</NavItemLevelOne>
+            <NavItemLevelOne to="/mitmachen">Mitmachen</NavItemLevelOne>
+            <NavItemLevelOne to="/kontakt">Kontakt</NavItemLevelOne> -->
             <!-- <a
               href="#responsive-header"
               class="block lg:inline-block lg:mt-0 text-gray-700 hover:text-white p-3 font-medium"
@@ -162,7 +162,7 @@
     </div>
     <div class="flex w-full items-baseline p-3 bg-gray-100" v-if="navigation[currentMain].pages">
       <div class="container m-auto">
-        <LinkSub
+        <NavItemLevelTwo
           v-for="(nav, index) in navigation[currentMain].pages"
           :key="nav.url"
           :active="navigation[currentMain].pages.length && nav.url === navigation[currentMain].pages[currentSub].url"
@@ -170,13 +170,13 @@
           @click="currentSub = index"
         >
           {{ nav.title }}
-        </LinkSub>
-        <!-- <LinkSub to="/projekte" :active="true">Projekte</LinkSub>
-        <LinkSub to="/">Veranstaltungen</LinkSub>
-        <LinkSub to="/">Kampagnien</LinkSub>
-        <LinkSub to="/">Workshop</LinkSub>
-        <LinkSub to="/">Beratung & Coaching</LinkSub>
-        <LinkSub to="/">Band</LinkSub> -->
+        </NavItemLevelTwo>
+        <!-- <NavItemLevelTwo to="/projekte" :active="true">Projekte</NavItemLevelTwo>
+        <NavItemLevelTwo to="/">Veranstaltungen</NavItemLevelTwo>
+        <NavItemLevelTwo to="/">Kampagnien</NavItemLevelTwo>
+        <NavItemLevelTwo to="/">Workshop</NavItemLevelTwo>
+        <NavItemLevelTwo to="/">Beratung & Coaching</NavItemLevelTwo>
+        <NavItemLevelTwo to="/">Band</NavItemLevelTwo> -->
       </div>
     </div>
   </nav>

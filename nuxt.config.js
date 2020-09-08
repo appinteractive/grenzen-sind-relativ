@@ -1,3 +1,5 @@
+import { MINIMAL_VIEWPORTS } from '@storybook/addon-viewport';
+
 const isProd = process.env.NODE_ENV === 'production'
 
 export default {
@@ -82,8 +84,14 @@ export default {
     ],
     addons: [
       '@storybook/addon-knobs',
+      '@storybook/addon-viewport',
       '@storybook/addon-docs'
-    ]
+    ],
+    parameters: {
+      viewport: {
+        viewports: MINIMAL_VIEWPORTS,
+      },
+    }
   },
   /*
   ** Build configuration
