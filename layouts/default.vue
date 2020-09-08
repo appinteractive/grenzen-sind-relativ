@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-gray-100 w-screen text-gray-700 antialiased leading-tight">
     <TopNavFancy :navigation="nav" :open="navIsOpen" :active-tab="activeTab" @change-main="setActiveTab" @mouseenter.native="navEnter" @mouseleave.native="navLeave" />
     <main class="min-h-full">
-      <Nuxt class="pt-48" />
+      <Nuxt class="pt-40" />
     </main>
     <Footer class="bottom-0" />
   </div>

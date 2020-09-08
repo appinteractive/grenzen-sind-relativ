@@ -1,16 +1,21 @@
 <template>
-  <nav class="md:flex md:flex-wrap bg-white border border-gray-300 fixed w-full z-50 overflow-y-auto h-screen md:h-auto">
+  <nav
+    class="md:flex md:flex-wrap bg-white border border-gray-300 fixed w-full z-50 overflow-y-auto md:h-auto"
+    :class="open && 'h-screen'"
+  >
     <div class="w-full border-b border-gray-300 p-6 pb-0" >
-      <div class="container m-auto flex flex-col lg:flex-row items-baseline" @mouseleave="handleOff">
+      <div class="container m-auto flex flex-col lg:flex-row items-baseline" @mouseleave="$emit('open', false)">
         <nuxt-link to="/" class="flex">
           <Logo class="flex items-center flex-shrink-0 flex-grow-0 text-white mr-6" />
         </nuxt-link>
-        <div class="block lg:hidden absolute right-0 top-0 mr-6 mt-8">
+        <div class="flex md:hidden absolute right-0 top-0 h-24 items-center mr-6 md:mt-8">
           <button
             class="flex items-center px-3 py-2 text-gray-600 hover:text-gray-900"
             @click="$emit('open', !open)"
           >
+            <span v-if="open" class="text-4xl font-light -mt-2 text-gray-600">&times;</span>
             <svg
+              v-else
               class="fill-current h-5 w-5"
               viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg"
@@ -20,8 +25,11 @@
             </svg>
           </button>
         </div>
-        <div class="w-full flex-grow flex">
-          <div class="flex-grow flex flex-row flex-wrap mb-4 sm:mb-0 mt-8 lg:mt-0 ">
+        <div
+          class="w-full flex-grow flex"
+          :class="!open && 'hidden md:block'"
+        >
+          <div class="flex-grow flex flex-row flex-wrap mb-4 sm:mb-0 md:mt-8 lg:mt-0 ">
             <div
               v-for="(nav1, index1) in navigation"
               :key="nav1.url"
