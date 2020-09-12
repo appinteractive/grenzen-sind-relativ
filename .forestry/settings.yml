@@ -16,7 +16,7 @@ sections:
 - type: document
   path: static/navigation.json
   label: Navigation
-upload_dir: static/uploads
+upload_dir: media
 public_path: "/static"
 front_matter_path: ''
 use_front_matter_path: false
