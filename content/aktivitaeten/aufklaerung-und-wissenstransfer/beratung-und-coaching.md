@@ -1,6 +1,6 @@
 ---
 title: Beratung und Coaching
-description: 
+description: -
 ---
 
 

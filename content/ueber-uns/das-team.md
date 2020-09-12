@@ -1,6 +1,6 @@
 ---
 title: Das Team
-description: 
+description: -
 ---
 
 # Das Team
