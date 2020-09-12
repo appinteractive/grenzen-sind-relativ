@@ -54,7 +54,7 @@
         </div>
       </div>
     </div>
-    <div class="flex flex-col w-full bg-white" v-if="open && navigation[activeTab].children">
+    <div class="flex flex-col w-full bg-white" v-if="open && navigation[activeTab].children && navigation[activeTab].children.length">
       <div
         class="container m-auto flex flex-row flex-wrap p-3"
         :class="!hasLevel3(navigation[activeTab]) && 'hidden'"
