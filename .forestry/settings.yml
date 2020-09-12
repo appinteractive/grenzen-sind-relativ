@@ -17,11 +17,11 @@ sections:
   create: documents
   match: "**/*"
 - type: document
-  path: content/kontakt.md
-  label: Kontakt
-- type: document
   path: content/mitmachen.md
   label: Mitmachen
+- type: document
+  path: content/kontakt.md
+  label: Kontakt
 - type: heading
   label: Config
 - type: document
