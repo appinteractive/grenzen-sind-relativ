@@ -1,3 +1,12 @@
+---
+title: 3. Grenzen sind relativ Festival
+description: Learn how to use @nuxt/content.
+menu:
+- 1. Grenzen sind relativ Festival 
+- 2. Grenzen sind relativ Festival 
+- 3. Grenzen sind relativ Festival 
+---
+
 # 3. Grenzen sind relativ Festival 
 
 ## Sa. 26.10.19 Fabrik Hamburg

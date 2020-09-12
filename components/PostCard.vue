@@ -3,7 +3,7 @@
     <img v-if="image" :src="image" alt="">
     <div class="p-6 pb-8">
       <h3 class="font-medium tracking-wide group-hover:underline pb-2 text-xl text-gray-800" v-html="title" />
-      <p class="text-gray-700" v-html="description" />
+      <p class="text-gray-700 font-normal" v-html="description" />
     </div>
   </nuxt-link>
 </template>

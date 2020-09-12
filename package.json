@@ -7,7 +7,8 @@
     "build": "nuxt generate",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "storybook": "nuxt storybook"
+    "storybook": "nuxt storybook",
+    "forestry-preview": "nuxt -p 8080 -H 0.0.0.0"
   },
   "dependencies": {
     "@nuxt/content": "^1.5.0",

@@ -6,11 +6,14 @@
 
 <script>
 export default {
-  async asyncData ({ params, $content, route }) {
-    console.log(params)
+  async asyncData ({ params, $content, route, error }) {
     const doc = await $content(route.path).fetch()
+    console.log(route.path)
     console.log(doc)
 
+    if (Array.isArray(doc)) {
+      throw error({ statusCode: 404, message: 'Page not found' })
+    }
     return { doc }
   },
 }

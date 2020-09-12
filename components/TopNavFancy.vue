@@ -62,7 +62,7 @@
         <div
           v-for="nav2 in navigation[activeTab].children.filter((items) => items.children)"
           :key="nav2.url"
-          class="flex w-full sm:w-1/2 lg:w-1/4 pb-4"
+          class="flex w-full sm:w-1/2 lg:w-1/3 pb-4"
         >
           <div v-if="nav2.children" class="flex flex-col pr-2">
             <NavItemLevelTwo
@@ -111,9 +111,6 @@ export default {
   data: () => ({
     lastIndex: null
   }),
-  mounted() {
-    console.log(this.navigation)
-  },
   methods: {
     hasLevel3(level1) {
       return level1.children && level1.children.filter(item => item.children && item.children.length).length > 0

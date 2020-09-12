@@ -1,5 +1,4 @@
 import { MINIMAL_VIEWPORTS } from '@storybook/addon-viewport';
-
 const isProd = process.env.NODE_ENV === 'production'
 
 export default {
@@ -120,5 +119,12 @@ export default {
         ],
       })
     }
+  },
+  generate: {
+    fallback: true
+  },
+  router: {
+    linkActiveClass: 'font-bold',
+    linkExactActiveClass: 'font-bold text-gray-900'
   }
 }

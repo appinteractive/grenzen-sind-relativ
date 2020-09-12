@@ -17,6 +17,11 @@ export default {
     navIsOpen: false,
     activeTab: 2
   }),
+  watch: {
+    '$route' (to, from) {
+      this.navIsOpen = false
+    }
+  },
   methods: {
     navEnter() {
       clearTimeout(this.leaveTimer)
@@ -25,7 +30,7 @@ export default {
     navLeave() {
       this.leaveTimer = setTimeout(() => {
         this.navIsOpen = false
-      }, 150)
+      }, 250)
     },
     setActiveTab(index) {
       clearTimeout(this.leaveTimer)

@@ -8,16 +8,12 @@
         "url": "/ueber-uns",
         "children": [
             {
-                "title": "Unsere Mission",
-                "url": "/ueber-uns/unsere-mission"
+                "title": "Mission & Vision",
+                "url": "/ueber-uns/mission-und-vision"
             },
             {
-                "title": "Informationen",
-                "url": "/ueber-uns/informationen"
-            },
-            {
-                "title": "Projektübersicht",
-                "url": "/ueber-uns/projektübersicht"
+                "title": "Info",
+                "url": "/ueber-uns/info"
             },
             {
                 "title": "Das Team",
@@ -48,6 +44,62 @@
                     {
                         "title": "Spektralkombüse",
                         "url": "/aktivitaeten/projekte-und-veranstaltungen/spektralkombuese"
+                    },
+                    {
+                        "title": "Support Inklusion - Support mal anders!",
+                        "url": "/aktivitaeten/projekte-und-veranstaltungen/support-inklusion"
+                    },
+                    {
+                        "title": "Kooperationsprojekte",
+                        "url": "/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte"
+                    }
+                ]
+            },
+            {
+                "title": "Aufklärung, Dialog & Wissenstransfer",
+                "url": "/aktivitaeten/aufklaerung-dialog-und-wissenstransfer",
+                "children": [
+                    {
+                        "title": "Workshops, Seminare & Vorträge",
+                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/workshops-seminare-und-vortraege"
+                    },
+                    {
+                        "title": "Beratung & Coaching",
+                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/beratung-und-coaching"
+                    },
+                    {
+                        "title": "GSR e.V. Channel",
+                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/gsr-ev-channel"
+                    },
+                    {
+                        "title": "Blog",
+                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/blog"
+                    },
+                    {
+                        "title": "Zitate",
+                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/zitate"
+                    }
+                ]
+            },
+            {
+                "title": "Netzwerkarbeit & Community",
+                "url": "/aktivitaeten/netzwerkarbeit-und-community",
+                "children": [
+                    {
+                        "title": "Netzwerkveranstaltungen & - Party Bar Sünde",
+                        "url": "/aktivitaeten/netzwerkarbeit-und-community/netzwerkveranstaltungen-und-party-bar-suende"
+                    },
+                    {
+                        "title": "Friedens-Community-Treffen",
+                        "url": "/aktivitaeten/netzwerkarbeit-und-community/friedens-community-treffen"
+                    },
+                    {
+                        "title": "Think Tank",
+                        "url": "/aktivitaeten/netzwerkarbeit-und-community/think-tank"
+                    },
+                    {
+                        "title": "Gesamtgesellschaftliches Aktionsbündnis",
+                        "url": "/aktivitaeten/netzwerkarbeit-und-community/gesamtgesellschaftliches-aktionsbuendnis"
                     }
                 ]
             },
@@ -84,32 +136,6 @@
                 ]
             },
             {
-                "title": "Aufklärung & Wissenstransfer",
-                "url": "/aktivitaeten/aufklaerung-und-wissenstransfer",
-                "children": [
-                    {
-                        "title": "Workshops, Seminare & Vorträge",
-                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/workshops-seminare-und-vortraege"
-                    },
-                    {
-                        "title": "Beratung & Coaching",
-                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/beratung-und-coaching"
-                    },
-                    {
-                        "title": "GSR e.V. Channel",
-                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/gsr-ev-channel"
-                    },
-                    {
-                        "title": "Blog",
-                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/blog"
-                    },
-                    {
-                        "title": "Zitate",
-                        "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/zitate"
-                    }
-                ]
-            },
-            {
                 "title": "Allgemeine-Info",
                 "url": "/aktivitaeten/allgemeine-info"
             },
@@ -125,19 +151,19 @@
         "children": [
             {
                 "title": "Videos",
-                "url": "/videos"
+                "url": "/media/videos"
             },
             {
                 "title": "Fotogalerien",
-                "url": "/fotogalerien"
+                "url": "/media/fotogalerien"
             },
             {
                 "title": "Pressespiegel",
-                "url": "/pressespiegel"
+                "url": "/media/pressespiegel"
             },
             {
                 "title": "GSR e.V. Channel",
-                "url": "/gsr-ev-channel"
+                "url": "/media/gsr-ev-channel"
             }
         ]
     },
