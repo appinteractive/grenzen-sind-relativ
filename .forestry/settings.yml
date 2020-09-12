@@ -23,7 +23,7 @@ sections:
   path: content/kontakt.md
   label: Kontakt
 - type: heading
-  label: Config
+  label: Einstellungen
 - type: document
   path: static/navigation.json
   label: Navigation
