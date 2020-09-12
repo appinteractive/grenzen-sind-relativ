@@ -1,8 +1,8 @@
 ---
 title: Videos
-description: Empty description
----
+description: Liste unserer Videos
 
+---
 # Videos
 
 > Dummy Page
