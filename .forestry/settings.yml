@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: heading
   label: Inhalte
@@ -14,7 +14,7 @@ sections:
 - type: heading
   label: Config
 - type: document
-  path: navigation.json
+  path: static/navigation.json
   label: Navigation
 upload_dir: uploads
 public_path: "/static"
