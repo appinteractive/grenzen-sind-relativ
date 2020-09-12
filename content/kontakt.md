@@ -1,9 +1,8 @@
 ---
 title: Kontakt
-description: Empty description
+description: Willst du helfen?
+
 ---
-
-
 # Kontakt
 
 > Dummy Page
