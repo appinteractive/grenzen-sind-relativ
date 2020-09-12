@@ -1,20 +1,42 @@
 <template>
   <div class="container mx-auto p-6">
-    <nuxt-content :document="doc" class="prose" />
+    <nuxt-content :document="page" class="prose" />
   </div>
 </template>
 
 <script>
 export default {
   async asyncData ({ params, $content, route, error }) {
-    const doc = await $content(route.path).fetch()
+    const page = await $content(route.path).fetch()
     console.log(route.path)
-    console.log(doc)
+    console.log()
 
-    if (Array.isArray(doc)) {
+    if (Array.isArray(page)) {
       throw error({ statusCode: 404, message: 'Page not found' })
     }
-    return { doc }
+
+    return { page }
   },
+  head() {
+    let title = this.page.title
+    if (!title) {
+      try {
+        title = this.page.body.children[0].children[1].value
+      } catch (e) {}
+    }
+
+    return {
+      title: `${title || this.page.slug} | Grenzen sind relativ`,
+      meta: [
+        { hid: 'description', name: 'description', content: this.page.description },
+        // Open Graph
+        { hid: 'og:title', property: 'og:title', content: title },
+        { hid: 'og:description', property: 'og:description', content: this.page.description },
+        // Twitter Card
+        { hid: 'twitter:title', name: 'twitter:title', content: title },
+        { hid: 'twitter:description', name: 'twitter:description', content: this.page.description }
+      ]
+    }
+  }
 }
 </script>

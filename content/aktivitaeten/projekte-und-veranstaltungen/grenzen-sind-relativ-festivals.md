@@ -1,6 +1,6 @@
 ---
 title: 3. Grenzen sind relativ Festival
-description: Learn how to use @nuxt/content.
+description: 
 menu:
 - 1. Grenzen sind relativ Festival 
 - 2. Grenzen sind relativ Festival 

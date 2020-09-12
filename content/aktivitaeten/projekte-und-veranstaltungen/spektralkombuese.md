@@ -1,3 +1,8 @@
+---
+title: Spektralkombüse
+---
+
+
 # Spektralkombüse
 
 ## Erfahrbare Inklusion durch Musik, Tanz und Kabarett

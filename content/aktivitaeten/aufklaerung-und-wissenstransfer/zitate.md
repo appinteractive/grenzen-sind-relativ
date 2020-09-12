@@ -1,3 +1,7 @@
+---
+title: Zitate
+---
+
 # Zitate
 
 > Die Paradoxie gehört sonderbarerweise zum höchsten geistigen Gut; die Eindeutigkeit aber ist ein Zeichen der Schwäche.

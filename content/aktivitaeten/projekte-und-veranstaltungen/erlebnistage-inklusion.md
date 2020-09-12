@@ -1,3 +1,8 @@
+---
+title: Erlebnistage Inklusion
+---
+
+
 # Allgemeine Informationen
 
 Laut der „UN-Behindertenrechtskonvention“, die in Deutschland  2009 in Kraft trat, ist Inklusion ein Menschenrecht. Die Thematik ist  höchst aktuell und die Politik hat den offiziellen Auftrag, die  Gestaltung einer inklusiven Gesellschaft vorzubereiten. Um Inklusion  lebendig werden zu lassen, braucht es generell ein zielgerichtetes  Umdenken sowie eine praxis- und prozessorientierte Vertiefung auf  vielen verschiedensten Ebenen.
