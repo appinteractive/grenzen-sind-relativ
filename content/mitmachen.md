@@ -1,9 +1,8 @@
 ---
 title: Mitmachen
-description: Empty description
+description: Mach mit!
+
 ---
-
-
 # Mitmachen
 
 > Dummy Page
