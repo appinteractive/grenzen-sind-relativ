@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: -
+description: Empty description
 ---
 
 

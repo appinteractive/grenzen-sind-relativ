@@ -1,6 +1,6 @@
 ---
 title: Kooperationsprojekte
-description: -
+description: Empty description
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-description: -
+description: Empty description
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Spektralkombüse
-description: -
+description: Empty description
 ---
 
 

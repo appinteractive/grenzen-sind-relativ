@@ -1,6 +1,6 @@
 ---
 title: Erlebnistage Inklusion
-description: -
+description: Empty description
 ---
 
 

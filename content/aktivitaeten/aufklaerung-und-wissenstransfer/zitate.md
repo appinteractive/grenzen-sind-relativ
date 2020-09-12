@@ -1,6 +1,6 @@
 ---
 title: Zitate
-description: -
+description: Empty description
 ---
 
 # Zitate

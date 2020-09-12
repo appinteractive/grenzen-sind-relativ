@@ -1,6 +1,6 @@
 ---
 title: Info
-description: -
+description: Empty description
 ---
 
 # Info

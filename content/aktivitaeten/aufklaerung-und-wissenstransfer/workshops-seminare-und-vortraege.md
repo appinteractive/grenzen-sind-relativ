@@ -1,6 +1,6 @@
 ---
 title: Workshops, Seminare & Vortraege
-description: -
+description: Empty description
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 
-description: -
+description: Empty description
 ---
 
 
