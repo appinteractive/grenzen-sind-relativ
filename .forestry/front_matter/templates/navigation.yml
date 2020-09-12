@@ -12,6 +12,18 @@ fields:
   - type: text
     name: url
     label: url
+  - name: dec-test
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: 
+        file: 
+        path: 
+    label: dec-test
   - name: children
     type: field_group_list
     fields:
