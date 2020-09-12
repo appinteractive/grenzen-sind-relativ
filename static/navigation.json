@@ -4,7 +4,8 @@
     "url": "/",
     "children": [
 
-    ]
+    ],
+    "dec-test": ""
   },
   {
     "title": "Über uns",
@@ -12,21 +13,34 @@
     "children": [
       {
         "title": "Mission & Vision",
-        "url": "/ueber-uns/mission-und-vision"
+        "url": "/ueber-uns/mission-und-vision",
+        "children": [
+
+        ]
       },
       {
         "title": "Info",
-        "url": "/ueber-uns/info"
+        "url": "/ueber-uns/info",
+        "children": [
+
+        ]
       },
       {
         "title": "Das Team",
-        "url": "/ueber-uns/das-team"
+        "url": "/ueber-uns/das-team",
+        "children": [
+
+        ]
       },
       {
         "title": "Itentität & Positionierung",
-        "url": "/ueber-uns/itentitaet-und-positionierung"
+        "url": "/ueber-uns/itentitaet-und-positionierung",
+        "children": [
+
+        ]
       }
-    ]
+    ],
+    "dec-test": ""
   },
   {
     "title": "Aktivitäten",
@@ -140,13 +154,20 @@
       },
       {
         "title": "Allgemeine-Info",
-        "url": "/aktivitaeten/allgemeine-info"
+        "url": "/aktivitaeten/allgemeine-info",
+        "children": [
+
+        ]
       },
       {
         "title": "Öffentlichkeitsarbeit & Bewusstseinsbildung",
-        "url": "/aktivitaeten/oeffentlichkeitsarbeit-und-bewusstseinsbildung"
+        "url": "/aktivitaeten/oeffentlichkeitsarbeit-und-bewusstseinsbildung",
+        "children": [
+
+        ]
       }
-    ]
+    ],
+    "dec-test": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md"
   },
   {
     "title": "Media",
@@ -154,34 +175,49 @@
     "children": [
       {
         "title": "Videos",
-        "url": "/media/videos"
+        "url": "/media/videos",
+        "children": [
+
+        ]
       },
       {
         "title": "Fotogalerien",
-        "url": "/media/fotogalerien"
+        "url": "/media/fotogalerien",
+        "children": [
+
+        ]
       },
       {
         "title": "Pressespiegel",
-        "url": "/media/pressespiegel"
+        "url": "/media/pressespiegel",
+        "children": [
+
+        ]
       },
       {
         "title": "GSR e.V. Channel",
-        "url": "/media/gsr-ev-channel"
+        "url": "/media/gsr-ev-channel",
+        "children": [
+
+        ]
       }
-    ]
+    ],
+    "dec-test": ""
   },
   {
     "title": "Mitmachen",
     "url": "/mitmachen",
     "children": [
 
-    ]
+    ],
+    "dec-test": ""
   },
   {
     "title": "Kontakt",
     "url": "/kontakt",
     "children": [
 
-    ]
+    ],
+    "dec-test": ""
   }
 ]
