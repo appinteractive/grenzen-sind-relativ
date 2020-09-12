@@ -8,12 +8,22 @@
 export default {
   async asyncData ({ params, $content, route, error }) {
     const page = await $content(route.path).fetch()
+
     console.log(route.path)
-    console.log()
+    console.log(page.slug)
+    console.log(page)
 
     if (Array.isArray(page)) {
       throw error({ statusCode: 404, message: 'Page not found' })
     }
+
+    try {
+      const surround = await $content(page.dir)
+        .sortBy('createdAt', 'asc')
+        .only(['title', 'path', 'createdAt'])
+        .surround(page.slug).fetch()
+      console.log(surround)
+    } catch (e) {}
 
     return { page }
   },
