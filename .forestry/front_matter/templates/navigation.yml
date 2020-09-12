@@ -12,3 +12,10 @@ fields:
   - type: text
     name: url
     label: url
+  - name: children
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: Unterseiten
