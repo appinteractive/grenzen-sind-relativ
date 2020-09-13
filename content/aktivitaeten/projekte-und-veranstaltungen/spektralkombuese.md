@@ -21,7 +21,7 @@ Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer  Auffassung
 
 → Wikipedia: https://de.wikipedia.org/wiki/Kassandra_Wedel
 
-→ BEAThoven Musikvideo: https://www.beethoven-playon.de/kassandra
+→ BEAThoven Musikvideo: [https://www.beethoven-playon.de/kassandra]()
 
 → Pro7 „Deutschland tanzt“: [Deutschland tanzt- Kassandra Wedel für Bayern: Spiegel](http://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
 
