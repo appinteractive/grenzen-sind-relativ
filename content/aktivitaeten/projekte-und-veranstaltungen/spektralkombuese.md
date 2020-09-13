@@ -19,11 +19,11 @@ Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins  Kabarett? Eine F
 
 Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer  Auffassung. Sie spürt die Musik mit dem ganzen Körper. Dieser dankt es  ihr, wenn sie mal elegant, mal wild oder einfühlsam über die Tanzfläche  schwebt. Dabei ist Kassandra eine Perfektionistin, professionell  ausgebildet und konnte sich bereits einige nationale wie internationale  Preise sichern. U.a. ist Kassandra im Tatort „Totenstille“ und als  Gewinnerin der Pro7-Show „Deutschland tanzt“ zu sehen gewesen. Sie hat  den Rhythmus im Blut und das Talent in den Beinen. Sie werden begeistert sein!
 
-→ Wikipedia: https://de.wikipedia.org/wiki/Kassandra_Wedel
+→ [Wikipedia]()
 
-→ BEAThoven Musikvideo: [https://www.beethoven-playon.de/kassandra]()
+→ [BEAThoven Musikvideo]()
 
-→ Pro7 „Deutschland tanzt“: [Deutschland tanzt- Kassandra Wedel für Bayern: Spiegel](http://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
+→ [Pro 7 - Deutschland tanzt - Kassandra Wedel für Bayern - Spiegel](http://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
 
 **Martin Fromme ![Martin-Fromme](http://www.grenzensindrelativ.de/wp-content/uploads/2015/11/Martin-Fromme-225x300.jpeg)**
 
@@ -37,7 +37,9 @@ Besser Arm ab als arm dran, heißt das aktuelle Programm des  Kabarettisten Mart
 
 ### **Mischa Gohlke Band**
 
-Musiker. Aktivist. Speaker. Kulturmanager. [![img](http://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018-300x211.jpg)](http://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018.jpg)Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger  Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche  Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er –  „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps –  erfolgreich den Weg als Profimusiker gegangen und hat damit das  scheinbar Unmögliche möglich gemacht. In der nach ihm benannten „Mischa  Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen  zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie  Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in  nichts nach. Komplettiert wird die Band durch den aus Los Angeles  stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den  gebürtigen Rheinländer und studierten Jazz-Schlagzeuger Alex Jezdinsky  (Nils Frevert, Gisbert zu Knyphausen, Michel van Dyke). Das Power-Trio  spielte bereits auf zahlreichen Festivals & Veranstaltungen in der  Republik und über ihre Grenzen hinaus, stets begleitet von einem  außergewöhnlichen Medienecho. Eine elektrisierende Mischung, die nicht  nur musikalische Grenzen verschwimmen lässt!
+[![img](http://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018-300x211.jpg)](http://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018.jpg)
+
+Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger  Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche  Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er –  „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps –  erfolgreich den Weg als Profimusiker gegangen und hat damit das  scheinbar Unmögliche möglich gemacht. In der nach ihm benannten „Mischa  Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen  zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie  Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in  nichts nach. Komplettiert wird die Band durch den aus Los Angeles  stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den  gebürtigen Rheinländer und studierten Jazz-Schlagzeuger Alex Jezdinsky  (Nils Frevert, Gisbert zu Knyphausen, Michel van Dyke). Das Power-Trio  spielte bereits auf zahlreichen Festivals & Veranstaltungen in der  Republik und über ihre Grenzen hinaus, stets begleitet von einem  außergewöhnlichen Medienecho. Eine elektrisierende Mischung, die nicht  nur musikalische Grenzen verschwimmen lässt!
 
 → Webseite: [www.mischagohlkeband.de](https://mischagohlkeband.de/)
 
