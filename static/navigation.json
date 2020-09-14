@@ -1,13 +1,5 @@
 [
   {
-    "title": "Aktuelles",
-    "url": "/",
-    "children": [
-
-    ],
-    "dec-test": ""
-  },
-  {
     "title": "Über uns",
     "url": "/ueber-uns",
     "children": [
@@ -121,7 +113,7 @@
         ]
       },
       {
-        "title": "Kampagnien-Musikvideos",
+        "title": "Kampagnen-Musikvideos",
         "url": "/aktivitaeten/kampagnien-musikvideos",
         "children": [
           {
