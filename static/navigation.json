@@ -162,24 +162,6 @@
     "dec-test": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md"
   },
   {
-    "title": "Mitmachen",
-    "url": "/mitmachen",
-    "children": [
-
-    ],
-    "dec-test": ""
-  },
-  {
-    "title": "Spenden",
-    "url": "",
-    "dec-test": [
-
-    ],
-    "children": [
-
-    ]
-  },
-  {
     "title": "Media",
     "url": "/media",
     "children": [
@@ -213,6 +195,24 @@
       }
     ],
     "dec-test": ""
+  },
+  {
+    "title": "Mitmachen",
+    "url": "/mitmachen",
+    "children": [
+
+    ],
+    "dec-test": ""
+  },
+  {
+    "title": "Spenden",
+    "url": "",
+    "dec-test": [
+
+    ],
+    "children": [
+
+    ]
   },
   {
     "title": "Kontakt",
