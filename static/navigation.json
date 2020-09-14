@@ -1,15 +1,5 @@
 [
   {
-    "title": "Spenden",
-    "url": "",
-    "dec-test": [
-
-    ],
-    "children": [
-
-    ]
-  },
-  {
     "title": "Aktuelles",
     "url": "/",
     "children": [
@@ -221,6 +211,16 @@
 
     ],
     "dec-test": ""
+  },
+  {
+    "title": "Spenden",
+    "url": "",
+    "dec-test": [
+
+    ],
+    "children": [
+
+    ]
   },
   {
     "title": "Kontakt",
