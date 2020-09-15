@@ -15,7 +15,7 @@ function normalizeUrls(items) {
   const output = [ ...items ]
 
   output.forEach(item => {
-    item.url = (item.url || '').replace(/\/content(.+)\.md/, '$1')
+    item.url = (item.url || '').replace(/$content(.+)\.md^/, '$1')
     if (item.children && item.children.length) {
       item.children = normalizeUrls(item.children)
     }
