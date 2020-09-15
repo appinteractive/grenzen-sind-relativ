@@ -129,38 +129,6 @@
         "description": ""
       },
       {
-        "title": "Aufklärung, Dialog & Wissenstransfer",
-        "url": "content/aktivitaeten/aufklaerung-dialog-und-wissenstransfer.md",
-        "children": [
-          {
-            "title": "Workshops, Seminare & Vorträge",
-            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/workshops-seminare-und-vortraege.md",
-            "description": ""
-          },
-          {
-            "title": "Beratung & Coaching",
-            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/beratung-und-coaching.md",
-            "description": ""
-          },
-          {
-            "title": "GSR e.V. Channel",
-            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/gsr-ev-channel.md",
-            "description": ""
-          },
-          {
-            "title": "Blog",
-            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/blog.md",
-            "description": ""
-          },
-          {
-            "title": "Zitate",
-            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/zitate.md",
-            "description": ""
-          }
-        ],
-        "description": ""
-      },
-      {
         "title": "Netzwerk- & Öffentlichkeitsarbeit",
         "url": "content/aktivitaeten/netzwerkarbeit-und-community.md",
         "children": [
@@ -182,6 +150,38 @@
           {
             "title": "Gesamtgesellschaftliches Aktionsbündnis",
             "url": "content/aktivitaeten/netzwerkarbeit-und-community/gesamtgesellschaftliches-aktionsbuendnis.md",
+            "description": ""
+          }
+        ],
+        "description": ""
+      },
+      {
+        "title": "Aufklärung, Dialog & Wissenstransfer",
+        "url": "content/aktivitaeten/aufklaerung-dialog-und-wissenstransfer.md",
+        "children": [
+          {
+            "title": "Workshops, Seminare & Vorträge",
+            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/workshops-seminare-und-vortraege.md",
+            "description": ""
+          },
+          {
+            "title": "GSR e.V. Channel",
+            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/gsr-ev-channel.md",
+            "description": ""
+          },
+          {
+            "title": "Beratung & Coaching",
+            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/beratung-und-coaching.md",
+            "description": ""
+          },
+          {
+            "title": "Blog",
+            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/blog.md",
+            "description": ""
+          },
+          {
+            "title": "Zitate",
+            "url": "content/aktivitaeten/aufklaerung-und-wissenstransfer/zitate.md",
             "description": ""
           }
         ],
