@@ -90,6 +90,45 @@
         "description": "Kulturfestival mit fassetenreichem Bühnenprogramm"
       },
       {
+        "title": "Musikvideo-Kampagnen",
+        "url": "content/aktivitaeten/kampagnien-musikvideos.md",
+        "children": [
+          {
+            "title": "AndersSein vereint - Inklusionssong für Deutschland",
+            "url": "content/aktivitaeten/kampagnien-musikvideos/anders-sein-vereint-inklisionssong-fuer-deutschland.md",
+            "description": ""
+          },
+          {
+            "title": "Kampagne 2. Inklusions- & Friedenssong",
+            "url": "content/aktivitaeten/kampagnien-musikvideos/kampagne-2-inklusions-und-friedenssong.md",
+            "description": ""
+          }
+        ],
+        "description": ""
+      },
+      {
+        "title": "Musikunterricht, Workshops & Coaching",
+        "url": "content/aktivitaeten/musik-und-inklusion.md",
+        "children": [
+          {
+            "title": "Musikunterricht für Hörgeschädigte",
+            "url": "content/aktivitaeten/musik-und-inklusion/musikunterricht-fuer-hoergeschaedigte.md",
+            "description": ""
+          },
+          {
+            "title": "Bandcamps",
+            "url": "content/aktivitaeten/musik-und-inklusion/bandkamps.md",
+            "description": ""
+          },
+          {
+            "title": "Inspirirende Texte",
+            "url": "content/aktivitaeten/musik-und-inklusion/inspirirende-texte.md",
+            "description": ""
+          }
+        ],
+        "description": ""
+      },
+      {
         "title": "Aufklärung, Dialog & Wissenstransfer",
         "url": "content/aktivitaeten/aufklaerung-dialog-und-wissenstransfer.md",
         "children": [
@@ -122,7 +161,7 @@
         "description": ""
       },
       {
-        "title": "Netzwerkarbeit & Community",
+        "title": "Netzwerk- & Öffentlichkeitsarbeit",
         "url": "content/aktivitaeten/netzwerkarbeit-und-community.md",
         "children": [
           {
@@ -145,61 +184,6 @@
             "url": "content/aktivitaeten/netzwerkarbeit-und-community/gesamtgesellschaftliches-aktionsbuendnis.md",
             "description": ""
           }
-        ],
-        "description": ""
-      },
-      {
-        "title": "Kampagnen-Musikvideos",
-        "url": "content/aktivitaeten/kampagnien-musikvideos.md",
-        "children": [
-          {
-            "title": "AndersSein vereint - Inklisionssong für Deutschland",
-            "url": "content/aktivitaeten/kampagnien-musikvideos/anders-sein-vereint-inklisionssong-fuer-deutschland.md",
-            "description": ""
-          },
-          {
-            "title": "Kampagne 2. Inklusions- & Friedenssong",
-            "url": "content/aktivitaeten/kampagnien-musikvideos/kampagne-2-inklusions-und-friedenssong.md",
-            "description": ""
-          }
-        ],
-        "description": ""
-      },
-      {
-        "title": "Musik & Inklusion",
-        "url": "content/aktivitaeten/musik-und-inklusion.md",
-        "children": [
-          {
-            "title": "Musikunterricht für Hörgeschädigte",
-            "url": "content/aktivitaeten/musik-und-inklusion/musikunterricht-fuer-hoergeschaedigte.md",
-            "description": ""
-          },
-          {
-            "title": "Bandkamps",
-            "url": "content/aktivitaeten/musik-und-inklusion/bandkamps.md",
-            "description": ""
-          },
-          {
-            "title": "Inspirirende Texte",
-            "url": "content/aktivitaeten/musik-und-inklusion/inspirirende-texte.md",
-            "description": ""
-          }
-        ],
-        "description": ""
-      },
-      {
-        "title": "Allgemeine-Info",
-        "url": "content/aktivitaeten/allgemeine-info.md",
-        "children": [
-
-        ],
-        "description": ""
-      },
-      {
-        "title": "Öffentlichkeitsarbeit & Bewusstseinsbildung",
-        "url": "content/aktivitaeten/oeffentlichkeitsarbeit-und-bewusstseinsbildung.md",
-        "children": [
-
         ],
         "description": ""
       }
