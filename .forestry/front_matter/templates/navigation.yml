@@ -45,6 +45,11 @@ fields:
           section: 
           file: 
           path: 
+    - name: description
+      type: text
+      config:
+        required: false
+      label: Beschreibung
     - name: children
       label: Unterseiten
       type: field_group_list
@@ -66,6 +71,11 @@ fields:
             section: 
             file: 
             path: 
+      - name: description
+        type: text
+        config:
+          required: false
+        label: Beschreibung
       config:
         min: 
         max: 
