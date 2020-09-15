@@ -14,8 +14,8 @@
           <strong class="font-bold group-hover:underline">{{
             level2.title
           }}</strong>
-          <p class="text-xs text-gray-700">
-            Hier kommt eine kurze beschreibung
+          <p v-if="level2.description" class="text-xs text-gray-700">
+            {{ level2.description }}
           </p>
         </TopNavLink>
       </li>

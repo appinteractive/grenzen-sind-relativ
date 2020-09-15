@@ -16,8 +16,8 @@
           <strong class="font-semibold group-hover:underline">{{
             level2.title
           }}</strong>
-          <p class="text-xs text-gray-700">
-            Hier kommt eine kurze beschreibung
+          <p v-if="level2.description" class="text-xs text-gray-700">
+            {{ level2.description }}
           </p>
         </TopNavLink>
       </li>
@@ -41,8 +41,8 @@
             <strong class="font-semibold group-hover:underline">{{
               level3.title
             }}</strong>
-            <p class="text-xs text-gray-700">
-              Hier kommt eine kurze beschreibung
+            <p v-if="level3.description" class="text-xs text-gray-700">
+              {{ level3.description }}
             </p>
           </nuxt-link>
         </li>
