@@ -1,0 +1,68 @@
+<template>
+  <top-nav-shell class="flex">
+    <ul class="">
+      <li
+        class="group"
+        v-for="(level2, index2) in navigation.children"
+        :key="level2.title"
+      >
+        <TopNavLink
+          :to="level2.url"
+          style="min-width: 20rem"
+          class="p-4 flex flex-col rounded-l"
+          :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
+          @mouseenter.native="setLevel2($event, index2)"
+        >
+          <strong class="font-semibold group-hover:underline">{{
+            level2.title
+          }}</strong>
+          <p class="text-xs text-gray-700">
+            Hier kommt eine kurze beschreibung
+          </p>
+        </TopNavLink>
+      </li>
+    </ul>
+    <div class="bg-gray-200 rounded-r-sm">
+      <ul
+        v-for="(level2, index2) in navigation.children"
+        :key="level2.title"
+        :class="currentIndex2 !== index2 && 'overflow-hidden h-0'"
+      >
+        <li
+          class="group"
+          v-for="(level3, index3) in level2.children"
+          :key="level3.title"
+        >
+          <nuxt-link
+            :to="level3.url"
+            class="p-4 flex flex-col text-sm"
+            style="min-width: 20rem"
+          >
+            <strong class="font-semibold group-hover:underline">{{
+              level3.title
+            }}</strong>
+            <p class="text-xs text-gray-700">
+              Hier kommt eine kurze beschreibung
+            </p>
+          </nuxt-link>
+        </li>
+      </ul>
+    </div>
+  </top-nav-shell>
+</template>
+
+<script>
+export default {
+  props: {
+    navigation: { type: Object, default: () => {} },
+  },
+  data: () => ({
+    currentIndex2: 0,
+  }),
+  methods: {
+    setLevel2(event, index2) {
+      this.currentIndex2 = index2
+    },
+  },
+}
+</script>

@@ -3,14 +3,15 @@ label: Navigation
 hide_body: true
 fields:
 - type: field_group_list
-  name: Navigation
+  name: navigation
   label: Navigation
   fields:
   - type: text
     name: title
     required: true
     label: title
-  - name: file
+  - name: url
+    label: Seite
     type: select
     default: []
     config:
@@ -22,6 +23,7 @@ fields:
         file:
         path:
   - name: children
+    label: Unterseiten
     type: field_group_list
     fields:
     - name: title
@@ -29,7 +31,8 @@ fields:
       config:
         required: true
       label: title
-    - name: file
+    - name: url
+      label: Seite
       type: select
       default: []
       config:
@@ -41,14 +44,16 @@ fields:
           file:
           path:
     - name: children
+      label: Unterseiten
       type: field_group_list
       fields:
       - name: title
+        label: Titel
         type: text
         config:
           required: true
-        label: title
-      - name: file
+      - name: url
+        label: Seite
         type: select
         default: []
         config:
@@ -63,11 +68,9 @@ fields:
         min:
         max:
         labelField:
-      label: children
     config:
       min:
       max:
       labelField:
-    label: children
 pages:
 - static/navigation.json

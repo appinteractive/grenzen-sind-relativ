@@ -1,6 +1,5 @@
   <template>
   <div class="min-h-screen bg-gray-100 w-screen text-gray-700 antialiased leading-tight">
-    <!-- <TopNavFancy :navigation="nav" :open="navIsOpen" :active-tab="activeTab" @change-main="setActiveTab" @mouseenter.native="navEnter" @mouseleave.native="navLeave" /> -->
     <TopNavSmart :navigation="nav" />
     <main class="min-h-full">
       <Nuxt class="pt-40" />
@@ -12,10 +11,22 @@
 <script>
 import nav from '~/static/navigation.json'
 
+function normalizeUrls(items) {
+  const output = [ ...items ]
+
+  output.forEach(item => {
+    item.url = (item.url || '').replace(/\/content(.+)\.md/, '$1')
+    if (item.children && item.children.length) {
+      item.children = normalizeUrls(item.children)
+    }
+  });
+
+  return output
+}
+
 export default {
   data: () => ({
-    nav,
-    navIsOpen: false,
+    nav: normalizeUrls(nav),
     activeTab: 2
   }),
   watch: {

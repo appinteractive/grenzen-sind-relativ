@@ -1,18 +1,18 @@
 [
   {
     "title": "Über uns",
-    "url": "/ueber-uns",
+    "url": "/content/ueber-uns.md",
     "children": [
       {
         "title": "Mission, Vision & Positionierung",
-        "url": "/ueber-uns/mission-und-vision",
+        "url": "/content/ueber-uns/mission-und-vision.md",
         "children": [
 
         ]
       },
       {
         "title": "GSR e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden",
-        "url": "/ueber-uns/info",
+        "url": "/content/ueber-uns/info.md",
         "children": [
 
         ]
@@ -26,214 +26,206 @@
       },
       {
         "title": "Das Team",
-        "url": "/ueber-uns/das-team",
+        "url": "/content/ueber-uns/das-team.md",
         "children": [
 
         ]
       },
       {
         "title": "Manifest ",
-        "url": "/ueber-uns/itentitaet-und-positionierung",
+        "url": "/content/ueber-uns/itentitaet-und-positionierung.md",
         "children": [
 
         ]
       },
       {
         "title": "Zitate",
-        "url": "",
+        "url": "/content/zitate.md",
         "children": [
 
         ]
       }
-    ],
-    "dec-test": ""
+    ]
   },
   {
     "title": "Aktivitäten",
-    "url": "/aktivitaeten",
+    "url": "/content/aktivitaeten.md",
     "children": [
       {
         "title": "Projekte & Veranstaltungen",
-        "url": "/aktivitaeten/projekte-und-veranstaltungen",
+        "url": "/content/aktivitaeten/projekte-und-veranstaltungen.md",
         "children": [
           {
             "title": "Grenzen sind relativ Festivals",
-            "url": "/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals"
+            "url": "/content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md"
           },
           {
             "title": "Erlebnistage Inklusion",
-            "url": "/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion"
+            "url": "/content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion.md"
           },
           {
             "title": "Spektralkombüse",
-            "url": "/aktivitaeten/projekte-und-veranstaltungen/spektralkombuese"
+            "url": "/content/aktivitaeten/projekte-und-veranstaltungen/spektralkombuese.md"
           },
           {
             "title": "Support Inklusion - Support mal anders!",
-            "url": "/aktivitaeten/projekte-und-veranstaltungen/support-inklusion"
+            "url": "/content/aktivitaeten/projekte-und-veranstaltungen/support-inklusion.md"
           },
           {
             "title": "Kooperationsprojekte",
-            "url": "/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte"
+            "url": "/content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md"
           }
         ]
       },
       {
         "title": "Aufklärung, Dialog & Wissenstransfer",
-        "url": "/aktivitaeten/aufklaerung-dialog-und-wissenstransfer",
+        "url": "/content/aktivitaeten/aufklaerung-dialog-und-wissenstransfer.md",
         "children": [
           {
             "title": "Workshops, Seminare & Vorträge",
-            "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/workshops-seminare-und-vortraege"
+            "url": "/content/aktivitaeten/aufklaerung-und-wissenstransfer/workshops-seminare-und-vortraege.md"
           },
           {
             "title": "Beratung & Coaching",
-            "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/beratung-und-coaching"
+            "url": "/content/aktivitaeten/aufklaerung-und-wissenstransfer/beratung-und-coaching.md"
           },
           {
             "title": "GSR e.V. Channel",
-            "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/gsr-ev-channel"
+            "url": "/content/aktivitaeten/aufklaerung-und-wissenstransfer/gsr-ev-channel.md"
           },
           {
             "title": "Blog",
-            "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/blog"
+            "url": "/content/aktivitaeten/aufklaerung-und-wissenstransfer/blog.md"
           },
           {
             "title": "Zitate",
-            "url": "/aktivitaeten/aufklaerung-und-wissenstransfer/zitate"
+            "url": "/content/aktivitaeten/aufklaerung-und-wissenstransfer/zitate.md"
           }
         ]
       },
       {
         "title": "Netzwerkarbeit & Community",
-        "url": "/aktivitaeten/netzwerkarbeit-und-community",
+        "url": "/content/aktivitaeten/netzwerkarbeit-und-community.md",
         "children": [
           {
             "title": "Netzwerkveranstaltungen & - Party Bar Sünde",
-            "url": "/aktivitaeten/netzwerkarbeit-und-community/netzwerkveranstaltungen-und-party-bar-suende"
+            "url": "/content/aktivitaeten/netzwerkarbeit-und-community/netzwerkveranstaltungen-und-party-bar-suende.md"
           },
           {
             "title": "Friedens-Community-Treffen",
-            "url": "/aktivitaeten/netzwerkarbeit-und-community/friedens-community-treffen"
+            "url": "/content/aktivitaeten/netzwerkarbeit-und-community/friedens-community-treffen.md"
           },
           {
             "title": "Think Tank",
-            "url": "/aktivitaeten/netzwerkarbeit-und-community/think-tank"
+            "url": "/content/aktivitaeten/netzwerkarbeit-und-community/think-tank.md"
           },
           {
             "title": "Gesamtgesellschaftliches Aktionsbündnis",
-            "url": "/aktivitaeten/netzwerkarbeit-und-community/gesamtgesellschaftliches-aktionsbuendnis"
+            "url": "/content/aktivitaeten/netzwerkarbeit-und-community/gesamtgesellschaftliches-aktionsbuendnis.md"
           }
         ]
       },
       {
         "title": "Kampagnen-Musikvideos",
-        "url": "/aktivitaeten/kampagnien-musikvideos",
+        "url": "/content/aktivitaeten/kampagnien-musikvideos.md",
         "children": [
           {
             "title": "AndersSein vereint - Inklisionssong für Deutschland",
-            "url": "/aktivitaeten/kampagnien-musikvideos/anders-sein-vereint-inklisionssong-fuer-deutschland"
+            "url": "/content/aktivitaeten/kampagnien-musikvideos/anders-sein-vereint-inklisionssong-fuer-deutschland.md"
           },
           {
             "title": "Kampagne 2. Inklusions- & Friedenssong",
-            "url": "/aktivitaeten/kampagnien-musikvideos/kampagne-2-inklusions-und-friedenssong"
+            "url": "/content/aktivitaeten/kampagnien-musikvideos/kampagne-2-inklusions-und-friedenssong.md"
           }
         ]
       },
       {
         "title": "Musik & Inklusion",
-        "url": "/aktivitaeten/musik-und-inklusion",
+        "url": "/content/aktivitaeten/musik-und-inklusion.md",
         "children": [
           {
             "title": "Musikunterricht für Hörgeschädigte",
-            "url": "/aktivitaeten/musik-und-inklusion/musikunterricht-fuer-hoergeschaedigte"
+            "url": "/content/aktivitaeten/musik-und-inklusion/musikunterricht-fuer-hoergeschaedigte.md"
           },
           {
             "title": "Bandkamps",
-            "url": "/aktivitaeten/musik-und-inklusion/bandkamps"
+            "url": "/content/aktivitaeten/musik-und-inklusion/bandkamps.md"
           },
           {
             "title": "Inspirirende Texte",
-            "url": "/aktivitaeten/musik-und-inklusion/inspirirende-texte"
+            "url": "/content/aktivitaeten/musik-und-inklusion/inspirirende-texte.md"
           }
         ]
       },
       {
         "title": "Allgemeine-Info",
-        "url": "/aktivitaeten/allgemeine-info",
+        "url": "/content/aktivitaeten/allgemeine-info.md",
         "children": [
 
         ]
       },
       {
         "title": "Öffentlichkeitsarbeit & Bewusstseinsbildung",
-        "url": "/aktivitaeten/oeffentlichkeitsarbeit-und-bewusstseinsbildung",
+        "url": "/content/aktivitaeten/oeffentlichkeitsarbeit-und-bewusstseinsbildung.md",
         "children": [
 
         ]
       }
-    ],
-    "dec-test": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md"
+    ]
   },
   {
     "title": "Media",
-    "url": "/media",
+    "url": "/content/media.md",
     "children": [
       {
         "title": "Videos",
-        "url": "/media/videos",
+        "url": "/content/media/videos.md",
         "children": [
 
         ]
       },
       {
         "title": "Fotogalerien",
-        "url": "/media/fotogalerien",
+        "url": "/content/media/fotogalerien.md",
         "children": [
 
         ]
       },
       {
         "title": "Pressespiegel",
-        "url": "/media/pressespiegel",
+        "url": "/content/media/pressespiegel.md",
         "children": [
 
         ]
       },
       {
         "title": "GSR e.V. Channel",
-        "url": "/media/gsr-ev-channel",
+        "url": "/content/media/gsr-ev-channel.md",
         "children": [
 
         ]
       }
-    ],
-    "dec-test": ""
+    ]
   },
   {
     "title": "Mitmachen",
-    "url": "/mitmachen",
+    "url": "/content/mitmachen.md",
     "children": [
 
-    ],
-    "dec-test": ""
+    ]
   },
   {
     "title": "Spenden",
-    "url": "/spenden",
-    "dec-test": [
-
-    ],
+    "url": "/content/spenden.md",
     "children": [
 
     ]
   },
   {
     "title": "Kontakt",
-    "url": "/kontakt",
+    "url": "/content/kontakt.md",
     "children": [
 
-    ],
-    "dec-test": ""
+    ]
   }
 ]
