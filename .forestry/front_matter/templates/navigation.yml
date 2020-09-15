@@ -9,7 +9,10 @@ fields:
   - type: text
     name: title
     required: true
-    label: title
+    label: Titel
+    config:
+      min: 3
+      required: true
   - name: url
     label: Seite
     type: select
@@ -19,9 +22,9 @@ fields:
       options: []
       source:
         type: pages
-        section:
-        file:
-        path:
+        section: 
+        file: 
+        path: 
   - name: children
     label: Unterseiten
     type: field_group_list
@@ -30,7 +33,8 @@ fields:
       type: text
       config:
         required: true
-      label: title
+        min: 3
+      label: Titel
     - name: url
       label: Seite
       type: select
@@ -40,9 +44,9 @@ fields:
         options: []
         source:
           type: pages
-          section:
-          file:
-          path:
+          section: 
+          file: 
+          path: 
     - name: children
       label: Unterseiten
       type: field_group_list
@@ -61,16 +65,16 @@ fields:
           options: []
           source:
             type: pages
-            section:
-            file:
-            path:
+            section: 
+            file: 
+            path: 
       config:
-        min:
-        max:
-        labelField:
+        min: 
+        max: 
+        labelField: 
     config:
-      min:
-      max:
-      labelField:
+      min: 
+      max: 
+      labelField: 
 pages:
 - static/navigation.json
