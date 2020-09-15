@@ -1,4 +1,34 @@
 ---
 label: Menüliste
 hide_body: true
-fields: []
+fields:
+- name: navigation
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: 
+        file: 
+        path: 
+    label: Link
+  - name: children
+    type: include
+    config: {}
+    template: menuliste
+    label: Unterseiten
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Navigation
