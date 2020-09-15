@@ -4,15 +4,22 @@
     "url": "/ueber-uns",
     "children": [
       {
-        "title": "Mission & Vision",
+        "title": "Mission, Vision & Positionierung",
         "url": "/ueber-uns/mission-und-vision",
         "children": [
 
         ]
       },
       {
-        "title": "Info",
+        "title": "GSR e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden",
         "url": "/ueber-uns/info",
+        "children": [
+
+        ]
+      },
+      {
+        "title": "Übersicht Aktivitäten",
+        "url": "",
         "children": [
 
         ]
@@ -25,8 +32,15 @@
         ]
       },
       {
-        "title": "Itentität & Positionierung",
+        "title": "Manifest ",
         "url": "/ueber-uns/itentitaet-und-positionierung",
+        "children": [
+
+        ]
+      },
+      {
+        "title": "Zitate",
+        "url": "",
         "children": [
 
         ]
