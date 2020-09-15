@@ -1,4 +1,4 @@
-import { MINIMAL_VIEWPORTS } from '@storybook/addon-viewport';
+import { MINIMAL_VIEWPORTS } from '@storybook/addon-viewport'
 const isProd = process.env.NODE_ENV === 'production'
 
 export default {
@@ -37,8 +37,9 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    '~/plugins/components.js',
-    '~/plugins/preview.client.js'
+    // '~/plugins/components.js',
+    // '~/plugins/components.js',
+    // '~/plugins/preview.client.js'
   ],
   /*
   ** Auto import components
@@ -71,7 +72,9 @@ export default {
   ** Content module configuration
   ** See https://content.nuxtjs.org/configuration
   */
-  content: {},
+  content: {
+    liveEdit: false
+  },
   /**
    * See https://storybook.nuxtjs.org/options/
    */
@@ -121,7 +124,13 @@ export default {
     }
   },
   generate: {
-    fallback: true
+    fallback: true,
+    async routes () {
+      const { $content } = require('@nuxt/content')
+      const files = await $content({ deep: true }).only(['path']).fetch()
+
+      return files.map(file => file.path === '/index' ? '/' : file.path)
+    }
   },
   router: {
     linkActiveClass: 'font-bold',

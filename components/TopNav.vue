@@ -202,27 +202,31 @@ export default {
         url: '/aktivitaeten',
         pages: [
           {
-            title: 'Projekte',
+            title: 'Projekte und Veranstaltungen',
             url: '/projekte',
           },
           {
-            title: 'Veranstaltungen',
+            title: 'Aufklärung, Dialog & Wissenstransfer',
             url: '/veranstaltungen',
           },
           {
-            title: 'Kampagnien',
+            title: 'Netztwerkarbeit & Community',
             url: '/kampagnien',
           },
           {
-            title: 'Workshop',
+            title: 'Kampagnien-Musikvideos',
             url: '/workshop',
           },
           {
-            title: 'Beratung & Coaching',
+            title: 'Musik & Inklusion',
             url: '/beratung-coaching',
           },
           {
-            title: 'Band',
+            title: 'Allgemeine-Info',
+            url: '/band',
+          },
+          {
+            title: 'Öffentlichkeitsarbeite & Bewusstseinsbildung',
             url: '/band',
           },
         ]

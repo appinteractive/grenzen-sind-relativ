@@ -78,7 +78,7 @@ export default {
       story: { content: {} }
     }
   },
-  asyncData (context) {
+  /* asyncData (context) {
     // Load the JSON from the API
     return context.app.$storyapi.get('cdn/stories/home', {
       version: 'draft'
@@ -93,8 +93,8 @@ export default {
         context.error({ statusCode: res.response.status, message: res.response.data })
       }
     })
-  },
-  mounted () {
+  }, */
+  /* mounted () {
     if (!!this.$route.query.preview) {
       // use the bridge to listen to events
       this.$storybridge.on(['input', 'published', 'change'], (event) => {
@@ -111,6 +111,6 @@ export default {
         }
       })
     }
-  },
+  }, */
 }
 </script>

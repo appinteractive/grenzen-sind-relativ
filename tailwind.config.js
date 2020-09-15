@@ -8,6 +8,7 @@ module.exports = {
   theme: {},
   variants: {
     textDecoration: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    backgroundColor: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
     zIndex: ['hover']
   },
   plugins: [

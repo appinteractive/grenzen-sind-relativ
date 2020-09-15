@@ -8,57 +8,66 @@ fields:
   fields:
   - type: text
     name: title
+    required: true
     label: title
-  - type: text
-    name: url
-    label: url
-  - name: dec-test
+  - name: file
     type: select
     default: []
     config:
-      required: false
+      required: true
       options: []
       source:
         type: pages
-        section: 
-        file: 
-        path: 
-    label: dec-test
+        section:
+        file:
+        path:
   - name: children
     type: field_group_list
     fields:
     - name: title
       type: text
       config:
-        required: false
+        required: true
       label: title
-    - name: url
-      type: text
+    - name: file
+      type: select
+      default: []
       config:
-        required: false
-      label: url
+        required: true
+        options: []
+        source:
+          type: pages
+          section:
+          file:
+          path:
     - name: children
       type: field_group_list
       fields:
       - name: title
         type: text
         config:
-          required: false
+          required: true
         label: title
-      - name: url
-        type: text
+      - name: file
+        type: select
+        default: []
         config:
-          required: false
-        label: url
+          required: true
+          options: []
+          source:
+            type: pages
+            section:
+            file:
+            path:
       config:
-        min: 
-        max: 
-        labelField: 
+        min:
+        max:
+        labelField:
       label: children
     config:
-      min: 
-      max: 
-      labelField: 
+      min:
+      max:
+      labelField:
     label: children
 pages:
 - static/navigation.json
