@@ -68,7 +68,7 @@ export default {
     navigation: { type: Array, default: () => [] },
   },
   data: () => ({
-    currentIndex: 1,
+    currentIndex: null,
   }),
   methods: {
     navComp(level1) {
