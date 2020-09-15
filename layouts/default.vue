@@ -26,29 +26,7 @@ function normalizeUrls(items) {
 
 export default {
   data: () => ({
-    nav: normalizeUrls(nav),
-    activeTab: 2
-  }),
-  watch: {
-    '$route' (to, from) {
-      this.navIsOpen = false
-    }
-  },
-  methods: {
-    navEnter() {
-      clearTimeout(this.leaveTimer)
-      this.navIsOpen = true
-    },
-    navLeave() {
-      this.leaveTimer = setTimeout(() => {
-        this.navIsOpen = false
-      }, 250)
-    },
-    setActiveTab(index) {
-      clearTimeout(this.leaveTimer)
-      this.activeTab = index
-      this.navIsOpen = true
-    },
-  }
+    nav: normalizeUrls(nav)
+  })
 }
 </script>

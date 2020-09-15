@@ -70,6 +70,12 @@ export default {
   data: () => ({
     currentIndex: null,
   }),
+
+  watch: {
+    '$route' (to, from) {
+      this.currentIndex = null
+    }
+  },
   methods: {
     navComp(level1) {
       if (this.hasLevel3(level1)) {
