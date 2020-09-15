@@ -24,9 +24,9 @@ fields:
       options: []
       source:
         type: pages
-        section:
-        file:
-        path:
+        section: 
+        file: 
+        path: 
     label: Link
   - name: children
     type: include
@@ -34,7 +34,7 @@ fields:
     template: menuliste
     label: Unterseiten
   config:
-    min:
+    min: 
     max: 10
     labelField: title
   label: Navigation
