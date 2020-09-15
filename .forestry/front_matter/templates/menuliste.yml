@@ -9,7 +9,12 @@ fields:
     type: text
     config:
       required: false
-    label: Title
+    label: Titel
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Beschreibung
   - name: link
     type: select
     default: []
