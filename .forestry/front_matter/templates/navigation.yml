@@ -22,9 +22,9 @@ fields:
       options: []
       source:
         type: pages
-        section: 
-        file: 
-        path: 
+        section:
+        file:
+        path:
   - name: children
     label: Unterseiten
     type: field_group_list
@@ -44,9 +44,9 @@ fields:
         options: []
         source:
           type: pages
-          section: 
-          file: 
-          path: 
+          section:
+          file:
+          path:
     - name: children
       label: Unterseiten
       type: field_group_list
@@ -65,16 +65,16 @@ fields:
           options: []
           source:
             type: pages
-            section: 
-            file: 
-            path: 
+            section:
+            file:
+            path:
       config:
-        min: 
-        max: 
-        labelField: 
+        min:
+        max:
+        labelField:
     config:
-      min: 
-      max: 
-      labelField: 
+      min:
+      max:
+      labelField:
 pages:
-- static/navigation.json
+- static/navigation2.json
