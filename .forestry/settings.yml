@@ -23,7 +23,6 @@ sections:
 - type: document
   path: "~/config/navigation/footer.json"
   label: Footer
-  match: "**/*"
   read_only: true
 upload_dir: static/media
 public_path: "/media"
