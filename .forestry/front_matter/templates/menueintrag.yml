@@ -44,25 +44,3 @@ fields:
     required: false
   label: Beschreibung
   default: ''
-- name: group
-  type: field_group
-  config: {}
-  fields:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: title
-  - name: select
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: select
-  label: Group
