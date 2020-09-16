@@ -2,13 +2,22 @@
   "menu": [
     {
       "children": [
-
+        {
+          "children": [
+            {
+              "title": "Extern",
+              "extern": true,
+              "url": "https://duckguckgo.com"
+            },
+            {
+              "title": "Level3",
+              "page": "content/aktivitaeten/aufklaerung-und-wissenstransfer/blog.md"
+            }
+          ],
+          "title": "Level2"
+        }
       ],
-      "title": "Level1",
-      "description": "Blaaaaa",
-      "extern": false,
-      "page": "",
-      "url": ""
+      "title": "Level1"
     }
   ]
 }
