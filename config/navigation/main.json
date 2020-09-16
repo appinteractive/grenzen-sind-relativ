@@ -210,7 +210,8 @@
 
               ]
             }
-          ]
+          ],
+          "showInMainNavigation": true
         },
         {
           "title": "Netzwerk- & Öffentlichkeitsarbeit",
