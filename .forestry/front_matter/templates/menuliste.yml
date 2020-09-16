@@ -11,17 +11,9 @@ fields:
     template: menueintrag
     label: Menüeintrag
   - name: children
-    type: field_group_list
-    fields:
-    - name: menuitem
-      type: include
-      config: {}
-      template: menueintrag
-      label: Menüeintrag
-    config:
-      min: 
-      max: 
-      labelField: 
+    type: include
+    config: {}
+    template: menuunterseiten
     label: Unterseiten
   config:
     min: 
