@@ -8,6 +8,9 @@ fields:
     required: true
   label: Titel
   description: Titel des Menüeintrags
+- name: extern
+  type: boolean
+  label: Extern
 - name: link
   type: select
   default: []
@@ -21,6 +24,19 @@ fields:
       path: 
   label: Link
   description: Optionaler Link zur gewünschten Seite
+  showOnly:
+    field: extern
+    value: false
+- name: extern-link
+  type: text
+  config:
+    required: false
+    min: 8
+  label: Externer Link
+  default: https://
+  showOnly:
+    field: extern
+    value: true
 - name: description
   type: text
   config:

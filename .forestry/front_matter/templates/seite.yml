@@ -21,7 +21,7 @@ fields:
     template: menueintrag
     label: Untermenü
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: title
   label: Untermenüs
