@@ -107,7 +107,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "showInMainNavigation": true
         },
         {
           "title": "Musikvideo-Kampagnen",
