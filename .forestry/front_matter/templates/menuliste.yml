@@ -20,5 +20,3 @@ fields:
     max: 
     labelField: title
   label: Menü
-pages:
-- static/navigation2.json

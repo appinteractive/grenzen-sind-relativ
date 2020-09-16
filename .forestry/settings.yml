@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Inhalt
 - type: directory
   path: content
   label: Seiten
