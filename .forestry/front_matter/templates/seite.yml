@@ -12,7 +12,7 @@ fields:
   label: Beschreibung (SEO)
   config:
     required: false
-- name: submenus
+- name: submenu
   type: field_group_list
   fields:
   - name: submenu
@@ -21,7 +21,7 @@ fields:
     template: menueintrag
     label: Untermenü
   config:
-    min: 
-    max: 
+    min:
+    max:
     labelField: title
   label: Untermenüs
