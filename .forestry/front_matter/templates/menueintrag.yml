@@ -2,7 +2,7 @@
 label: Menüeintrag
 hide_body: true
 fields:
-- name: titel
+- name: title
   type: text
   config:
     required: true
