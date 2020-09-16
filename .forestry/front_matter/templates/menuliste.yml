@@ -2,15 +2,31 @@
 label: Menüliste
 hide_body: true
 fields:
-- name: menuitem
-  type: include
-  config: {}
-  template: menueintrag
-  label: Menüeintrag
-- name: children
-  type: include
-  config: {}
-  template: menueintrag
-  label: Unterseiten
+- name: menu
+  type: field_group_list
+  fields:
+  - name: menuitem
+    type: include
+    config: {}
+    template: menueintrag
+    label: Menüeintrag
+  - name: children
+    type: field_group_list
+    fields:
+    - name: menuitem
+      type: include
+      config: {}
+      template: menueintrag
+      label: Menüeintrag
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Unterseiten
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Menü
 pages:
 - static/navigation2.json
