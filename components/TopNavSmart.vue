@@ -31,9 +31,9 @@
                 </TopNavLink>
                 <ul v-if="level2.children && level2.children.length > 0">
                   <li v-for="level3 in level2.children" :key="level3.title">
-                    <nuxt-link :to="level2.url" class="text-xs">
+                    <TopNavLink :to="level2.url" class="text-xs">
                       {{ level3.title }}
-                    </nuxt-link>
+                    </TopNavLink>
                   </li>
                 </ul>
               </li>

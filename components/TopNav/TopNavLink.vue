@@ -10,7 +10,7 @@
 <script>
 export default {
   props: {
-    to: { type: [String, Object, null], default: null }
+    to: { type: [String, Object], default: null }
   }
 }
 </script>

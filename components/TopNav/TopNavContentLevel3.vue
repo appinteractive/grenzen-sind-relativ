@@ -30,10 +30,10 @@
       >
         <li
           class="group"
-          v-for="(level3, index3) in level2.children"
+          v-for="level3 in level2.children"
           :key="level3.title"
         >
-          <nuxt-link
+          <TopNavLink
             :to="level3.url"
             class="p-4 flex flex-col text-sm"
             style="min-width: 20rem"
@@ -44,7 +44,7 @@
             <p v-if="level3.description" class="text-xs text-gray-700">
               {{ level3.description }}
             </p>
-          </nuxt-link>
+          </TopNavLink>
         </li>
       </ul>
     </div>
