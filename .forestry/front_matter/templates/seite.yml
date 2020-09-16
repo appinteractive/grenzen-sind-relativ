@@ -15,7 +15,7 @@ fields:
 - name: submenus
   type: field_group_list
   fields:
-  - name: untermenu
+  - name: submenu
     type: include
     config: {}
     template: menueintrag
