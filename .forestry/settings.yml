@@ -17,7 +17,7 @@ sections:
   label: Einstellungen
 - type: document
   path: config/navigation/main.json
-  label: Hauptmenü (NEU)
+  label: Hauptnavigation
   templates:
   - menuliste
 upload_dir: static/media
