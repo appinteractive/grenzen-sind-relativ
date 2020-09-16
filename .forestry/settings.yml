@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Inhalt
@@ -21,6 +21,8 @@ sections:
 - type: document
   path: config/navigation/main.json
   label: Hauptmenü (NEU)
+  templates:
+  - menuliste
 upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
