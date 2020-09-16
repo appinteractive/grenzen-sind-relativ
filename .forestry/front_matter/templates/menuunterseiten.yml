@@ -1,4 +1,22 @@
 ---
 label: Menüunterseiten
 hide_body: true
-fields: []
+fields:
+- name: children
+  type: field_group_list
+  fields:
+  - name: menuitem
+    type: include
+    config: {}
+    template: menueintrag
+    label: Menüeintrag
+  - name: children
+    type: include
+    config: {}
+    template: menuunterseiten
+    label: Unterseiten
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Unterseiten
