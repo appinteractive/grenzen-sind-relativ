@@ -93,7 +93,18 @@
             {
               "title": "Kooperationsprojekte",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md",
-              "description": "Gemeinsam sind wir stark!"
+              "description": "Gemeinsam sind wir stark!",
+              "children": [
+                {
+                  "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md",
+                  "external": false
+                },
+                {
+                  "title": "Marienkriche Osnabrück: Beethoven – mit allen Sinnen hören!",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md"
+                }
+              ]
             }
           ]
         },
