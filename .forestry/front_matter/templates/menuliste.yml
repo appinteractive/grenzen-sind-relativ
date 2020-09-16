@@ -18,5 +18,5 @@ fields:
   config:
     min: 
     max: 
-    labelField: title
-  label: Menü
+    labelField: ''
+  label: Hauptnavigation
