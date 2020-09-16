@@ -1,6 +1,6 @@
 ---
 title: Das Team
-description: Empty description
+description: ''
 
 ---
 # Das Team
