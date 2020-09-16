@@ -227,7 +227,8 @@
             }
           ]
         }
-      ]
+      ],
+      "showInMainNavigation": true
     },
     {
       "title": "Media",
