@@ -1,3 +1,71 @@
 [
+  {
+    "title": "Über uns",
+    "file": "content/ueber-uns.md",
+    "url": "",
+    "extern": false,
+    "description": "",
+    "children": [
+      {
+        "title": "Mission, Vision & Positionierung",
+        "file": "content/ueber-uns/mission-und-vision.md",
+        "url": "",
+        "extern": false,
+        "children": [
 
+        ],
+        "description": ""
+      },
+      {
+        "title": "Grenzen sind relativ e.V.",
+        "file": "content/ueber-uns/info.md",
+        "url": "",
+        "extern": false,
+        "children": [
+
+        ],
+        "description": "Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden"
+      },
+      {
+        "title": "Übersicht Aktivitäten",
+        "file": "content/ueber-uns/das-team.md",
+        "url": "",
+        "extern": false,
+        "children": [
+
+        ],
+        "description": ""
+      },
+      {
+        "title": "Das Team",
+        "file": "content/ueber-uns/das-team.md",
+        "url": "",
+        "extern": false,
+        "children": [
+
+        ],
+        "description": ""
+      },
+      {
+        "title": "Manifest ",
+        "file": "content/ueber-uns/itentitaet-und-positionierung.md",
+        "url": "",
+        "extern": false,
+        "children": [
+
+        ],
+        "description": ""
+      },
+      {
+        "title": "Zitate",
+        "file": "content/zitate.md",
+        "url": "",
+        "extern": false,
+        "children": [
+
+        ],
+        "description": ""
+      }
+    ]
+  }
 ]
