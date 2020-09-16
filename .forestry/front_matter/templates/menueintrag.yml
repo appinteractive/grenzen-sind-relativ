@@ -11,6 +11,7 @@ fields:
 - name: external
   type: boolean
   label: Externe URL
+  description: Link zu einer externen Webseite?
 - name: page
   type: select
   default: []
@@ -37,7 +38,7 @@ fields:
   showOnly:
     value: true
     field: external
-  description: Link zu einer anderen Webseite
+  description: Externer Webseitenlink
 - name: description
   type: text
   config:
