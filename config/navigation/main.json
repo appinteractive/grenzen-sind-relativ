@@ -61,7 +61,12 @@
             {
               "title": "Erlebnistage Inklusion durch Musik",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion.md",
-              "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. 5 Tage, 5 Institutionen und 1 Abschlussevent."
+              "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. 5 Tage, 5 Institutionen und 1 Abschlussevent.",
+              "children": [
+                {
+                  "title": "Allgemeine Infos"
+                }
+              ]
             },
             {
               "title": "Veranstaltungsformate für Dein Event?!",
