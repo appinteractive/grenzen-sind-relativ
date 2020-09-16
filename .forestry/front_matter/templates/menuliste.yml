@@ -5,34 +5,6 @@ fields:
 - name: navigation
   type: field_group_list
   fields:
-  - name: title
-    type: text
-    config:
-      min: 3
-      required: false
-    label: Titel
-  - name: description
-    type: text
-    config:
-      required: false
-    label: Beschreibung
-  - name: extern
-    type: boolean
-    label: Extern
-  - name: link
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: 
-        file: 
-        path: 
-    label: Link
-    showOnly:
-      field: extern
   - name: menueintrag
     type: include
     config: {}
