@@ -242,11 +242,25 @@
         },
         {
           "title": "Pressespiegel",
-          "page": "content/media/pressespiegel.md"
+          "page": "content/media/pressespiegel.md",
+          "children": [
+            {
+              "title": "TV"
+            },
+            {
+              "title": "Print & Online"
+            },
+            {
+              "title": "Radio"
+            }
+          ]
         },
         {
           "title": "GSR e.V. Channel",
           "page": "content/media/gsr-ev-channel.md"
+        },
+        {
+          "title": "Blog"
         }
       ]
     },
