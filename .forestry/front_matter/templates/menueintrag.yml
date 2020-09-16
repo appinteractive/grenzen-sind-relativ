@@ -21,3 +21,9 @@ fields:
       path: 
   label: Link
   description: Optionaler Link zur gewünschten Seite
+- name: description
+  type: text
+  config:
+    required: false
+  label: Beschreibung
+  default: ''
