@@ -11,7 +11,17 @@ fields:
   name: description
   label: Beschreibung (SEO)
   config:
-    required: true
-- type: list
-  name: menu
-  label: menu
+    required: false
+- name: submenus
+  type: field_group_list
+  fields:
+  - name: untermenu
+    type: include
+    config: {}
+    template: menueintrag
+    label: Untermenü
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Untermenüs
