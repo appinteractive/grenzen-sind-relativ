@@ -2,9 +2,9 @@
 title: 3. Grenzen sind relativ Festival
 description: Empty description
 menu:
-- 1. Grenzen sind relativ Festival 
-- 2. Grenzen sind relativ Festival 
-- 3. Grenzen sind relativ Festival 
+  main:
+    parent: 'nested'
+    weight: 20
 ---
 
 # 3. Grenzen sind relativ Festival 
