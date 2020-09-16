@@ -29,7 +29,8 @@
           "title": "Zitate",
           "page": "content/zitate.md"
         }
-      ]
+      ],
+      "showInMainNavigation": true
     },
     {
       "title": "Aktivitäten",
