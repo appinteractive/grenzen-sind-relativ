@@ -4,8 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Inhalte
 - type: directory
   path: content
   label: Seiten
@@ -13,22 +11,6 @@ sections:
   match: "**/*.md"
   templates:
   - seite
-- type: directory
-  path: content/aktivitaeten
-  label: Aktivitäten
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/media
-  label: Media
-  create: all
-  match: "**/*"
-- type: document
-  path: content/mitmachen.md
-  label: Mitmachen
-- type: document
-  path: content/kontakt.md
-  label: Kontakt
 - type: heading
   label: Einstellungen
 - type: document
