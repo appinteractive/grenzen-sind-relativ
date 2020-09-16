@@ -149,7 +149,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "showInMainNavigation": true
         },
         {
           "title": "Musikunterricht, Workshops & Coaching",
