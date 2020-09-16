@@ -16,6 +16,9 @@ fields:
     config:
       required: false
     label: Beschreibung
+  - name: extern
+    type: boolean
+    label: Extern
   - name: link
     type: select
     default: []
@@ -28,6 +31,13 @@ fields:
         file: 
         path: 
     label: Link
+    showOnly:
+      field: extern
+  - name: menueintrag
+    type: include
+    config: {}
+    template: menueintrag
+    label: Menüeintrag
   - name: children
     type: include
     config: {}
