@@ -100,12 +100,12 @@ export default {
       this.currentIndex = index
     },
     hasLevel2(level1) {
-      return level1.children && level1.children.length > 0
+      return level1.children && level1.showInMainNavigation
     },
     hasLevel3(level1) {
       return (
         level1.children &&
-        level1.children.filter((item) => item.children && item.children.length)
+        level1.children.filter((item) => item.children && item.showInMainNavigation)
           .length > 0
       )
     },
