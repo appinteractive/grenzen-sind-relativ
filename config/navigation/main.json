@@ -61,7 +61,7 @@
             {
               "title": "Erlebnistage Inklusion durch Musik",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion.md",
-              "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. 5 Tage, 5 Institutionen und 1 Abschlussevent.",
+              "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
               "children": [
                 {
                   "title": "Allgemeine Infos"
@@ -71,7 +71,24 @@
             {
               "title": "Veranstaltungsformate für Dein Event?!",
               "page": "content/aktivitaeten/aufklaerung-und-wissenstransfer/beratung-und-coaching.md",
-              "description": "Spektralkombüse, Support Inklusion, usw."
+              "description": "Spektralkombüse, Support Inklusion, usw.",
+              "children": [
+                {
+                  "title": "Allgemeine Infos"
+                },
+                {
+                  "title": "Support Inklusion - Support mal anders!"
+                },
+                {
+                  "title": "Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen"
+                },
+                {
+                  "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band"
+                },
+                {
+                  "title": "Spektralkombüse"
+                }
+              ]
             },
             {
               "title": "Kooperationsprojekte",
