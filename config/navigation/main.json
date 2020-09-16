@@ -42,7 +42,21 @@
             {
               "title": "Grenzen sind relativ Festivals",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md",
-              "description": "Das interdisziplinäre Kulturfestival mit Live Musik, Tanz, Theater, Film, Kunstaustellung, Network-Area und interaktiven Erlebniswelten"
+              "description": "Das interdisziplinäre Kulturfestival mit Live Musik, Tanz, Theater, Film, Kunstaustellung, Network-Area und interaktiven Erlebniswelten",
+              "children": [
+                {
+                  "title": "Allgemeine Infos"
+                },
+                {
+                  "title": "Review 3. Grenzen sind relativ Festival 2019"
+                },
+                {
+                  "title": "Review 2. Grenzen sind relativ Festival 2018"
+                },
+                {
+                  "title": "Review 1. Grenzen sind relativ Festival 2017"
+                }
+              ]
             },
             {
               "title": "Erlebnistage Inklusion durch Musik",
