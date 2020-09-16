@@ -11,6 +11,8 @@ sections:
   label: Seiten
   create: all
   match: "**/*.md"
+  templates:
+  - seite
 - type: directory
   path: content/aktivitaeten
   label: Aktivitäten
