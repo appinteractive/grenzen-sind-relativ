@@ -7,7 +7,7 @@ fields:
   label: title
 - type: text
   name: description
-  label: description
+  label: Beschreibung (SEO)
 - type: list
   name: menu
   label: menu
