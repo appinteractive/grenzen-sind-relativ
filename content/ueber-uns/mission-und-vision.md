@@ -1,9 +1,10 @@
 ---
 title: Mission & Vision
-description: Empty description
+description: Zu Zeiten der individuellen und gesellschaftlichen Spaltung brauchen  wir
+  Inklusion statt Separation, Kooperation statt Konkurrenz und  gelebten Frieden für
+  alle Menschen auf diesem Planeten. Letztlich geht  es um unser Bewusstsein.
+
 ---
-
-
 # Mission & Vision – Eine neue Beziehungskultur
 
 Die individuellen und kollektiven Transformationsprozesse  umfassen ALLE Aspekte, die das Leben in einer komplexen heterogenen  Gesellschaft ausmachen: die sozialen wie die bildungspolitischen, die  wirtschaftlichen, ökologischen und kulturellen ebenso wie die  persönlichen, zwischenmenschlichen und kollektiven Themenbereiche. Sie  dürfen nicht länger getrennt voneinander gesehen werden, sondern müssen  als Ganzes wahrgenommen und angenommen werden, da sie nun einmal in  Beziehung zueinander stehen.
