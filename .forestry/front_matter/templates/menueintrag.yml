@@ -45,3 +45,4 @@ fields:
     required: false
   label: Beschreibung
   default: ''
+  description: Optionale Beschreibung die unter dem Menüpunkt erscheint
