@@ -84,5 +84,3 @@ fields:
       min: 
       max: 
       labelField: 
-pages:
-- static/navigation.json

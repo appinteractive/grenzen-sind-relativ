@@ -16,13 +16,15 @@ sections:
 - type: heading
   label: Einstellungen
 - type: document
-  path: static/navigation.json
-  label: Navigation
-- type: document
   path: config/navigation/main.json
-  label: Hauptmenü (NEU)
+  label: Hauptnavigation
   templates:
   - menuliste
+- type: document
+  path: "~/config/navigation/footer.json"
+  label: Footer
+  match: "**/*"
+  read_only: true
 upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
