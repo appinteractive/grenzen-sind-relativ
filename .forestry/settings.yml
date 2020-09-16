@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Inhalt
 - type: directory
   path: content
   label: Seiten
@@ -17,8 +19,8 @@ sections:
   path: static/navigation.json
   label: Navigation
 - type: document
-  path: static/navigation2.json
-  label: TEST
+  path: config/navigation/main.json
+  label: Hauptmenü (NEU)
 upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
