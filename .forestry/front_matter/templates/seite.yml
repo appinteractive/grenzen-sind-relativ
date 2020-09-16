@@ -7,7 +7,7 @@ fields:
   label: Titel
   config:
     required: true
-- type: text
+- type: textarea
   name: description
   label: Beschreibung (SEO)
   config:
