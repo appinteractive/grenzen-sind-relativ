@@ -11,6 +11,7 @@ fields:
 - name: external
   type: boolean
   label: Externe URL
+  description: Link zu einer externen Webseite?
 - name: page
   type: select
   default: []
@@ -19,7 +20,7 @@ fields:
     options: []
     source:
       type: pages
-      section: 
+      section: inahlt
       file: 
       path: 
   label: Seite
@@ -37,10 +38,11 @@ fields:
   showOnly:
     value: true
     field: external
-  description: Link zu einer anderen Webseite
+  description: Externer Webseitenlink
 - name: description
   type: text
   config:
     required: false
   label: Beschreibung
   default: ''
+  description: Optionale Beschreibung die unter dem Menüpunkt erscheint

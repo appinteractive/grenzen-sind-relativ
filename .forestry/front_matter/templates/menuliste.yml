@@ -19,4 +19,4 @@ fields:
     min: 
     max: 
     labelField: title
-  label: Hauptnavigation
+  label: Reiter
