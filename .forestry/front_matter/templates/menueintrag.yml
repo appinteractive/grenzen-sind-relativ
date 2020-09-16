@@ -11,7 +11,7 @@ fields:
 - name: extern
   type: boolean
   label: Extern
-- name: link
+- name: page
   type: select
   default: []
   config:
@@ -22,24 +22,47 @@ fields:
       section: 
       file: 
       path: 
-  label: Link
+  label: Seite
   description: Optionaler Link zur gewünschten Seite
   showOnly:
     field: extern
     value: false
-- name: extern-link
+- name: url
   type: text
   config:
     required: false
-    min: 8
+    min: 
   label: Externer Link
-  default: https://
+  default: ''
   showOnly:
     field: extern
     value: true
+  description: Link zu einer anderen Webseite
 - name: description
   type: text
   config:
     required: false
   label: Beschreibung
   default: ''
+- name: group
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: select
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: select
+  label: Group
