@@ -115,12 +115,37 @@
             {
               "title": "AndersSein vereint - Inklusionssong für Deutschland",
               "page": "content/aktivitaeten/kampagnien-musikvideos/anders-sein-vereint-inklisionssong-fuer-deutschland.md",
-              "description": "1 Musikvideo, 3 Festivals und diverse Folgeprojekte für die \"gesamtgesellschaftliche Inklusion\"."
+              "description": "1 Musikvideo, 3 Festivals und diverse Folgeprojekte für die \"gesamtgesellschaftliche Inklusion\".",
+              "children": [
+                {
+                  "title": "Worum geht es?"
+                },
+                {
+                  "title": "Projektinfo"
+                },
+                {
+                  "title": "Akteure: Band, Gastsänger & Protagonisten"
+                },
+                {
+                  "title": "Videos & Fotos"
+                },
+                {
+                  "title": "Review & Erfolge"
+                },
+                {
+                  "title": "AndersSein vereint Festivals"
+                }
+              ]
             },
             {
               "title": "NEU 2. Inklusions- & Friedenssong (Arbeitstitel)",
               "page": "content/aktivitaeten/kampagnien-musikvideos/kampagne-2-inklusions-und-friedenssong.md",
-              "description": "Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!"
+              "description": "Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!",
+              "children": [
+                {
+                  "title": "Allgemeine Infos"
+                }
+              ]
             }
           ]
         },
@@ -131,20 +156,56 @@
             {
               "title": "Musikunterricht für Hörgeschädigte",
               "page": "content/aktivitaeten/musik-und-inklusion/musikunterricht-fuer-hoergeschaedigte.md",
-              "description": "Ganzheitlichen Musikunterricht, der alle Sinne, Wahrnehmungen und Empfindungen mit einbezieht und alle Menschen anspricht."
+              "description": "Ganzheitlichen Musikunterricht, der alle Sinne, Wahrnehmungen und Empfindungen mit einbezieht und alle Menschen anspricht.",
+              "children": [
+                {
+                  "title": "Worum geht es?"
+                },
+                {
+                  "title": "Kiel"
+                },
+                {
+                  "title": "Hamburg"
+                },
+                {
+                  "title": "Bundesweit"
+                }
+              ]
             },
             {
               "title": "Bandcamps",
               "page": "content/aktivitaeten/musik-und-inklusion/bandkamps.md",
-              "description": "Musik für alle!"
+              "description": "Musik für alle!",
+              "children": [
+                {
+                  "title": "Allgemeine Infos"
+                }
+              ]
             },
             {
               "title": "Workshops, Seminare & Vorträge",
-              "description": "Themen: Inklusiver Musikunterricht, gesamtgesellschaftliche Inklusion, Projekt- & Veranstaltungsmanagement, Analyse & Aktiv Sein, Frieden, usw."
+              "description": "Themen: Inklusiver Musikunterricht, gesamtgesellschaftliche Inklusion, Projekt- & Veranstaltungsmanagement, Analyse & Aktiv Sein, Frieden, usw.",
+              "children": [
+                {
+                  "title": "Allgemeine Infos"
+                },
+                {
+                  "title": "Referent"
+                },
+                {
+                  "title": "WS \"Grenzen sind relativ - Musik, systemische Inklusion & Beziehungskultur(en)\""
+                },
+                {
+                  "title": "WS \"Grenzen sind relativ - Musikunterricht für Hörgeschädigte\""
+                }
+              ]
             },
             {
               "title": "Beratung & Coaching",
-              "description": "Für Vereine, Schulen, Universitäten, Unternehmen, Kulturschaffende, usw."
+              "description": "Für Vereine, Schulen, Universitäten, Unternehmen, Kulturschaffende, usw.",
+              "children": [
+
+              ]
             }
           ]
         },
