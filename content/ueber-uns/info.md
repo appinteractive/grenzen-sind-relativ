@@ -1,8 +1,8 @@
 ---
 title: Info
-description: Empty description
----
+description: ''
 
+---
 # Info
 
 > Dummy Page

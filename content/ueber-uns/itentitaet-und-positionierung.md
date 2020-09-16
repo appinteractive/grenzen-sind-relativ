@@ -1,9 +1,8 @@
 ---
 title: Itentität & Positionierung
-description: Empty description
+description: ''
+
 ---
-
-
 # Itentität & Positionierung
 
 > Dummy Page
