@@ -2,11 +2,6 @@
 label: Menüunterseiten
 hide_body: true
 fields:
-- name: showInMainNavigation
-  type: boolean
-  label: In Hauptnavigation anzeigen
-  description: Sollen die Unterseiten in der Hauptnavigation erscheinen?
-  default: true
 - name: children
   type: field_group_list
   fields:
@@ -25,3 +20,8 @@ fields:
     max: 
     labelField: title
   label: Unterseiten
+- name: showInMainNavigation
+  type: boolean
+  label: In Hauptnavigation anzeigen
+  description: Sollen die Unterseiten in der Hauptnavigation erscheinen?
+  default: true
