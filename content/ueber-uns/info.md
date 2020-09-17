@@ -1,8 +1,8 @@
 ---
-title: Info
-description: 
+title: Grenzen sind relativ e.V.
+description: 'Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden '
 
 ---
-# Info
+# Grenzen sind relativ e.V.
 
-> Dummy Page
+## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
