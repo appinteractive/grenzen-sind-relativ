@@ -11,14 +11,6 @@ function normalizeUrls(items) {
     }
   });
 
-  /*
-  const breadCrumbs = []
-  let navBranch = nav.menu
-  navBranch.forEach(branch => {
-    console.log(branch)
-  });
-  */
-
   return output
 }
 
