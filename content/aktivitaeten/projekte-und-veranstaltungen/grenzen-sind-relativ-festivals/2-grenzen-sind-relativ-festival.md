@@ -94,7 +94,7 @@ Im Geiste unseres Mottos „**Grenzen sind relativ**“ haben wir über 80 Küns
 
 \2. Grenzen sind relativ Festival
 
-Sa. 20.10.2018 in der [Fabrik](http://fabrik.de) (Barnerstr. 36, 22765 Hamburg)
+Sa. 20.10.2018 in der [Fabrik](https://fabrik.de) (Barnerstr. 36, 22765 Hamburg)
 
 Einlass 19:00h
 
@@ -118,7 +118,7 @@ Jan Plewka ist einer der facettenreichsten deutschen Musiker und[![img](https://
 
 **Sebó**  
 
-Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Sebó_-300x200.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Sebó_.jpg) Verbindung zur HipHop-Kultur nie wirklich kappte – hat sich zu einem  Sänger mit einem ganz eigenem Stil entwickelt. Facettenreich wie ein  Schmuckstein ist der gute Mann. Nur die Ecken und Kanten dürfen nicht  allzu geschliffen sein. Und gerade das ist es, was seinen Sound  besonders und ihn so sympathisch macht. Mit seiner Stimmfarbe und einer  unverwechselbaren Art zu texten macht Sebó auf sich aufmerksam. Auf der  Bühne teilt er seine Geschichten mit dem Publikum. Sebó ist der geborene Entertainer – ein Bauchmensch mit viel Gefühl. Ein Erlebnis! Auf der  Bühne wird improvisiert und gelacht. Sebó ist nachdenklich, freimütig  und verstellt sich nicht. In jedem Augenblick spürt man seine Energie,  die ansteckt und mitreißt. http://www.sebomusic.de/
+Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Sebó_-300x200.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Sebó_.jpg) Verbindung zur HipHop-Kultur nie wirklich kappte – hat sich zu einem  Sänger mit einem ganz eigenem Stil entwickelt. Facettenreich wie ein  Schmuckstein ist der gute Mann. Nur die Ecken und Kanten dürfen nicht  allzu geschliffen sein. Und gerade das ist es, was seinen Sound  besonders und ihn so sympathisch macht. Mit seiner Stimmfarbe und einer  unverwechselbaren Art zu texten macht Sebó auf sich aufmerksam. Auf der  Bühne teilt er seine Geschichten mit dem Publikum. Sebó ist der geborene Entertainer – ein Bauchmensch mit viel Gefühl. Ein Erlebnis! Auf der  Bühne wird improvisiert und gelacht. Sebó ist nachdenklich, freimütig  und verstellt sich nicht. In jedem Augenblick spürt man seine Energie,  die ansteckt und mitreißt. https://www.sebomusic.de/
 
 
 
@@ -130,7 +130,7 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
   **Mischa Gohlke & The Everythings**
 
-  Musiker. Freigeist. Inklusionsbotschafter. Die Reihe [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Mischa-Gohlke-_-The-Everythings-_-Foto-by-Stephan-Olbrich-300x200.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Mischa-Gohlke-_-The-Everythings-_-Foto-by-Stephan-Olbrich.jpg)könnte man endlos fortsetzen. Der Hamburger Bluesgitarrist ist facettenreich  und ebenso seine erstaunliche Biographie. Mit einer an Taubheit  grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker  gegangen. Wer sich an ein Programm mit Stücken von Jimi Hendrix und  Stevie Ray Vaughan herantraut und sich zutraut, diesem mit  leidenschaftlichen Eigenkompositionen den letzten Schliff zu geben, der  muss mit allen musikalischen Wassern gewaschen sein. Kein Problem für  Mischa Gohlke & The Everythings. Rockig wie tanzbar grooven sie auch den letzten Muffel der staunenden Musikermafia auf die Tanzfläche vor  der Bühne. Die Musiker sind bereits mit Größen wie Madonna, Shakira,  Stevie Wonder, Dave Matthews Band und Malina Moye auf Tour gewesen. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen  verschwimmen lässt. [www.mischagohlkeband.de](http://www.mischagohlkeband.de)
+  Musiker. Freigeist. Inklusionsbotschafter. Die Reihe [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Mischa-Gohlke-_-The-Everythings-_-Foto-by-Stephan-Olbrich-300x200.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Mischa-Gohlke-_-The-Everythings-_-Foto-by-Stephan-Olbrich.jpg)könnte man endlos fortsetzen. Der Hamburger Bluesgitarrist ist facettenreich  und ebenso seine erstaunliche Biographie. Mit einer an Taubheit  grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker  gegangen. Wer sich an ein Programm mit Stücken von Jimi Hendrix und  Stevie Ray Vaughan herantraut und sich zutraut, diesem mit  leidenschaftlichen Eigenkompositionen den letzten Schliff zu geben, der  muss mit allen musikalischen Wassern gewaschen sein. Kein Problem für  Mischa Gohlke & The Everythings. Rockig wie tanzbar grooven sie auch den letzten Muffel der staunenden Musikermafia auf die Tanzfläche vor  der Bühne. Die Musiker sind bereits mit Größen wie Madonna, Shakira,  Stevie Wonder, Dave Matthews Band und Malina Moye auf Tour gewesen. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen  verschwimmen lässt. [www.mischagohlkeband.de](https://www.mischagohlkeband.de)
 
    
 
@@ -142,7 +142,7 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
   **Kilez More feat. Morgaine[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More-198x300.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg)**
 
-  Kilez More ist Rapper, Friedensaktivist & liefert Themen fernab  des Mainstreams. Der Rapvolutionäre Soundtrack des Widerstands ist  direkt, ehrlich, ungeschminkt, hart, rhythmisch, schonungslos, laut, zum mitnicken, nachdenken und beweist, dass HipHop mehr ist als Texte über  Geld & Drogen –  sondern auch Hoffnung und Sprachrohr einer  ungehörten Jugend. Sein 2017 erschienenes Album Alchemist stieg von 0  auf 4 in die deutschen HipHop-Charts ein. In der Fabrik wird die  Herzmusikerin Morgaine mit Kilez More die zusammen die Bühne rocken.  Viva la Rapvolution! [http://kilezmore.de](http://kilezmore.de/)
+  Kilez More ist Rapper, Friedensaktivist & liefert Themen fernab  des Mainstreams. Der Rapvolutionäre Soundtrack des Widerstands ist  direkt, ehrlich, ungeschminkt, hart, rhythmisch, schonungslos, laut, zum mitnicken, nachdenken und beweist, dass HipHop mehr ist als Texte über  Geld & Drogen –  sondern auch Hoffnung und Sprachrohr einer  ungehörten Jugend. Sein 2017 erschienenes Album Alchemist stieg von 0  auf 4 in die deutschen HipHop-Charts ein. In der Fabrik wird die  Herzmusikerin Morgaine mit Kilez More die zusammen die Bühne rocken.  Viva la Rapvolution! [https://kilezmore.de](https://kilezmore.de/)
 
    
 
@@ -176,7 +176,7 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
   Klabauter ist ein Theater, das für Vielfalt steht. [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Klabauter-Theater-300x200.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Klabauter-Theater.jpg)Das inklusive Ensemble entwickelt eigene Stücke oder bearbeitet bekannte  Stoffe neu. So entstehen eigenwillige und berührende Inszenierungen für  ein breites Publikum. Das Klabauter Theater in der Nähe des Berliner  Tors ist eine der sieben Hamburg OFF Bühnen – off mainstream. Die  Kooperationen mit Künstlerinnen und Künstlern der freien Szene wurden  2018 mehrfach ausgezeichnet: „Die Zeitraffer“, eine Koproduktion mit Die AZUBIS erhielt im Festival *Hauptsache Frei* den Mentoring-Preis,  „Objektiviert uns!“ eine Kooperation mit Studierenden des Mozarteums  Salzburg gewann den Publikumspreis im *Körber Studio Junge Regie*. Das Theatermagazin *Die deutsche Bühne* hob das Klabauter Theater in seiner Saisonbilanz im bundesweiten  Vergleich der freien Theater  hervor als eine Gruppe, die „ein  künstlerisch besonders mutiges, ausgefallenes und dabei tragfähiges  Profil pflegt <…> Theater mit sozialem Engagement, ästhetisch  überzeugend“. Im Rahmen des TUSCH Programms kooperiert das Klabauter  Theater auch mit Hamburger Schulen. Es ist Teil der Stiftung Das Rauhe  Haus.
 
-  http://klabauter-theater.de/
+  https://klabauter-theater.de/
 
    
 
@@ -202,7 +202,7 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
   **Markus Riemann [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024-300x277.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg)**
 
-  Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen  fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a.  tätig auf dem Weltkindertag in Hamburg, dem Internationalen  Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf.  [www.kulturbedarf.de](http://www.kulturbedarf.de/)
+  Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen  fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a.  tätig auf dem Weltkindertag in Hamburg, dem Internationalen  Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf.  [www.kulturbedarf.de](https://www.kulturbedarf.de/)
 
    
 
@@ -214,13 +214,13 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
   ## **VIDEO-KUNST:**
 
-  **KYMAT** vereinigt experimentell und spielerisch die Wissenschaft Kymatik und verschiedene Formen der Klangtherapie in einem  Kunstprojekt. KYMAT verbindet die Ästhetik von Wasser mit Klängen zu  einzigartigen, spektakulären und sich stetig wandelnden Bildern. KYMAT  ist Drop Sound Enlightment – Tropfen, Klang, Erleuchtung. http://www.kymat.de/
+  **KYMAT** vereinigt experimentell und spielerisch die Wissenschaft Kymatik und verschiedene Formen der Klangtherapie in einem  Kunstprojekt. KYMAT verbindet die Ästhetik von Wasser mit Klängen zu  einzigartigen, spektakulären und sich stetig wandelnden Bildern. KYMAT  ist Drop Sound Enlightment – Tropfen, Klang, Erleuchtung. https://www.kymat.de/
 
    
 
   ## **PASSAUSGABE:**
 
-  **Urban Citizenship Card** – Ein Konzept, in dem die Realität  nicht den Papieren angepasst wird, sondern die Papiere der Realitäten.  Dieses Recht auf gesellschaftliche, politische, kulturelle und  ökonomische Teilhabe darf nicht von einem Zufall (Geburtsort) oder von  Willkür (Anerkennung) abhängen. Die Benutzung der Urban Citizenship wird in US-amerikanischen Städten bereits praktiziert. In New York City  beispielsweise wird sie in Form der Stadtbewohner*innen-Karte „ID NYC“  ausgegeben. Bringe Dein Foto mit! http://urban-citizenship-hamburg.rechtaufstadt.net/
+  **Urban Citizenship Card** – Ein Konzept, in dem die Realität  nicht den Papieren angepasst wird, sondern die Papiere der Realitäten.  Dieses Recht auf gesellschaftliche, politische, kulturelle und  ökonomische Teilhabe darf nicht von einem Zufall (Geburtsort) oder von  Willkür (Anerkennung) abhängen. Die Benutzung der Urban Citizenship wird in US-amerikanischen Städten bereits praktiziert. In New York City  beispielsweise wird sie in Form der Stadtbewohner*innen-Karte „ID NYC“  ausgegeben. Bringe Dein Foto mit! https://urban-citizenship-hamburg.rechtaufstadt.net/
 
   ## 
 

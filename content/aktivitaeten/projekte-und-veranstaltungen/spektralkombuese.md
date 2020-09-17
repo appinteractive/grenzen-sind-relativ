@@ -23,13 +23,13 @@ Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer  Auffassung
 
 → [BEAThoven Musikvideo]()
 
-→ [Pro 7 - Deutschland tanzt - Kassandra Wedel für Bayern - Spiegel](http://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
+→ [Pro 7 - Deutschland tanzt - Kassandra Wedel für Bayern - Spiegel](https://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
 
 **Martin Fromme ![Martin-Fromme](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/Martin-Fromme-225x300.jpeg)**
 
 Besser Arm ab als arm dran, heißt das aktuelle Programm des  Kabarettisten Martin Fromme, der sich selbst als Deutschlands ersten und einzigen asymmetrischen Künstler bezeichnet. Geradezu unverschämt  offensiv geht der MDR Moderator mit „appen“ Arm in die Schlacht gegen  behinderte Klischees. „Kann eine Prostituierte im Rollstuhl eine  Wander-hure sein?“ Tja, das regt zum nachdenken an und jede Opferrolle  löst sich in Wohlgefallen auf. Viel Spaß damit!
 
-→ Webseite: http://www.martin-fromme.de
+→ Webseite: https://www.martin-fromme.de
 
 → Video “Darf man Witze über Behinderung machen?”**:** https://youtu.be/JjdRzwKuqKQ
 
@@ -51,7 +51,7 @@ Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter.
 
 [![markus-riemann-foto.1024x1024](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024-300x277.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024.jpg)
 
-**Markus Riemann** – Musiker, Moderator und  Kulturmanager. Auf großen und kleinen Bühnen fühlt sich Markus Riemann  seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag  in Hamburg, dem Internationalen Strassenmusikfestival in Osnabrück, dem  Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat  in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma  Kulturbedarf. [www.kulturbedarf.de](http://www.kulturbedarf.de)
+**Markus Riemann** – Musiker, Moderator und  Kulturmanager. Auf großen und kleinen Bühnen fühlt sich Markus Riemann  seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag  in Hamburg, dem Internationalen Strassenmusikfestival in Osnabrück, dem  Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat  in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma  Kulturbedarf. [www.kulturbedarf.de](https://www.kulturbedarf.de)
 
 ***
 
