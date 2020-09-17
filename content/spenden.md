@@ -3,6 +3,6 @@ title: Spenden
 description: Empty description
 
 ---
-# Media
+# Spenden
 
 > Dummy Page
