@@ -1,5 +1,5 @@
 ---
-title: 3. Grenzen sind relativ Festival
+title: Grenzen sind relativ Festivals
 description: Empty description
 submenu:
 - title: 3. Grenzen sind relativ Festival
@@ -8,8 +8,8 @@ submenu:
   page: content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md
 - title: 1. Grenzen sind relativ Festival
   page: content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md
----
 
+---
 # 3. Grenzen sind relativ Festival 
 
 ## Sa. 26.10.19 Fabrik Hamburg
