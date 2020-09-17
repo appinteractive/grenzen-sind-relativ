@@ -65,7 +65,7 @@ export default {
     const nav = store.getters['navigation/nav']
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
-    const subMenu = breadCrumbs.length && breadCrumbs[breadCrumbs.length - 1].children || crumbAnomaly
+    const subMenu = breadCrumbs.length > 0 && breadCrumbs[breadCrumbs.length - 1].children || crumbAnomaly
 
     if (subMenu && crumbAnomaly) {
       // remove last breadcrumb element as it is redundant

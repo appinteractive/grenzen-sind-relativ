@@ -39,7 +39,7 @@ function getBreadCrumbs(branch, url, parents) {
     } catch (e) {}
   })
 
-  return result || []
+  return result
 }
 
 export const state = (ctx) => ({
@@ -58,6 +58,6 @@ export const getters = {
     return state.nav
   },
   breadCrumbs: (state) => (route) => {
-    return getBreadCrumbs(state.nav, route.path, [])
+    return getBreadCrumbs(state.nav, route.path, []) || []
   }
 }
