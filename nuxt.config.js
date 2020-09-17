@@ -140,6 +140,7 @@ export default {
   /* More information on the PWA module: https://pwa.nuxtjs.org/ */
   pwa: {
     workbox: {
+      enabled: false,
       autoRegister: true,
       offline: false,
     },
