@@ -136,5 +136,20 @@ export default {
   router: {
     linkActiveClass: 'font-bold',
     linkExactActiveClass: 'font-bold text-gray-900'
-  }
+  },
+  /* More information on the PWA module: https://pwa.nuxtjs.org/ */
+  pwa: {
+    workbox: {
+      autoRegister: true,
+      offline: false,
+    },
+    manifest: {
+      name: "Grenzen sind relativ e.V.",
+      short_name: 'GSR e.V.',
+      description: 'Grenzen sind relativ e.V. - Kultur, Gesellschaft & Inklusion "Grenzen sind relativ e.V." setzt sich mit verschiedensten Projekten, Veranstaltungen und Kampagnen für eine inklusive, integrale und nachhaltige Gesellschaft ein. Das Pilotprojekt Мusikunterricht für Hörgeschädigte wurde bereits mehrfach ausgezeichnet.',
+      theme_color: '#fff',
+      appleStatusBarStyle: 'white',
+      ogImage: '/img/bike.jpg'
+    }
+  },
 }
