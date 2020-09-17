@@ -1,14 +1,6 @@
 ---
 title: Grenzen sind relativ Festivals
 description: Empty description
-submenu:
-- title: Allgemeine Infos
-- title: 3. Grenzen sind relativ Festival
-  page: content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md
-- title: 2. Grenzen sind relativ Festival
-  page: content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md
-- title: 1. Grenzen sind relativ Festival
-  page: content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md
 
 ---
 # 3. Grenzen sind relativ Festival
@@ -93,8 +85,3 @@ Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbe
 
 [![img](http://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)](http://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)
 
-### Grenzen sind relativ Festivals
-
-* [3. Grenzen sind relativ Festival // Sa. 26.10.19 Fabrik Hamburg](http://www.grenzensindrelativ.de/veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2-2/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2.html)
-* [2. Grenzen sind relativ Festival // Sa. 20.10.18 Fabrik Hamburg](http://www.grenzensindrelativ.de/veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2-2/2-grenzen-sind-relativ-festival-sa-20-10-18-fabrik-hamburg.html)
-* [1. Grenzen sind relativ Festival // Sa. 23.09.2017 Hamburg](http://www.grenzensindrelativ.de/veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2-2/audiovisuelle-impressionen-vom-grenzen-sind-relativ-festival-2017.html)

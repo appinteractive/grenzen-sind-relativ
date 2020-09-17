@@ -8,15 +8,17 @@
       >
         <TopNavLink
           :to="level2.url"
-          class="p-4 flex flex-col rounded-l"
+          class="p-4 flex flex-col rounded"
           style="min-width: 20rem"
+          :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
+          @mouseenter.native="setLevel2($event, index2)"
         >
-          <strong class="font-bold group-hover:underline">{{
+          <strong class="font-medium group-hover:underline">{{
             level2.title
           }}</strong>
-          <p v-if="level2.description" class="text-xs text-gray-700">
+          <!-- <p v-if="level2.description" class="text-xs text-gray-700">
             {{ level2.description }}
-          </p>
+          </p> -->
         </TopNavLink>
       </li>
     </ul>
@@ -27,6 +29,14 @@
 export default {
   props: {
     navigation: { type: Object, default: () => {} }
+  },
+  data: () => ({
+    currentIndex2: null,
+  }),
+  methods: {
+    setLevel2(event, index2) {
+      this.currentIndex2 = index2
+    },
   },
 }
 </script>

@@ -1,5 +1,5 @@
 ---
-title: 
+title: GSR e.V. Channel
 description: Empty description
 ---
 

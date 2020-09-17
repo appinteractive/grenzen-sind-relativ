@@ -37,6 +37,7 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
+    '~/plugins/store-init.js',
     // '~/plugins/components.js',
     // '~/plugins/components.js',
     // '~/plugins/preview.client.js'

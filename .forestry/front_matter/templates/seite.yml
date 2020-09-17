@@ -12,16 +12,3 @@ fields:
   label: Beschreibung (SEO)
   config:
     required: false
-- name: submenu
-  type: field_group_list
-  fields:
-  - name: submenu
-    type: include
-    config: {}
-    template: menueintrag
-    label: Untermenü
-  config:
-    min: 
-    max: 
-    labelField: title
-  label: Untermenüs

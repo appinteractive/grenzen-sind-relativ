@@ -1,6 +1,6 @@
 ---
 title: Itentität & Positionierung
-description: ''
+description: 
 
 ---
 # Itentität & Positionierung

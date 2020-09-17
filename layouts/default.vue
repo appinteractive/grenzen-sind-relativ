@@ -9,25 +9,13 @@
 </template>
 
 <script>
-import nav from '~/config/navigation/main.json'
-
-function normalizeUrls(items) {
-  const output = [ ...items ]
-
-  output.forEach(item => {
-    if (!item.page) return item
-    item.url = (item.page || '').replace(/content(.+)\.md/, '$1')
-    if (item.children && item.children.length > 0) {
-      item.children = normalizeUrls(item.children)
-    }
-  });
-
-  return output
-}
 
 export default {
+  created() {
+    this.nav = this.$store.getters['navigation/nav']
+  },
   data: () => ({
-    nav: normalizeUrls(nav.menu)
+    nav: null
   })
 }
 </script>

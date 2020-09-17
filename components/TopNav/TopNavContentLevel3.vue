@@ -13,12 +13,12 @@
           :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
           @mouseenter.native="setLevel2($event, index2)"
         >
-          <strong class="font-semibold group-hover:underline">{{
+          <strong class="font-medium group-hover:underline">{{
             level2.title
           }}</strong>
-          <p v-if="level2.description" class="text-xs text-gray-700">
+          <!-- <p v-if="level2.description" class="text-xs text-gray-700">
             {{ level2.description }}
-          </p>
+          </p> -->
         </TopNavLink>
       </li>
     </ul>

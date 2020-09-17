@@ -1,7 +1,6 @@
 ---
 title: Videos
-description: Eine Liste unserer Videos
-
+description: 
 ---
 # TV Berichte :)
 

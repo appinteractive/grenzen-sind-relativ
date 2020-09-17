@@ -27,7 +27,7 @@
         },
         {
           "title": "Zitate",
-          "page": "content/zitate.md"
+          "page": "content/ueber-uns/zitate.md"
         }
       ],
       "showInMainNavigation": true
@@ -42,20 +42,24 @@
           "children": [
             {
               "title": "Grenzen sind relativ Festivals",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
               "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
               "children": [
                 {
-                  "title": "Allgemeine Infos"
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md"
                 },
                 {
-                  "title": "Review 3. Grenzen sind relativ Festival 2019"
+                  "title": "Review 3. Grenzen sind relativ Festival 2019",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md"
                 },
                 {
-                  "title": "Review 2. Grenzen sind relativ Festival 2018"
+                  "title": "Review 2. Grenzen sind relativ Festival 2018",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/2-grenzen-sind-relativ-festival.md"
                 },
                 {
-                  "title": "Review 1. Grenzen sind relativ Festival 2017"
+                  "title": "Review 1. Grenzen sind relativ Festival 2017",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md"
                 }
               ]
             },
@@ -248,16 +252,19 @@
         },
         {
           "title": "Pressespiegel",
-          "page": "content/media/pressespiegel.md",
+          "page": "content/media/pressespiegel/allgemein.md",
           "children": [
             {
-              "title": "TV"
+              "title": "TV",
+              "page": "content/media/pressespiegel/tv.md"
             },
             {
-              "title": "Print & Online"
+              "title": "Print & Online",
+              "page": "content/media/pressespiegel/print.md"
             },
             {
-              "title": "Radio"
+              "title": "Radio",
+              "page": "content/media/pressespiegel/radio.md"
             }
           ]
         },
@@ -266,7 +273,8 @@
           "page": "content/media/gsr-ev-channel.md"
         },
         {
-          "title": "Blog"
+          "title": "Blog",
+          "page": "content/media/blog.md"
         }
       ],
       "showInMainNavigation": true
