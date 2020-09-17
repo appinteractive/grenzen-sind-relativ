@@ -39,7 +39,7 @@ function getBreadCrumbs(branch, url, parents) {
     } catch (e) {}
   })
 
-  return result
+  return result || []
 }
 
 export const state = (ctx) => ({

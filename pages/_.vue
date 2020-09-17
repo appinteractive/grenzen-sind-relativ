@@ -40,6 +40,13 @@
             >
               {{ item.title }}
             </nuxt-link>
+            <span
+              v-else
+              class="block p-2 text-gray-400 line-through"
+              style="font-weight: normal"
+            >
+              {{ item.title }}
+            </span>
           </li>
         </ul>
       </nav>
@@ -53,12 +60,12 @@
 <script>
 export default {
   async asyncData({ params, $content, store, route, error }) {
-    const page = await $content(route.path).fetch()
+    const page = await $content(route.path === '/' ? 'startseite' : route.path).fetch()
 
     const nav = store.getters['navigation/nav']
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
-    const subMenu = breadCrumbs[breadCrumbs.length - 1].children || crumbAnomaly
+    const subMenu = breadCrumbs.length && breadCrumbs[breadCrumbs.length - 1].children || crumbAnomaly
 
     if (subMenu && crumbAnomaly) {
       // remove last breadcrumb element as it is redundant
