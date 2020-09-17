@@ -7,7 +7,7 @@ description: Empty description
 
 ## Sa. 26.10.19 Fabrik Hamburg
 
-[![img](http://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)](http://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)
+[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)
 
 Yeeaaahh, ++++ bald ist es wieder soweit !! Zusammen mit über 100  Künstler*innen, Ausstellenden und gemeinnützigen Organisationen, werden  wir das *__“synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke*__ ausgiebig feiern! Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen! 🙂
 
@@ -81,7 +81,7 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 
 ## **Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden:**
 
-Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. http://www.grenzensindrelativ.de
+Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. https://www.grenzensindrelativ.de
 
-[![img](http://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)](http://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)
+[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)
 

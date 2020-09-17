@@ -48,7 +48,7 @@
       />
     </div>
     <!-- <div class="sm:flex py-4">
-      <img class="flex md:w-2/6 sm:w-1/2 w-full flex-shrink-0 flex-grow sm:pr-4 mb-6 sm:mb-0 object-cover" src="http://www.grenzensindrelativ.de/wp-content/uploads/2015/04/Jubelszene1.jpg" alt="Grenzen sind relativ e.V.">
+      <img class="flex md:w-2/6 sm:w-1/2 w-full flex-shrink-0 flex-grow sm:pr-4 mb-6 sm:mb-0 object-cover" src="https://www.grenzensindrelativ.de/wp-content/uploads/2015/04/Jubelszene1.jpg" alt="Grenzen sind relativ e.V.">
       <p class="flex text-gray-800 leading-relaxed">
         "Grenzen sind relativ e.V." setzt sich mit verschiedensten Projekten,
         Veranstaltungen und Kampagnen für eine inklusive, integrale und
