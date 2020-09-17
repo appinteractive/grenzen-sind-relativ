@@ -240,7 +240,7 @@
     },
     {
       "title": "Media",
-      "page": "content/media.md",
+      "page": null,
       "children": [
         {
           "title": "Videos",
