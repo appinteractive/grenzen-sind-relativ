@@ -2,6 +2,7 @@
 title: Grenzen sind relativ Festivals
 description: Empty description
 submenu:
+- title: Allgemeine Infos
 - title: 3. Grenzen sind relativ Festival
   page: content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md
 - title: 2. Grenzen sind relativ Festival
