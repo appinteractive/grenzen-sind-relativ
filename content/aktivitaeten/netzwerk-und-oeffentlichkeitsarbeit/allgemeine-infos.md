@@ -1,0 +1,5 @@
+---
+title: Allgemeine Infos
+description: ''
+
+---
