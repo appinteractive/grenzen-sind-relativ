@@ -25,6 +25,8 @@ export default {
       breadCrumbs.pop()
     }
 
+    console.log([...subMenu])
+
     if (Array.isArray(page)) {
       throw error({ statusCode: 404, message: 'Page not found' })
     }
