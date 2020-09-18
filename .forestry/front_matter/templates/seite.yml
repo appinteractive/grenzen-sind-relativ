@@ -12,3 +12,5 @@ fields:
   label: Beschreibung (SEO)
   config:
     required: false
+pages:
+- content/ueber-uns/ubersicht-aktivitaten.md
