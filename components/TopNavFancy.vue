@@ -106,7 +106,7 @@ export default {
   props: {
     open: { type: Boolean, default: false },
     activeTab: { type: Number, default: 0 },
-    navigation: { type: Array, default: () => [] }
+    navigation: { type: Array, default: () => [], required: true }
   },
   data: () => ({
     lastIndex: null

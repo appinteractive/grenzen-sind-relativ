@@ -1,6 +1,5 @@
 <template>
-  <nav>
-
+  <nav class="breadcrumbs">
     <ul class="flex pb-8">
       <li
         v-for="(breadCrumb, depth) in breadCrumbs"

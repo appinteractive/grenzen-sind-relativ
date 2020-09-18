@@ -1,10 +1,10 @@
   <template>
   <div class="min-h-screen bg-gray-100 w-screen text-gray-700 antialiased leading-tight">
-    <TopNavSmart :navigation="nav" />
+    <TopNavSmart :navigation="mainNav" />
     <main class="min-h-full">
       <Nuxt class="pt-40" />
     </main>
-    <Footer class="bottom-0" />
+    <Footer class="bottom-0" :navigation="footerNav" />
   </div>
 </template>
 
@@ -12,10 +12,12 @@
 
 export default {
   created() {
-    this.nav = this.$store.getters['navigation/nav']
+    this.mainNav = this.$store.getters['navigation/mainNav']
+    this.footerNav = this.$store.getters['navigation/footerNav']
   },
   data: () => ({
-    nav: null
+    mainNav: null,
+    footerNav: null
   })
 }
 </script>

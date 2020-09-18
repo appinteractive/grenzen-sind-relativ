@@ -2,20 +2,20 @@
   <footer class="w-full bg-gray-700 text-gray-400 mt-6">
     <div class="container m-auto px-6 py-10">
       <div class="grid lg:grid-cols-3 gap-6">
-        <div class="flex flex-col gap-5">
+        <div
+          v-for="col in navigation"
+          :key="col.title"
+          class="flex flex-col gap-5"
+        >
           <h3 class="text-xs uppercase text-gray-500 font-semibold">Rechtliches</h3>
-          <div class="flex flex-col gap-2 text-gray-400">
-            <nuxt-link to="/" class="hover:underline hover:text-white">Impressum</nuxt-link>
-            <nuxt-link to="/" class="hover:underline hover:text-white">Datenschutz</nuxt-link>
-            <nuxt-link to="/" class="hover:underline hover:text-white">Kontakt</nuxt-link>
-          </div>
-        </div>
-        <div class="flex flex-col gap-5">
-          <h3 class="text-xs uppercase text-gray-500 font-semibold">Grenzen sind relativ e.V.</h3>
-          <div class="flex flex-col gap-2 text-gray-400">
-            <nuxt-link to="/" class="hover:underline hover:text-white">Blog</nuxt-link>
-            <nuxt-link to="/" class="hover:underline hover:text-white">Presse</nuxt-link>
-            <nuxt-link to="/" class="hover:underline hover:text-white">Spenden</nuxt-link>
+          <div
+            v-for="row in col.children"
+            :key="row.title"
+            class="flex flex-col gap-2 text-gray-400"
+          >
+            <nuxt-link v-if="row.url" :to="row.url" class="hover:underline hover:text-white">
+              {{ row.title }}
+            </nuxt-link>
           </div>
         </div>
         <div class="flex flex-col gap-5">
@@ -33,3 +33,17 @@
     </div>
   </footer>
 </template>
+
+<script>
+export default {
+  props: {
+    navigation: { type: Array, default: () => [], required: true }
+  }
+}
+</script>
+
+<style lang="css">
+footer .link-active {
+  @apply font-bold text-white;
+}
+</style>

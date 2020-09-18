@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="md:flex md:flex-wrap bg-white border-gray-300 fixed w-full z-50 md:h-auto"
+    class="nav-main md:flex md:flex-wrap bg-white border-gray-300 fixed w-full z-50 md:h-auto"
   >
     <div class="w-full border-b border-gray-300 p-4">
       <div
@@ -15,7 +15,7 @@
           <li class="relative" v-for="(level1, index1) in navigation" :key="level1.title">
             <TopNavLink
               :to="level1.url"
-              class="font-medium tracking-wide hover:text-gray-900 lg:pb-3 px-4 lg:mt-0 relative"
+              class="level1 ont-medium tracking-wide hover:text-gray-900 lg:pb-3 px-4 lg:mt-0 relative"
               @mouseenter.native="setCurrentIndex(index1)"
             >
               {{ level1.title }}
@@ -112,3 +112,10 @@ export default {
   },
 }
 </script>
+
+<style lang="css">
+.nav-main .level1.link-active,
+.nav-main .level1.link-parent-active  {
+  @apply font-bold;
+}
+</style>

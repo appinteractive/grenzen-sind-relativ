@@ -134,8 +134,8 @@ export default {
     }
   },
   router: {
-    linkActiveClass: 'font-bold',
-    linkExactActiveClass: 'font-bold text-gray-900'
+    linkActiveClass: 'link-parent-active',
+    linkExactActiveClass: 'link-active'
   },
   /* More information on the PWA module: https://pwa.nuxtjs.org/ */
   pwa: {

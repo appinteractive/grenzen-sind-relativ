@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Inhalt
@@ -21,9 +21,10 @@ sections:
   templates:
   - menuliste
 - type: document
-  path: "~/config/navigation/footer.json"
+  path: config/navigation/footer.json
   label: Footer
-  read_only: true
+  templates:
+  - menuliste
 upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''

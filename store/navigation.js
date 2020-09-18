@@ -1,15 +1,17 @@
-import nav from '~/config/navigation/main.json'
+import mainNav from '~/config/navigation/main.json'
+import footerNav from '~/config/navigation/footer.json'
 
 function normalizeUrls(items) {
   const output = [ ...items ]
 
   output.forEach(item => {
-    if (!item.page) return item
-    item.url = (item.page || '').replace(/content(.+)\.md/, '$1')
+    if (item.page) {
+      item.url = item.page.replace(/content(.+)\.md/, '$1')
+    }
     if (item.children && item.children.length > 0) {
       item.children = normalizeUrls(item.children)
     }
-  });
+  })
 
   return output
 }
@@ -43,7 +45,8 @@ function getBreadCrumbs(branch, url, parents) {
 }
 
 export const state = (ctx) => ({
-  nav: normalizeUrls(nav.menu),
+  mainNav: normalizeUrls(mainNav.menu),
+  footerNav: normalizeUrls(footerNav.menu),
   route: null
 })
 
@@ -54,10 +57,13 @@ export const actions = {
 }
 
 export const getters = {
-  nav(state) {
-    return state.nav
+  mainNav(state) {
+    return state.mainNav
+  },
+  footerNav(state) {
+    return state.footerNav
   },
   breadCrumbs: (state) => (route) => {
-    return getBreadCrumbs(state.nav, route.path, []) || []
+    return getBreadCrumbs(state.mainNav, route.path, []) || []
   }
 }

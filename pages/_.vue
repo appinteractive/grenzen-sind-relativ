@@ -15,7 +15,6 @@ export default {
   async asyncData({ params, $content, store, route, error }) {
     const page = await $content(route.path === '/' ? 'startseite' : route.path).fetch()
 
-    const nav = store.getters['navigation/nav']
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
     const subMenu = breadCrumbs.length > 0 && breadCrumbs[breadCrumbs.length - 1].children || crumbAnomaly
@@ -24,8 +23,6 @@ export default {
       // remove last breadcrumb element as it is redundant
       breadCrumbs.pop()
     }
-
-    console.log([...subMenu])
 
     if (Array.isArray(page)) {
       throw error({ statusCode: 404, message: 'Page not found' })

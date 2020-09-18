@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "title": "Rechtliches",
+      "children": [
+        {
+          "title": "Impressum",
+          "page": "content/impressum.md"
+        },
+        {
+          "title": "Datenschutz",
+          "page": "content/datenschutz.md"
+        },
+        {
+          "title": "Kontakt",
+          "page": "content/kontakt.md"
+        }
+      ]
+    },
+    {
+      "title": "Grenzen sind relativ e.V.",
+      "children": [
+        {
+          "title": "Blog",
+          "page": "content/media/blog.md"
+        },
+        {
+          "title": "Presse",
+          "page": "content/presse.md"
+        },
+        {
+          "title": "Spenden",
+          "page": "content/spenden.md"
+        }
+      ]
+    }
+  ]
+}
