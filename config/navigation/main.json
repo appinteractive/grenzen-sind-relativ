@@ -79,7 +79,8 @@
               "description": "Spannende Formate für Kultur- & Sportveranstalt- ungen, Festivals, Stadtfeste, Kongresse, usw.",
               "children": [
                 {
-                  "title": "Allgemeine Infos"
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
                 },
                 {
                   "title": "Support Inklusion - Support mal anders!",
