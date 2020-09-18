@@ -1,5 +1,5 @@
 ---
-title: Grenzen sind relativ Festivals
+title: 3. Grenzen sind relativ Festival
 description: Empty description
 
 ---
@@ -84,4 +84,3 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. https://www.grenzensindrelativ.de
 
 [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)
-
