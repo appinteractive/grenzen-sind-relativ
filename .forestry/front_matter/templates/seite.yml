@@ -13,5 +13,4 @@ fields:
   config:
     required: false
 pages:
-- content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit.md
 - content/ueber-uns/ubersicht-aktivitaten.md
