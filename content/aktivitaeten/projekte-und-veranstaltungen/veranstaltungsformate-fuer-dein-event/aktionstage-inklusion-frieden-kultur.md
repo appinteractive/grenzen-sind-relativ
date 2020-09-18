@@ -1,8 +1,9 @@
 ---
-title: Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen
+title: Aktionstage Inklusion / Frieden / Kultur in Schulen, Universitäten und anderen Einrichtungen
 description:
 ---
 
-# Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen 
+# Aktionstage Inklusion / Frieden / Kultur
+## ...in Schulen, Universitäten und anderen Einrichtungen 
 
-hier fehlt Inhalt
+hier fehlt Inhalt 🙂

@@ -27,8 +27,8 @@
           {{ breadCrumb.title }}
         </nuxt-link>
         <span
-          v-else-if="!breadCrumb.showInMainNavigation"
-          class="block p-2 text-gray-500 font-normal rounded"
+          v-else
+          class="block p-2 text-gray-500 font-normal rounded cursor-default"
           style="font-weight: normal"
         >
           {{ breadCrumb.title }}

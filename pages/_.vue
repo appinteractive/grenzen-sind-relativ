@@ -13,7 +13,8 @@
 <script>
 export default {
   async asyncData({ params, $content, store, route, error }) {
-    const page = await $content(route.path === '/' ? 'startseite' : route.path).fetch()
+    const path = `/${params.pathMatch || 'startseite'}`
+    const page = await $content(path).fetch()
 
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
