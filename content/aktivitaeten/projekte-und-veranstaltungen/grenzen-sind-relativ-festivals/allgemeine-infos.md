@@ -1,6 +1,8 @@
 ---
-title: Allgemeine Infos
-description: Grenzen sind relativ Festivals
+title: Grenzen sind relativ Festivals
+description: Live-Musik, Theater, Kabarett, Performance, Video-Kunst,  Kunstausstellung,
+  interaktive Erlebniswelten, Network-Area und DJs  finden bei unseren jährlichen
+  Festivals eine gemeinsame Spielwiese.
 
 ---
 # Grenzen sind relativ Festivals
