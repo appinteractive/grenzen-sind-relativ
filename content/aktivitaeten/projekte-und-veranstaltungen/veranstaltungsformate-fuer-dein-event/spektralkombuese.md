@@ -3,7 +3,7 @@ title: Spektralkombüse
 description: ''
 
 ---
-# Spektralkombüse – Erfahrbare Inklusion durch Musik, Tanz und Kabarett
+# Spektralkombüse   Erfahrbare Inklusion durch Musik, Tanz und Kabarett
 
 ![SPEKTRALKOMBÜSE 3](http://www.grenzensindrelativ.de/wp-content/uploads/2015/11/SPEKTRALKOMBÜSE-3.png =700x587)
 
