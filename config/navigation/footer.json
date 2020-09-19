@@ -2,10 +2,6 @@
   "copyright": "© 2999 - Grenzen sind relativ e.V.",
   "menu": [
     {
-      "title": "Impressum",
-      "page": "content/impressum.md"
-    },
-    {
       "title": "Rechtliches",
       "children": [
         {
