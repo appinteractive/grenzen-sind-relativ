@@ -13,6 +13,7 @@ fields:
   config:
     required: false
 pages:
+- content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-akteure.md
 - content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-projektinfo.md
 - content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-worum-geht-es.md
 - content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md
