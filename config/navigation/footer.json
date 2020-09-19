@@ -1,6 +1,10 @@
 {
   "menu": [
     {
+      "title": "Impressum",
+      "page": "content/impressum.md"
+    },
+    {
       "title": "Rechtliches",
       "children": [
         {
