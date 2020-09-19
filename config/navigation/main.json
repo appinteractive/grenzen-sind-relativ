@@ -210,7 +210,8 @@
               "description": "Ob inklusiv, interkulturell oder/und finanziell Beinträchtigte. Musik ist für alle da und rockt!",
               "children": [
                 {
-                  "title": "Allgemeine Infos"
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-bands.md"
                 }
               ]
             },
