@@ -1,5 +1,5 @@
 ---
-title: Beratung und Coaching
+title: Allgemeine Infos Beratung und Coaching
 description: Empty description
 
 ---
