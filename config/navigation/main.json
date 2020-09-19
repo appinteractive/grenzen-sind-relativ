@@ -65,11 +65,12 @@
             },
             {
               "title": "Erlebnistage Inklusion durch Musik",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
               "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
               "children": [
                 {
-                  "title": "Allgemeine Infos"
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md"
                 }
               ]
             },
