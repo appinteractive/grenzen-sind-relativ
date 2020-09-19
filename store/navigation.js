@@ -47,6 +47,7 @@ function getBreadCrumbs(branch, url, parents) {
 export const state = (ctx) => ({
   mainNav: normalizeUrls(mainNav.menu),
   footerNav: normalizeUrls(footerNav.menu),
+  copyright: footerNav.copyright,
   route: null
 })
 
@@ -62,6 +63,9 @@ export const getters = {
   },
   footerNav(state) {
     return state.footerNav
+  },
+  copyright(state) {
+    return state.copyright
   },
   breadCrumbs: (state) => (route) => {
     return getBreadCrumbs(state.mainNav, route.path, []) || []

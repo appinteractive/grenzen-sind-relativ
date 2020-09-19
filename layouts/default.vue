@@ -4,7 +4,7 @@
     <main class="min-h-full">
       <Nuxt class="pt-40" />
     </main>
-    <Footer class="bottom-0" :navigation="footerNav" />
+    <Footer class="bottom-0" :navigation="footerNav" :copyright="copyright" />
   </div>
 </template>
 
@@ -14,10 +14,12 @@ export default {
   created() {
     this.mainNav = this.$store.getters['navigation/mainNav']
     this.footerNav = this.$store.getters['navigation/footerNav']
+    this.copyright = this.$store.getters['navigation/copyright']
   },
   data: () => ({
     mainNav: null,
-    footerNav: null
+    footerNav: null,
+    copyright: null
   })
 }
 </script>

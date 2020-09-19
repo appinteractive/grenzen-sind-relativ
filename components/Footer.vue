@@ -28,7 +28,7 @@
         </div>
       </div>
       <div class="text-sm">
-        © 2020 - Grenzen sind relativ e.V.
+        {{ copyright }}
       </div>
     </div>
   </footer>
@@ -37,7 +37,8 @@
 <script>
 export default {
   props: {
-    navigation: { type: Array, default: () => [], required: true }
+    navigation: { type: Array, default: () => [], required: true },
+    copyright: { type: String, required: true }
   }
 }
 </script>
