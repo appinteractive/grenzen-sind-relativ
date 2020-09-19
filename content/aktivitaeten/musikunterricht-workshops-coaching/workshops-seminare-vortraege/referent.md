@@ -15,6 +15,14 @@ Als glaubwürdiger Botschafter initiierte er im Oktober 2011 die deutschlandweit
 
 Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Darüber hinaus ist Mischa als Speaker, Dozent, Autor sowie als Aktivist u.a. in der Friedensbewegung aktiv.
 
+# Referenzen
+
+Schulen, Universitäten, Fachtagungen, Kongresse, Symposien, usw. (Ausschnitt):
+
+Thementag „Inklusion im Kulturbetrieb“ (KMM Hamburg | Institut für Kultur- und Medienmanagement), Teamer-Wochenende (ABC Bildungs- & Tagungszentrum e.V.), Work in Progress (Kampnagel Hamburg), Jubiläumsveranstaltung (Lebenshilfe Norderstedt), Fachtagung Partizipation in der inklusiven Schule (Kiel Kronshagen), Inklusionstage 2015 (Berlin Congress Center), Schwarzmarkt (Kampnagel Hamburg), Internationales Symposium Fit on Stage an der Universität für Musik und darstellende Kunst (Wien), Institut für Musik (Hochschule Osnabrück), Hochschule für Musik, Theater und Medien (Hannover), Anna-Warburg-Schule (Hamburg), Fachkongress Der inklusive Norden – Alle sind willkommen (Kieler Schloss), Fachkongress Schulmusik (Landesinstitut für Lehrerbildung und Schulentwicklung Hamburg), 10. Bundeskongress des Bundesverband Deutscher Privatmusikschulen e.V. (Landesmusikakademie Hammelburg), Symposium Musik & Inklusion (staatliche Jugendmusikschule Hamburg), Wochenendworkshop Theaterprojekt pottfiction (Gelsenkirchen), Buntstifter Kongress Deutsches Rotes Kreuz (Berlin), DSB Bundesjugend Sommercamp (Borken), Projektwoche Stadtteilschule Mitte (Hamburg), Aktionstag Inklusion (Dinslaken), DSB Sommerkulturwochenende (Weimar), Heinrich-Böll-Stiftung (Hamburg), Gesundheitskongress (Landeszentrum Schleswig), Hamburg School of Music, Kreative Nord Kongress (Kiel), Elternabend (Jesteburg), u.v.m.
+
+![2014er Kongress Hammelburg Bilder von Marcus 1200er 135](http://www.grenzensindrelativ.de/wp-content/uploads/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-135-1024x680.jpg =1024x680)
+
 Links:
 
 [NDR Schleswig Holstein Magazin „Mischa Gohlke – Musiker ohne Gehör“](https://www.youtube.com/watch?v=7RohEwmDdXY)
@@ -30,5 +38,5 @@ Links:
 Kontakt:
 
 Mischa Gohlke  
- mischa.gohlke@grenzensindrelativ.de  
- [www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
+mischa.gohlke@grenzensindrelativ.de  
+[www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
