@@ -1,8 +1,8 @@
 ---
 title: Spenden
 description: Empty description
-
 ---
+
 # Spenden
 
 Liebe Mit-Menschen,
@@ -22,7 +22,7 @@ Spendenbescheinigungen können selbstverständlich ausgestellt werden.
 Für Rückfragen, weitere Informationen, usw. stehen wir Dir natürlich gerne zur Verfügung.  
  Kontakt: Mischa Gohlke, mischa.gohlke@grenzensindrelativ.de
 
-&lt;h2&gt;Spendenformular&lt;/h2&gt;&lt;p&gt;Ihr Browser kann keine iFrames darstellen, bitte nutzen Sie folgenden Link: &lt;a href="[https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html](https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html "https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html")"&gt;Spendenformular&lt;/a&gt;&lt;/p&gt;
+<iframe src="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html" id="fbIframe" title="Spendenformular" style="width: 100%; height: 1648px;" scrolling="no" allowtransparency="true" width="100%" height="1500" frameborder="0"><h2>Spendenformular</h2><p>Ihr Browser kann keine iFrames darstellen, bitte nutzen Sie folgenden Link: <a href="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html">Spendenformular</a></p></iframe>
 
 [![FundraisingBox Logo](https://secure.fundraisingbox.com/images/FundraisingBox-Logo-Widget.png)](http://www.fundraisingbox.com)
 
