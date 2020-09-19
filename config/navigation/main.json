@@ -107,6 +107,9 @@
               "description": "Gemeinsam sind wir stark!",
               "children": [
                 {
+                  "title": "Archiv"
+                },
+                {
                   "title": "Allgemeine Infos",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
                 },
