@@ -129,48 +129,48 @@
           "showInMainNavigation": true
         },
         {
-          "title": "Musikvideo-Kampagnen",
-          "page": "content/aktivitaeten/musikvideo-kampagnen/allgemeine-infos-musikvideo-kampagnen.md",
+          "title": "Kampagnen-Musikvideos",
+          "page": "content/aktivitaeten/kampagnen-musikvideos/allgemeine-infos-kampagnen-musikvideos.md",
           "children": [
             {
               "title": "AndersSein vereint - Inklusionssong für Deutschland",
-              "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-worum-geht-es.md",
+              "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es.md",
               "description": "1 Musikvideo, 3 Festivals und diverse Folgeprojekte für die \"gesamtgesellschaftliche Inklusion\".",
               "children": [
                 {
                   "title": "Worum geht es?",
-                  "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-worum-geht-es.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es.md"
                 },
                 {
                   "title": "Projektinfo",
-                  "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-projektinfo.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md"
                 },
                 {
                   "title": "Akteure: Band, Gastsänger & Protagonisten",
-                  "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-akteure.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md"
                 },
                 {
                   "title": "Videos & Fotos",
-                  "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-videos-fotos.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos.md"
                 },
                 {
                   "title": "Review & Erfolge",
-                  "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-review-erfolge.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-review-erfolge.md"
                 },
                 {
                   "title": "AndersSein vereint Festivals",
-                  "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-anderssein-vereint-festivals.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md"
                 }
               ]
             },
             {
               "title": "NEU 2. Inklusions- & Friedenssong (Arbeitstitel)",
-              "page": "content/aktivitaeten/musikvideo-kampagnen/inklusions-und-friedenskampagnensong/allgemeine-infos-2.inklusion-friedenssong.md",
+              "page": "content/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2.inklusion-friedenssong.md",
               "description": "Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!",
               "children": [
                 {
                   "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/musikvideo-kampagnen/inklusions-und-friedenskampagnensong/allgemeine-infos-2.inklusion-friedenssong.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2.inklusion-friedenssong.md"
                 }
               ]
             }

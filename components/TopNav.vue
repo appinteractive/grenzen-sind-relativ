@@ -173,7 +173,7 @@
         </NavItemLevelTwo>
         <!-- <NavItemLevelTwo to="/projekte" :active="true">Projekte</NavItemLevelTwo>
         <NavItemLevelTwo to="/">Veranstaltungen</NavItemLevelTwo>
-        <NavItemLevelTwo to="/">Kampagnien</NavItemLevelTwo>
+        <NavItemLevelTwo to="/">Kampagnen</NavItemLevelTwo>
         <NavItemLevelTwo to="/">Workshop</NavItemLevelTwo>
         <NavItemLevelTwo to="/">Beratung & Coaching</NavItemLevelTwo>
         <NavItemLevelTwo to="/">Band</NavItemLevelTwo> -->
@@ -211,10 +211,10 @@ export default {
           },
           {
             title: 'Netztwerkarbeit & Community',
-            url: '/kampagnien',
+            url: '/kampagnen',
           },
           {
-            title: 'Kampagnien-Musikvideos',
+            title: 'Kampagnen-Musikvideos',
             url: '/workshop',
           },
           {
