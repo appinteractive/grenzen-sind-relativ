@@ -307,7 +307,13 @@
         },
         {
           "title": "Blog",
-          "page": "content/media/blog.md"
+          "page": "content/media/blog.md",
+          "children": [
+            {
+              "title": "“Grenzen sind relativ – Musik, Hören und Inklusion“ ",
+              "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md"
+            }
+          ]
         }
       ],
       "showInMainNavigation": true
