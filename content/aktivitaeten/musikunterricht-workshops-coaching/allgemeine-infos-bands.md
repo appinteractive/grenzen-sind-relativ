@@ -1,5 +1,5 @@
 ---
-title: Allgemeine Infos Bands
+title: Allgemeine Infos Bandcamps
 description: ''
 
 ---
