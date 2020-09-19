@@ -242,7 +242,8 @@
               "description": "Für Vereine, Schulen, Universitäten, Unternehmen, Kulturschaffende, Künstler, Agenturen, usw.",
               "children": [
 
-              ]
+              ],
+              "page": "content/aktivitaeten/musikunterricht-workshops-coaching/beratung-und-coaching.md"
             }
           ],
           "showInMainNavigation": true
