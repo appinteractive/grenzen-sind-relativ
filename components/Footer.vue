@@ -8,14 +8,16 @@
           class="flex flex-col gap-5"
         >
           <h3 class="text-xs uppercase text-gray-500 font-semibold">Rechtliches</h3>
-          <div
-            v-for="row in col.children"
-            :key="row.title"
-            class="flex flex-col gap-2 text-gray-400"
-          >
-            <nuxt-link v-if="row.url" :to="row.url" class="hover:underline hover:text-white">
-              {{ row.title }}
-            </nuxt-link>
+          <div>
+            <div
+              v-for="row in col.children"
+              :key="row.title"
+              class="flex flex-col pb-1 text-gray-400"
+            >
+              <nuxt-link v-if="row.url" :to="row.url" class="hover:underline hover:text-white">
+                {{ row.title }}
+              </nuxt-link>
+            </div>
           </div>
         </div>
         <div class="flex flex-col gap-5">
