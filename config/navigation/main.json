@@ -169,7 +169,8 @@
               "description": "Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!",
               "children": [
                 {
-                  "title": "Allgemeine Infos"
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/musikvideo-kampagnen/inklusions-und-friedenskampagnensong/allgemeine-infos-2.inklusion-friedenssong.md"
                 }
               ]
             }
