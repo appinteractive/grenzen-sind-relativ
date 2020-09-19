@@ -103,12 +103,9 @@
             },
             {
               "title": "Kooperationsprojekte",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/archiv-kooperationsprojekte.md",
               "description": "Gemeinsam sind wir stark!",
               "children": [
-                {
-                  "title": "Archiv"
-                },
                 {
                   "title": "Allgemeine Infos",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
@@ -121,6 +118,9 @@
                 {
                   "title": "Marienkriche Osnabrück: Beethoven – mit allen Sinnen hören!",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/marienkriche-osnabruck-beethoven-mit-allen-sinnen-horen.md"
+                },
+                {
+                  "title": "Archiv"
                 }
               ]
             }
