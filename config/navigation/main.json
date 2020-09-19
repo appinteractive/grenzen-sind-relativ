@@ -129,7 +129,7 @@
           "showInMainNavigation": true
         },
         {
-          "title": "Kampagnen-Musikvideos",
+          "title": "Kampagnen Musikvideos",
           "page": "content/aktivitaeten/kampagnen-musikvideos/allgemeine-infos-kampagnen-musikvideos.md",
           "children": [
             {
@@ -183,24 +183,24 @@
           "children": [
             {
               "title": "Musikunterricht für Hörgeschädigte",
-              "page": "content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
+              "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
               "description": "Musikunterricht, der alle Sinne, Wahrnehmungen & Empfindungen mit einbezieht und alle Menschen anspricht.",
               "children": [
                 {
                   "title": "Worum geht es?",
-                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md"
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md"
                 },
                 {
                   "title": "Kiel",
-                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/musikunterricht-kiel.md"
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-kiel.md"
                 },
                 {
                   "title": "Hamburg",
-                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/musikunterricht-hamburg.md"
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-hamburg.md"
                 },
                 {
                   "title": "Bundesweit",
-                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/musikunterricht-bundesweit.md"
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-bundesweit.md"
                 }
               ]
             },

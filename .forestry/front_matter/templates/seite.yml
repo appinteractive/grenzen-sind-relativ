@@ -13,10 +13,10 @@ fields:
   config:
     required: false
 pages:
-- content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/musikunterricht-bundesweit.md
-- content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/musikunterricht-hamburg.md
-- content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/musikunterricht-kiel.md
-- content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-bundesweit.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-hamburg.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-kiel.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md
 - content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-bands.md
 - content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-musikunterricht-beratung-coaching.md
 - content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md
@@ -46,3 +46,4 @@ pages:
 - content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md
 - content/ueber-uns/manifest.md
 - content/ueber-uns/ubersicht-aktivitaten.md
+- content/**/*
