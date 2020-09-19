@@ -138,7 +138,8 @@
               "description": "1 Musikvideo, 3 Festivals und diverse Folgeprojekte für die \"gesamtgesellschaftliche Inklusion\".",
               "children": [
                 {
-                  "title": "Worum geht es?"
+                  "title": "Worum geht es?",
+                  "page": "content/aktivitaeten/musikvideo-kampagnen/anderssein-vereint/asv-worum-geht-es.md"
                 },
                 {
                   "title": "Projektinfo"
