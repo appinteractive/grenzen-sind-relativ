@@ -13,6 +13,4 @@ Live-Musik, Theater, Kabarett, Performance, Video-Kunst,  Kunstausstellung, inte
 
 Im Folgenden einige audiovisuelle Impressionen von unserem „Grenzen sind relativ Festival 2018“
 
-<div class="relative w-full pb-16/9">
-<iframe src="https://www.youtube.com/embed/tfQJfC9bmmU?feature=oembed" class="w-full h-full absolute" frameborder="0" allowFullscreen></iframe>
-</div>
+<youtube id="tfQJfC9bmmU"></youtube>
