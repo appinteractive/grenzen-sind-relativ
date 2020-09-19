@@ -5,7 +5,13 @@
 ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
 */
 module.exports = {
-  theme: {},
+  theme: {
+    extend: {
+      spacing: {
+        '16/9': '56.25%'
+      }
+    }
+  },
   variants: {
     textDecoration: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
     backgroundColor: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
