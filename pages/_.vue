@@ -4,7 +4,9 @@
     <div class="flex">
       <SubMenu v-if="subMenu" :sub-menu="subMenu" />
       <div :class="subMenu && 'w-2/3'">
-        <nuxt-content :document="page" class="prose" />
+        <article>
+          <nuxt-content :document="page" class="prose" />
+        </article>
       </div>
     </div>
   </div>
