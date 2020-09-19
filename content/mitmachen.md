@@ -5,4 +5,4 @@ description: Mach mit!
 ---
 # Mitmachen
 
-> Dummy Page
+Mach mit!!! :)
