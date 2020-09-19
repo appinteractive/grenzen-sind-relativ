@@ -107,6 +107,10 @@
               "description": "Gemeinsam sind wir stark!",
               "children": [
                 {
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
+                },
+                {
                   "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md",
                   "external": false
