@@ -187,7 +187,8 @@
               "description": "Musikunterricht, der alle Sinne, Wahrnehmungen & Empfindungen mit einbezieht und alle Menschen anspricht.",
               "children": [
                 {
-                  "title": "Worum geht es?"
+                  "title": "Worum geht es?",
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/Musikunterricht für Hörgeschädigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md"
                 },
                 {
                   "title": "Kiel"
