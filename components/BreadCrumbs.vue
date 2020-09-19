@@ -6,7 +6,7 @@
         :key="breadCrumb.title"
         class="flex items-center"
       >
-        <svg
+        <!-- <svg
           class="w-4 h-4 text-gray-600"
           v-if="depth > 0"
           viewBox="0 0 16 16"
@@ -17,18 +17,19 @@
             fill-rule="evenodd"
             d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"
           />
-        </svg>
+        </svg> -->
+        <arrow-right v-if="depth > 0" class="w-5 h-5 mx-1 text-gray-500 flex-shrink-0" />
         <nuxt-link
           v-if="breadCrumb.url"
           :to="breadCrumb.url"
-          class="block p-2 text-gray-500 font-normal hover:text-gray-800 hover:underline rounded"
+          class="block py-2 text-gray-500 font-normal hover:text-gray-800 hover:underline rounded"
           style="font-weight: normal"
         >
           {{ breadCrumb.title }}
         </nuxt-link>
         <span
           v-else
-          class="block p-2 text-gray-500 font-normal rounded cursor-default"
+          class="block py-2 text-gray-500 font-normal rounded cursor-default"
           style="font-weight: normal"
         >
           {{ breadCrumb.title }}
