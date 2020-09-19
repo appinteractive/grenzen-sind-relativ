@@ -1,8 +1,9 @@
 ---
 title: Spenden
-description: Empty description
----
+description: Wir freuen uns über jede einmalige und/oder regelmäßige (monatliche)
+  Spende
 
+---
 # Spenden
 
 Liebe Mit-Menschen,
@@ -20,7 +21,7 @@ Wir freuen uns über jede einmalige und/oder regelmäßige (monatliche) Spende! 
 Spendenbescheinigungen können selbstverständlich ausgestellt werden.
 
 Für Rückfragen, weitere Informationen, usw. stehen wir Dir natürlich gerne zur Verfügung.  
- Kontakt: Mischa Gohlke, mischa.gohlke@grenzensindrelativ.de
+Kontakt: Mischa Gohlke, mischa.gohlke@grenzensindrelativ.de
 
 <iframe src="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html" id="fbIframe" title="Spendenformular" style="width: 100%; height: 1648px;" scrolling="no" allowtransparency="true" width="100%" height="1500" frameborder="0"><h2>Spendenformular</h2><p>Ihr Browser kann keine iFrames darstellen, bitte nutzen Sie folgenden Link: <a href="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html">Spendenformular</a></p></iframe>
 
