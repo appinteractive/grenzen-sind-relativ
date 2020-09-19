@@ -7,7 +7,7 @@ description: ''
 
 **Mischa Gohlke – _Musiker, Aktivist, Speaker, Kultur- & Medienmanager, Dozent, Coach, Autor, Inklusionsbotschafter und vor allem Mensch …_**
 
-Mischa Gohlke ist facettenreich und ebenso seine[![Mischa Gohlke Portrait](http://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Mischa-Gohlke-Portrait-300x300.jpg =270x270)](http://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Mischa-Gohlke-Portrait.jpg) erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und ist den Weg als Profimusiker eingeschlagen.
+Mischa Gohlke ist facettenreich und ebenso seine[![Mischa Gohlke Portrait](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Mischa-Gohlke-Portrait-300x300.jpg?size=270x270)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Mischa-Gohlke-Portrait.jpg) erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und ist den Weg als Profimusiker eingeschlagen.
 
 Parallel zum Studium „Kultur- und Medienmanagement“ an der „Hochschule für Musik und Theater Hamburg“ gründete Mischa im Jahr 2006 die Event- und Projektmanagementagentur „migo connections“. Allein 2010 wurden über 100 Veranstaltungen, Festivals und Konzerte im norddeutschen Raum realisiert.
 
@@ -21,15 +21,15 @@ Schulen, Universitäten, Fachtagungen, Kongresse, Symposien, usw. (Ausschnitt):
 
 Thementag „Inklusion im Kulturbetrieb“ (KMM Hamburg | Institut für Kultur- und Medienmanagement), Teamer-Wochenende (ABC Bildungs- & Tagungszentrum e.V.), Work in Progress (Kampnagel Hamburg), Jubiläumsveranstaltung (Lebenshilfe Norderstedt), Fachtagung Partizipation in der inklusiven Schule (Kiel Kronshagen), Inklusionstage 2015 (Berlin Congress Center), Schwarzmarkt (Kampnagel Hamburg), Internationales Symposium Fit on Stage an der Universität für Musik und darstellende Kunst (Wien), Institut für Musik (Hochschule Osnabrück), Hochschule für Musik, Theater und Medien (Hannover), Anna-Warburg-Schule (Hamburg), Fachkongress Der inklusive Norden – Alle sind willkommen (Kieler Schloss), Fachkongress Schulmusik (Landesinstitut für Lehrerbildung und Schulentwicklung Hamburg), 10. Bundeskongress des Bundesverband Deutscher Privatmusikschulen e.V. (Landesmusikakademie Hammelburg), Symposium Musik & Inklusion (staatliche Jugendmusikschule Hamburg), Wochenendworkshop Theaterprojekt pottfiction (Gelsenkirchen), Buntstifter Kongress Deutsches Rotes Kreuz (Berlin), DSB Bundesjugend Sommercamp (Borken), Projektwoche Stadtteilschule Mitte (Hamburg), Aktionstag Inklusion (Dinslaken), DSB Sommerkulturwochenende (Weimar), Heinrich-Böll-Stiftung (Hamburg), Gesundheitskongress (Landeszentrum Schleswig), Hamburg School of Music, Kreative Nord Kongress (Kiel), Elternabend (Jesteburg), u.v.m.
 
-![2014er Kongress Hammelburg Bilder von Marcus 1200er 135](http://www.grenzensindrelativ.de/wp-content/uploads/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-135-1024x680.jpg =1024x680)
+![2014er Kongress Hammelburg Bilder von Marcus 1200er 135](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-135-1024x680.jpg?size=1024x680)
 
 Links:
 
 [NDR Schleswig Holstein Magazin „Mischa Gohlke – Musiker ohne Gehör“](https://www.youtube.com/watch?v=7RohEwmDdXY)
 
-[Blog von Mischa Gohlke – „Grenzen sind relativ – Musik, Hören und Inklusion“](http://www.grenzensindrelativ.de/2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html)
+[Blog von Mischa Gohlke – „Grenzen sind relativ – Musik, Hören und Inklusion“](https://www.grenzensindrelativ.de/2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html)
 
-[Blog von Mischa Gohlke – „Auf in eine neue Beziehungskultur!“](http://www.grenzensindrelativ.de/2016/12/03/auf-in-eine-neue-beziehungskultur.html)
+[Blog von Mischa Gohlke – „Auf in eine neue Beziehungskultur!“](https://www.grenzensindrelativ.de/2016/12/03/auf-in-eine-neue-beziehungskultur.html)
 
 [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://www.youtube.com/watch?v=KPi9ZNp-YJQ)
 
@@ -39,4 +39,4 @@ Kontakt:
 
 Mischa Gohlke  
 mischa.gohlke@grenzensindrelativ.de  
-[www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
+[www.grenzensindrelativ.de](https://www.grenzensindrelativ.de)

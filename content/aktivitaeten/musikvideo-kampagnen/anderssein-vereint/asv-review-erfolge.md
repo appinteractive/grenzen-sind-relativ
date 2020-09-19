@@ -7,10 +7,10 @@ description: ''
 
 **1. Infos zum Gesamtprojekt “AndersSein vereint – Inklusionssong für Deutschland”:**
 
-* Unter folgendem Link gibt es die Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger und Protagonisten: [http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ (aktuell 119.094 Aufrufe): [https://youtu.be/KPi9ZNp-YJQ](http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* TV Bericht – NDR DAS! Magazin “Ein Inklusionssong für Deutschland”: [https://youtu.be/BPQpJT0kyMw](http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* Eventfilm „AndersSein vereint Festival“ // 15.06.2015 Knust Hamburg: [https://youtu.be/YtkNIEK4zEs](http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Unter folgendem Link gibt es die Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger und Protagonisten: [https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ (aktuell 119.094 Aufrufe): [https://youtu.be/KPi9ZNp-YJQ](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* TV Bericht – NDR DAS! Magazin “Ein Inklusionssong für Deutschland”: [https://youtu.be/BPQpJT0kyMw](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Eventfilm „AndersSein vereint Festival“ // 15.06.2015 Knust Hamburg: [https://youtu.be/YtkNIEK4zEs](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
 
 **2.) Medienberichte:**
 
@@ -26,7 +26,7 @@ _ARD, ZDF, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, Sat1, RTL, HH1, NDR 90.3, NDR 
 
 * Live on stage: jeweils 30-70 Künstler*innen (Musik, Tanz, Kabarett, Performance, Moderation & Interviews)
 * Besucher*innen: jeweils zwischen 400 und 600 Menschen vor Ort
-* Review “3. AndersSein vereint Festival” // 18.11.2016 “knust Hamburg”: [http://www.grenzensindrelativ.de/anderssein-vereint-2/3-anderssein-vereint-festival.html](http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Review “3. AndersSein vereint Festival” // 18.11.2016 “knust Hamburg”: [https://www.grenzensindrelativ.de/anderssein-vereint-2/3-anderssein-vereint-festival.html](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
 
 **5.) Weiterführende Basisarbeit:**
 
@@ -50,7 +50,7 @@ Die Kampagne „AndersSein vereint“ hat sehr erfolgreich weiterführende Proje
 * Das Musikvideo wurde bei diversen (Inklusions)-Veranstaltungen präsentiert: U.a. bei den Inklusionstagen 2015 im Berlin Congress Center (veranstaltet vom Bundesministerium für Arbeit und Soziales)
 
 
-* Kampagne[ „Inklusion schaffen wir“](http://www.inklusion-schaffen-wir.de/): Mit Hans Sarpei, Erik Meijer, Annette Frier, Mischa Gohlke, Timo Horn, Milos Jojic, Raul Krauthausen, Mrs Greenbird.[ Hier](https://www.youtube.com/watch?v=hKXNw9AbHJA) geht es zum youtube-Video.
+* Kampagne[ „Inklusion schaffen wir“](https://www.inklusion-schaffen-wir.de/): Mit Hans Sarpei, Erik Meijer, Annette Frier, Mischa Gohlke, Timo Horn, Milos Jojic, Raul Krauthausen, Mrs Greenbird.[ Hier](https://www.youtube.com/watch?v=hKXNw9AbHJA) geht es zum youtube-Video.
 
 
 * Vereine und Institutionen haben zu dem Original-Song eigene kreative Musikvideos produziert: U.a. Gebärdenchor „HandsUp“, Jugendfeuerwehr, usw.

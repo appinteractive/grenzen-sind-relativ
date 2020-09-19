@@ -16,7 +16,7 @@ Di. 29.09. – 21:45 Uhr – CinemaxX 3 // Do 01.10. – 21:00 Uhr – CinemaxX 
 VVK-Tickets & mehr Infos zum Film: [https://www.filmfesthamburg.de](https://www.filmfesthamburg.de "https://www.filmfesthamburg.de")
 
   
-Wir freuen uns sehr über die erste Kommunikations-Kooperation mit dem [Filmfest Hamburg](https://www.filmfesthamburg.de) im Rahmen des Kinofilms “[Sound of Metal](https://www.filmfesthamburg.de/de/programm/Film/35316/Sound_of_Metal)” im [CinemaxX Hamburg Dammtor](https://www.cinemaxx.de/kinoprogramm/hamburg-dammtor). Unser Projektleiter [Mischa Gohlke](http://www.grenzensindrelativ.de/ueber-uns/gsr-team.html) wird an beiden Abenden den Film anmoderieren. Der Kinofilm und das anschließende Video-Interview mit dem Regisseur [Darius Marder](https://www.filmfesthamburg.de/de/programm/Film/35316/Sound_of_Metal) werden deutsch untertitelt sein. Soweit dazu, nun zum wichtigsten: Der Film!
+Wir freuen uns sehr über die erste Kommunikations-Kooperation mit dem [Filmfest Hamburg](https://www.filmfesthamburg.de) im Rahmen des Kinofilms “[Sound of Metal](https://www.filmfesthamburg.de/de/programm/Film/35316/Sound_of_Metal)” im [CinemaxX Hamburg Dammtor](https://www.cinemaxx.de/kinoprogramm/hamburg-dammtor). Unser Projektleiter [Mischa Gohlke](https://www.grenzensindrelativ.de/ueber-uns/gsr-team.html) wird an beiden Abenden den Film anmoderieren. Der Kinofilm und das anschließende Video-Interview mit dem Regisseur [Darius Marder](https://www.filmfesthamburg.de/de/programm/Film/35316/Sound_of_Metal) werden deutsch untertitelt sein. Soweit dazu, nun zum wichtigsten: Der Film!
 
   
 **Sound of Metal**

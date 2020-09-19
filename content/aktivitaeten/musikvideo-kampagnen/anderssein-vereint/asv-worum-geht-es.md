@@ -23,4 +23,4 @@ Die Gedanken um den Begriff Inklusion sind nicht neu, im Gegenteil. Der aktuelle
 
 Musik hat von jeher etwas Verbindendes und bringt Menschen unterschiedlichster Backgrounds zusammen. Bei der Produktion von „AndersSein vereint – Inklusionssong für Deutschland“ (Tonstudio, Musikvideo & Kampagne) haben wir uns damit auseinandergesetzt, Inklusion mit all ihren Facetten zum LEBEN zu bringen. Mit großem Engagement, einem begrenztem Budget und vielen mitwirkenden Menschen ist eine aufwendige [Tonstudio- und Musikvideoproduktion](https://youtu.be/KPi9ZNp-YJQ) realisiert worden. In den verschiedenen Arbeitsprozessen führte die Essenz immer wieder auf „Einfach Mensch sein“ zurück. Mit allen Stärken, Schwächen, Gemeinsamkeiten und Unterschieden. Visionen wollen manifestiert werden. Im Kleinen wie im Großen. Miteinander …
 
-![AndersSein vereint _ Online Plakat](http://www.grenzensindrelativ.de/wp-content/uploads/2015/04/plakat-AVS-online1.jpg =1024x724)
+![AndersSein vereint _ Online Plakat](https://www.grenzensindrelativ.de/wp-content/uploads/2015/04/plakat-AVS-online1.jpg?size=1024x724)

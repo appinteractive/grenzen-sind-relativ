@@ -5,9 +5,9 @@ description: ''
 ---
 # Konzert, Workshops & Talk von/mit der Mischa Gohlke Band
 
-Grenzen sind relativ. Mit Live-Musik, spannenden [![](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB-300x200.jpeg =300x200)](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB.jpeg)Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
+Grenzen sind relativ. Mit Live-Musik, spannenden [![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB-300x200.jpeg =300x200)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB.jpeg)Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
 
-Das Veranstaltungsformat [“Konzert, Workshops & Talk und von/mit der Mischa Gohlke Band”](http://www.grenzensindrelativ.de/veranstaltungen/konzert-workshop-talkrunde.html) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [“gelebte(re) gesamtgesellschaftliche Inklusion” ](http://www.grenzensindrelativ.de/ueber-uns/herleitung.html)freisetzen.
+Das Veranstaltungsformat [“Konzert, Workshops & Talk und von/mit der Mischa Gohlke Band”](https://www.grenzensindrelativ.de/veranstaltungen/konzert-workshop-talkrunde.html) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [“gelebte(re) gesamtgesellschaftliche Inklusion” ](https://www.grenzensindrelativ.de/ueber-uns/herleitung.html)freisetzen.
 
 Musik ist ein wunderbares Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken und das Gemeinschaftsgefühl zu stärken.
 
@@ -17,14 +17,14 @@ Die Veranstaltungen werden exklusiv in Schulen, Universitäten, Unternehmen, Spo
 
 ***
 
-[![](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/abendblatt-225x300.jpg =225x300)](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/abendblatt.jpg)
+[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/abendblatt-225x300.jpg?size=225x300)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/abendblatt.jpg)
 
 Das Veranstaltungsformat umfasst folgende Säulen:
 
 1. Konzert „[Mischa Gohlke Band](https://mischagohlkeband.de/)“ + ggfs. weitere Acts (Local Hero, Musikprojekt von einer gemeinnützigen Organisation, Nachwuchsgruppen, usw.)
-2. [Workshops/Seminare von/mit der „Mischa Gohlke Band“ (Rhythm´n´Groove, Musikorient, Bandtraing, Instrumente, Chor, usw.)](http://www.grenzensindrelativ.de/veranstaltungen/konzert-workshop-talkrunde.html)
-3. Interviews, Vortrag, Talkrunde und interaktive Gesprächsrunde von/mit [Mischa Gohlke](http://www.grenzensindrelativ.de/workshops-seminare-vortraege/allgemeine-informationen-workshops.html) oder/und der „Mischa Gohlke Band“
-4. Idee: Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei der Konzertveranstaltung den Inklusionssong [AndersSein vereint](http://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) (ab Sept. 2020: “2. Inklusionssong”) auf der Bühne mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einzuproben.
+2. [Workshops/Seminare von/mit der „Mischa Gohlke Band“ (Rhythm´n´Groove, Musikorient, Bandtraing, Instrumente, Chor, usw.)](https://www.grenzensindrelativ.de/veranstaltungen/konzert-workshop-talkrunde.html)
+3. Interviews, Vortrag, Talkrunde und interaktive Gesprächsrunde von/mit [Mischa Gohlke](https://www.grenzensindrelativ.de/workshops-seminare-vortraege/allgemeine-informationen-workshops.html) oder/und der „Mischa Gohlke Band“
+4. Idee: Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei der Konzertveranstaltung den Inklusionssong [AndersSein vereint](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) (ab Sept. 2020: “2. Inklusionssong”) auf der Bühne mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einzuproben.
 5. Ggfs. Network-Area bei der Konzertveranstaltung: Hier könn(t)en sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN in einem Infotischbereich präsentieren und sich dabei kennenlernen, austauschen und vernetzen.
 6. Ggfs. Interaktive Erlebniswelten/Aktionen bei der Konzertveranstaltung: Es wird eine (kleine) Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden (z.B. Gebärdensprach-Barkeeper, Kleinkunst zum Mitmachen, künstlerische Präsentationen zu den Themen Inklusion, Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.)
 
@@ -34,15 +34,15 @@ Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenpr
 
 **Praxis-Beispiel 1:**
 
-Im Dezember 2016 ist die Band über **UNDP** im[![](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/neu1-300x225.jpg =300x225)](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/neu1.jpg) Rahmen der **Kampagne „United in Diversity“** in Belarus (Weissrussland) gewesen. Zunächst gab es mit den Studenten vor Ort eine lockere Kennenlernrunde und Bandleader & Inklusionsbotschafter Mischa Gohlke hat einen kurzen Vortrag zum Thema Inklusion gehalten. Anschließend wurde in den beiden Workshops „Musik-Orient“ und „Chorspirit“ intensiv gearbeitet. Beim Chor-Workshop konnten die Studenten einen Einblick in das Singen bekommen und haben den Inklusionssong „AndersSein vereint“ auf Englisch eingeprobt. Abends wurde dann – nach einem Konzert von der Mischa Gohlke Band – der Inklusionssong gemeinsam in der ausverkauften Philharmonic Minsk zum großen Finale aufgeführt. Ein wunderbares Erlebnis. 🙂
+Im Dezember 2016 ist die Band über **UNDP** im[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/neu1-300x225.jpg?size=300x225)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/neu1.jpg) Rahmen der **Kampagne „United in Diversity“** in Belarus (Weissrussland) gewesen. Zunächst gab es mit den Studenten vor Ort eine lockere Kennenlernrunde und Bandleader & Inklusionsbotschafter Mischa Gohlke hat einen kurzen Vortrag zum Thema Inklusion gehalten. Anschließend wurde in den beiden Workshops „Musik-Orient“ und „Chorspirit“ intensiv gearbeitet. Beim Chor-Workshop konnten die Studenten einen Einblick in das Singen bekommen und haben den Inklusionssong „AndersSein vereint“ auf Englisch eingeprobt. Abends wurde dann – nach einem Konzert von der Mischa Gohlke Band – der Inklusionssong gemeinsam in der ausverkauften Philharmonic Minsk zum großen Finale aufgeführt. Ein wunderbares Erlebnis. 🙂
 
-**Praxis-Beispiel 2:**[**![](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest-254x300.jpg =200x236)**](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest.jpg)
+**Praxis-Beispiel 2:**[**![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest-254x300.jpg?size=200x236)**](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest.jpg)
 
 Bei dem **Sommerfest 2017 des „LBZH Oldenburg**“ hat die Mischa Gohlke Band über ein Konzert hinaus einen Rhythm´n´Groove Workshop zusammen mit den Schüler/innen vor Ort gemacht. Dazu hatte eine Schulklasse eine Talkshow mit Talkgast Mischa Gohlke vorbereitet, welche im Forum vor den Schülern, Eltern und Lehrern präsentiert wurde. Es war informativ, musikalisch und gelacht wurde auch viel. 🙂
 
 **Praxis-Beispiel 3:**
 
-Bei den den „**Konfliktlotsentagen**“ im Oktober[![](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/konfliktlotsentage-300x225.jpg =300x225)](http://www.grenzensindrelativ.de/wp-content/uploads/2018/11/konfliktlotsentage.jpg) 2017 in Bad Segeberg hat der Drummer Oliver Steinwede von der Mischa Gohlke Band einen kurzen Rhythm´n´Groove Opener gemacht und der Saal hat gebebt. Anschließend hat die Band ein 20-minütiges Erföffnungskonzert gespielt. Als letzter Song wurde der Gassenhauer „Knockin´ on heavens door“ gespielt, bei dem einige Lehrer & Schüler auf die Bühne gekommen sind und leidenschaftlich mitgesungen haben. Darüber hinaus hat Mischa Gohlke den Workshop „Umgang mit Stärken, Schwächen, Erfolgen und Frustration“ angeboten, in dem zusammen mit ca. 20 Konfliktlotsen ein reger Erfahrungsaustausch ermöglicht wurde. Die Ergebnisse wurden zum Abschluss der Veranstaltung vor allen Teilnehmer/innen auf der Bühne präsentiert. Inklusion rockt! 🙂
+Bei den den „**Konfliktlotsentagen**“ im Oktober[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/konfliktlotsentage-300x225.jpg?size=300x225)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/konfliktlotsentage.jpg) 2017 in Bad Segeberg hat der Drummer Oliver Steinwede von der Mischa Gohlke Band einen kurzen Rhythm´n´Groove Opener gemacht und der Saal hat gebebt. Anschließend hat die Band ein 20-minütiges Erföffnungskonzert gespielt. Als letzter Song wurde der Gassenhauer „Knockin´ on heavens door“ gespielt, bei dem einige Lehrer & Schüler auf die Bühne gekommen sind und leidenschaftlich mitgesungen haben. Darüber hinaus hat Mischa Gohlke den Workshop „Umgang mit Stärken, Schwächen, Erfolgen und Frustration“ angeboten, in dem zusammen mit ca. 20 Konfliktlotsen ein reger Erfahrungsaustausch ermöglicht wurde. Die Ergebnisse wurden zum Abschluss der Veranstaltung vor allen Teilnehmer/innen auf der Bühne präsentiert. Inklusion rockt! 🙂
 
 ***
 

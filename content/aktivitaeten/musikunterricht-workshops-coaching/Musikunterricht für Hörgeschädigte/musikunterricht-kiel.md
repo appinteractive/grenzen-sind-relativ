@@ -19,6 +19,6 @@ _Musik ist ein Planet für alle Menschen und kennt keine Grenzen_
 
 _Zum Abschluss ein Zitat: „Ohne Musik ist das Leben ein Irrtum“. (Nietzsche)“_
 
-Weitere Infos: [www.rockpopschule.de](http://www.rockpopschule.de/)
+Weitere Infos: [www.rockpopschule.de](https://www.rockpopschule.de/)
 
-Anmeldung zu einer kostenlosen Probestunde: [www.rockpopschule.de/musikunterricht/anmeldeformular](http://www.rockpopschule.de/musikunterricht/anmeldeformular/)
+Anmeldung zu einer kostenlosen Probestunde: [www.rockpopschule.de/musikunterricht/anmeldeformular](https://www.rockpopschule.de/musikunterricht/anmeldeformular/)
