@@ -16,7 +16,12 @@ fields:
     template: menuunterseiten
     label: Unterseiten
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: title
   label: Bereiche
+- name: copyright
+  type: text
+  config:
+    required: true
+  label: Copyright
