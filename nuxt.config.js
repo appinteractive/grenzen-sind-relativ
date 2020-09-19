@@ -130,7 +130,7 @@ export default {
       const { $content } = require('@nuxt/content')
       const files = await $content({ deep: true }).only(['path']).fetch()
 
-      return files.map(file => file.path || 'startseite')
+      return files.map(file => file.path === '/startseite' ? '/' : file.path)
     }
   },
   router: {
