@@ -243,7 +243,8 @@
               "children": [
 
               ],
-              "page": "content/aktivitaeten/musikunterricht-workshops-coaching/beratung-und-coaching.md"
+              "page": "content/aktivitaeten/musikunterricht-workshops-coaching/beratung-und-coaching.md",
+              "showInMainNavigation": true
             }
           ],
           "showInMainNavigation": true
