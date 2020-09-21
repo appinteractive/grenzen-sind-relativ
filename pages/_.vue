@@ -1,10 +1,14 @@
-<template>
+ <template>
   <div class="container mx-auto p-6 ">
-    <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" />
+    <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
     <div class="flex">
-      <SubMenu v-if="subMenu" :sub-menu="subMenu" />
+      <SubMenu
+        v-if="breadCrumbs.length > 1"
+        :sub-menu="subMenu"
+        :parents="subMenu"
+        :current-title="currentTitle" />
       <div
-        :class="!subMenu && 'mx-auto'"
+        class="mx-auto"
       >
         <article>
           <nuxt-content :document="page" class="prose" />
@@ -22,12 +26,9 @@ export default {
 
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
-    const subMenu = breadCrumbs.length > 0 && breadCrumbs[breadCrumbs.length - 1].children || crumbAnomaly
-
-    if (subMenu && crumbAnomaly) {
-      // remove last breadcrumb element as it is redundant
-      breadCrumbs.pop()
-    }
+    const off = crumbAnomaly ? 2 : 1
+    const subMenu = breadCrumbs[breadCrumbs.length - off].siblings
+    const currentTitle = breadCrumbs[breadCrumbs.length - off].title
 
     if (Array.isArray(page)) {
       throw error({ statusCode: 404, message: 'Page not found' })
@@ -41,7 +42,7 @@ export default {
       console.log(surround)
     } catch (e) {} */
 
-    return { page, breadCrumbs, subMenu }
+    return { page, breadCrumbs, subMenu, currentTitle }
   },
   head() {
     let title = this.page.title

@@ -21,13 +21,14 @@ function getBreadCrumbs(branch, url, parents) {
   let result = null
   b.forEach((bx, i) => {
     try {
-      if (bx.url === url || parents.length === 2 && bx.url.split('/').slice(0, -1).join('/') === url.split('/').slice(0, -1).join('/')) {
+      if (bx.url === url && bx.url.split('/').slice(0, -1).join('/') === url.split('/').slice(0, -1).join('/')) {
         result = [...parents, {
           title: bx.title,
           url: bx.url,
           page: bx.page,
           showInMainNavigation: !!bx.showInMainNavigation,
-          children: !bx.showInMainNavigation ? bx.children : null
+          children: !bx.showInMainNavigation ? bx.children : null,
+          siblings: branch.children
         }]
       } else if (!result) {
         result = getBreadCrumbs(bx, url, [...parents, {
@@ -35,7 +36,8 @@ function getBreadCrumbs(branch, url, parents) {
           url: b[i].url,
           page: b[i].page,
           showInMainNavigation: !!b[i].showInMainNavigation,
-          children: !b[i].showInMainNavigation ? b[i].children : null
+          children: !b[i].showInMainNavigation ? b[i].children : null,
+          siblings: branch.children || []
         }])
       }
     } catch (e) {}
