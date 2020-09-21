@@ -74,7 +74,7 @@
                 }
               ],
               "external": false,
-              "disabled": true
+              "disabled": false
             },
             {
               "title": "Mach´ Deine Veranstaltung mit uns!",
