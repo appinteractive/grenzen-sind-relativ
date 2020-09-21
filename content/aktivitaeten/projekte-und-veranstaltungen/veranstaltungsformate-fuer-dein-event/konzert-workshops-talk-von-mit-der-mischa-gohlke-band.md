@@ -1,6 +1,15 @@
 ---
 title: Konzert, Workshops & Talk von/mit der Mischa Gohlke Band
-description: ''
+description: Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und interaktiver
+  Begegnung wird es praktisch erfahrbar. Die Mischa Gohlke Band geht in Schulen, Universitäten,
+  Unternehmen, Sportvereine und andere Einrichtungen, um Raum für Begegnung, Erfahrungsaustausch
+  und Perspektivwechsel zu ermöglichen und Impulse für die gelebte gesamtgesellschaftliche
+  Inklusion freizusetzen. Die Veranstaltungen werden exklusiv umgesetzt oder finden
+  im Rahmen von Kongressen, Kampagnen, Sommerfesten, Projektwochen, usw. statt.
+teaser: "/media/mgb-beitragsbild.jpeg"
+featured: false
+gallery: []
+alias: ''
 
 ---
 # Konzert, Workshops & Talk von/mit der Mischa Gohlke Band
