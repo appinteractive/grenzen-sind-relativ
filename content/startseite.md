@@ -1,6 +1,6 @@
 ---
 title: Startseite
-description: Grenzen sind relativ e.V. - Kultur, Gesellschaft & Inklusion
+description: Grenzen sind relativ e.V. - Kultur, Gesellschaft, Inklusion & Frieden
 
 ---
 ## 
