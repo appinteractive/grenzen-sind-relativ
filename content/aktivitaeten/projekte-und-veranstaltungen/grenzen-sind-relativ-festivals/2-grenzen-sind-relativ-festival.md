@@ -21,7 +21,7 @@ SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festiv
 
 <gallery>
 
-[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg)
+[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg "Hier kommt einn Titel")
 
 [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Jan-Plewka-Marco-Schmedtje_rpl1lLgA.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Jan-Plewka-Marco-Schmedtje_rpl1lLgA.jpeg)
 
@@ -68,7 +68,7 @@ Nach der wunderbaren Hamburger Festival-Premiere 2017 geht es nun in die 2. Rund
 Im Geiste unseres Mottos „**Grenzen sind relativ**“ haben wir über 80 Künstler, Aussteller und Kooperationspartner unterschiedlichster  Backgrounds zusammengebracht, um gemeinsam die **Vielfalt der Künste, Menschen und Netzwerke** ausgiebig zu feiern.
 
 * **LIVE ON STAGE:** Live-Musik, Theater, Kabarett und Performances finden eine gemeinsame Bühne. Eine Crossover-Melange, die es in sich hat!
-* **KUNSTAUSTELLUNG “Pushing the boundaries**”****: Verschiedenste Künstler*innen präsentieren ihre Arbeiten zur universellen Thematik “Grenzen”. Kuration: Florian Huber
+* **KUNSTAUSTELLUNG “Pushing the boundaries__”***_: Verschiedenste Künstler_innen präsentieren ihre Arbeiten zur universellen Thematik “Grenzen”. Kuration: Florian Huber
 * **VIDEO-KUNST:** KYMAT vereinigt die Wissenschaft Kymatik und  verschiedene Formen der Klangtherapie in einem Kunstprojekt. Frequenzen  und Klänge werden im Wasser sichtbar.
 * **PASSAUSGABE Urban Citizenship Card:** Ein Konzept, in dem die Realität nicht den Papieren angepasst wird, sondern die Papiere der Realitäten. Bringe Dein Foto mit!
 * **MUSIKVIDEO-RELEASE “Krieg ist vorbei”:** Über 20 Menschen haben sich zusammengetan, um einen Kampagnensong für den Frieden zu  produzieren. Frieden. Ein Wort wartet auf Verständnis. Frieden. Braucht  uns. In aller Vielfalt.
