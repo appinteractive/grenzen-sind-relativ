@@ -72,7 +72,9 @@
                   "title": "Allgemeine Infos",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md"
                 }
-              ]
+              ],
+              "external": false,
+              "disabled": true
             },
             {
               "title": "Mach´ Deine Veranstaltung mit uns!",
