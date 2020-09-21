@@ -1,6 +1,14 @@
 ---
-title: ASV - Projektinfo
-description: ''
+title: AndersSein vereint – Inklusionssong für Deutschland
+description: 'In der aufwendigen wie mitreißenden Musikvideoproduktion singen, grooven,
+  rappen und gebärden mehr als 80 Protagonisten von universeller Verbundenheit und
+  der Überwindung persönlicher wie gesellschaftlicher Grenzen. Ziel ist es, mit der
+  „gesamtgesellschaftlichen Inklusion“ in die Mitte der Gesellschaft anzukommen. Über
+  die mediale Kampagne hinaus wird in diversen Crossover-Projekten Basisarbeit geleistet. '
+teaser: "/media/asv-beitragsbild.jpg"
+featured: false
+gallery: []
+alias: ''
 
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
