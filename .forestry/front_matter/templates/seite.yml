@@ -17,16 +17,20 @@ fields:
   label: Beschreibung (SEO)
   config:
     required: false
+- name: featured
+  type: boolean
+  label: Hervorheben
+  description: Soll diese Seite in Auflistungen wie z.B. der Startseite erscheinen?
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Galerie
 - name: alias
   type: text
   config:
     required: false
   label: Alias
   description: Alte URL (optional)
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: Galerie
 pages:
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md
