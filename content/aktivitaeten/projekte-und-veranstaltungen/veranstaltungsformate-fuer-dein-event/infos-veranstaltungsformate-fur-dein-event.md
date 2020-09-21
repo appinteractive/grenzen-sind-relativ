@@ -1,5 +1,5 @@
 ---
-title: Mach Dein Deine Veranstaltung mit uns!
+title: Mach Deine Veranstaltung mit uns!
 description: 'Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein,
   Unternehmen, Wohnprojekt, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen,
   Sommerfesten & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm
@@ -11,7 +11,7 @@ gallery: []
 alias: ''
 
 ---
-# Mach Dein Deine Veranstaltung mit uns!
+# Mach Deine Veranstaltung mit uns!
 
 Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein, Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine stellen? Wir haben mehrere Muster-Veranstaltungsformate entwickelt, die im Sinne von Empowerment & Partizipation umgesetzt werden wollen. Schau gerne mal HIER rein. Vielleicht hast Du noch andere und/oder bessere Ideen? :)
 
