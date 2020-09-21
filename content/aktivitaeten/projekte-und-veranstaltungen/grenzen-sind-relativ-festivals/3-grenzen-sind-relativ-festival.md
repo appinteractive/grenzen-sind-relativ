@@ -29,7 +29,7 @@ Sa. 26.10.2019 in der Fabrik (Barnerstr. 36, 22765 Hamburg, [www.fabrik.de](http
 
 Einlass & Beginn: 19:00 Uhr
 
-[**VVK: Tickets für 15 Euro (zzgl. Geb.)**](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=31039) AK: 20 Euro
+**[VVK: Tickets für 15 Euro (zzgl. Geb.)](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=31039) AK: 20 Euro**
 
 Facebook-Event: https://www.facebook.com/events/400120764041058
 

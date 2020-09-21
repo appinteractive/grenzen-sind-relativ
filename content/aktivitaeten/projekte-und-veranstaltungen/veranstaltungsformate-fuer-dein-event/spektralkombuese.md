@@ -5,7 +5,7 @@ description: ''
 ---
 # Spektralkombüse   Erfahrbare Inklusion durch Musik, Tanz und Kabarett
 
-![SPEKTRALKOMBÜSE 3](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/SPEKTRALKOMBÜSE-3.png =700x587)
+[SPEKTRALKOMBÜSE 3](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/SPEKTRALKOMBÜSE-3.png=700x587)
 
 Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kabarett? Eine Frage, die sich ab jetzt nicht mehr stellt. Jedenfalls dann nicht, wenn man sich auf Inklusion der kulturellen Art einlassen kann und die Spektralkombüse besucht, wo Tanz, Musik und Theater wie selbstverständlich an einem außergewöhnlichen Abend zu einer lebendigen Mischung miteinander verschmelzen. Die Idee der Inklusion wird so im besten wie doppelten Sinne transportiert. Von drei ganz unterschiedlichen Künstlern, die sich trotz ihrer jeweiligen Behinderung nicht davon abhalten lassen, es allen zu zeigen. Jedenfalls denjenigen, die sich nicht zwischen Tanztheater, Konzert oder Kabarett entscheiden wollen. Warum sollten Sie auch, wenn das ganze Spektrum liegt so nah.
 
@@ -21,7 +21,7 @@ Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer Auffassung.
 
 → Pro7 „Deutschland tanzt“: [Deutschland tanzt- Kassandra Wedel für Bayern: Spiegel](https://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
 
-**Martin Fromme ![Martin-Fromme](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/Martin-Fromme-225x300.jpeg =280x373)**
+**Martin Fromme ![Martin-Fromme](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/Martin-Fromme-225x300.jpeg=280x373)**
 
 Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Martin Fromme, der sich selbst als Deutschlands ersten und einzigen asymmetrischen Künstler bezeichnet. Geradezu unverschämt offensiv geht der MDR Moderator mit „appen“ Arm in die Schlacht gegen behinderte Klischees. „Kann eine Prostituierte im Rollstuhl eine Wander-hure sein?“ Tja, das regt zum nachdenken an und jede Opferrolle löst sich in Wohlgefallen auf. Viel Spaß damit!
 
@@ -33,7 +33,7 @@ Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Marti
 
 **Mischa Gohlke Band**
 
-Musiker. Aktivist. Speaker. Kulturmanager. [![](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018-300x211.jpg?size=300x211)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018.jpg)Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er – „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps – erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht. In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach. Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den gebürtigen Rheinländer und studierten Jazz-Schlagzeuger Alex Jezdinsky (Nils Frevert, Gisbert zu Knyphausen, Michel van Dyke). Das Power-Trio spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt!
+Musiker. Aktivist. Speaker. Kulturmanager. [![](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018-300x211.jpg?size=300x211)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Mischa-Gohlke-Band-Fabrik2018.jpg) Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er – „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps – erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht. In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach. Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den gebürtigen Rheinländer und studierten Jazz-Schlagzeuger Alex Jezdinsky (Nils Frevert, Gisbert zu Knyphausen, Michel van Dyke). Das Power-Trio spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt!
 
 → Webseite: [www.mischagohlkeband.de](https://mischagohlkeband.de/)
 
@@ -41,7 +41,7 @@ Musiker. Aktivist. Speaker. Kulturmanager. [![](https://www.grenzensindrelativ.d
 
 → NDR SH Magazin „Musiker ohne Gehör“: [https://youtu.be/7RohEwmDdXY](https://youtu.be/7RohEwmDdXY "https://youtu.be/7RohEwmDdXY")
 
-**Moderation:**[**![markus-riemann-foto.1024x1024](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024-300x277.jpg?size=195x180)**](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024.jpg)
+**Moderation:**[![markus-riemann-foto.1024x1024](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024-300x277.jpg?size=195x180)](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024.jpg)
 
 **Markus Riemann** – Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag in Hamburg, dem Internationalen Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf. [www.kulturbedarf.de](https://www.kulturbedarf.de)
 

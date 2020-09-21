@@ -5,7 +5,7 @@ description: ''
 ---
 # Konzert, Workshops & Talk von/mit der Mischa Gohlke Band
 
-Grenzen sind relativ. Mit Live-Musik, spannenden [![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB-300x200.jpeg =300x200)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB.jpeg)Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
+Grenzen sind relativ. Mit Live-Musik, spannenden [![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB-300x200.jpeg=300x200)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/MGB.jpeg)Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
 
 Das Veranstaltungsformat [“Konzert, Workshops & Talk und von/mit der Mischa Gohlke Band”](https://www.grenzensindrelativ.de/veranstaltungen/konzert-workshop-talkrunde.html) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [“gelebte(re) gesamtgesellschaftliche Inklusion” ](https://www.grenzensindrelativ.de/ueber-uns/herleitung.html)freisetzen.
 
@@ -36,7 +36,7 @@ Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenpr
 
 Im Dezember 2016 ist die Band über **UNDP** im[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/neu1-300x225.jpg?size=300x225)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/neu1.jpg) Rahmen der **Kampagne „United in Diversity“** in Belarus (Weissrussland) gewesen. Zunächst gab es mit den Studenten vor Ort eine lockere Kennenlernrunde und Bandleader & Inklusionsbotschafter Mischa Gohlke hat einen kurzen Vortrag zum Thema Inklusion gehalten. Anschließend wurde in den beiden Workshops „Musik-Orient“ und „Chorspirit“ intensiv gearbeitet. Beim Chor-Workshop konnten die Studenten einen Einblick in das Singen bekommen und haben den Inklusionssong „AndersSein vereint“ auf Englisch eingeprobt. Abends wurde dann – nach einem Konzert von der Mischa Gohlke Band – der Inklusionssong gemeinsam in der ausverkauften Philharmonic Minsk zum großen Finale aufgeführt. Ein wunderbares Erlebnis. 🙂
 
-**Praxis-Beispiel 2:**[**![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest-254x300.jpg?size=200x236)**](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest.jpg)
+**Praxis-Beispiel 2:**[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest-254x300.jpg?size=200x236)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Hannover-Sommerfest.jpg)
 
 Bei dem **Sommerfest 2017 des „LBZH Oldenburg**“ hat die Mischa Gohlke Band über ein Konzert hinaus einen Rhythm´n´Groove Workshop zusammen mit den Schüler/innen vor Ort gemacht. Dazu hatte eine Schulklasse eine Talkshow mit Talkgast Mischa Gohlke vorbereitet, welche im Forum vor den Schülern, Eltern und Lehrern präsentiert wurde. Es war informativ, musikalisch und gelacht wurde auch viel. 🙂
 
