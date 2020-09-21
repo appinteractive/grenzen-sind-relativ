@@ -1,17 +1,30 @@
 ---
-title: Spektralkombüse
-description: ''
+title: Spektralkombüse - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
+description: Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kabarett?
+  Eine Frage, die sich ab jetzt nicht mehr stellt. Jedenfalls dann nicht, wenn man
+  sich auf Inklusion der kulturellen Art einlassen kann und die Spektralkombüse besucht,
+  wo Tanz, Musik und Theater wie selbstverständlich an einem außergewöhnlichen Abend
+  zu einer lebendigen Mischung miteinander verschmelzen. Die Idee der Inklusion wird
+  so im besten wie doppelten Sinne transportiert. Von drei ganz unterschiedlichen
+  Künstlern, die sich trotz ihrer jeweiligen Behinderung nicht davon abhalten lassen,
+  es allen zu zeigen. Jedenfalls denjenigen, die sich nicht zwischen Tanztheater,
+  Konzert oder Kabarett entscheiden wollen. Warum sollten Sie auch, wenn das ganze
+  Spektrum liegt so nah.
+teaser: "/media/spektralkombuse-beitragsbild.png"
+featured: false
+gallery: []
+alias: ''
 
 ---
-# Spektralkombüse   Erfahrbare Inklusion durch Musik, Tanz und Kabarett
+# Spektralkombüse - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
 
-[SPEKTRALKOMBÜSE 3](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/SPEKTRALKOMBÜSE-3.png=700x587)
+[SPEKTRALKOMBÜSE 3](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/SPEKTRALKOMB%C3%9CSE-3.png=700x587)
 
 Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kabarett? Eine Frage, die sich ab jetzt nicht mehr stellt. Jedenfalls dann nicht, wenn man sich auf Inklusion der kulturellen Art einlassen kann und die Spektralkombüse besucht, wo Tanz, Musik und Theater wie selbstverständlich an einem außergewöhnlichen Abend zu einer lebendigen Mischung miteinander verschmelzen. Die Idee der Inklusion wird so im besten wie doppelten Sinne transportiert. Von drei ganz unterschiedlichen Künstlern, die sich trotz ihrer jeweiligen Behinderung nicht davon abhalten lassen, es allen zu zeigen. Jedenfalls denjenigen, die sich nicht zwischen Tanztheater, Konzert oder Kabarett entscheiden wollen. Warum sollten Sie auch, wenn das ganze Spektrum liegt so nah.
 
 ***
 
-**Kassandra Wedel ![kassandra wedel](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/kassandra-wedel.jpg) **
+\**Kassandra Wedel ![kassandra wedel](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/kassandra-wedel.jpg) **
 
 Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer Auffassung. Sie spürt die Musik mit dem ganzen Körper. Dieser dankt es ihr, wenn sie mal elegant, mal wild oder einfühlsam über die Tanzfläche schwebt. Dabei ist Kassandra eine Perfektionistin, professionell ausgebildet und konnte sich bereits einige nationale wie internationale Preise sichern. U.a. ist Kassandra im Tatort „Totenstille“ und als Gewinnerin der Pro7-Show „Deutschland tanzt“ zu sehen gewesen. Sie hat den Rhythmus im Blut und das Talent in den Beinen. Sie werden begeistert sein!
 
@@ -21,7 +34,7 @@ Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer Auffassung.
 
 → Pro7 „Deutschland tanzt“: [Deutschland tanzt- Kassandra Wedel für Bayern: Spiegel](https://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
 
-**Martin Fromme ![Martin-Fromme](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/Martin-Fromme.jpeg) **
+\**Martin Fromme ![Martin-Fromme](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/Martin-Fromme.jpeg) **
 
 Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Martin Fromme, der sich selbst als Deutschlands ersten und einzigen asymmetrischen Künstler bezeichnet. Geradezu unverschämt offensiv geht der MDR Moderator mit „appen“ Arm in die Schlacht gegen behinderte Klischees. „Kann eine Prostituierte im Rollstuhl eine Wander-hure sein?“ Tja, das regt zum nachdenken an und jede Opferrolle löst sich in Wohlgefallen auf. Viel Spaß damit!
 
