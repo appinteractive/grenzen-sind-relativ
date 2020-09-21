@@ -11,7 +11,7 @@ description:
 
 ### Mischa Gohlke
 
-![img](https://www.grenzensindrelativ.de/wp-content/uploads/2020/06/mischa-profil-300x300.jpg)
+![img](https://www.grenzensindrelativ.de/wp-content/uploads/2020/06/mischa-profil.jpg)
 
 **Initiator & Leitung: Mischa Gohlke** _(Kultur- & Medienmanager, Aktivist, Speaker, Dozent, Musiker, Autor, Inklusionsbotschafter und vor allem Mensch)_
 
@@ -21,7 +21,7 @@ _„Im Sinne eines ganzheitlichen  Inklusionsverständnisses umfasst Inklusion a
 
 **Persönliche Arbeitsassistenz & Projektkoordination: Barbara Wetzer**
 
-![img](https://www.grenzensindrelativ.de/wp-content/uploads/2020/06/Barb-Bwerbfoto1-214x300.jpg)
+![img](https://www.grenzensindrelativ.de/wp-content/uploads/2020/06/Barb-Bwerbfoto1.jpg)
 
 Barbara Wetzer ist schon seit vielen Jahren in der Musik- und Kulturbranche tätig. 1995 gründete sie zusammen mit dem  Ärzte-Bassisten Rodrigo González die Firma “Rodrec”, welche in den  Aktionsfeldern Musik-Label, Künstlermanagement, Booking, Promotion und  Beratung für bekannte und unbekannte Künstler (u.a. “Der Fall Böse”,  “Abwärts” und “Rantanplan”) aktiv ist. Dazu war Barbara mehrere Jahre  für das Live-Programm von der “Grossen Freiheit 36” und dem “Docks”  zuständig. Seit einigen Jahren stellt sie das Rahmenprogramm für das  “Schanzenzelt” zusammen, wo Musik, Kultur und soziale Arbeit zu einem  inspirierenden Kulturerlebnis inkludiert werden. Mittlerweile ist das  “Schanzenzelt” ein Kulturtreff für diverse „Promis“ der Hamburger und  Internationalen Musiklandschaft sowie Organisationen mit inklusiven und  interkulturellen Hintergrund geworden. Mit viel Erfahrung, Expertise und einem großen Netzwerk möchte Barbara nun im Team „Grenzen sind relativ  e.V.“ mit dazu beitragen, die (R)evolution auf dem Weg zu bringen.
 
@@ -29,7 +29,7 @@ Barbara Wetzer ist schon seit vielen Jahren in der Musik- und Kulturbranche tät
 
 **1. Vorsitzender: Markus Riemann** _(Kulturwissenschaftler, Kulturmanager, Moderator, Musiker, Klubbetreiber)_
 
-![markus-riemann-foto.1024x1024](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024-300x277.jpg)
+![markus-riemann-foto.1024x1024](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/markus-riemann-foto.1024x1024.jpg)
 
 Markus Riemann steht mir großer Freude seit über 25 Jahren auf der Bühne, veranstaltet seit 20 Jahren Kultur, ist seit  über 15 Jahren in der kulturellen Bildung aktiv, seit 8 Jahren Klub  Betreiber in Hamburg und seit 3 Jahren für „Grenzen sind relativ“ aktiv  und seit Frühjahr 2018 dessen 1. Vorsitzender. Er hat ein Studium der  Kulturwissenschaft mit den Nebenfächern Musikwissenschaft,  Erziehungswissenschaft, Philosophie und Geschichte in Bremen  abgeschlossen. Vorher am Grundstudium der Betriebswirtschaft  teilgenommen und war 8 Jahre als Projektkoordinator bei der Yehudi  Menuhin Stiftung Deutschland aktiv. Diese Tätigkeit führte ihn nach  Hamburg, wo er sich 2010 mit dem Klub.K im Hamburger Katharinenviertel  selbstständig gemacht hat. Parallel entstand die gemeinnützige GmbH  Kulturbedarf und als Partner das Institut für Bildungskunst.  Erfahrungen, Ressourcen und breit aufgestellte Netzwerke in der  kulturellen Bildung nutze Markus Riemann zur Realisierung diverser  Projekte. Markus Riemann ist Gründungsmitglied des Vereins Art des  Lebens und aktiv beim Spielhaus e.V.. [www.kulturbedarf.de ](https://www.kulturbedarf.de)
 
@@ -37,13 +37,13 @@ _„Inklusion bedeutet wörtlich Einbeziehung, Einschluss,  Zugehörigkeit. In e
 
 **2. Vorsitzender:  Jan Clasen** _(Projektleiter, Produzent, Kulturmanager, Veranstalter & Aktivist)_
 
-Jan Clasen ist der jüngste Neuzugang und seit[![IMG](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279-300x200.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279.jpeg) September 2017 im Vorstand des Grenzen sind relativ e.V. aktiv. Das  Studium zum Kameramann hat er mit einer Ausbildung zum Produzenten  erweitert. Vor mehreren Jahren ist er als Produzent bei dem sozialen  Unternehmen KULTURPRODUKTION eingestiegen und arbeitet seitdem vor allem an Projekten, die den regionalen Kulturkreis stärken und sich für ein  friedliches Miteinander einsetzen. https://cartacultur.org
+Jan Clasen ist der jüngste Neuzugang und seit[![IMG](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279.jpeg) September 2017 im Vorstand des Grenzen sind relativ e.V. aktiv. Das  Studium zum Kameramann hat er mit einer Ausbildung zum Produzenten  erweitert. Vor mehreren Jahren ist er als Produzent bei dem sozialen  Unternehmen KULTURPRODUKTION eingestiegen und arbeitet seitdem vor allem an Projekten, die den regionalen Kulturkreis stärken und sich für ein  friedliches Miteinander einsetzen. https://cartacultur.org
 
 _„Unser momentanes System hat Werte kreiert, die uns nicht dazu  ermutigen anderen Menschen die Arme zu öffnen, sondern lieber die  Ellenbogen auszufahren. Auf dieser Grundlage kann weder eine  gesamtgesellschaftliche Inklusion stattfinden, noch die großen Probleme  unserer Zeit nachhaltig gelöst werden. Aus diesem Grund halte ich die  Arbeit des Grenzen sind relativ e.V. für sehr wichtig. Der Verein  schafft aufgeschlossene Begegnungsstätten für Menschen aller Farben und  Formen und trägt mit den Inhalten seiner Veranstaltungen dazu bei, das  Bewusstsein der Gäste für gesellschaftliche Themen zu sensibilisieren,  Denkblockaden offen anzusprechen und Lösungsansätze aufzuzeigen.“_
 
 ***
 
-![Jason Foley](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Jason-Foley-214x300.jpg)
+![Jason Foley](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Jason-Foley.jpg)
 
 **Schriftführer: Jason Foley** _(Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch und Sozialpädagogik)_
 
@@ -55,11 +55,11 @@ _„Im Zuge der Globalisierung richtet sich der Blick allzu häufig  auf Märkte
 
 **Raul Krauthausen** _(Aktivist, Speaker, Moderator, Berater, Autor)_
 
-Raúl Aguayo-Krauthausen ist 1980 in Peru geboren[![15019310509](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n-300x200.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n.jpg) und lebt heute in Berlin. Sein zweites Zuhause ist das Netz.  Dort twittert, bloggt und postet er über die Dinge, die ihn bewegen.  Mal humorvoll, mal ernst und mal mit spitzer Zunge. Er studierte  Gesellschafts- und Wirtschaftskommunikation und Design Thinking. Nach  einigen Abstechern in der Werbebranche arbeitete er für vier Jahre  bei Radio Fritz vom rbb. Gemeinsam mit weiteren Mitstreiter*innen  gründete er mit SOZIALHELDEN e.V. und AbilityWatch e.V. zwei  gemeinnützige Vereine und setzt sich dort als Aktivist, Redner und  Berater für Inklusion und Barrierefreiheit ein. 2013 erhielt er für sein Engagement das Bundesverdienstkreuz am Bande. Unter dem  Titel „Dachdecker wollte ich eh nicht werden“ erschien Anfang 2014 seine Autobiographie. Für die abm moderiert er in Zusammenarbeit mit Suse  Bauer (Redaktion) seit 2015 mit KRAUTHAUSEN – face to face eine eigene  regelmäßige Talksendung zu den Themen Kultur und Inklusion. Gemeinsam  entwickeln und arbeiten sie seitdem an Web-Videoproduktionen u.a.  für ze.tt, das ZDF, den Sozialverband Deutschland und die Bundeszentrale für politische Bildung. https://raul.de/
+Raúl Aguayo-Krauthausen ist 1980 in Peru geboren[![15019310509](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n.jpg) und lebt heute in Berlin. Sein zweites Zuhause ist das Netz.  Dort twittert, bloggt und postet er über die Dinge, die ihn bewegen.  Mal humorvoll, mal ernst und mal mit spitzer Zunge. Er studierte  Gesellschafts- und Wirtschaftskommunikation und Design Thinking. Nach  einigen Abstechern in der Werbebranche arbeitete er für vier Jahre  bei Radio Fritz vom rbb. Gemeinsam mit weiteren Mitstreiter*innen  gründete er mit SOZIALHELDEN e.V. und AbilityWatch e.V. zwei  gemeinnützige Vereine und setzt sich dort als Aktivist, Redner und  Berater für Inklusion und Barrierefreiheit ein. 2013 erhielt er für sein Engagement das Bundesverdienstkreuz am Bande. Unter dem  Titel „Dachdecker wollte ich eh nicht werden“ erschien Anfang 2014 seine Autobiographie. Für die abm moderiert er in Zusammenarbeit mit Suse  Bauer (Redaktion) seit 2015 mit KRAUTHAUSEN – face to face eine eigene  regelmäßige Talksendung zu den Themen Kultur und Inklusion. Gemeinsam  entwickeln und arbeiten sie seitdem an Web-Videoproduktionen u.a.  für ze.tt, das ZDF, den Sozialverband Deutschland und die Bundeszentrale für politische Bildung. https://raul.de/
 
 **Inés Zahmoul** _(Coach, Trainer, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher Mensch)_
 
-[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Ines-Zahmoul-Foto-239x300.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Ines-Zahmoul-Foto.jpeg)
+[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Ines-Zahmoul-Foto.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/04/Ines-Zahmoul-Foto.jpeg)
 
 Als Voice Artist Coach ist Inés Zahmoul national und international in den Bereichen Sprechstimme (Bühne, Kamera, öffentliche Reden) und Stimmbildung, Gesang & Körpersprache (nonverbale  Kommunikation und Mikroexpressionen) erfolgreich tätig. Inés Zahmoul  gehört zu den Experten, wenn es um die Verbindung von Körper, Sprech-  und Gesangsstimme geht. Sie trainiert Schauspieler, Sänger, Musiker,  Beatboxer, Sprecher, Coaches, Regisseure und Führungskräfte. Außerdem  bereitet Inés Zahmoul angehende Schauspielstudenten für Vorsprechen vor. Seit 2010 ist sie als Gesangsdozentin an der Schauspielfabrik Berlin,  seit 2018 als Hochschuldozentin an der DMA-medienakademie für die Module Stimme und Sprache, Darstellerische Grundlagen und Studioinszenierung  und seit 2015 bei Vogdt Training national als Trainerin für Stimme und  Körpersprache tätig.
 
@@ -67,13 +67,13 @@ _„Alles was jemals im Leben passiert, passiert im Hier und Jetzt.  Der einzige
 
 **Anja Teubert** _(Mensch, Frau, Mutter, Prof,  Freundin, Mitglied im wissenschaftlichen Beirat eines  Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen  Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der  Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte  Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach))_
 
-[![Portraitfoto Teubert](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Portraitfoto-Teubert-300x200.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Portraitfoto-Teubert.jpg)
+[![Portraitfoto Teubert](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Portraitfoto-Teubert.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Portraitfoto-Teubert.jpg)
 
 Anja hat trotz oder wegen ihrer diversen – rechtlich nicht anerkannten – Handicaps Soziale Arbeit studiert, promoviert und seit  2013 eine Professur für Sozialraumorientierte Soziale Arbeit an der  Dualen Hochschule Baden-Württemberg in Villingen-Schwenningen. Nach mehr als zwanzig Jahren praktischer Sozialer Arbeit erarbeitet sie nun mit  den Studierenden an der Entwicklung einer professionellen Haltung, damit diese unter anderem im leider noch vielerorts versäulten Hilfesystem,  erreichen, dass der Mensch und nicht seine / ihre Defizite im Fokus  stehen.
 
 _„Mein Thema ist die Inklusion bereits seit ich als  Sozialarbeiterin tätig war (anfangs ohne zu wissen, was Inklusion  meint). Sozialarbeiter*innen sollten meiner Ansicht nach mit ihrem  breiten Wissen und Verständnis um die Zusammenhänge zwischen Verhalten  und Verhältnissen stets dabei sein, ‚Anderssein‘ zu unterstützen,  Menschen mit ihren Eigenheiten zu unterstützen und zu verdeutlichen, wie weit eine Vielfalt unsere Möglichkeiten macht. Gelingendes Leben als  soziales Projekt als Ziel eines jeden meint, sich selbst zu  verwirklichen und dabei in Kontakt mit den anderen zu sein, um Grenzen  zu respektieren und eigenen Grenzen zu erkennen. Inklusion bezieht sich  auf uns alle, wir brauchen die Möglichkeit teilzugeben und teilzunehmen. Mischa macht das mit seinen Projekten auf eine Art und Weise, die  vereint und uns zum Nachdenken anregt – darum geht es: um die stetige  Auseinandersetzung mit den Ambivalenzen in uns selbst, um den offenen  Umgang mit unseren eigenen Grenzen und den Mustern, die uns manchmal so  sehr an uns zweifeln lassen. Kommen wir in den Austausch, begegnen wir  uns so wie wir es können, stellen wir uns unseren Ängsten und lernen wir dazu … wie spannend das Leben doch ist.“_
 
-[![251](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS-200x300.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)
+[![251](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)
 
 **Rolf Emmerich** _(Kulturmanager, Festivalleiter Sommerblut)_
 
