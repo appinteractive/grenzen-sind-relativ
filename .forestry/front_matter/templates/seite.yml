@@ -2,6 +2,11 @@
 label: Seite
 hide_body: false
 fields:
+- name: teaser
+  type: file
+  config:
+    maxSize: 64
+  label: Beitragsbild
 - type: text
   name: title
   label: Titel
@@ -18,6 +23,10 @@ fields:
     required: false
   label: Alias
   description: Alte URL (optional)
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Galerie
 pages:
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md

@@ -46,3 +46,6 @@ fields:
   label: Beschreibung
   default: ''
   description: Optionale Beschreibung die unter dem Menüpunkt erscheint
+- name: disabled
+  type: boolean
+  label: Deaktiviert
