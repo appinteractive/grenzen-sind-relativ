@@ -1,6 +1,14 @@
 ---
-title: Allgemeine Infos Workshops, Seminare & Vorträge
-description: ''
+title: Workshops, Seminare & Vorträge
+description: 'Unser „Grenzen sind relativ e.V.“ Projektleiter & Inklusionbotschafter
+  Mischa Gohlke hält Vorträge und gibt Workshops/Seminare zu folgenden Themen: Grenzen
+  sind relativ, Musikunterricht für Hörgeschädigte, Bandtraining, multisensorische
+  Wahrnehmungsebenen, gesamtgesellschaftliche Inklusion, Projekt- & Veranstaltungsmanagement,
+  Analyse & Aktiv Sein, uvm.'
+teaser: "/media/ws-beitragsbild.jpg"
+featured: false
+gallery: []
+alias: ''
 
 ---
 # Workshops, Seminare & Vorträge
