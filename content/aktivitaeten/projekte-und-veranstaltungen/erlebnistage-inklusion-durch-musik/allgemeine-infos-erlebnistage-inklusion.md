@@ -1,10 +1,13 @@
 ---
-title: Erlebnistage Inklusion
-description: Folgt.
+title: Erlebnistage Inklusion durch Musik
+description: Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. Weiteres
+  folgt.
 teaser: ''
 featured: false
 gallery: []
 alias: ''
 
 ---
-# Allgemeine Infos Erlebnistage Inklusion
+# Erlebnistage Inklusion durch Musik
+
+## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten
