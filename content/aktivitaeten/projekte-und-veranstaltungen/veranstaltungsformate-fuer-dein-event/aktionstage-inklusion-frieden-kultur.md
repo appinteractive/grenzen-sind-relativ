@@ -1,12 +1,12 @@
 ---
-title: Aktionstage Inklusion / Frieden / Kultur in Schulen, Universitäten und anderen
-  Einrichtungen
+title: Aktionstage Inklusion in Schulen, Universitäten und anderen Einrichtungen
 description: Hier können die TeilnehmerInnen ERFAHREN, was Inklusion beinhalten kann
   und ein Leben mit “Behinderungen” bedeutet. Interaktive Workshops und Erlebniswelten,
   Kurzfilme, Livemusik und Impulsvorträge regen zu einem spannenden Dialog untereinander
   an. So können Impulse freigesetzt werden, um persönliche Entwicklungsprozesse zu
   unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken
   und das Gemeinschaftsgefühl zu stärken.
+teaser: "/media/aktionstage-inklusion-beitragsbild.jpg"
 
 ---
 # Aktionstage Inklusion / Frieden / Kultur
