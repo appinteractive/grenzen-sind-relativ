@@ -140,7 +140,7 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
    
 
-  **Kilez More feat. Morgaine[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg)**
+  **Kilez More feat. Morgaine[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg) **
 
   Kilez More ist Rapper, Friedensaktivist & liefert Themen fernab  des Mainstreams. Der Rapvolutionäre Soundtrack des Widerstands ist  direkt, ehrlich, ungeschminkt, hart, rhythmisch, schonungslos, laut, zum mitnicken, nachdenken und beweist, dass HipHop mehr ist als Texte über  Geld & Drogen –  sondern auch Hoffnung und Sprachrohr einer  ungehörten Jugend. Sein 2017 erschienenes Album Alchemist stieg von 0  auf 4 in die deutschen HipHop-Charts ein. In der Fabrik wird die  Herzmusikerin Morgaine mit Kilez More die zusammen die Bühne rocken.  Viva la Rapvolution! [https://kilezmore.de](https://kilezmore.de/)
 
@@ -200,7 +200,7 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
   ## **MODERATION:**
 
-  **Markus Riemann [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg)**
+  **Markus Riemann [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg) **
 
   Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen  fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a.  tätig auf dem Weltkindertag in Hamburg, dem Internationalen  Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf.  [www.kulturbedarf.de](https://www.kulturbedarf.de/)
 
@@ -224,7 +224,7 @@ Sebó – gestartet als Rapper und Breakdancer, der seine[![img](https://www.gre
 
   ## 
 
-  ## **AFTERSHOW-PARTY MIT DJ QMUTAT:[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg)**
+  ## **AFTERSHOW-PARTY MIT DJ QMUTAT:[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg) **
 
   Roman Kumutat ist Hamburger DJ und hat Anfang der 90ern angefangen im HDJ Steilshoop Funk und Hip Hop aufzulegen. Später hat er das legendäre le fonque mit aufgebaut und weitere Events in Hamburg und Außerhalb  veranstaltet. Zwischendurch gründet er Funk Bands (Superbad) und macht  Rare Groove Complitations (German Funk Fieber). Zur Zeit ist er Resident im Mojo Jazz Cafe, Washingtonbar, le fonque. Beim „Grenzen sind relativ Festival“ wird er ein buntes Programm aus Soul, Funk, Latin, Afro,  Reggae, Rock und Hip Hop spielen.  [www.facebook.com/qmutat](https://www.facebook.com/qmutat/)
 
