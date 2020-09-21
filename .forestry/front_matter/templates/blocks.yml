@@ -1,4 +1,14 @@
 ---
 label: Blocks
 hide_body: false
-fields: []
+fields:
+- name: seite
+  type: blocks
+  template_types:
+  - seite
+  - footer
+  - menueintrag
+  config:
+    min: 
+    max: 
+  label: Seite
