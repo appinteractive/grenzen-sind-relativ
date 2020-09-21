@@ -3,7 +3,9 @@
     <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" />
     <div class="flex">
       <SubMenu v-if="subMenu" :sub-menu="subMenu" />
-      <div :class="subMenu && 'w-2/3'">
+      <div
+        :class="!subMenu && 'mx-auto'"
+      >
         <article>
           <nuxt-content :document="page" class="prose" />
         </article>
