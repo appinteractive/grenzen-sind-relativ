@@ -23,7 +23,9 @@ Spendenbescheinigungen können selbstverständlich ausgestellt werden.
 Für Rückfragen, weitere Informationen, usw. stehen wir Dir natürlich gerne zur Verfügung.  
 Kontakt: Mischa Gohlke, mischa.gohlke@grenzensindrelativ.de
 
-<script type="text/javascript" src="[https://secure.fundraisingbox.com/app/paymentJS?hash=6j98n4k8fqegir0h](https://secure.fundraisingbox.com/app/paymentJS?hash=6j98n4k8fqegir0h "https://secure.fundraisingbox.com/app/paymentJS?hash=6j98n4k8fqegir0h")"></script><noscript>Bitte Javascript aktivieren</noscript><a target="_blank" href="[https://www.fundraisingbox.com](https://www.fundraisingbox.com "https://www.fundraisingbox.com")"><img border="0" style="border: 0 !important" src="![](https://secure.fundraisingbox.com/images/FundraisingBox-Logo-Widget.png)" alt="FundraisingBox Logo" /></a>
+<iframe src="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html" id="fbIframe" title="Spendenformular" style="width: 100%; height: 1648px;" scrolling="no" allowtransparency="true" width="100%" height="1500" frameborder="0"><h2>Spendenformular</h2><p>Ihr Browser kann keine iFrames darstellen, bitte nutzen Sie folgenden Link: <a href="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html">Spendenformular</a></p></iframe>
+
+[![FundraisingBox Logo](https://secure.fundraisingbox.com/images/FundraisingBox-Logo-Widget.png)](https://www.fundraisingbox.com)
 
 Spendenkonto: GLS Bank, Inhaber: Grenzen sind relativ e.V., IBAN: DE93430609672064561500, BIC: GENODEM1GLS
 
