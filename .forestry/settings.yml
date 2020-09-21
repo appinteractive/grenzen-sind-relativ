@@ -12,6 +12,7 @@ sections:
   create: all
   match: "**/*.md"
   templates:
+  - blocks
   - seite
 - type: heading
   label: Einstellungen
