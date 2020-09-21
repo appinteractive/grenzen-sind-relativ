@@ -1,6 +1,16 @@
 ---
 title: Support Inklusion - Support mal anders!
-description: ''
+description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und größeren Konzerten/Tourneen
+  kreieren wir ein spannendes inklusives & interdisziplinäres Kulturprogramm, bei
+  dem a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster
+  Backgrounds zusammen kommen und b) den Besuchern vor Ort die essentielle Thematik
+  „gesamtgesellschaftliche Inklusion“ auf eine erfahrbare, mitreißende und künstlerische
+  Art und Weise Nahe gebracht wird. Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance,
+  interaktive Erlebniswelten und Inklusionsforum.'
+teaser: ''
+featured: false
+gallery: []
+alias: ''
 
 ---
 # Support Inklusion – Support mal anders!
