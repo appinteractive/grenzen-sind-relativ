@@ -1,6 +1,17 @@
 ---
-title: 'Musikunterricht Worum geht es? '
-description: ''
+title: Musikunterricht für Hörgeschädigte
+description: Ca. 14 Millionen Menschen in Deutschland sind hörgeschädigt. Derzeit
+  gibt es kaum Angebote für hörgeschädigte Menschen, Musikunterricht zu nehmen. Dazu
+  existiert der weit verbreitete Glaubenssatz, dass “man aufgrund einer Hörschädigung
+  keine Musik machen kann”. Die Praxis zeigt, dass es funktioniert. Seit 2011 wird
+  das mehrfach ausgezeichnete Pilotprojekt in Kooperation mit der renommierten Rock
+  & Pop Schule Kiel angeboten. Darüber hinaus machen wir bundesweit Workshops, Seminare
+  und Vorträge und beraten Musikschulen, um inklusiven Musikunterricht zum Leben zu
+  bringen.
+teaser: "/media/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
+featured: false
+gallery: []
+alias: ''
 
 ---
 # Worum geht es?
