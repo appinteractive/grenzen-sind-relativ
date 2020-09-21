@@ -7,7 +7,7 @@
           :key="col.title"
           class="flex flex-col gap-5"
         >
-          <h3 class="text-xs uppercase text-gray-500 font-semibold">Rechtliches</h3>
+          <h3 class="text-xs uppercase text-gray-500 font-semibold">{{ col.title }}</h3>
           <div>
             <div
               v-for="row in col.children"
