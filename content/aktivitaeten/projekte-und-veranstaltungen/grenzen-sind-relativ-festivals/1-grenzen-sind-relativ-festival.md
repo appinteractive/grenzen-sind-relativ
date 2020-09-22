@@ -65,7 +65,7 @@ dinge die wachsen und leuchten und irgendwann erlöschen.
 
 [![Pressefoto](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/Pressefoto_Jirri_Lash.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/Pressefoto_Jirri_Lash.jpg)
 
-\**Jirri & Lash – Hip-Hop, Reggae und Rap schallt aus den Boxen. Ihre Texte sind politisch motiviert, voller Liebe und Witz. Das  Duo steht für eine mitreißende und unterhaltsame Bühnenshow. Die beiden  Künstler kommen aus Hamburg-Ottensen und treten darüber hinaus seit  mehreren Jahren mit ihrer Band Enormverdadles sowohl in Hamburg als auch vermehrt überregional auf. Mit ihrer Musik möchten sie ein Zeichen für  Weltoffenheit setzen und alltäglichen Schwierigkeiten mit Humor  begegnen.
+**Jirri & Lash** – Hip-Hop, Reggae und Rap schallt aus den Boxen. Ihre Texte sind politisch motiviert, voller Liebe und Witz. Das  Duo steht für eine mitreißende und unterhaltsame Bühnenshow. Die beiden  Künstler kommen aus Hamburg-Ottensen und treten darüber hinaus seit  mehreren Jahren mit ihrer Band Enormverdadles sowohl in Hamburg als auch vermehrt überregional auf. Mit ihrer Musik möchten sie ein Zeichen für  Weltoffenheit setzen und alltäglichen Schwierigkeiten mit Humor  begegnen.
 
 [![felix](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/felix_oliver_schepp_1.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/felix_oliver_schepp_1.jpg) **
 

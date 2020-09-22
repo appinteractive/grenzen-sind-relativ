@@ -122,7 +122,7 @@ Musiker. Freigeist. Inklusionsbotschafter. Die Reihe [![img](https://www.grenzen
 
 Der akustische Sonnenbräuner aus dem Norden. [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Soularia-TimHellmers-Bandphoto-2018-4z3-.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Soularia-TimHellmers-Bandphoto-2018-4z3-.jpg) Die Band SOULARIA ist das musikalische Baby von Mastermind und Komponist  Tim Hellmers. SOULARIA, die sich im Bereich von Soul, Pop, Funk, Rock,  Latin bewegen, sind musikalisch exakt und auf den Punkt so abgestimmt,  dass jeder Song groovt wie Sau. Mal rockig-gitarrenlastig, dann wieder  funk-gesteuert mit knackigen Bläsersätzen, mal hitzig durch  percussion-getriebene Latingrooves, abgelöst von glamourösen, fetten,  gospelartigen Vokalsätzen. Die Band bewies ihr musikalisches Können  bereits in ihren Anfangszeiten als Support-Act für die BritFunk Legende  Incognito und den Jazz-Soul Allrounder Al Jarreau im Rahmen des  Hamburger WESTPORT Jazzfestivals. Es folgten weitere Supports als  Vorband für die US Formation The Temptations. Bei eigenen Konzerten in  Kiel und Berlin sowie bei Auftritten in Verbindung mit dem  MOJO-CLUB-DJ-Team in Hamburg und Köln erschloss sich die Band damals  bereits eine große Fangemeinde. Nach längerer Pause geben SOULARIA am  20.Oktober 2018 beim 2. Grenzen sind relativ Festival ihr Debut in neuer Besetzung. https://www.facebook.com/soularia
 
-\**Kilez More feat. Morgaine[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg) **
+**Kilez More feat. Morgaine** [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/Kilez-More.jpg)
 
 Kilez More ist Rapper, Friedensaktivist & liefert Themen fernab  des Mainstreams. Der Rapvolutionäre Soundtrack des Widerstands ist  direkt, ehrlich, ungeschminkt, hart, rhythmisch, schonungslos, laut, zum mitnicken, nachdenken und beweist, dass HipHop mehr ist als Texte über  Geld & Drogen –  sondern auch Hoffnung und Sprachrohr einer  ungehörten Jugend. Sein 2017 erschienenes Album Alchemist stieg von 0  auf 4 in die deutschen HipHop-Charts ein. In der Fabrik wird die  Herzmusikerin Morgaine mit Kilez More die zusammen die Bühne rocken.  Viva la Rapvolution! [https://kilezmore.de](https://kilezmore.de/)
 
@@ -172,7 +172,7 @@ Seit Anfang 2018 ist Jay Holler Rap-Coach bei Rap for Refugees e.V.  und die Rap
 
 ## **MODERATION:**
 
-\**Markus Riemann [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg) **
+**Markus Riemann** [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/09/markus-riemann-foto.1024x1024.jpg)
 
 Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen  fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a.  tätig auf dem Weltkindertag in Hamburg, dem Internationalen  Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf.  [www.kulturbedarf.de](https://www.kulturbedarf.de/)
 
