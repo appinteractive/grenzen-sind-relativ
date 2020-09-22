@@ -3,7 +3,7 @@
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
     <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
       <article class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16">
-        <nuxt-content :document="page" class="prose w-full break-words" />
+        <nuxt-content :document="page" class="prose w-full break-words break-all hyphens-auto" />
       </article>
       <div class="lg:w-2/6">
         <SubMenu
