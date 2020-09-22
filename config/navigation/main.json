@@ -5,14 +5,7 @@
       "page": "content/ueber-uns.md",
       "children": [
         {
-          "children": [
-
-          ],
-          "title": "Identität & Positionierung",
-          "page": "content/ueber-uns/identitat-positionierung.md"
-        },
-        {
-          "title": "Mission, Vision & Positionierung",
+          "title": "Herleitung",
           "page": "content/ueber-uns/mission-und-vision.md"
         },
         {
@@ -27,6 +20,13 @@
         {
           "title": "Das Team",
           "page": "content/ueber-uns/das-team.md"
+        },
+        {
+          "children": [
+
+          ],
+          "title": "Identität & Positionierung",
+          "page": "content/ueber-uns/identitat-positionierung.md"
         },
         {
           "title": "Manifest ",
