@@ -5,6 +5,13 @@
       "page": "content/ueber-uns.md",
       "children": [
         {
+          "children": [
+
+          ],
+          "title": "Identität & Positionierung",
+          "page": "content/ueber-uns/identitat-positionierung.md"
+        },
+        {
           "title": "Mission, Vision & Positionierung",
           "page": "content/ueber-uns/mission-und-vision.md"
         },
