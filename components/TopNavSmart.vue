@@ -14,8 +14,9 @@
         <ul class="md:flex pl-6 pt-1" @mouseleave="closeDelayed" mouseenter="clearDelay">
           <li class="relative" v-for="(level1, index1) in navigation" :key="level1.title">
             <TopNavLink
-              :to="level1.url"
+              :to="getNearestURL(level1)"
               class="level1 ont-medium tracking-wide hover:text-gray-900 lg:pb-3 px-4 lg:mt-0 relative"
+              :class="activeMain === level1.title && 'font-bold'"
               @mouseenter.native="setCurrentIndex(index1)"
             >
               {{ level1.title }}
@@ -26,12 +27,12 @@
               v-if="level1.children && level1.children.length > 0"
             >
               <li v-for="level2 in level1.children" :key="level2.title">
-                <TopNavLink :to="level2.url" class="text-sm">
+                <TopNavLink :to="getNearestURL(level2)" class="text-sm">
                   {{ level2.title }}
                 </TopNavLink>
                 <ul v-if="level2.children && level2.children.length > 0">
                   <li v-for="level3 in level2.children" :key="level3.title">
-                    <TopNavLink :to="level2.url" class="text-xs">
+                    <TopNavLink :to="getNearestURL(level2)" class="text-xs">
                       {{ level3.title }}
                     </TopNavLink>
                   </li>
@@ -58,6 +59,8 @@ import TopNavContentLevel3 from '~/components/TopNav/TopNavContentLevel3.vue'
 import TopNavContentLevel2 from '~/components/TopNav/TopNavContentLevel2.vue'
 import TopNavContentLevel1 from '~/components/TopNav/TopNavContentLevel1.vue'
 
+import helpers from '~/lib/helpers'
+
 export default {
   components: {
     TopNavContentLevel3,
@@ -66,11 +69,11 @@ export default {
   },
   props: {
     navigation: { type: Array, default: () => [] },
+    activeMain: { type: String, default: null },
   },
   data: () => ({
     currentIndex: null,
   }),
-
   watch: {
     '$route' (to, from) {
       this.currentIndex = null
@@ -109,13 +112,14 @@ export default {
           .length > 0
       )
     },
+    getNearestURL: helpers.getNearestURL
   },
 }
 </script>
 
 <style lang="css">
-.nav-main .level1.link-active,
+/* .nav-main .level1.link-active,
 .nav-main .level1.link-parent-active  {
   @apply font-bold;
-}
+} */
 </style>

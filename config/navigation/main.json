@@ -2,7 +2,6 @@
   "menu": [
     {
       "title": "Über uns",
-      "page": "content/ueber-uns.md",
       "children": [
         {
           "title": "Unsere Vision",
@@ -10,8 +9,7 @@
         },
         {
           "title": "Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden",
-          "page": "content/ueber-uns/info.md",
-          "description": ""
+          "page": "content/ueber-uns/info.md"
         },
         {
           "title": "Übersicht Aktivitäten",
@@ -22,9 +20,6 @@
           "page": "content/ueber-uns/das-team.md"
         },
         {
-          "children": [
-
-          ],
           "title": "Identität & Positionierung",
           "page": "content/ueber-uns/identitat-positionierung.md"
         },
@@ -41,15 +36,12 @@
     },
     {
       "title": "Aktivitäten",
-      "page": "content/aktivitaeten.md",
       "children": [
         {
           "title": "Projekte & Veranstaltungen",
-          "page": "content/aktivitaeten/projekte-und-veranstaltungen.md",
           "children": [
             {
               "title": "Grenzen sind relativ Festivals",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
               "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
               "children": [
                 {
@@ -72,7 +64,6 @@
             },
             {
               "title": "Erlebnistage Inklusion durch Musik",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
               "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
               "children": [
                 {
@@ -85,7 +76,6 @@
             },
             {
               "title": "Mach´ Deine Veranstaltung mit uns!",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
               "children": [
                 {
@@ -112,7 +102,6 @@
             },
             {
               "title": "Kooperationsprojekte",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
               "description": "Gemeinsam sind wir stark!",
               "children": [
                 {
@@ -139,11 +128,9 @@
         },
         {
           "title": "Kampagnen Musikvideos",
-          "page": "content/aktivitaeten/kampagnen-musikvideos/allgemeine-infos-kampagnen-musikvideos.md",
           "children": [
             {
               "title": "AndersSein vereint - Inklusionssong für Deutschland",
-              "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es.md",
               "description": "1 Musikvideo, 3 Festivals und diverse Folgeprojekte für die \"gesamtgesellschaftliche Inklusion\".",
               "children": [
                 {
@@ -174,7 +161,6 @@
             },
             {
               "title": "NEU 2. Inklusions- & Friedenssong (Arbeitstitel)",
-              "page": "content/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2.inklusion-friedenssong.md",
               "description": "Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!",
               "children": [
                 {
@@ -192,7 +178,6 @@
           "children": [
             {
               "title": "Musikunterricht für Hörgeschädigte",
-              "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
               "description": "Musikunterricht, der alle Sinne, Wahrnehmungen & Empfindungen mit einbezieht und alle Menschen anspricht.",
               "children": [
                 {
@@ -215,7 +200,6 @@
             },
             {
               "title": "Bandcamps",
-              "page": "content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-bands.md",
               "description": "Ob inklusiv, interkulturell oder/und finanziell Beinträchtigte. Musik ist für alle da und rockt!",
               "children": [
                 {
@@ -260,7 +244,6 @@
         },
         {
           "title": "Netzwerk- & Öffentlichkeitsarbeit",
-          "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md",
           "children": [
             {
               "title": "Allgemeine Infos",
@@ -317,7 +300,6 @@
         },
         {
           "title": "Blog",
-          "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
           "children": [
             {
               "title": "Grenzen sind relativ – Musik, Hören und Inklusion ",

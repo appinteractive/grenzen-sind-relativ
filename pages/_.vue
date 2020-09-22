@@ -27,8 +27,9 @@ export default {
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
     const off = crumbAnomaly ? 2 : 1
-    const subMenu = breadCrumbs[breadCrumbs.length - off].siblings
-    const currentTitle = breadCrumbs[breadCrumbs.length - off].title
+    const lastCrumb = breadCrumbs[breadCrumbs.length - off]
+    const subMenu = lastCrumb ? lastCrumb.siblings : []
+    const currentTitle = lastCrumb ? lastCrumb.title : null
 
     if (Array.isArray(page)) {
       throw error({ statusCode: 404, message: 'Page not found' })

@@ -7,7 +7,7 @@
         :key="level2.title"
       >
         <TopNavLink
-          :to="level2.url"
+          :to="getNearestURL(level2)"
           class="p-4 flex flex-col rounded"
           style="min-width: 20rem"
           :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
@@ -26,6 +26,8 @@
 </template>
 
 <script>
+import helpers from '~/lib/helpers'
+
 export default {
   props: {
     navigation: { type: Object, default: () => {} }
@@ -37,6 +39,7 @@ export default {
     setLevel2(event, index2) {
       this.currentIndex2 = index2
     },
+    getNearestURL: helpers.getNearestURL
   },
 }
 </script>
