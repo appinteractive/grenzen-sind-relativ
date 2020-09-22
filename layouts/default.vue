@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-gray-100 w-screen text-gray-700 antialiased leading-tight">
     <TopNavSmart :navigation="mainNav" :active-main="activeMain" :current-title="currentTitle" />
     <main class="min-h-full">
-      <Nuxt class="pt-40" style="min-height: 50rem" />
+      <Nuxt class="pt-32" style="min-height: 50rem" />
     </main>
     <Footer class="bottom-0" :navigation="footerNav" :copyright="copyright" />
   </div>

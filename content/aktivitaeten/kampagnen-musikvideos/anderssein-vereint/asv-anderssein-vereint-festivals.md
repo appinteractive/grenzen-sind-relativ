@@ -60,7 +60,7 @@ Facebook-Event: [www.facebook.com/events/938690972943439](https://www.facebook.c
 
 »12-Yards!« – das ist die Mutprobe, der sich [![Lukulule, 12 Yards, Hamburg](https://www.grenzensindrelativ.de/wp-content/uploads/2015/05/TGL_150119_lukulule_12yards_02.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2015/05/TGL_150119_lukulule_12yards_02.jpg) Neulinge am College stellen müssen. Wer Teil der Clique sein will, kommt um dieses Aufnahmeritual nicht herum. Welche Konflikte sich daraus ergeben und ob und wie es möglich ist, unter diesem Druck sich selbst treu zu bleiben und eigene Wege zu gehen, ist das zentrale Thema von »12 Yards! Dein Spiel beginnt« [www.lukulule.de/lukulule/aktuelle-projekte/12yards/](https://www.lukulule.de/lukulule/aktuelle-projekte/12yards/)
 
-**LESUNG:![Dirk C. Fleck _ Foty by Will Esskuchen](https://www.grenzensindrelativ.de/wp-content/uploads/2015/05/Dirk-Fleck2.jpg) **
+**LESUNG:** ![Dirk C. Fleck _ Foty by Will Esskuchen](https://www.grenzensindrelativ.de/wp-content/uploads/2015/05/Dirk-Fleck2.jpg)
 
 **Dirk C. Fleck** – Der Hamburger Dirk Fleck ist freiberuflicher Autor und war als Journalist u.a. für GEO, Stern und den Spiegel tätig. In seinen Büchern setzt er sich kritisch mit Umwelt- und Gesellschaftsthemen auseinander. [www.dirk-c-fleck.de](https://www.dirk-c-fleck.de)
 
