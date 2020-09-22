@@ -62,14 +62,14 @@ Bei den den „**Konfliktlotsentagen**“ im Oktober[![](https://www.grenzensind
 Wenn die weiter unten genannten Workshops bezüglich Räume, Kosten und ggfs. Dolmetscher zu aufwendig sein sollten, dann kann es auch einfacher gehalten werden. In diesem Fall wird lediglich 1 kompakter Workshop mit der gesamten „Mischa Gohlke Band“ gemacht.
 
 Folgende Inhalte:  
- – Mischa Gohlke stellt sich vor und redet über die „ganzheitliche Inklusion“. Anschließend interaktive Gesprächsrunde mit Fragen und Diskussion.  
- – Rhythm´n´Groove, u.a mit Klatschübungen und Füßen stampfen  
- – Musik-Orient: Es werde die Instrumente Schlagzeug, Bass, Gitarre und Keyboard vorgestellt und von den Teilnehmer/innen angespielt.  
- – Die Gesangsstimmen vom Refrain des Inklusionsongs „AndersSein vereint“ werden gemeinsam eingeprobt und am Ende des Tages zusammen mit den Teilnehmer/innen live auf der Bühne performt.  
- – Gemeinsames Ausklingen, weiteres Kennenlernen, usw.
+– Mischa Gohlke stellt sich vor und redet über die „ganzheitliche Inklusion“. Anschließend interaktive Gesprächsrunde mit Fragen und Diskussion.  
+– Rhythm´n´Groove, u.a mit Klatschübungen und Füßen stampfen  
+– Musik-Orient: Es werde die Instrumente Schlagzeug, Bass, Gitarre und Keyboard vorgestellt und von den Teilnehmer/innen angespielt.  
+– Die Gesangsstimmen vom Refrain des Inklusionsongs „AndersSein vereint“ werden gemeinsam eingeprobt und am Ende des Tages zusammen mit den Teilnehmer/innen live auf der Bühne performt.  
+– Gemeinsames Ausklingen, weiteres Kennenlernen, usw.
 
 _Teilnehmeranzahl: flexibel_  
- _Vorkenntnisse an den Instrumenten wären cool, aber kein Muss_
+_Vorkenntnisse an den Instrumenten wären cool, aber kein Muss_
 
 ***
 
@@ -84,7 +84,7 @@ Mischa Gohlke sagt dazu: _„Es ist spannend, gerade das zu machen, was man sche
 **WS 2: „Ganzheitliche gelebte Inklusion“**
 
 Inklusion ist ein in Deutschland viel diskutiertes und mit vielen Berührungsängsten behaftetes Thema. Zumeist wird Inklusion auf die „Integration“ von Menschen mit formal anerkannter Behinderung runter gebrochen. Dabei kann, will und muss Inklusion wesentlich mehr sein!  
- Wir ALLE sind „behindert“. Egal ob körperlicher, mentaler, sozialer, emotionaler, empathischer, finanzieller oder/und struktureller Natur. Viele Barrieren finden in unseren Köpfen statt. Inklusion ist keine Spezialkonvention, sondern die Konkretisierung der vorhandenen universellen Menschenrechte.
+Wir ALLE sind „behindert“. Egal ob körperlicher, mentaler, sozialer, emotionaler, empathischer, finanzieller oder/und struktureller Natur. Viele Barrieren finden in unseren Köpfen statt. Inklusion ist keine Spezialkonvention, sondern die Konkretisierung der vorhandenen universellen Menschenrechte.
 
 Im Sinne eines ganzheitlichen Inklusionsverständnisses umfasst Inklusion alle Aspekte, die das Leben in einer komplexen heterogenen Gesellschaft ausmachen: soziale, bildungspolitische, wirtschaftliche, konsumelle, ökologische, kulturelle, spirituelle, dezentrale, globale, persönliche, zwischenmenschliche und kollektive Themenbereiche können nicht mehr getrennt voneinander, sondern müssen – in Beziehung zueinander stehend – als Ganzes wahrgenommen (und angenommen) werden.
 
@@ -99,21 +99,21 @@ _Viele Menschen glauben in Deutschland, dass sie unmusikalisch sind. Das trifft 
 Du liebst es zu singen und hast Lust mit einem Chor und echten Profis auf der Bühne zu stehen?! Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, du bist herzlich willkommen! Gemeinsam werden wir den Inklusionssong „AndersSein vereint“ erproben und am Ende des Workshopstages mit Band gemeinsam performen. Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme und lernst mehr über Rhythm&Groove. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
 _Technik vor Ort: Gesangsanlage & 2 Gesangsmikros + Musikanlage für Backing Tracks_  
- _Maximale Teilnehmer/innen: Bis ca. 50 Menschen_  
- _Vorkenntnisse wären cool, aber kein Muss_
+_Maximale Teilnehmer/innen: Bis ca. 50 Menschen_  
+_Vorkenntnisse wären cool, aber kein Muss_
 
 **WS 4: „Musik-Orient“**
 
 Beim „Musik-Orient“ können die Teilnehmer die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen, ausprobieren und sich dabei erfahren. Geleitet und gecoacht werden die Teilnehmer von erfahrenden Profimusikern, die dabei einen umfassenden Einblick in die Musikwelt – sicherlich mit einigen lustigen Anekdoten – vermitteln werden. Gemeinsam wird ein (inklusiver) Song erarbeitet, der noch am Veranstaltungstag „live alive“ auf der Bühne präsentiert wird. Alle Workshopteilnehmer bekommen Lehrmaterial für die jeweiligen Musikinstrumente für zu Hause.
 
 _Technik vor Ort: Drumset, Bassamp, Keyboard, Gesangsanlage & 2 Gesangsmikros_  
- _Maximale Teilnehmer/innen: Bis ca. 20 Menschen_  
- _Vorkenntnisse an den Instrumenten wären cool, aber kein Muss_
+_Maximale Teilnehmer/innen: Bis ca. 20 Menschen_  
+_Vorkenntnisse an den Instrumenten wären cool, aber kein Muss_
 
 **WS 5: „Rhythm & Groove“**
 
 Das ist ein Rhythmus, wo jeder mit muss!“: Rhythmusschwierigkeiten sind aufgrund sozialer, kultureller und musikalischer Ursachen in Deutschland und Europa normal. Niemand braucht sich genieren, weil er/sie „2 linke Füße“ oder „Hände“ hat. Erste Hilfe gibt es in diesem Kurs. Moderne Popularmusikschulen in den USA und in Deutschland bieten Rhythm & Groove als eigenständiges Unterrichtsfach an. Melodien von Songs kommen erst richtig zur Geltung, wenn der rhythmische Rahmen stimmt. Durch Klatschübungen , rhythmisches Gehen und Fußstampfen(„Indianertanz“) werden Grooves, also Rhythmen, über das Gehör und Gefühl wahrgenommen und gelernt. Durch dieses spezielle Körper- und Sinnestraining fällt es mit zunehmender Zeit immer leichter, das Gehörte und Erfühlte auf das jeweilige Instrument zu übertragen – ganz ohne Noten. Übungen & Grooves aus Pop, Rock, Soul, Blues, R & B, Hip-Hop, Funk und Punk, Metal.
 
 _Technik vor Ort: keine, ggfs. Percussion_  
- _Maximale Teilnehmer/innen: Bis ca. 100 Menschen_  
- _Vorkenntnisse keine_
+_Maximale Teilnehmer/innen: Bis ca. 100 Menschen_  
+_Vorkenntnisse keine_
