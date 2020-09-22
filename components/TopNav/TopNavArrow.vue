@@ -2,9 +2,9 @@
   <div
     class="hidden md:flex absolute w-full h-full text-white z-50 items-end justify-center"
   >
-    <div class="mt-4 absolute w-full top-0 h-8 flex justify-center">
+    <div class="mt-8 absolute w-full top-0 h-8 flex justify-center">
       <svg
-        class="fill-current text-white w-12 h-10 flex mt-1"
+        class="fill-current text-white w-12 h-10 flex mt-2"
         style=""
         viewBox="0 0 24 8"
         xmlns="http://www.w3.org/2000/svg"

@@ -1,17 +1,20 @@
  <template>
-  <div class="container mx-auto p-6 ">
+  <div class="container mx-auto px-2 lg:px-6 pt-6 ">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
     <div class="flex">
+      <div class="md:w-3/6 lg:w-2/6">
+
+      </div>
       <SubMenu
         v-if="breadCrumbs.length > 1"
         :sub-menu="subMenu"
         :parents="subMenu"
         :current-title="currentTitle" />
       <div
-        class="mx-auto"
+        class="w-full"
       >
-        <article>
-          <nuxt-content :document="page" class="prose" />
+        <article class="w-full">
+          <nuxt-content :document="page" class="prose border" />
         </article>
       </div>
     </div>

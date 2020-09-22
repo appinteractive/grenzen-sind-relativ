@@ -1,6 +1,6 @@
   <template>
   <div class="min-h-screen bg-gray-100 w-screen text-gray-700 antialiased leading-tight">
-    <TopNavSmart :navigation="mainNav" :active-main="activeMain" />
+    <TopNavSmart :navigation="mainNav" :active-main="activeMain" :current-title="currentTitle" />
     <main class="min-h-full">
       <Nuxt class="pt-40" style="min-height: 50rem" />
     </main>
@@ -16,14 +16,20 @@ export default {
     this.footerNav = this.$store.getters['navigation/footerNav']
     this.copyright = this.$store.getters['navigation/copyright']
 
-    let breadCrumbs = this.$store.getters['navigation/breadCrumbs'](this.$route)
+    const breadCrumbs = this.$store.getters['navigation/breadCrumbs'](this.$route)
     this.activeMain = breadCrumbs && breadCrumbs.length ? breadCrumbs[0].title : null
+
+    const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
+    const off = crumbAnomaly ? 2 : 1
+    const lastCrumb = breadCrumbs[breadCrumbs.length - off]
+    this.currentTitle = lastCrumb ? lastCrumb.title : null
   },
   data: () => ({
     mainNav: null,
     footerNav: null,
     copyright: null,
-    activeMain: null
+    activeMain: null,
+    currentTitle: null
   }),
   watch: {
     '$route' (to, from) {
