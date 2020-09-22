@@ -7,7 +7,7 @@ gallery: []
 alias: ''
 
 ---
-# **Kampagne “2. Inklusions- & Friedenssong” (Arbeitstitel)**
+# **Kampagne “2. Inklusions- & Friedenssong” _(Arbeitstitel)_**
 
 **_Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!_**
 
