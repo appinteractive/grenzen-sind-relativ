@@ -17,7 +17,7 @@ Die interdisziplinäre Kampagne setzt sich aus den Modulen strategische Konzepti
 
 Im Auftrag von Kunst, Kultur und politischer Bildung sowie im Sinne unseres Arbeitsmottos “Analyse & Aktiv Sein”, werden wir uns intensiv, (selbst)kritisch und lösungsorientiert mit unserer “neoliberalen Gesellschaftskultur” auseinandersetzen. Diese Prozesse sollen in einem hochwertig produzierten Musikvideo zu einem “ganzheitlichen audiovisuellen Kunstwerk” als Transmitter manifestiert werden. 
 
-Mit der umfangreichen medialen Kampagne wollen wir eine große Öffentlichkeit erreichen und mit essentiellen Themen wie gesamt- gesellschaftliche Inklusion, Frieden, Menschenrechte, integrales Bewusstsein, Dialog, Empathie & Utopien in die “Mitte der Gesellschaft”. Dazu werden wir weiterführende Basisarbeit auf den Weg bringen, wie z. B. diverse Kulturveranstaltungen, Aktionstage in Schulen & Universitäten, Netzwerktreffen, eine Petition und die Gründung eines neuen “gesamtgesellschaftlichen Aktionsbündnisses”. Let´s do it - auf in eine Beziehungskultur!
+Mit der umfangreichen medialen Kampagne wollen wir eine große Öffentlichkeit erreichen und mit essentiellen Themen wie gesamtgesellschaftliche Inklusion, Frieden, Menschenrechte, integrales Bewusstsein, Dialog, Empathie & Utopien in die “Mitte der Gesellschaft”. Dazu werden wir weiterführende Basisarbeit auf den Weg bringen, wie z. B. diverse Kulturveranstaltungen, Aktionstage in Schulen & Universitäten, Netzwerktreffen, eine Petition und die Gründung eines neuen “gesamtgesellschaftlichen Aktionsbündnisses”. Let´s do it - auf in eine Beziehungskultur!
 
 Die Musikvideo-Release-Konzertveranstaltung ist im Frühjahr 2021 geplant. 
 
