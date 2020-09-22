@@ -42,4 +42,4 @@ Die Gedanken um den Begriff Inklusion sind nicht neu, im Gegenteil.  Der aktuell
 
 Um diesen und anderen Bewusstseinsprozessen  einen Plattform zu geben und AKTIV zu sein, ist der gemeinnützige Verein „Grenzen sind relativ“ ins Leben gerufen worden.
 
-Auf in eine neue Beziehungskultur!
+Let´s do it - auf in eine neue Beziehungskultur!
