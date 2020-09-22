@@ -188,9 +188,8 @@ Verschiedenste Künstler*innen präsentieren ihre Fotoarbeiten zur  universellen
 
 **Urban Citizenship Card** – Ein Konzept, in dem die Realität  nicht den Papieren angepasst wird, sondern die Papiere der Realitäten.  Dieses Recht auf gesellschaftliche, politische, kulturelle und  ökonomische Teilhabe darf nicht von einem Zufall (Geburtsort) oder von  Willkür (Anerkennung) abhängen. Die Benutzung der Urban Citizenship wird in US-amerikanischen Städten bereits praktiziert. In New York City  beispielsweise wird sie in Form der Stadtbewohner*innen-Karte „ID NYC“  ausgegeben. Bringe Dein Foto mit! https://urban-citizenship-hamburg.rechtaufstadt.net/
 
-## 
 
-## **AFTERSHOW-PARTY MIT DJ QMUTAT:[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg) **
+**AFTERSHOW-PARTY MIT DJ QMUTAT:** [![img](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2017/06/dj-qmutat.jpg)
 
 Roman Kumutat ist Hamburger DJ und hat Anfang der 90ern angefangen im HDJ Steilshoop Funk und Hip Hop aufzulegen. Später hat er das legendäre le fonque mit aufgebaut und weitere Events in Hamburg und Außerhalb  veranstaltet. Zwischendurch gründet er Funk Bands (Superbad) und macht  Rare Groove Complitations (German Funk Fieber). Zur Zeit ist er Resident im Mojo Jazz Cafe, Washingtonbar, le fonque. Beim „Grenzen sind relativ Festival“ wird er ein buntes Programm aus Soul, Funk, Latin, Afro,  Reggae, Rock und Hip Hop spielen.  [www.facebook.com/qmutat](https://www.facebook.com/qmutat/)
 
