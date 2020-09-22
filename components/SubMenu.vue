@@ -1,5 +1,5 @@
 <template>
-  <aside class="w-64 md:fixed">
+  <aside class="lg:w-64 lg:fixed">
     <nav class="-ml-1">
       <ul>
         <li v-for="parent in subMenu" :key="parent.title" class="flex items-start flex-col pb-1">

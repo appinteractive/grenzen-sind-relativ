@@ -1,21 +1,17 @@
  <template>
-  <div class="container mx-auto px-2 lg:px-6 pt-6 ">
+  <div class="container mx-auto px-4 lg:px-6 pt-6 ">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
-    <div class="flex">
-      <div class="md:w-3/6 lg:w-2/6">
-
-      </div>
-      <SubMenu
-        v-if="breadCrumbs.length > 1"
-        :sub-menu="subMenu"
-        :parents="subMenu"
-        :current-title="currentTitle" />
-      <div
-        class="w-full"
-      >
-        <article class="w-full">
-          <nuxt-content :document="page" class="prose border" />
-        </article>
+    <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
+      <article class="w-full flex lg:justify-end xl:justify-center ml-auto">
+        <nuxt-content :document="page" class="prose w-full" />
+      </article>
+      <div class="lg:w-2/6">
+        <SubMenu
+          v-if="breadCrumbs.length > 1"
+          class="py-16 lg:py-0"
+          :sub-menu="subMenu"
+          :parents="subMenu"
+          :current-title="currentTitle" />
       </div>
     </div>
   </div>
