@@ -11,7 +11,7 @@ alias: ''
 
 **_Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!_**
 
-Aufbauend auf unsere Kampagne „[AndersSein vereint – Inklusionssong für Deutschland](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html)“ werden wir nun einen **„**2. Inklusions- & Friedenssong“ realisieren, der im Rahmen einer bundesweiten Kampagne diverse Synergien, Entwicklungsprozesse und Folgeprojekte freisetzen wird. 
+Aufbauend auf unsere Kampagne „[AndersSein vereint – Inklusionssong für Deutschland](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html)“ werden wir nun einen „2. Inklusions- & Friedenssong“ realisieren, der im Rahmen einer bundesweiten Kampagne diverse Synergien, Entwicklungsprozesse und Folgeprojekte freisetzen wird. 
 
 Die interdisziplinäre Kampagne setzt sich aus den Modulen strategische Konzeption, Songwriting, Tonstudio- & Musikvideoproduktion, Musikvideo-Release- Konzertveranstaltung (wg. Corona ggfs. Online-Stream), mediale Kampagne und weiterführende Basisarbeit zusammen. 
 
