@@ -1,6 +1,6 @@
 <template>
   <top-nav-shell class="flex">
-    <ul class="">
+    <ul>
       <li
         class="group"
         v-for="(level2, index2) in navigation.children"
@@ -9,13 +9,13 @@
         <TopNavLink
           :to="getNearestURL(level2)"
           style="min-width: 20rem"
-          class="p-4 flex flex-col rounded-l"
+          class="p-4 font-normal text-gray-600  flex flex-col rounded-l level2"
           :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
           @mouseenter.native="setLevel2($event, index2)"
         >
-          <strong class="font-medium group-hover:underline">{{
+          <span class="group-hover:underline">{{
             level2.title
-          }}</strong>
+          }}</span>
           <!-- <p v-if="level2.description" class="text-xs text-gray-700">
             {{ level2.description }}
           </p> -->
@@ -69,3 +69,10 @@ export default {
   },
 }
 </script>
+
+<style lang="css">
+.group .level2.link-active {
+  @apply text-gray-800 font-semibold;
+}
+</style>
+
