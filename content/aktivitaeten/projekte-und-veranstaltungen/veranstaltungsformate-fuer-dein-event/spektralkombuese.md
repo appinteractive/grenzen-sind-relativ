@@ -18,7 +18,7 @@ alias: ''
 ---
 # Spektralkombüse - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
 
-[SPEKTRALKOMBÜSE 3](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/SPEKTRALKOMB%C3%9CSE-3.png)
+![SPEKTRALKOMBÜSE 3](https://www.grenzensindrelativ.de/wp-content/uploads/2015/11/SPEKTRALKOMB%C3%9CSE-3.png)
 
 Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kabarett? Eine Frage, die sich ab jetzt nicht mehr stellt. Jedenfalls dann nicht, wenn man sich auf Inklusion der kulturellen Art einlassen kann und die Spektralkombüse besucht, wo Tanz, Musik und Theater wie selbstverständlich an einem außergewöhnlichen Abend zu einer lebendigen Mischung miteinander verschmelzen. Die Idee der Inklusion wird so im besten wie doppelten Sinne transportiert. Von drei ganz unterschiedlichen Künstlern, die sich trotz ihrer jeweiligen Behinderung nicht davon abhalten lassen, es allen zu zeigen. Jedenfalls denjenigen, die sich nicht zwischen Tanztheater, Konzert oder Kabarett entscheiden wollen. Warum sollten Sie auch, wenn das ganze Spektrum liegt so nah.
 
