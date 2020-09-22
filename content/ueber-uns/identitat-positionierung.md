@@ -7,7 +7,7 @@ gallery: []
 alias: ''
 
 ---
-# **Identität und Positionierung GSR e.V.:**
+# Identität und Positionierung:
 
 1. Verbunden mit dem Motto “**Analyse & Aktiv Sein”** werden wir generell in die Tiefe gehen und uns dabei mit grundlegenden Systematiken unseres gesellschaftlichen Zusammenlebens beschäftigen. Dazu gehört eine möglichst ehrliche & (selbst)kritische Auseinandersetzung mit unserer “neoliberalen Gesellschaftskultur”, welche nicht nur einen zerstörerischen Finanz-Turbokapitalismus, “marktgerechte Demokratien”, Krieg und Ausbeutung beinhaltet, sondern auch unsere individuellen, zwischenmenschlichen, gruppendynamischen und gesellschaftlichen Realitäten.
 2. Im Sinne der **Mission & Vision** sollte es generell unsere Aufgabe sein, dass wir uns für Systeme einsetzen, die wirklich für und mit den Menschen sind. Im Kleinen wie im Großen. Im heutigen Zeitgeist beschäftigen wir uns jedoch überwiegend reflexartig mit Symptomen, weniger mit den Ursachen und Möglichkeiten. Viele vermeintlich alternativlose Realitäten sind von Menschen gemacht und können von Menschen verändert werden. Für Veränderungs- und Weiterentwicklungsprozesse braucht es eine auf die Ursachen eingehende Analyse, Utopien & Visionen und konstruktive gesellschaftliche Angebote, um es (er)leben zu können.
