@@ -18,7 +18,8 @@
 
 <script>
 export default {
-  async asyncData({ params, $content, store, route, error }) {
+  middleware: 'redirect',
+  async asyncData({ params, $content, redirect, store, route, error, payload }) {
     const path = `/${params.pathMatch || 'startseite'}`
     const page = await $content(path).fetch()
 

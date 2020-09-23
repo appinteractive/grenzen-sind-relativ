@@ -10,7 +10,7 @@ description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und größe
 teaser: ''
 featured: false
 gallery: []
-alias: ''
+alias: '/veranstaltungen/support-inklusion-support-mal-anders.html'
 
 ---
 # Support Inklusion – Support mal anders!

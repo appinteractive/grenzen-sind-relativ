@@ -128,10 +128,28 @@ export default {
     fallback: true,
     async routes () {
       const { $content } = require('@nuxt/content')
-      const files = await $content({ deep: true }).only(['path']).fetch()
+      const files = await $content({ deep: true }).only(['path', 'alias']).fetch()
 
-      return files.map(file => file.path === '/startseite' ? '/' : file.path)
+      const routes = []
+      files.forEach(file => {
+        const url = file.path === '/startseite' ? '/' : file.path
+        routes.push(url)
+        /* if (file.alias) {
+          routes.push({
+            route: file.alias,
+            payload: { redirect: url }
+          })
+        } */
+      })
+
+      return routes
     }
+    /* hooks: {
+      'content:file:beforeParse': (file) => {
+        if (file.extension !== '.md') return
+        file.data = file.data.replace(/react/g, 'vue')
+      }
+    } */
   },
   router: {
     linkActiveClass: 'link-parent-active',
