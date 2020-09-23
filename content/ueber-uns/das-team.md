@@ -7,10 +7,6 @@ description:
 
 ## Aktionsbüro
 
-***
-
-### Mischa Gohlke
-
 ![img](https://www.grenzensindrelativ.de/wp-content/uploads/2020/06/mischa-profil.jpg)
 
 **Initiator & Leitung: Mischa Gohlke** _(Kultur- & Medienmanager, Aktivist, Speaker, Dozent, Musiker, Autor, Inklusionsbotschafter und vor allem Mensch)_
@@ -35,17 +31,19 @@ Markus Riemann steht mir großer Freude seit über 25 Jahren auf der Bühne, ver
 
 _„Inklusion bedeutet wörtlich Einbeziehung, Einschluss,  Zugehörigkeit. In einer inklusiven Gesellschaft sollte das Thema keines sein, worüber wir diskutieren müssen. Wir alle sind anders, sind  eingeschränkt, egal ob körperlicher, mentaler, sozialer, kultureller,  emotionaler, empathischer, finanzieller oder/und struktureller Natur.  Wir alle sind Menschen und stehen in einer Zugehörigkeit zueinander.  Viele Barrieren finden in den Köpfen statt. Lasst uns diese Barrieren  lösen und für ein friedvolles, respektvolles und faires Miteinander auf  diesem Planeten wirken!“_
 
-**2. Vorsitzender:  Jan Clasen** _(Projektleiter, Produzent, Kulturmanager, Veranstalter & Aktivist)_
+**2. Vorsitzender: Jan Clasen** _(Projektleiter, Produzent, Kulturmanager, Veranstalter & Aktivist)_
 
-Jan Clasen ist der jüngste Neuzugang und seit[![IMG](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279.jpeg) September 2017 im Vorstand des Grenzen sind relativ e.V. aktiv. Das  Studium zum Kameramann hat er mit einer Ausbildung zum Produzenten  erweitert. Vor mehreren Jahren ist er als Produzent bei dem sozialen  Unternehmen KULTURPRODUKTION eingestiegen und arbeitet seitdem vor allem an Projekten, die den regionalen Kulturkreis stärken und sich für ein  friedliches Miteinander einsetzen. https://cartacultur.org
+[![IMG](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/IMG_2279.jpeg)
+
+Jan Clasen ist der jüngste Neuzugang und seit September 2017 im Vorstand des Grenzen sind relativ e.V. aktiv. Das  Studium zum Kameramann hat er mit einer Ausbildung zum Produzenten  erweitert. Vor mehreren Jahren ist er als Produzent bei dem sozialen  Unternehmen KULTURPRODUKTION eingestiegen und arbeitet seitdem vor allem an Projekten, die den regionalen Kulturkreis stärken und sich für ein  friedliches Miteinander einsetzen. https://cartacultur.org
 
 _„Unser momentanes System hat Werte kreiert, die uns nicht dazu  ermutigen anderen Menschen die Arme zu öffnen, sondern lieber die  Ellenbogen auszufahren. Auf dieser Grundlage kann weder eine  gesamtgesellschaftliche Inklusion stattfinden, noch die großen Probleme  unserer Zeit nachhaltig gelöst werden. Aus diesem Grund halte ich die  Arbeit des Grenzen sind relativ e.V. für sehr wichtig. Der Verein  schafft aufgeschlossene Begegnungsstätten für Menschen aller Farben und  Formen und trägt mit den Inhalten seiner Veranstaltungen dazu bei, das  Bewusstsein der Gäste für gesellschaftliche Themen zu sensibilisieren,  Denkblockaden offen anzusprechen und Lösungsansätze aufzuzeigen.“_
 
 ***
 
-![Jason Foley](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Jason-Foley.jpg)
-
 **Schriftführer: Jason Foley** _(Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch und Sozialpädagogik)_
+
+![Jason Foley](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/Jason-Foley.jpg)
 
 Lange Zeit lebte Jason ausschließlich von und für die Musik. Er tourte über 15 Jahre lang als Musiker-Vagabund durch Deutschland und  Europa und spielte auf kleinen und größeren Bühnen. In dieser Phase  lernte er unterschiedlichste Menschen, Haltungen, Lebensweisen und  Kulturen kennen. Es waren vor allem diese Erfahrungen, die einen großen  Einfluss auf seine inklusive Haltung von heute ausübten. Auf der Suche  nach neuen Herausforderungen entschloss er sich, pädagogisch zu  arbeiten. Immer noch als Musiker aktiv arbeitet er heute auch als  Lehrer. Hierbei ist Inklusion nicht nur kennzeichnend für seine Haltung, sondern auch ein zentraler Baustein seiner Pädagogik – daher ein  zentrales Paradigma seiner täglichen Arbeit und für ihn unerlässlich, um den Menschen an sich und die Gruppe als soziales Gefüge ganzheitlich  abzuholen und multiplikatorische Lernprozesse in Gang zu setzen. [https://jason-foley.com/ ](https://jason-foley.com/)
 
@@ -55,7 +53,9 @@ _„Im Zuge der Globalisierung richtet sich der Blick allzu häufig  auf Märkte
 
 **Raul Krauthausen** _(Aktivist, Speaker, Moderator, Berater, Autor)_
 
-Raúl Aguayo-Krauthausen ist 1980 in Peru geboren[![15019310509](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n.jpg) und lebt heute in Berlin. Sein zweites Zuhause ist das Netz.  Dort twittert, bloggt und postet er über die Dinge, die ihn bewegen.  Mal humorvoll, mal ernst und mal mit spitzer Zunge. Er studierte  Gesellschafts- und Wirtschaftskommunikation und Design Thinking. Nach  einigen Abstechern in der Werbebranche arbeitete er für vier Jahre  bei Radio Fritz vom rbb. Gemeinsam mit weiteren Mitstreiter*innen  gründete er mit SOZIALHELDEN e.V. und AbilityWatch e.V. zwei  gemeinnützige Vereine und setzt sich dort als Aktivist, Redner und  Berater für Inklusion und Barrierefreiheit ein. 2013 erhielt er für sein Engagement das Bundesverdienstkreuz am Bande. Unter dem  Titel „Dachdecker wollte ich eh nicht werden“ erschien Anfang 2014 seine Autobiographie. Für die abm moderiert er in Zusammenarbeit mit Suse  Bauer (Redaktion) seit 2015 mit KRAUTHAUSEN – face to face eine eigene  regelmäßige Talksendung zu den Themen Kultur und Inklusion. Gemeinsam  entwickeln und arbeiten sie seitdem an Web-Videoproduktionen u.a.  für ze.tt, das ZDF, den Sozialverband Deutschland und die Bundeszentrale für politische Bildung. https://raul.de/
+[![15019310509](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/15019310509_7813e888fe_n.jpg)
+
+Raúl Aguayo-Krauthausen ist 1980 in Peru geboren und lebt heute in Berlin. Sein zweites Zuhause ist das Netz.  Dort twittert, bloggt und postet er über die Dinge, die ihn bewegen.  Mal humorvoll, mal ernst und mal mit spitzer Zunge. Er studierte  Gesellschafts- und Wirtschaftskommunikation und Design Thinking. Nach  einigen Abstechern in der Werbebranche arbeitete er für vier Jahre  bei Radio Fritz vom rbb. Gemeinsam mit weiteren Mitstreiter*innen  gründete er mit SOZIALHELDEN e.V. und AbilityWatch e.V. zwei  gemeinnützige Vereine und setzt sich dort als Aktivist, Redner und  Berater für Inklusion und Barrierefreiheit ein. 2013 erhielt er für sein Engagement das Bundesverdienstkreuz am Bande. Unter dem  Titel „Dachdecker wollte ich eh nicht werden“ erschien Anfang 2014 seine Autobiographie. Für die abm moderiert er in Zusammenarbeit mit Suse  Bauer (Redaktion) seit 2015 mit KRAUTHAUSEN – face to face eine eigene  regelmäßige Talksendung zu den Themen Kultur und Inklusion. Gemeinsam  entwickeln und arbeiten sie seitdem an Web-Videoproduktionen u.a.  für ze.tt, das ZDF, den Sozialverband Deutschland und die Bundeszentrale für politische Bildung. https://raul.de/
 
 **Inés Zahmoul** _(Coach, Trainer, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher Mensch)_
 
@@ -73,9 +73,9 @@ Anja hat trotz oder wegen ihrer diversen – rechtlich nicht anerkannten – Han
 
 _„Mein Thema ist die Inklusion bereits seit ich als  Sozialarbeiterin tätig war (anfangs ohne zu wissen, was Inklusion  meint). Sozialarbeiter*innen sollten meiner Ansicht nach mit ihrem  breiten Wissen und Verständnis um die Zusammenhänge zwischen Verhalten  und Verhältnissen stets dabei sein, ‚Anderssein‘ zu unterstützen,  Menschen mit ihren Eigenheiten zu unterstützen und zu verdeutlichen, wie weit eine Vielfalt unsere Möglichkeiten macht. Gelingendes Leben als  soziales Projekt als Ziel eines jeden meint, sich selbst zu  verwirklichen und dabei in Kontakt mit den anderen zu sein, um Grenzen  zu respektieren und eigenen Grenzen zu erkennen. Inklusion bezieht sich  auf uns alle, wir brauchen die Möglichkeit teilzugeben und teilzunehmen. Mischa macht das mit seinen Projekten auf eine Art und Weise, die  vereint und uns zum Nachdenken anregt – darum geht es: um die stetige  Auseinandersetzung mit den Ambivalenzen in uns selbst, um den offenen  Umgang mit unseren eigenen Grenzen und den Mustern, die uns manchmal so  sehr an uns zweifeln lassen. Kommen wir in den Austausch, begegnen wir  uns so wie wir es können, stellen wir uns unseren Ängsten und lernen wir dazu … wie spannend das Leben doch ist.“_
 
-[![251](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)
-
 **Rolf Emmerich** _(Kulturmanager, Festivalleiter Sommerblut)_
+
+[![251](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)
 
 Schon immer war es Rolf Emmerichs Lebensmotto, aktiv und praktisch, mit Herz und Verstand Projekte gegen  Ausgrenzung, gegen Monokulturen, für Inklusion und Vielfalt anzustoßen.  Sein wichtigstes, mittlerweile 17 Jahre altes „Kind“ ist ebenfalls aus  diesem Lebensmotto heraus geboren worden: 2002 hat Rolf in Köln mit  „Sommerblut“ das Festival für „Multipolarkultur“ gegründet.
 
