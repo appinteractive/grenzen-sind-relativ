@@ -31,4 +31,4 @@ Vorstand: Markus Riemann, Jan Clasen, Jason Foley
 
 Spenden an den Verein „Grenzen sind relativ e.V.“ sind gemäß des Freistellungsbescheid des Finanzamt Hamburg-Nord vom 13.09.2016 im Rahmen des § 10b EStG als gemeinnützige Sonderaufwendungen steuerlich abzugsfähig.
 
-[![](https://www.grenzensindrelativ.de/wp-content/uploads/2019/03/Gsr-FB-Banner_2018.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/03/Gsr-FB-Banner_2018.jpg)
+[![](/media/2019/03/Gsr-FB-Banner_2018.jpg)](/media/2019/03/Gsr-FB-Banner_2018.jpg)

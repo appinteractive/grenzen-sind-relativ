@@ -19,7 +19,7 @@ Aufbauend auf unsere erfolgreichen Kulturfestivals in Hamburg _(Fabrik & Knust)_
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, bei dem
 
-a) Künstler, gemeinnützige Organisationen und  Netzwerke unterschiedlichster Backgrounds zusammen kommen[![](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/ASV-Festival-_-AndersSein-vereint-_-Foto-by-Marie-Tabuena.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/ASV-Festival-_-AndersSein-vereint-_-Foto-by-Marie-Tabuena.jpg)
+a) Künstler, gemeinnützige Organisationen und  Netzwerke unterschiedlichster Backgrounds zusammen kommen[![](/media/2014/07/ASV-Festival-_-AndersSein-vereint-_-Foto-by-Marie-Tabuena.jpg)](/media/2014/07/ASV-Festival-_-AndersSein-vereint-_-Foto-by-Marie-Tabuena.jpg)
 
 b) den Besuchern vor Ort die essentielle Thematik „[gesamtgesellschaftliche Inklusion](https://www.grenzensindrelativ.de/ueber-uns/herleitung.html)“ auf eine erfahrbare, mitreißende und künstlerische Art und Weise Nahe gebracht wird
 
@@ -27,33 +27,33 @@ Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance, Network-Area un
 
 **Sinn und Zweck:**
 
-[![](https://www.grenzensindrelativ.de/wp-content/uploads/2015/07/NDR-Inklusionsfackel3.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2015/07/NDR-Inklusionsfackel3.jpg)
+[![](/media/2015/07/NDR-Inklusionsfackel3.jpg)](/media/2015/07/NDR-Inklusionsfackel3.jpg)
 
 Mit dem „Inklusions-Support“ können wir dazu beitragen, für Thematik zu sensibilisieren & zu begeistern und mit der „gesamtgesellschaftlichen Inklusion“ mehr in der Mitte der Gesellschaft anzukommen. Darüber hinaus schafft man mit dem Veranstaltungsformat eine erfrischende kulturelle Abwechslung und bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikatoren und weiterführende Basisarbeit auf den Weg gebracht werden.
 
 **Umsetzung „Support Inklusion – Support mal anders!“**
 
-[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA.jpeg)Unser Aktionsbüro „Grenzen sind relativ e.V.“ entwickelt zusammen mit dem Veranstalter ein individuell abgestimmtes strategisches Veranstaltungskonzept inklusive Finanzplanung. Darauf aufbauend stellen wir ein spannendes facettenreiches Bühnenprogramm zusammen und planen die die Network-Area und interaktiven Erlebniswelten/Aktionen. 
+[![](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA.jpeg)](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA.jpeg)Unser Aktionsbüro „Grenzen sind relativ e.V.“ entwickelt zusammen mit dem Veranstalter ein individuell abgestimmtes strategisches Veranstaltungskonzept inklusive Finanzplanung. Darauf aufbauend stellen wir ein spannendes facettenreiches Bühnenprogramm zusammen und planen die die Network-Area und interaktiven Erlebniswelten/Aktionen. 
 
-[![](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/2.-ASV-Festival-Abendblatt-Mopo-Oxmox.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2014/07/2.-ASV-Festival-Abendblatt-Mopo-Oxmox.jpg)
+[![](/media/2014/07/2.-ASV-Festival-Abendblatt-Mopo-Oxmox.jpg)](/media/2014/07/2.-ASV-Festival-Abendblatt-Mopo-Oxmox.jpg)
 
 Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- & Veranstaltungstechnik und Personal am Veranstaltungstag auf unser großes Netzwerk zurückgreifen. Im Rahmen der PR- & Öffentlichkeitsarbeit mobilisieren wir die allgemeine Öffentlichkeit, machen umfangreiche Pressearbeit (Print, Online, TV & Radio) und laden diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung ein.
 
 1. Bühnenprogramm:
 
-* Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden**.**[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/08/GSR_Plakat_Online_Final.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/08/GSR_Plakat_Online_Final.jpg)
+* Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden**.**[![](/media/2018/08/GSR_Plakat_Online_Final.jpg)](/media/2018/08/GSR_Plakat_Online_Final.jpg)
 * Zu unserem großen Künstlernetzwerk gehören u.a. die Mischa Gohlke Band, Martin Fromme, Kassandra Wedel, uvam.
 * Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://youtu.be/KPi9ZNp-YJQ) _(oder “2. Inklusionssong” ab Sept. 2020)_ gemacht werden.
 * Unser Moderator [Markus Riemann](https://kulturbedarf.de/) wird durch das Programm führen, einige Vereine/Projekte vorstellen und Interviews mit den Künstlern machen.
 
-1. Interaktive Erlebniswelten:[![NDR Inklusionsfackel](https://www.grenzensindrelativ.de/wp-content/uploads/2015/07/NDR-Inklusionsfackel.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2015/07/NDR-Inklusionsfackel.jpg)
+1. Interaktive Erlebniswelten:[![NDR Inklusionsfackel](/media/2015/07/NDR-Inklusionsfackel.jpg)](/media/2015/07/NDR-Inklusionsfackel.jpg)
 
 * Es wird eine Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden
-* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(oder_ _“2. Inklusionssong” ab Sept. 2020)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben[_![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)_](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)
+* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(oder_ _“2. Inklusionssong” ab Sept. 2020)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben[_![](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)_](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)
 * Gebärdensprach-Barkeeper, interaktive Aktionen, Kleinkunst zum Mitmachen, usw.
 * Künstlerische Präsentationen zu den Themen Inklusion,  
   Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.
-* …[![](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Infostände_MldWFD3g.jpeg)](https://www.grenzensindrelativ.de/wp-content/uploads/2018/11/Infostände_MldWFD3g.jpeg)
+* …[![](/media/2018/11/Infostände_MldWFD3g.jpeg)](/media/2018/11/Infostände_MldWFD3g.jpeg)
 
 1. Network-Area:
 
@@ -63,7 +63,7 @@ Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- 
 
 **Inklusion & Inklusionsverständnis**
 
-_„Bei Inklusion gibt es keine Diskussion um Inklusion.“![05](https://www.grenzensindrelativ.de/wp-content/uploads/2015/07/05_buehne_DSCF9530.jpg) (Wolfgang S. Zechmayer, Schauspieler)_
+_„Bei Inklusion gibt es keine Diskussion um Inklusion.“![05](/media/2015/07/05_buehne_DSCF9530.jpg) (Wolfgang S. Zechmayer, Schauspieler)_
 
 Inklusion ist ein in Deutschland viel diskutiertes und mit vielen Berührungsängsten behaftetes Thema. Zumeist wird Inklusion auf die „Integration“ von Menschen mit (formal anerkannter) Behinderung runter gebrochen. Dabei kann, will und muss Inklusion wesentlich mehr sein!
 
