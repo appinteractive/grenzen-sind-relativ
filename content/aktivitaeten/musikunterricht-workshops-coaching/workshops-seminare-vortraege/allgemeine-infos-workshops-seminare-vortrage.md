@@ -8,7 +8,7 @@ description: 'Unser „Grenzen sind relativ e.V.“ Projektleiter & Inklusionbot
 teaser: "/media/ws-beitragsbild.jpg"
 featured: false
 gallery: []
-alias: ''
+alias: '/workshops-seminare-vortraege/allgemeine-informationen-workshops.html'
 
 ---
 # Workshops, Seminare & Vorträge

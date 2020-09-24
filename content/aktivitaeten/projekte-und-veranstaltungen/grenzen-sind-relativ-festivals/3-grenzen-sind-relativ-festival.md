@@ -1,7 +1,7 @@
 ---
 title: 3. Grenzen sind relativ Festival 2019
 description: Empty description
-
+alias: /veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2.html
 ---
 # 3. Grenzen sind relativ Festival
 

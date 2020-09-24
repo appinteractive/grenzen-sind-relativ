@@ -3,7 +3,7 @@ title: Unsere Vision
 description: Zu Zeiten der individuellen und gesellschaftlichen Spaltung brauchen  wir
   Inklusion statt Separation, Kooperation statt Konkurrenz und  gelebten Frieden für
   alle Menschen auf diesem Planeten. Letztlich geht  es um unser Bewusstsein.
-
+alias: /ueber-uns/herleitung.html
 ---
 # Eine neue Beziehungskultur
 

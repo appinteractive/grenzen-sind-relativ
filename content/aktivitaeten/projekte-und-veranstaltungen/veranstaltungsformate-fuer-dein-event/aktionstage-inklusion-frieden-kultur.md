@@ -7,7 +7,7 @@ description: Hier können die TeilnehmerInnen ERFAHREN, was Inklusion beinhalten
   unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken
   und das Gemeinschaftsgefühl zu stärken.
 teaser: "/media/aktionstage-inklusion-beitragsbild.jpg"
-
+alias: /aktionstage-inklusion/allgemeine-informationen-aktionstage.html
 ---
 # Aktionstage Inklusion / Frieden / Kultur
 

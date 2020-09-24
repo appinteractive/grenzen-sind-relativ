@@ -1,7 +1,7 @@
 ---
 title: "“Grenzen sind relativ – Musik, Hören und Inklusion“ "
 description: ''
-
+alias: /2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html
 ---
 # “Grenzen sind relativ – Musik, Hören und Inklusion“ (von Mischa Gohlke)
 

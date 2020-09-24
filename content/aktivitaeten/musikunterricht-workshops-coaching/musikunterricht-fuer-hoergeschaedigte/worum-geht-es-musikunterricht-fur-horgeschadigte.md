@@ -11,7 +11,7 @@ description: Ca. 14 Millionen Menschen in Deutschland sind hörgeschädigt. Derz
 teaser: "/media/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
 featured: false
 gallery: []
-alias: ''
+alias: '/musikunterricht-fuer-hoergeschaedigte/allgemeine-informationen-musikunterricht.html'
 
 ---
 # Worum geht es?

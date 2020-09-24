@@ -1,7 +1,7 @@
 ---
 title: WS “Grenzen sind relativ – Musik, systemische Inklusion & Beziehungskultur(en)”
 description: ''
-
+alias: /workshops-seminare-vortraege/ws-grenzen-sind-relativ-musik-systemische-inklusion-beziehungskulturen.html
 ---
 # WS “Grenzen sind relativ – Musik, systemische Inklusion & Beziehungskultur(en)”
 

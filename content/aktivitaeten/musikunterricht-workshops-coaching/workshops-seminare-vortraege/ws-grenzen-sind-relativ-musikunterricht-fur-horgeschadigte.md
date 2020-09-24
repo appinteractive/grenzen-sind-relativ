@@ -1,7 +1,7 @@
 ---
 title: WS „Grenzen sind relativ – Musikunterricht für Hörgeschädigte“
 description: ''
-
+alias: /workshops-seminare-vortraege/exposewochenend-workshop.html
 ---
 # WS „Grenzen sind relativ – Musikunterricht für Hörgeschädigte“
 

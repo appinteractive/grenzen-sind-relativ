@@ -8,7 +8,7 @@ description: 'In der aufwendigen wie mitreißenden Musikvideoproduktion singen, 
 teaser: "/media/asv-beitragsbild.jpg"
 featured: false
 gallery: []
-
+alias: /anderssein-vereint-2/inklusionssong-fuer-deutschland.html
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
 

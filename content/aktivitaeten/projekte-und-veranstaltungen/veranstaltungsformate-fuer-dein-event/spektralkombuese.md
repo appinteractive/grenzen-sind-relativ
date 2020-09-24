@@ -13,7 +13,7 @@ description: Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kaba
 teaser: "/media/spektralkombuse-beitragsbild.png"
 featured: false
 gallery: []
-alias: ''
+alias: '/veranstaltungen/spektralkombuese.html'
 
 ---
 # Spektralkombüse - Erfahrbare Inklusion durch Musik, Tanz und Kabarett

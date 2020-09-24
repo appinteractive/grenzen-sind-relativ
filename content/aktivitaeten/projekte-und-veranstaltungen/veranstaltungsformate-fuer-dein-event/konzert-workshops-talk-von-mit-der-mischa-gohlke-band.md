@@ -9,7 +9,7 @@ description: Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und inte
 teaser: "/media/mgb-beitragsbild.jpeg"
 featured: false
 gallery: []
-alias: ''
+alias: '/veranstaltungen/konzert-workshop-talkrunde.html'
 
 ---
 # Konzert, Workshops & Talk von/mit der Mischa Gohlke Band

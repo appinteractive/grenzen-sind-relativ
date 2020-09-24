@@ -7,7 +7,7 @@ description: Zusammen mit anderen Vereinen, Initiativen, Einrichtungen oder/und 
 teaser: "/media/0-prio-anderssein-vereint-massenszene1-_-foto-by-tom-roeler.jpg"
 featured: false
 gallery: []
-alias: ''
+alias: '/kooperationsprojekte/allgemeine-informationen.html'
 
 ---
 # Kooperationsprojekte

@@ -1,7 +1,7 @@
 ---
 title: Das Team
 description: 
-
+alias: /ueber-uns/gsr-team.html
 ---
 # Das Team
 
