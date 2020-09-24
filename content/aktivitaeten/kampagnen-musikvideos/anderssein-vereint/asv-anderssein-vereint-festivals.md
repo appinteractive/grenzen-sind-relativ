@@ -1,7 +1,7 @@
 ---
 title: ASV - AndersSein vereint Festivals
 description: ''
-
+alias: /anderssein-vereint-2/3-anderssein-vereint-festival.html
 ---
 # Review „3. AndersSein vereint Festival“ // 18.11.2016 „knust Hamburg“
 
@@ -40,7 +40,7 @@ Facebook-Event: [www.facebook.com/events/938690972943439](https://www.facebook.c
 **Still in Search –** Das Hamburger Trio Still in Search![still-in-search_2016_3](/media/2015/05/Still-in-Search_2016_3.jpg) lässt immer wieder Momente aufblitzen, die sich nicht in einem Satz beschreiben lassen. Ein Pattern Biffy Clyro, eine Passage Muse, dann wieder Kensington, die Holländischen Pop/Rock-Helden des Jahres. Dazu  
  Clara Brauers markante Stimme, die stellenweise an die der Cranberries erinnert. Ein großer, weiter Sound zieht sich durch, der zum Mitgehen einlädt und immer wieder Popmomente feiert. Live ist Still in Search unbändiger Enthusiasmus und überbordende Energie. Etwas, was man von einer norddeutschen Band wohl nicht erwartet. Kein Konzert – sondern eine Show! Bis ins Detail verliebt. Und das zieht das Publikum jedes Mal aufs Neue in den Bann. [https://stillinsearch.com](https://stillinsearch.com "https://stillinsearch.com")
 
-**Mischa Gohlke Band –** Musiker. Freigeist. Inklusionsbotschafter. ![8824-mischa-gohlke-band-live-_-foto-by-jan-ziegler](/media/2015/05/8824-Mischa-Gohlke-Band-LIVE-_-Foto-by-Jan-Ziegler.jpg)Die Reihe könnte man endlos fortsetzen. Der Hamburger Bluesgitarrist ist facettenreich und ebenso seine Biographie. In der nach ihm benannten „Mischa Gohlke Band“ fließen deutsch- und englischsprachige Eigenkompositionen zu einem Crossover Sound zusammen, der hochprofessionell wie leidenschaftlich daher kommt. Darüber hinaus widmet sich die Band mit einer ganz exklusiven Hommage den beiden Legenden Stevie Ray Vaughan und Jimi Hendrix. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. [www.grenzensindrelativ.de/mischa-gohlke-band/bandinfo.html](https://www.grenzensindrelativ.de/mischa-gohlke-band/bandinfo.html)
+**Mischa Gohlke Band –** Musiker. Freigeist. Inklusionsbotschafter. ![8824-mischa-gohlke-band-live-_-foto-by-jan-ziegler](/media/2015/05/8824-Mischa-Gohlke-Band-LIVE-_-Foto-by-Jan-Ziegler.jpg)Die Reihe könnte man endlos fortsetzen. Der Hamburger Bluesgitarrist ist facettenreich und ebenso seine Biographie. In der nach ihm benannten „Mischa Gohlke Band“ fließen deutsch- und englischsprachige Eigenkompositionen zu einem Crossover Sound zusammen, der hochprofessionell wie leidenschaftlich daher kommt. Darüber hinaus widmet sich die Band mit einer ganz exklusiven Hommage den beiden Legenden Stevie Ray Vaughan und Jimi Hendrix. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. [www.grenzensindrelativ.de/mischa-gohlke-band/bandinfo.html](/mischa-gohlke-band/bandinfo.html)
 
 **Katrin Wulff –** Ein bunter Vogel in der deutschen Musikszene. ![Katrin Wulff(C)Muenchbach](/media/2016/07/Katrin-WulffCMuenchbach.jpeg)Nicht nur dank ihrer roten Haare. Angeflogen aus dem Westfalenland legt die Wahlhamburgerin stattliche vier Oktaven auf die Waagschale und bewegt sich elegant zwischen engelsgleicher Sirene und dreckiger Soulröhre. Eine Ausnahmestimme, die Songs schreibt erzählt über Lust und Laster, digitales Grundrauschen, alte Denkschleifen und neue Kapitel. Eine Künstlerin zum Entdecken, die Herz und Hirn bewegt und als bekennende Bühnensau nur zu gern das Publikum unterhält. Katrin Wulff hat u.a. mit Xavier Naidoo und Udo Lindenberg zusammengearbeitet und ist die Songwriterin von„AndersSein vereint“. Im Kukuun auf der Hamburger Reeperbahn ist sie Gastgeberin der Reihe „KAT\`S SUITE“. [www.katwulff.de](https://www.katwulff.de/) [![Graf Fidi](/media/2016/07/Graf-Fidi.jpg)](/media/2016/07/Graf-Fidi.jpg)
 
@@ -86,7 +86,7 @@ Verbunden mit der Kampagne „AndersSein vereint – Inklusionssong für Deutsch
  c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielführende Crossover-Projekte zu realisieren. Wie zum Beispiel Aktionstage Inklusion an Schulen und Universitäten, spartenübergreifenden Festivals, inklusive Tourneen, Netzwerktreffen, sowie eine Albumproduktion mit nationalen und internationalen Künstlern.
 
 Unter folgendem Link gibt es alle Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger. Protagonisten sowie das „AndersSein vereint Festival“ am 18.11.2016 im Knust Hamburg:  
- [https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](https://stillinsearch.com "https://stillinsearch.com")
+ [/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](https://stillinsearch.com "https://stillinsearch.com")
 
 _“Bei Inklusion gibt es keine Diskussion um Inklusion.” (Wolfgang S. Zechmayer)_
 

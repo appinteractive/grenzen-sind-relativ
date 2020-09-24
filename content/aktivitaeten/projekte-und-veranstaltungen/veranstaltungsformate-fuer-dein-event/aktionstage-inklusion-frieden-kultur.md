@@ -65,7 +65,7 @@ Das Programm (Workshops, interaktive Erlebniswelten, Inklusionsforum, Podiumvera
 
 ### **WS 1 „Grenzen sind relativ – Musikunterricht für Hörgeschädigte“** [![Mischa Gohlke Solo 2](/media/2014/07/Mischa-Gohlke-Solo-2-181x300.jpg)](/media/2014/07/Mischa-Gohlke-Solo-2-e1405872711854.jpg)
 
-_Dozent: Mischa Gohlke (Initiator „Grenzen sind relativ“, Musiker, Dozent, Coach,_ [_www.grenzensindrelativ.de_](https://www.grenzensindrelativ.de)_)_
+_Dozent: Mischa Gohlke (Initiator „Grenzen sind relativ“, Musiker, Dozent, Coach,_ [_www.grenzensindrelativ.de_](/)_)_
 
 Ca. 14 Millionen Menschen in Deutschland sind hörgeschädigt. Derzeit gibt es kaum Angebote für hörgeschädigte Menschen, Musikunterricht zu nehmen. Dazu existiert der weit verbreitete Glaubenssatz, dass „man aufgrund einer Hörschädigung keine Musik machen kann“.
 

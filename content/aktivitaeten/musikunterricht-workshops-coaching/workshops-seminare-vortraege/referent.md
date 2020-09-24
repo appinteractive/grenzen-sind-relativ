@@ -28,9 +28,9 @@ Links:
 **NDR Schleswig Holstein Magazin „Mischa Gohlke – Musiker ohne Gehör“**  
 <youtube id="7RohEwmDdXY"></youtube>
 
-[Blog von Mischa Gohlke – „Grenzen sind relativ – Musik, Hören und Inklusion“](https://www.grenzensindrelativ.de/2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html)
+[Blog von Mischa Gohlke – „Grenzen sind relativ – Musik, Hören und Inklusion“](/2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html)
 
-[Blog von Mischa Gohlke – „Auf in eine neue Beziehungskultur!“](https://www.grenzensindrelativ.de/2016/12/03/auf-in-eine-neue-beziehungskultur.html)
+[Blog von Mischa Gohlke – „Auf in eine neue Beziehungskultur!“](/2016/12/03/auf-in-eine-neue-beziehungskultur.html)
 
 **Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“**
 <youtube id="KPi9ZNp-YJQ">
@@ -42,4 +42,4 @@ Kontakt:
 
 Mischa Gohlke  
 mischa.gohlke@grenzensindrelativ.de  
-[www.grenzensindrelativ.de](https://www.grenzensindrelativ.de)
+[www.grenzensindrelativ.de](/)

@@ -1,7 +1,7 @@
 ---
 title: ASV - Worum geht es?
 description: ''
-
+alias: '/anderssein-vereint-2/worum-geht-es.html'
 ---
 # Worum geht es?
 

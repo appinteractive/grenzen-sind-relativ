@@ -81,6 +81,6 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 
 ## **Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden:**
 
-Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. https://www.grenzensindrelativ.de
+Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. /
 
 [![img](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)

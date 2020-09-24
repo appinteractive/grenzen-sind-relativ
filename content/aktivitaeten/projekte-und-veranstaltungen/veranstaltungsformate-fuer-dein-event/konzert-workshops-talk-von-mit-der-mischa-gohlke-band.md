@@ -16,7 +16,7 @@ alias: ''
 
 Grenzen sind relativ. Mit Live-Musik, spannenden [![](/media/2018/11/MGB.jpeg)](/media/2018/11/MGB.jpeg)Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
 
-Das Veranstaltungsformat [“Konzert, Workshops & Talk und von/mit der Mischa Gohlke Band”](https://www.grenzensindrelativ.de/veranstaltungen/konzert-workshop-talkrunde.html) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [“gelebte(re) gesamtgesellschaftliche Inklusion” ](https://www.grenzensindrelativ.de/ueber-uns/herleitung.html)freisetzen.
+Das Veranstaltungsformat [“Konzert, Workshops & Talk und von/mit der Mischa Gohlke Band”](/veranstaltungen/konzert-workshop-talkrunde.html) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [“gelebte(re) gesamtgesellschaftliche Inklusion” ](/ueber-uns/herleitung.html)freisetzen.
 
 Musik ist ein wunderbares Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken und das Gemeinschaftsgefühl zu stärken.
 
@@ -31,9 +31,9 @@ Die Veranstaltungen werden exklusiv in Schulen, Universitäten, Unternehmen, Spo
 Das Veranstaltungsformat umfasst folgende Säulen:
 
 1. Konzert „[Mischa Gohlke Band](https://mischagohlkeband.de/)“ + ggfs. weitere Acts (Local Hero, Musikprojekt von einer gemeinnützigen Organisation, Nachwuchsgruppen, usw.)
-2. [Workshops/Seminare von/mit der „Mischa Gohlke Band“ (Rhythm´n´Groove, Musikorient, Bandtraing, Instrumente, Chor, usw.)](https://www.grenzensindrelativ.de/veranstaltungen/konzert-workshop-talkrunde.html)
-3. Interviews, Vortrag, Talkrunde und interaktive Gesprächsrunde von/mit [Mischa Gohlke](https://www.grenzensindrelativ.de/workshops-seminare-vortraege/allgemeine-informationen-workshops.html) oder/und der „Mischa Gohlke Band“
-4. Idee: Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei der Konzertveranstaltung den Inklusionssong [AndersSein vereint](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) (ab Sept. 2020: “2. Inklusionssong”) auf der Bühne mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einzuproben.
+2. [Workshops/Seminare von/mit der „Mischa Gohlke Band“ (Rhythm´n´Groove, Musikorient, Bandtraing, Instrumente, Chor, usw.)](/veranstaltungen/konzert-workshop-talkrunde.html)
+3. Interviews, Vortrag, Talkrunde und interaktive Gesprächsrunde von/mit [Mischa Gohlke](/workshops-seminare-vortraege/allgemeine-informationen-workshops.html) oder/und der „Mischa Gohlke Band“
+4. Idee: Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei der Konzertveranstaltung den Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) (ab Sept. 2020: “2. Inklusionssong”) auf der Bühne mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einzuproben.
 5. Ggfs. Network-Area bei der Konzertveranstaltung: Hier könn(t)en sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN in einem Infotischbereich präsentieren und sich dabei kennenlernen, austauschen und vernetzen.
 6. Ggfs. Interaktive Erlebniswelten/Aktionen bei der Konzertveranstaltung: Es wird eine (kleine) Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden (z.B. Gebärdensprach-Barkeeper, Kleinkunst zum Mitmachen, künstlerische Präsentationen zu den Themen Inklusion, Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.)
 

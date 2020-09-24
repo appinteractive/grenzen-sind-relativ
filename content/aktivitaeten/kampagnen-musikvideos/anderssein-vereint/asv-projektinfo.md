@@ -8,7 +8,6 @@ description: 'In der aufwendigen wie mitreißenden Musikvideoproduktion singen, 
 teaser: "/media/asv-beitragsbild.jpg"
 featured: false
 gallery: []
-alias: ''
 
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
@@ -21,7 +20,7 @@ Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusamm
 
 Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor „Hands up“ [![Komparsen _ Foto by Tom Roeler](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg)](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg) sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.
 
-Initiiert von „Grenzen sind relativ“ und dem an Taubheit grenzend hörgeschädigten Gitarristen Mischa Gohlke ist mit viel Eigenengagement und geringem Budget eine Produktion entstanden, welche die [„ganzheitlich gelebte Inklusion“](https://www.grenzensindrelativ.de/anderssein-vereint-2/worum-geht-es.html) unmittelbar erfahrbar macht und eine Brücke schlägt zum jeweils anderen. Miteinander …
+Initiiert von „Grenzen sind relativ“ und dem an Taubheit grenzend hörgeschädigten Gitarristen Mischa Gohlke ist mit viel Eigenengagement und geringem Budget eine Produktion entstanden, welche die [„ganzheitlich gelebte Inklusion“](/anderssein-vereint-2/worum-geht-es.html) unmittelbar erfahrbar macht und eine Brücke schlägt zum jeweils anderen. Miteinander …
 
 [![Lara Hahnel & Kassandra Wedel](/media/2015/04/Bildschirmfoto-2015-04-12-um-12.44.30-21.jpg)](/media/2015/04/Bildschirmfoto-2015-04-12-um-12.44.30-21.jpg) Verbunden mit der **Kampagne „AndersSein vereint – Inklusionssong für Deutschland“** sollen Impulse freisetzt werden, um:
 
@@ -42,13 +41,13 @@ Mit den Erlösen aus den Verkäufen von „AndersSein vereint“ werden weiterf�
 **Crew „AndersSein vereint – Inklusionssong für Deutschland“ (Tonstudio, Musikvideo & Kampagne):**
 
 **Idee, Produzent & Leitung Gesamtprojekt:**  
- Mischa Gohlke, [www.grenzensindrelativ.de](https://www.grenzensindrelativ.de%20)
+ Mischa Gohlke, [www.grenzensindrelativ.de](/%20)
 
 **Musikproduktion:**
 
 Songwriting & Text: Katrin Wulff (getourt u.a. mit Xavier Naidoo und Udo Lindenberg), [www.katrinwulff.de](https://www.katrinwulff.de%20)
 
-Musik: Mischa Gohlke Band feat. Katrin Wulff (Crossover Blues, Inklusion und mehr), [www.grenzensindrelativ.de/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html](https://www.grenzensindrelativ.de/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html%20 "Mischa Gohlke Band feat. Katrin Wulff")
+Musik: Mischa Gohlke Band feat. Katrin Wulff (Crossover Blues, Inklusion und mehr), [www.grenzensindrelativ.de/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html](/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html%20 "Mischa Gohlke Band feat. Katrin Wulff")
 
 Aufgenommen von Jan Philipp Kelber und Karsten Böttcher im melloton Studio Hamburg
 
@@ -134,12 +133,12 @@ Danke auch an das Planetarium Hamburg, German Real Estate, La Douce Catering und
 [![AndersSein vereint Infobroschüre1](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg?size=1024x489)](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg) [![AndersSein vereint Infobroschüre2](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg?size=1024x489)](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg)
 
 1. AndersSein vereint
-   * [Worum geht es?](https://www.grenzensindrelativ.de/anderssein-vereint-2/worum-geht-es.html)
-   * [AndersSein vereint – Inklusionssong für Deutschland](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html)
-   * [Band, Gastsänger & Protagonisten](https://www.grenzensindrelativ.de/anderssein-vereint-2/band-gastsaenger-protagonisten.html)
-   * [Musikvideo, Making of & Eventfilm Festival](https://www.grenzensindrelativ.de/anderssein-vereint-2/bericht-ndr-das-magazin-14-04.html)
-   * [Fotos](https://www.grenzensindrelativ.de/?page_id=1480)
-   * [Review & Erfolge](https://www.grenzensindrelativ.de/anderssein-vereint-2/status-quo-erfolge.html)
-   * [Review „3. AndersSein vereint Festival“ // 18.11.2016 „knust Hamburg“](https://www.grenzensindrelativ.de/anderssein-vereint-2/3-anderssein-vereint-festival.html)
+   * [Worum geht es?](/anderssein-vereint-2/worum-geht-es.html)
+   * [AndersSein vereint – Inklusionssong für Deutschland](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html)
+   * [Band, Gastsänger & Protagonisten](/anderssein-vereint-2/band-gastsaenger-protagonisten.html)
+   * [Musikvideo, Making of & Eventfilm Festival](/anderssein-vereint-2/bericht-ndr-das-magazin-14-04.html)
+   * [Fotos](/?page_id=1480)
+   * [Review & Erfolge](/anderssein-vereint-2/status-quo-erfolge.html)
+   * [Review „3. AndersSein vereint Festival“ // 18.11.2016 „knust Hamburg“](/anderssein-vereint-2/3-anderssein-vereint-festival.html)
 
-©2015 Grenzen sind relativ | [Presse](https://www.grenzensindrelativ.de/presse/bisherige-medienberichte.html "Presse") | [Impressum](https://www.grenzensindrelativ.de/impressum.html) | [Newsletter](https://www.grenzensindrelativ.de/newsletter.html) | [Facebook](https://www.facebook.com/grenzensindrelativ)
+©2015 Grenzen sind relativ | [Presse](/presse/bisherige-medienberichte.html "Presse") | [Impressum](/impressum.html) | [Newsletter](/newsletter.html) | [Facebook](https://www.facebook.com/grenzensindrelativ)

@@ -15,8 +15,8 @@ alias: ''
 
 „Grenzen sind relativ e.V.“ Initiator & Projektleiter Mischa Gohlke hält Vorträge und gibt Workshops/Seminare u.a. zu folgenden Themen:
 
-* [Grenzen sind relativ – Musikunterricht für Hörgeschädigte](https://www.grenzensindrelativ.de/workshops-seminare-vortraege/exposewochenend-workshop.html)
-* [Grenzen sind relativ – Musik, systemische Inklusion & Beziehungskultur(en)](https://www.grenzensindrelativ.de/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musik-systemische-inklusion-beziehungskulturen.html)
+* [Grenzen sind relativ – Musikunterricht für Hörgeschädigte](/workshops-seminare-vortraege/exposewochenend-workshop.html)
+* [Grenzen sind relativ – Musik, systemische Inklusion & Beziehungskultur(en)](/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musik-systemische-inklusion-beziehungskulturen.html)
 * Inklusives Veranstaltungsmanagement am Beispiel der „Grenzen sind relativ Festivals“
 * Projekt- & Veranstaltungsmanagement – Vorlauf, strategische & operative Planung, Durchführung und Evaluation
 * Mentale Hörwahrnehmung & Multisensorische Wahrnehmungsebenen

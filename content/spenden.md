@@ -2,7 +2,7 @@
 title: Spenden
 description: Wir freuen uns über jede einmalige und/oder regelmäßige (monatliche)
   Spende
-
+alias: /spenden.html
 ---
 # Spenden
 

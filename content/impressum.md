@@ -1,7 +1,7 @@
 ---
 title: Impressum
 description: 
-
+alias: /impressum.html
 ---
 # Impressum
 

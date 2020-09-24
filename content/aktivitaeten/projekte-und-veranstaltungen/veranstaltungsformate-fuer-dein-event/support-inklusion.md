@@ -15,13 +15,13 @@ alias: "/veranstaltungen/support-inklusion-support-mal-anders.html"
 ---
 # Support Inklusion – Support mal anders!
 
-Aufbauend auf unsere erfolgreichen Kulturfestivals in Hamburg _(Fabrik & Knust)_ und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir nun das neue frische Veranstaltungsformat [“Support Inklusion – Support mal anders!”](https://www.grenzensindrelativ.de/veranstaltungen/support-inklusion-support-mal-anders.html) kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
+Aufbauend auf unsere erfolgreichen Kulturfestivals in Hamburg _(Fabrik & Knust)_ und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir nun das neue frische Veranstaltungsformat [“Support Inklusion – Support mal anders!”](/veranstaltungen/support-inklusion-support-mal-anders.html) kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, bei dem
 
 a) Künstler, gemeinnützige Organisationen und  Netzwerke unterschiedlichster Backgrounds zusammen kommen[![](/media/2014/07/ASV-Festival-_-AndersSein-vereint-_-Foto-by-Marie-Tabuena.jpg)](/media/2014/07/ASV-Festival-_-AndersSein-vereint-_-Foto-by-Marie-Tabuena.jpg)
 
-b) den Besuchern vor Ort die essentielle Thematik „[gesamtgesellschaftliche Inklusion](https://www.grenzensindrelativ.de/ueber-uns/herleitung.html)“ auf eine erfahrbare, mitreißende und künstlerische Art und Weise Nahe gebracht wird
+b) den Besuchern vor Ort die essentielle Thematik „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare, mitreißende und künstlerische Art und Weise Nahe gebracht wird
 
 Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance, Network-Area und interaktive Erlebniswelten/Aktionen.
 
@@ -49,7 +49,7 @@ Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- 
 1. Interaktive Erlebniswelten:[![NDR Inklusionsfackel](/media/2015/07/NDR-Inklusionsfackel.jpg)](/media/2015/07/NDR-Inklusionsfackel.jpg)
 
 * Es wird eine Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden
-* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(oder_ _“2. Inklusionssong” ab Sept. 2020)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben[_![](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)_](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)
+* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(oder_ _“2. Inklusionssong” ab Sept. 2020)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben[_![](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)_](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg)
 * Gebärdensprach-Barkeeper, interaktive Aktionen, Kleinkunst zum Mitmachen, usw.
 * Künstlerische Präsentationen zu den Themen Inklusion,  
   Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.

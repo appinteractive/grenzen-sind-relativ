@@ -1,16 +1,16 @@
 ---
 title: ASV - Review & Erfolge
 description: ''
-
+alias: /anderssein-vereint-2/status-quo-erfolge.html
 ---
 # Review & Erfolge
 
 **1. Infos zum Gesamtprojekt “AndersSein vereint – Inklusionssong für Deutschland”:**
 
-* Unter folgendem Link gibt es die Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger und Protagonisten: [https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ (aktuell 119.094 Aufrufe): [https://youtu.be/KPi9ZNp-YJQ](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* TV Bericht – NDR DAS! Magazin “Ein Inklusionssong für Deutschland”: [https://youtu.be/BPQpJT0kyMw](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* Eventfilm „AndersSein vereint Festival“ // 15.06.2015 Knust Hamburg: [https://youtu.be/YtkNIEK4zEs](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Unter folgendem Link gibt es die Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger und Protagonisten: [/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ (aktuell 119.094 Aufrufe): [https://youtu.be/KPi9ZNp-YJQ](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* TV Bericht – NDR DAS! Magazin “Ein Inklusionssong für Deutschland”: [https://youtu.be/BPQpJT0kyMw](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Eventfilm „AndersSein vereint Festival“ // 15.06.2015 Knust Hamburg: [https://youtu.be/YtkNIEK4zEs](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
 
 **2.) Medienberichte:**
 
@@ -26,7 +26,7 @@ _ARD, ZDF, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, Sat1, RTL, HH1, NDR 90.3, NDR 
 
 * Live on stage: jeweils 30-70 Künstler*innen (Musik, Tanz, Kabarett, Performance, Moderation & Interviews)
 * Besucher*innen: jeweils zwischen 400 und 600 Menschen vor Ort
-* Review “3. AndersSein vereint Festival” // 18.11.2016 “knust Hamburg”: [https://www.grenzensindrelativ.de/anderssein-vereint-2/3-anderssein-vereint-festival.html](https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "https://www.grenzensindrelativ.de/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Review “3. AndersSein vereint Festival” // 18.11.2016 “knust Hamburg”: [/anderssein-vereint-2/3-anderssein-vereint-festival.html](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
 
 **5.) Weiterführende Basisarbeit:**
 
