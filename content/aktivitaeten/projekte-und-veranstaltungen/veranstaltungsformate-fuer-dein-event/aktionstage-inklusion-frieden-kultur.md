@@ -113,7 +113,7 @@ Michael Herold ist seit seiner Kindheit an Muskelschwund erkrankt, oder wie er e
 
 ### **WS12 „Feel the beat and let‘s dance together!“**
 
-_Dozentin: Kassandra Wedel (Tänzerin, Coach, Choreografin, Theaterwissenschaftlerin und Künstlerin,_ [www.gsc-muenchen.de/trainer/hiphop-trainertrainerin](https://www.gsc-muenchen.de/trainer/hiphop-trainertrainerin)_)_[![kassandra wedel foto](/media/2014/07/kassandra-wedel-foto1-185x300.jpg)](/media/2014/07/kassandra-wedel-foto1.jpg)
+_Dozentin: Kassandra Wedel (Tänzerin, Coach, Choreografin, Theaterwissenschaftlerin und Künstlerin,_ [www.gsc-muenchen.de/trainer/hiphop-trainertrainerin](https://www.gsc-muenchen.de/trainer/hiphop-trainertrainerin)_)_[![kassandra wedel foto](/media/2014/07/kassandra-wedel-foto1.jpg)](/media/2014/07/kassandra-wedel-foto1.jpg)
 
 Kassandra ist professionelle Tänzerin und die einzige gehörlose ausgebildete Tanzlehrerin in Deutschland. Auf diversen Veranstaltungen performt sie Solo, im Duo oder mit ihrer Tanzgruppe NIKITA. Sie ist in Musikvideos und in TV-Sendungen zu sehen, demnächst bei Hirschhausens „Quiz des Menschen“. Darüber hinaus wirkt Kassandra als Schauspielerin in einem Gebärdensprach-Theater und in Kurzfilmen mit. 2012 wurde sie mit ihrer eigenen Gruppe NIKITA Deutsche Meisterin, Weltmeisterin der „Integrative Para-Meisterschaft“ im Solotanz und bei der diesjährigen deutschen Meisterschaft zweimal Vize.
 
