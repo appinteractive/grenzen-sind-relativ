@@ -5,4 +5,14 @@ description: Willst du helfen?
 ---
 # Kontakt
 
-> Dummy Page
+Grenzen sind relativ e.V.
+
+c/o Gohlke
+
+Wrangelstrasse 103
+
+20253 Hamburg
+
+mail@grenzensindrelativ.de 
+
+www.grenzensindrelativ.de
