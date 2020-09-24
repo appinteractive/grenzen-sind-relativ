@@ -16,10 +16,10 @@ Mit verschiedensten Projekten, Veranstaltungen, Kampagnen, Öffentlichkeitsarbei
 * [**MUSIKUNTERRICHT FÜR HÖRGESCHÄDIGTE**](/musikunterricht-fuer-hoergeschaedigte/allgemeine-informationen-musikunterricht.html)
 
   Ca. 14 Millionen Menschen in Deutschland sind hörgeschädigt. Derzeit gibt es kaum Angebote für hörgeschädigte Menschen, Musikunterricht zu nehmen. Dazu existiert der weit verbreitete Glaubenssatz, dass “man aufgrund einer Hörschädigung keine Musik machen kann”. Die Praxis zeigt, dass es funktioniert. Seit 2011 wird das mehrfach ausgezeichnete Pilotprojekt in Kooperation mit der renommierten [Rock & Pop Schule Kiel](http://www.rockpopschule.de/) angeboten. Darüber hinaus machen wir bundesweit Workshops, Seminare und Vorträge und beraten Musikschulen, um inklusiven Musikunterricht zum Leben zu bringen.
-* [**SUPPORT INKLUSION – SUPPORT MAL ANDERS!**](/support-inklusion-support-mal-anders.html)
+* [**SUPPORT INKLUSION – SUPPORT MAL ANDERS!**](/veranstaltungen/support-inklusion-support-mal-anders.html)
 
   Im Rahmen von Festivals, Stadtteil- und Straßenfesten und größeren Konzerten/Tourneen kreieren wir ein spannendes inklusives & interdisziplinäres Kulturprogramm, bei dem a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster Backgrounds zusammen kommen und b) den Besuchern vor Ort die essentielle Thematik „gesamtgesellschaftliche Inklusion“ auf eine erfahrbare, mitreißende und künstlerische Art und Weise Nahe gebracht wird. Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance, interaktive Erlebniswelten und Inklusionsforum.
-* [**KONZERT, WORKSHOPS & TALK VON/MIT „MISCHA GOHLKE BAND“**](/mischa-gohlke-band/konzert-workshop-talkrunde.html)
+* [**KONZERT, WORKSHOPS & TALK VON/MIT „MISCHA GOHLKE BAND“**](/veranstaltungen/konzert-workshop-talkrunde.html)
 
   Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und interaktiver Begegnung wird es praktisch erfahrbar. Die [Mischa Gohlke Band](https://mischagohlkeband.de/) geht in Schulen, Universitäten, Unternehmen, Sportvereine und andere Einrichtungen, um Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel zu ermöglichen und Impulse für die gelebte gesamtgesellschaftliche Inklusion freizusetzen. Die Veranstaltungen werden exklusiv umgesetzt oder finden im Rahmen von Kongressen, Kampagnen, Sommerfesten, Projektwochen, usw. statt.
 * [**SPEKTRALKOMBÜSE – ERFAHRBARE INKLUSION DURCH MUSIK, TANZ UND KABARETT MIT DEN KÜNSTLERN KASSANDRA WEDEL, MARTIN FROMME UND MISCHA GOHLKE BAND**](/veranstaltungen/spektralkombuese.html)
