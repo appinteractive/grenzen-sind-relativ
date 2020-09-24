@@ -1,6 +1,7 @@
 ---
 title: Startseite
 description: Grenzen sind relativ e.V. - Kultur, Gesellschaft, Inklusion & Frieden
+teaser: /media/gsr-fb-banner_2018-1.jpg
 seite:
 - template: seite
 - template: footer
