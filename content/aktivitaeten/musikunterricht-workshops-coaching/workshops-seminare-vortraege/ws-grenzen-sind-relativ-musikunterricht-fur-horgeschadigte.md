@@ -51,4 +51,4 @@ Sonntag 10-13 Uhr
 * Bandtraining & Gemeinsame Jamsession
 * Abschlussdiskussion: Was nehmen wir aus dem Workshop mit?
 
-[![HMTMH Hannover](/media/2015/02/NEU20150208_125125.jpg?size=600x450)](/media/2015/02/NEU20150208_125125.jpg)
+[![HMTMH Hannover](/media/2015/02/NEU20150208_125125.jpg)](/media/2015/02/NEU20150208_125125.jpg)

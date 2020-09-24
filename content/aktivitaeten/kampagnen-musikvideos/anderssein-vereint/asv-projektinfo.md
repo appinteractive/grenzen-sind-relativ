@@ -30,13 +30,13 @@ b.) verschiedenste Themen, Menschen, Künste, Projekte, Initiativen, Institution
 
 c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielführende Crossover-Projekte zu realisieren. Wie z.B. inklusive Festivals, Aktionstage Inklusion in Schulen/Universitäten, Netzwerktreffen, Inklusions-Tournee, usw.
 
-[![We are the world](/media/2015/04/Jubelszene-e1436876863178.jpg?size=250x167)](/media/2015/04/Jubelszene.jpg) Die **Musikvideo- und Radioversion** von „AndersSein vereint“ sind nun auch online erhältlich:  
+[![We are the world](/media/2015/04/Jubelszene-e1436876863178.jpg](/media/2015/04/Jubelszene.jpg) Die **Musikvideo- und Radioversion** von „AndersSein vereint“ sind nun auch online erhältlich:  
  amazon: [https://t1p.de/qt1u](https://t1p.de/qt1u "https://t1p.de/qt1u")  
  iTunes: [https://t1p.de/1qm8](https://t1p.de/qt1u "https://t1p.de/qt1u")
 
 Mit den Erlösen aus den Verkäufen von „AndersSein vereint“ werden weiterführende inklusive Projekte von „Grenzen sind relativ e.V.“ unterstützt.
 
-[![Crew AndersSein vereint _ Foto by Tom Roeler](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg?size=1054x391)](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg)
+[![Crew AndersSein vereint _ Foto by Tom Roeler](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg)](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg)
 
 **Crew „AndersSein vereint – Inklusionssong für Deutschland“ (Tonstudio, Musikvideo & Kampagne):**
 
@@ -130,7 +130,7 @@ Helfer, Unterstützer & Supporter: Olli Steffe, Maik Petersen, Rolf Kellner
 
 Danke auch an das Planetarium Hamburg, German Real Estate, La Douce Catering und miettoiletten-vonnebenan.
 
-[![AndersSein vereint Infobroschüre1](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg?size=1024x489)](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg) [![AndersSein vereint Infobroschüre2](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg?size=1024x489)](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg)
+[![AndersSein vereint Infobroschüre1](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg)](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg) [![AndersSein vereint Infobroschüre2](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg)](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg)
 
 1. AndersSein vereint
    * [Worum geht es?](/anderssein-vereint-2/worum-geht-es.html)

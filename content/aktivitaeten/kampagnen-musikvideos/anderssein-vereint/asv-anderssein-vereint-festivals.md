@@ -5,7 +5,7 @@ alias: /anderssein-vereint-2/3-anderssein-vereint-festival.html
 ---
 # Review „3. AndersSein vereint Festival“ // 18.11.2016 „knust Hamburg“
 
-[![3asv-festival-facebook-fanpage](/media/2015/05/3ASV-Festival-Facebook-Fanpage.jpg?size=1024x389)](/media/2015/05/3ASV-Festival-Facebook-Fanpage.jpg)
+[![3asv-festival-facebook-fanpage](/media/2015/05/3ASV-Festival-Facebook-Fanpage.jpg)](/media/2015/05/3ASV-Festival-Facebook-Fanpage.jpg)
 
 **  
  Volkan Baydar (Orange Blue), Jessy Martens, Tom Klose, Still in Search, Mischa Gohlke Band, Katrin Wulff, Hörbie Schmidt, Graf Fidi, Jirri & Lash, Martin Fromme, 12-Yards, Gebärdenchor HandsUp, Dirk C. Fleck, Markus Riemann, Überraschungsgäste, Musikvideopremiere „AndersSein vereint – Live On Stage“ & AfterShow-JAM-Party**
