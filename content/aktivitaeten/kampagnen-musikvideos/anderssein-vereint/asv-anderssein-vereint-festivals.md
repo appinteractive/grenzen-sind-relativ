@@ -70,7 +70,7 @@ Facebook-Event: [www.facebook.com/events/938690972943439](https://www.facebook.c
 
 ***
 
-![Online Banner AndersSein vereint _ 960x300](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/Online-Banner-AndersSein-vereint-_.jpg)
+![Online Banner AndersSein vereint _ 960x300](https://www.grenzensindrelativ.de/wp-content/uploads/2016/07/Online-Banner-AndersSein-vereint-_-960x300.jpg)
 
 **Background “AndersSein vereint – Inklusionssong für Deutschland” (Tonstudio, Musikvideo, Festivals & Kampagne)**
 
