@@ -232,7 +232,8 @@
             },
             {
               "title": "Workshops, Talk & Konzert von/mit der Mischa Gohlke Band",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md"
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
+              "description": "Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und interaktiver Begegnung wird es praktisch erfahrbar."
             },
             {
               "title": "Beratung & Coaching",
@@ -244,7 +245,8 @@
               "showInMainNavigation": true
             }
           ],
-          "showInMainNavigation": true
+          "showInMainNavigation": true,
+          "description": " "
         },
         {
           "title": "Netzwerk- & Öffentlichkeitsarbeit",
