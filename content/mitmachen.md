@@ -6,9 +6,9 @@ gallery: []
 ---
 # Mitmachen
 
-Du willst aktiv sein und möchtest Dich im Grenzen sind relativ e.V. - Team mit einbringen und/oder hast selber Ideen/Projekte, die Du mit uns umsetzen möchtest?!
+Du willst aktiv sein und möchtest Dich bei Grenzen sind relativ e.V. mit einbringen und/oder hast selber Ideen/Projekte, die Du mit uns umsetzen möchtest?!
 
-Generell können wir uns gerne auf einen Kaffee ergebnisoffen zusammen setzen und dabei besprechen, was wir gemeinsam zielführendes auf die Beine stellen können.
+Gerne können wir uns auf einen Kaffee ergebnisoffen zusammen setzen und dabei besprechen, was wir gemeinsam zielführendes auf die Beine stellen können.
 
 Im Folgenden einige Mitmach-Möglichkeiten.
 
