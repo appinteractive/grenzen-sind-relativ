@@ -1,6 +1,14 @@
 import { MINIMAL_VIEWPORTS } from '@storybook/addon-viewport'
 const isProd = process.env.NODE_ENV === 'production'
 
+async function generateRoutes() {
+  const { $content } = require('@nuxt/content')
+  const files = await $content({ deep: true }).only(['path', 'alias']).fetch()
+
+  const routes = files.map(file => file.path === '/startseite' ? '/' : file.path)
+  return routes
+}
+
 export default {
   /*
   ** Nuxt rendering mode
@@ -61,13 +69,14 @@ export default {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
+    '@nuxtjs/sitemap',
     [
       'storyblok-nuxt',
       {
         accessToken: process.env.STORYBLOK_KEY,
         cacheProvider: 'memory'
       }
-    ]
+    ],
   ],
   /*
   ** Content module configuration
@@ -127,22 +136,7 @@ export default {
   generate: {
     fallback: true,
     async routes () {
-      const { $content } = require('@nuxt/content')
-      const files = await $content({ deep: true }).only(['path', 'alias']).fetch()
-
-      const routes = []
-      files.forEach(file => {
-        const url = file.path === '/startseite' ? '/' : file.path
-        routes.push(url)
-        /* if (file.alias) {
-          routes.push({
-            route: file.alias,
-            payload: { redirect: url }
-          })
-        } */
-      })
-
-      return routes
+      return generateRoutes()
     }
     /* hooks: {
       'content:file:beforeParse': (file) => {
@@ -150,6 +144,11 @@ export default {
         file.data = file.data.replace(/react/g, 'vue')
       }
     } */
+  },
+  map: {
+    hostname: 'https://grenzensindrelativ.de',
+    gzip: true,
+    routes: async () => await generateRoutes()
   },
   router: {
     linkActiveClass: 'link-parent-active',
