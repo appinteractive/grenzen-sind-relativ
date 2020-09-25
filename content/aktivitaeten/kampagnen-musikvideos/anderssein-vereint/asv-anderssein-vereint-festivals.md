@@ -88,7 +88,8 @@ Verbunden mit der Kampagne „AndersSein vereint – Inklusionssong für Deutsch
 Unter folgendem Link gibt es alle Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger. Protagonisten sowie das „AndersSein vereint Festival“ am 18.11.2016 im Knust Hamburg:  
  [/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](https://stillinsearch.com "https://stillinsearch.com")
 
-_“Bei Inklusion gibt es keine Diskussion um Inklusion.” (Wolfgang S. Zechmayer)_
+> Bei Inklusion gibt es keine Diskussion um Inklusion.
+>> Wolfgang S. Zechmayer
 
 ***
 

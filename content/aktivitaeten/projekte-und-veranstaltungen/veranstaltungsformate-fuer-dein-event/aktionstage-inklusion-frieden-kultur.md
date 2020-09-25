@@ -29,7 +29,7 @@ Es ist „normal“ verschieden zu sein – ANDERS SIND WIR ALLE!
 
 Dies alles und mehr soll bei den „Aktionstagen Inklusion in Schulen, Universitäten und anderen Einrichtungen“ auf den Weg gebracht werden.
 
-# Inhalte Aktionstage Inklusion
+## Inhalte Aktionstage Inklusion
 
 **Für alle Schüler/innen (Ort: Aula, Veranstaltungshalle, Sporthalle, usw.):**
 
@@ -61,7 +61,7 @@ Dies alles und mehr soll bei den „Aktionstagen Inklusion in Schulen, Universit
 
 Das Programm (Workshops, interaktive Erlebniswelten, Inklusionsforum, Podiumveranstaltung, große Bühne, usw._)_ kann je nach Bedarf, Budget, Zielgruppe und Zielsetzungen flexibel und individuell zusammen gestellt werden. Die „Aktionstage Inklusion“ sind kein starres Konstrukt, sondern werden gemeinsam mit den jeweiligen Einrichtungen kreiert.
 
-# Workshops & Dozententeam
+## Workshops & Dozententeam
 
 ### **WS 1 „Grenzen sind relativ – Musikunterricht für Hörgeschädigte“** [![Mischa Gohlke Solo 2](/media/2014/07/Mischa-Gohlke-Solo-2.jpg)](/media/2014/07/Mischa-Gohlke-Solo-2-e1405872711854.jpg)
 
@@ -73,8 +73,6 @@ Mischa Gohlke sagt dazu: _„Es ist spannend, gerade das zu machen, was man sche
 
 In Kooperation mit der renommierten „Rock & Pop Schule Kiel“ hat Mischa Gohlke im November 2010 das mittlerweile mehrfach ausgezeichnete Pilotprojekt „MUSIKUNTERRICHT FÜR HÖRGESCHÄDIGTE“ ins Leben gerufen. Inzwischen findet der inklusive Unterricht auch in Hamburg, u.a. an der Elbschule, statt. Dieses Angebot ist einmalig in Deutschland und es funktioniert: Hörgeschädigte und hörende Menschen können gemeinsam ein Musikinstrument erlernen und miteinander musizieren! Teilnehmen können alle, die sich für diese Thematik und den Background der Initiative „Grenzen sind relativ“ interessieren.
 
-### 
-
 ### **WS 2 „Chorspirit inklusiv“ + WS 3 „Stimme macht Stimmung“ + WS 4 „Stimmiger Inklusionsgroove“**
 
 _Dozentin: K_[_![Katrin live1](/media/2014/07/Katrin-live1.jpg)_](/media/2014/07/Katrin-live1.jpg)_atrin Wulff (Sängerin, Songwriterin, Texterin, Gedächniscoach, getourt mit Udo Lindenberg, Xavier Naidoo, Peter Kraus,_ [_www.katrinwulff.de_](https://www.katrinwulff.de)_)_
@@ -84,8 +82,6 @@ _Dozentin: K_[_![Katrin live1](/media/2014/07/Katrin-live1.jpg)_](/media/2014/07
 **WS 3 „Stimme macht Stimmung“:** Mit unserer Stimme treten wir in Kontakt zu anderen und tauschen uns aus. Sie ist Kommunikationsmittel Nr 1. Doch vermitteln wir viel mehr als nur Worte: Wir verraten viel über uns selbst und unsere Haltung anderen gegenüber. Mit diesem Workshop wollen wir uns dafür sensibilisieren und die eigene Stimme trainieren.
 
 **WS 4 „Stimmiger Inklusionsgroove“:** Bei groovigen Rythmicals und einem humorvollen Stimmzirkeltraining lernen wir nicht nur unsere Stimme besser kennen sondern auch unseren gegenüber. Wir sind als Individuum und als Teil der Gruppe gefragt. Und am Ende grooven wir nicht „nur“ musikalisch sondern auch als Team.
-
-### 
 
 ### **WS 5-9 von/mit „K Produktion“:**
 

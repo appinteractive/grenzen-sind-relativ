@@ -4,12 +4,13 @@ description: Grenzen sind relativ e.V. - Kultur, Gesellschaft, Inklusion & Fried
 teaser: /media/gsr-fb-banner_2018-1.jpg
 seite:
 - template: seite
-- template: footer
+- template: slideshow
 
 ---
 ![](/media/gsr-fb-banner_2018-1.jpg)
 
-> _"Hebt man den Blick, so sieht man keine Grenzen."_ (Aus Japan)
+> Hebt man den Blick, so sieht man keine Grenzen.
+>> Aus Japan
 
 ### Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
 
@@ -18,5 +19,3 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
     Aktivitäten Slideshow (3 Felder)
     
     Slideshow Media Videos (TV Berichte, usw.)
-
-### 

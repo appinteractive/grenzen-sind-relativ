@@ -5,7 +5,8 @@ alias: '/anderssein-vereint-2/worum-geht-es.html'
 ---
 # Worum geht es?
 
-_„Bei Inklusion gibt es keine Diskussion um Inklusion.“_ (Wolfgang S. Zechmayer)
+> Bei Inklusion gibt es keine Diskussion um Inklusion.
+>> Wolfgang S. Zechmayer
 
 Inklusion ist ein in Deutschland viel diskutiertes und mit vielen Berührungsängsten behaftetes Thema. Zumeist wird Inklusion auf die „Integration“ von Menschen mit (formal anerkannter) Behinderung runter gebrochen, für einseitige separierende Interessen benutzt und in der öffentlichen Debatte sympthomorientiert ausgetragen. Dabei kann, will und muss Inklusion wesentlich mehr sein!
 

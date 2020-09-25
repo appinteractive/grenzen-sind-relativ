@@ -63,7 +63,10 @@ Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- 
 
 **Inklusion & Inklusionsverständnis**
 
-_„Bei Inklusion gibt es keine Diskussion um Inklusion.“![05](/media/2015/07/05_buehne_DSCF9530.jpg) (Wolfgang S. Zechmayer, Schauspieler)_
+> Bei Inklusion gibt es keine Diskussion um Inklusion.
+>> Wolfgang S. Zechmayer
+
+![05](/media/2015/07/05_buehne_DSCF9530.jpg)
 
 Inklusion ist ein in Deutschland viel diskutiertes und mit vielen Berührungsängsten behaftetes Thema. Zumeist wird Inklusion auf die „Integration“ von Menschen mit (formal anerkannter) Behinderung runter gebrochen. Dabei kann, will und muss Inklusion wesentlich mehr sein!
 

@@ -5,7 +5,8 @@ alias: /2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html
 ---
 # “Grenzen sind relativ – Musik, Hören und Inklusion“ (von Mischa Gohlke)
 
-_“Fürchte dich nicht vor Fehlern. Es gibt keine.”_ (Miles Davis)
+> Fürchte dich nicht vor Fehlern. Es gibt keine.
+>> Miles Davis
 
 Mit 15/16 habe ich den Blues-Rock Gitarristen Stevie Ray Vaughan gehört, spürte sofort eine tiefe Verbindung zu seiner Musik und musste einfach anfangen, Gitarre zu spielen. Dass ich offiziell von Geburt an Taubheit grenzend hörgeschädigt bin, spielte dabei keine große Rolle. Musik hat in mir Leidenschaft, Begeisterung und Liebe erweckt. Das Gitarre spielen ist mir anfangs auf verschiedensten Ebenen – bezüglich Motorik, Rhythmus, Technik und Hören – schwer gefallen. Dabei fand ich es spannend, gerade das zu tun, was ich scheinbar am wenigsten kann. Grenzen zu spüren, mit ihnen im Prozess zu sein und daran zu wachsen.
 
@@ -54,7 +55,8 @@ Die Auseinandersetzung mit einer vermeintlichen Sinnes-Beeinträchtigung – wie
 
 **Inklusion**
 
-_„Bei Inklusion gibt es keine Diskussion um Inklusion.“_ (Wolfgang S. Zechmayer)
+> Bei Inklusion gibt es keine Diskussion um Inklusion.
+>> Wolfgang S. Zechmayer
 
 Inklusion ist ein in Deutschland viel diskutiertes und mit vielen Berührungsängsten behaftetes Thema. Zumeist wird Inklusion auf die „Integration“ von Menschen mit formal anerkannter Behinderung runter gebrochen, für einseitige separierende Interessen benutzt und in der öffentlichen Debatte symptomorientiert ausgetragen. Dabei kann, will und muss Inklusion wesentlich mehr sein!
 

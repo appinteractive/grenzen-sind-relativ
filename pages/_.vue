@@ -23,16 +23,16 @@ export default {
     const path = `/${params.pathMatch || 'startseite'}`
     const page = await $content(path).fetch()
 
+    if (Array.isArray(page)) {
+      throw error({ statusCode: 404, message: 'Page not found' })
+    }
+
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
     const off = crumbAnomaly ? 2 : 1
     const lastCrumb = breadCrumbs[breadCrumbs.length - off]
     const subMenu = lastCrumb ? lastCrumb.siblings : []
     const currentTitle = lastCrumb ? lastCrumb.title : null
-
-    if (Array.isArray(page)) {
-      throw error({ statusCode: 404, message: 'Page not found' })
-    }
 
     /* try {
       const surround = await $content(page.dir)
@@ -50,7 +50,9 @@ export default {
     if (!title) {
       try {
         title = this.page.body.children[0].children[1].value
-      } catch (e) {}
+      } catch (e) {
+        // console.log('NO TITLE FOUND')
+      }
     }
 
     return {
@@ -65,8 +67,28 @@ export default {
         // Twitter Card
         { hid: 'twitter:title', name: 'twitter:title', content: title },
         { hid: 'twitter:description', name: 'twitter:description', content: this.page.description }
-      ]
+      ].filter(item => !!item.content)
     }
   }
 }
 </script>
+
+<style lang="css">
+.prose h1 {
+  @apply font-serif;
+}
+.prose h2 {
+  @apply font-serif;
+}
+.prose h1 + h2 {
+  @apply -mt-2;
+}
+
+.prose blockquote {
+  @apply text-xl font-serif text-left border-none text-gray-700;
+}
+.prose blockquote blockquote {
+  @apply text-base -mt-6 text-right text-gray-600 not-italic;
+  quotes: none;
+}
+</style>
