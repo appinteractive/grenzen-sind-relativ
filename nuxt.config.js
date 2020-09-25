@@ -6,15 +6,11 @@ async function generateRoutes() {
   const files = await $content({ deep: true }).only(['path', 'alias']).fetch()
 
   const routes = files.map(file => file.path === '/startseite' ? '/' : file.path)
+
   return routes
 }
 
 export default {
-  /*
-  ** Nuxt rendering mode
-  ** See https://nuxtjs.org/api/configuration-mode
-  */
-  mode: 'universal',
   /*
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
@@ -83,7 +79,10 @@ export default {
   ** See https://content.nuxtjs.org/configuration
   */
   content: {
-    liveEdit: false
+    liveEdit: false,
+    markdown: {
+      remarkPlugins: ['~/plugins/remark-responsive-images.js']
+    }
   },
   /**
    * See https://storybook.nuxtjs.org/options/

@@ -1,8 +1,8 @@
 const visit = require('unist-util-visit')
-const domain = 'https://next.grenzensindrelativ.de'
 const fs = require('fs')
 const sharp = require('sharp')
 const { resolve } = require('path')
+const sizeOf = require('image-size');
 
 const MurmurHash3 = require('imurmurhash')
 const uniqId = (uniq) => {
@@ -10,7 +10,9 @@ const uniqId = (uniq) => {
   return ('00000000' + hash.result().toString(16)).substr(-8)
 }
 
-const resize = (input, output, size, blur) => {
+const resize = (input, output, originalSize, outputSize, blur) => {
+  if (originalSize < outputSize && !blur) return null
+
   let outputName = output
   const ext = output.split('.').pop()
   const fileName = output.split('/').pop().replace(`.${ext}`, '')
@@ -18,7 +20,7 @@ const resize = (input, output, size, blur) => {
 
   try {
     let image = sharp(input)
-      .resize(size, null, {
+      .resize(outputSize, null, {
         withoutEnlargement: true
       })
       .toFormat(ext, {
@@ -29,7 +31,7 @@ const resize = (input, output, size, blur) => {
       outputName = outputName.replace(fullName, `${fileName}-blurred.${ext}`)
       image.blur(10)
     } else {
-      outputName = outputName.replace(fullName, `${fileName}-w${size}.${ext}`)
+      outputName = outputName.replace(fullName, `${fileName}-w${outputSize}.${ext}`)
     }
     image.toFile(outputName)
     return outputName.split('/static').pop()
@@ -53,15 +55,28 @@ async function visitor(node) {
       return
     }
 
-    const srcset = []
-    srcset.push(`${resize(input, output, 460)} 460w`)
-    srcset.push(`${resize(input, output, 650)} 650w`)
-    srcset.push(`${resize(input, output, 1300)} 1300w`)
+    const size = await sizeOf(input)
+    const sizeMax = Math.max(size.width, size.height)
+    const ratio = size.width / size.height
 
-    const src = resize(input, output, 100, true)
+    const images = [
+      resize(input, output, sizeMax, 460),
+      resize(input, output, sizeMax, 1024),
+      resize(input, output, sizeMax, 1248)
+    ].filter(item => !!item)
+
+    const srcset = []
+    srcset.push(`${images[0]} 460w`)
+    if (images.length > 1) srcset.push(`${images[1]} 1024w`)
+    if (images.length > 2) srcset.push(`${images[2]} 1248w`)
+
+    const srcsetString = srcset.join(', ')
+    console.log(srcsetString)
+
+    const placeholder = resize(input, output, sizeMax, 100, true)
 
     node.type = 'html'
-    node.value = `<responsive-image src="${src}" srcset="${srcset.join(', ')}" title="${node.title}" alt="${node.alt}"></responsive-image>`
+    node.value = `<responsive-image src="${images[0]}" ratio="${ratio}" placeholder="${placeholder}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
   } else {
     // console.log('URL IS NO IMAGE', url)
   }
