@@ -1,4 +1,24 @@
 ---
 label: Slideshow
 hide_body: true
-fields: []
+fields:
+- name: seiten
+  type: field_group_list
+  fields:
+  - name: seite
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: inahlt
+        file: 
+        path: 
+    label: Seite
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Seiten
