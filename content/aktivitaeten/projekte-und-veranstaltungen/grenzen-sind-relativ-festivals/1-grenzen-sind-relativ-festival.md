@@ -1,13 +1,13 @@
 ---
 title: 1. Grenzen sind relativ Festival 2017
-description: Empty description
-
+description: Grenzen sind relativ Festival am 23.09.2017 in der Fabrik
 ---
+
 # 1. Grenzen sind relativ Festival
 
 ## Sa. 23.09.2017 Fabrik Hamburg
 
-### **„Grenzen sind relativ Festival“ am 23.09.2017 in der Fabrik:**
+### „Grenzen sind relativ Festival“ am 23.09.2017 in der Fabrik:
 
 **Volkan Baydar (Orange Blue), Rolf Stahlhofen (Söhne Mannheims), Mischa Gohlke Trio,** **Sebó, Tom Klose, Angelina Akpovo & Yakawumbu, nihiling, Jirri & Lash, Hosain & Elsam, stringNbase, Felix Oliver Schepp, Gebärdenchor  HandsUp, Dirk C. Fleck, Anek Artwork, Christina Kohla, Nora Block, Laura Schwoerer, Markus Riemann, Überraschungsgäste, Musikvideo-Release  „Krieg ist vorbei“ & AfterShow-Party mit DJ Qmutat**
 
