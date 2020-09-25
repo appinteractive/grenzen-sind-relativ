@@ -13,6 +13,7 @@ sections:
   match: "**/*.md"
   templates:
   - seite
+  - slideshow
 - type: heading
   label: Einstellungen
 - type: document
