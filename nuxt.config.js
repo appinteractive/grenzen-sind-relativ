@@ -153,6 +153,9 @@ export default {
     linkActiveClass: 'link-parent-active',
     linkExactActiveClass: 'link-active'
   },
+  sitemap: {
+    hostname: 'https://next.grenzensindrelativ.de'
+  },
   /* More information on the PWA module: https://pwa.nuxtjs.org/ */
   pwa: {
     workbox: {

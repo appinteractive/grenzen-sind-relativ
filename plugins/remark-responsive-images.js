@@ -36,8 +36,8 @@ const resize = (input, output, originalSize, outputSize, blur) => {
     image.toFile(outputName)
     return outputName.split('/static').pop()
   } catch (err) {
-    console.log('ERROR', err.message)
-    console.log(output)
+    // console.log('ERROR', err.message)
+    console.log(err.message)
   }
 }
 
@@ -66,9 +66,9 @@ async function visitor(node) {
     ].filter(item => !!item)
 
     const srcset = []
-    srcset.push(`${images[0]} 460w`)
-    if (images.length > 1) srcset.push(`${images[1]} 1024w`)
-    if (images.length > 2) srcset.push(`${images[2]} 1248w`)
+    if (images.length > 0 && !!images[0]) srcset.push(`${images[0]} 460w`)
+    if (images.length > 1 && !!images[1]) srcset.push(`${images[1]} 1024w`)
+    if (images.length > 2 && !!images[2]) srcset.push(`${images[2]} 1248w`)
 
     const srcsetString = srcset.join(', ')
     console.log(srcsetString)
@@ -76,7 +76,7 @@ async function visitor(node) {
     const placeholder = resize(input, output, sizeMax, 100, true)
 
     node.type = 'html'
-    node.value = `<responsive-image src="${images[0]}" ratio="${ratio}" placeholder="${placeholder}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
+    node.value = `<responsive-image src="${images ? images[0] : url}" ratio="${ratio}" placeholder="${placeholder}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
   } else {
     // console.log('URL IS NO IMAGE', url)
   }
