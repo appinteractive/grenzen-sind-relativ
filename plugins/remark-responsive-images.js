@@ -57,18 +57,20 @@ async function visitor(node) {
 
     const size = await sizeOf(input)
     const sizeMax = Math.max(size.width, size.height)
-    const ratio = size.width / size.height
+    const ratio = (size.width / size.height) * 100
 
     const images = [
+      resize(input, output, sizeMax, sizeMax),
       resize(input, output, sizeMax, 460),
       resize(input, output, sizeMax, 1024),
       resize(input, output, sizeMax, 1248)
     ].filter(item => !!item)
 
     const srcset = []
-    if (images.length > 0 && !!images[0]) srcset.push(`${images[0]} 460w`)
-    if (images.length > 1 && !!images[1]) srcset.push(`${images[1]} 1024w`)
-    if (images.length > 2 && !!images[2]) srcset.push(`${images[2]} 1248w`)
+    if (images.length == 0 && !!images[0]) srcset.push(`${images[0]} 1x`)
+    if (images.length > 1 && !!images[1]) srcset.push(`${images[0]} 460w`)
+    if (images.length > 2 && !!images[2]) srcset.push(`${images[1]} 1024w`)
+    if (images.length > 3 && !!images[3]) srcset.push(`${images[2]} 1248w`)
 
     const srcsetString = srcset.join(', ')
     console.log(srcsetString)

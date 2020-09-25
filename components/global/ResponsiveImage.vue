@@ -1,17 +1,12 @@
 <template>
   <span
-    class="w-full bg-gray-200 block mb-2 mt-10 p-0"
-    style="background-size: cover; background-position: center;"
-    :style="placeholder && `background-image: url('${placeholder}')`">
+    class="w-full bg-gray-200 block mb-2 mt-10 p-0 relative"
+    style="background-size: cover; background-position: center; max-height: 30rem;"
+    :style="style">
+    <span v-if="!loaded" class="w-full block pointer-events-none" :style="`padding-bottom: ${this.ratio}%`" />
     <img
-      v-if="placeholder && !loaded"
-      class="w-full  bg-no-repeat opacity-0"
-      style="max-height: 30rem; margin: 0;"
-      :src="placeholder"
-    />
-    <img
-      class="w-full object-contain transition-opacity opacity-100 duration-100"
-      :class="!loaded && 'opacity-0'"
+      class="w-full object-contain transition-opacity opacity-100 duration-100 top-0"
+      :class="!loaded && 'opacity-0 h-0 absolute'"
       style="max-height: 30rem; margin: 0;"
       :src="src"
       :title="title && title.length > 0 && title != 'null' ? title.trim() : null"
@@ -19,14 +14,6 @@
       :srcset="srcset && srcset.replace(/ \//g, ', /')"
       @load="loaded = true"
     />
-    <!-- <img
-      class="w-full object-contain bg-cover bg-no-repeat top-0"
-      style="max-height: 30rem; margin: 0;"
-      :src="src"
-      :title="title"
-      :alt="alt"
-      :srcset="srcset.replace(/w /g, 'w, ')"
-    /> -->
   </span>
 </template>
 
@@ -42,6 +29,16 @@ export default {
   },
   data: () => ({
     loaded: false
-  })
+  }),
+  computed: {
+    style() {
+      const str = []
+      if (this.placeholder) {
+        str.push(`background-image: url('${this.placeholder}')`)
+      }
+
+      return str.join('; ')
+    }
+  }
 }
 </script>
