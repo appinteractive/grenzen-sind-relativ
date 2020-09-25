@@ -125,7 +125,7 @@ Ich möchte im Workshop auf diese und auf weitere Fragen mit Impulsen begegnen u
 
 ### **WS 14 „Harmonie & Komposition“ + Workshop 15 „Rhythm & Groove“**
 
-_Dozent: Hörbie Schmidt von der „Mischa Gohlke Band feat. Katrin Wulff“ (Schulleiter Rock & Pop Schule Kiel, Dipl. Sozialpädagoge, Dozent, Coach , Juror,_ [_www.rockpopschule.de_](https://www.rockpopschule.de) _)_ [_![Foto Hörbie](/media/2014/07/Foto-Hörbie.jpg)_](/media/2014/07/Foto-Hörbie.jpg)
+_Dozent: Hörbie Schmidt von der „Mischa Gohlke Band feat. Katrin Wulff“ (Schulleiter Rock & Pop Schule Kiel, Dipl. Sozialpädagoge, Dozent, Coach , Juror,_ [_www.rockpopschule.de_](https://www.rockpopschule.de) _)_ [_![Foto Hörbie](/media/2014/07/Foto-Hoerbie.jpg)_](/media/2014/07/Foto-Hoerbie.jpg)
 
 Viele Menschen glauben in Deutschland, dass sie unmusikalisch sind. Das trifft aber nicht zu. Lediglich 2-3% der Bevölkerung sind laut wissenschaftlicher Untersuchungen unmusikalisch, d.h. 97 – 98 % sind musikalisch. Also auch Du !
 

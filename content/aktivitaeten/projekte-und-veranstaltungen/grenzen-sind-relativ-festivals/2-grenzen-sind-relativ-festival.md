@@ -27,7 +27,7 @@ SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festiv
 
 [![img](/media/2018/11/Markus-Riemann_YCPzyH-g.jpeg)](/media/2018/11/Markus-Riemann_YCPzyH-g.jpeg)
 
-[![img](/media/2018/11/Sebó-Kiddo-Kat_0uZx28uQ.jpeg)](/media/2018/11/Sebó-Kiddo-Kat_0uZx28uQ.jpeg)
+[![img](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg)](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg)
 
 [![img](/media/2018/11/interaktive-Malerei-2_zgJS-BZA-1.jpeg)](/media/2018/11/interaktive-Malerei-2_zgJS-BZA-1.jpeg)
 
@@ -108,7 +108,7 @@ Jan Plewka ist einer der facettenreichsten deutschen Musiker und[![img](/media/2
 
 **Sebó**
 
-Sebó – gestartet als Rapper und Breakdancer, der seine[![img](/media/2018/09/Sebó_.jpg)](/media/2018/09/Sebó_.jpg) Verbindung zur HipHop-Kultur nie wirklich kappte – hat sich zu einem  Sänger mit einem ganz eigenem Stil entwickelt. Facettenreich wie ein  Schmuckstein ist der gute Mann. Nur die Ecken und Kanten dürfen nicht  allzu geschliffen sein. Und gerade das ist es, was seinen Sound  besonders und ihn so sympathisch macht. Mit seiner Stimmfarbe und einer  unverwechselbaren Art zu texten macht Sebó auf sich aufmerksam. Auf der  Bühne teilt er seine Geschichten mit dem Publikum. Sebó ist der geborene Entertainer – ein Bauchmensch mit viel Gefühl. Ein Erlebnis! Auf der  Bühne wird improvisiert und gelacht. Sebó ist nachdenklich, freimütig  und verstellt sich nicht. In jedem Augenblick spürt man seine Energie,  die ansteckt und mitreißt. https://www.sebomusic.de/
+Sebó – gestartet als Rapper und Breakdancer, der seine[![img](/media/2018/09/Sebo_.jpg)](/media/2018/09/Sebo_.jpg) Verbindung zur HipHop-Kultur nie wirklich kappte – hat sich zu einem  Sänger mit einem ganz eigenem Stil entwickelt. Facettenreich wie ein  Schmuckstein ist der gute Mann. Nur die Ecken und Kanten dürfen nicht  allzu geschliffen sein. Und gerade das ist es, was seinen Sound  besonders und ihn so sympathisch macht. Mit seiner Stimmfarbe und einer  unverwechselbaren Art zu texten macht Sebó auf sich aufmerksam. Auf der  Bühne teilt er seine Geschichten mit dem Publikum. Sebó ist der geborene Entertainer – ein Bauchmensch mit viel Gefühl. Ein Erlebnis! Auf der  Bühne wird improvisiert und gelacht. Sebó ist nachdenklich, freimütig  und verstellt sich nicht. In jedem Augenblick spürt man seine Energie,  die ansteckt und mitreißt. https://www.sebomusic.de/
 
 **Kiddo Kat**
 

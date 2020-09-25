@@ -130,7 +130,7 @@ Helfer, Unterstützer & Supporter: Olli Steffe, Maik Petersen, Rolf Kellner
 
 Danke auch an das Planetarium Hamburg, German Real Estate, La Douce Catering und miettoiletten-vonnebenan.
 
-[![AndersSein vereint Infobroschüre1](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg)](/media/2015/04/AndersSein-vereint-Infobroschüre1.jpg) [![AndersSein vereint Infobroschüre2](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg)](/media/2015/04/AndersSein-vereint-Infobroschüre2.jpg)
+[![AndersSein vereint Infobroschüre1](/media/2015/04/AndersSein-vereint-Infobroschuere1.jpg)](/media/2015/04/AndersSein-vereint-Infobroschuere1.jpg) [![AndersSein vereint Infobroschüre2](/media/2015/04/AndersSein-vereint-Infobroschuere2.jpg)](/media/2015/04/AndersSein-vereint-Infobroschuere2.jpg)
 
 1. AndersSein vereint
    * [Worum geht es?](/anderssein-vereint-2/worum-geht-es.html)

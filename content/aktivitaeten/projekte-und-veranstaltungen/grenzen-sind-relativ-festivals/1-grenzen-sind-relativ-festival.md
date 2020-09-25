@@ -71,7 +71,7 @@ dinge die wachsen und leuchten und irgendwann erlöschen.
 
 **Felix Oliver Schepp** – STOPP ! Kurz Zeit ? Oder  müssen Sie mal eben schnell noch mehr und das am besten perfekt ? Felix  Oliver Schepp holt Sie dort ab, wo Sie eigentlich nicht hinwollten ! Mit Klavier und Loopmaschine begleitet er seine „scheppsons“, nimmt die  Zeit, von der wir denken, dass wir sie nicht haben, unter die Loope und  entführt in einen skurril-poetischen Kosmos voll von wortwitziger  Doppeldeutigkeit. Ironisch und doch umwerfend charmant jubelt er ganz  zwischenmenschliche Alltagsgeschichten unter, untersucht die Liebe,  liebt trotz allem das Leben und das alles jetzt auch in Ihrer Nähe.  Progressive Muskelentspannung für die Stirnfalten garantiert! [www.felixoliverschepp.de](https://www.felixoliverschepp.de)
 
-[![string´n´base ](/media/2017/06/string´n´base-_-Foto-by-Bernd-Freundorfer-1.jpg)](/media/2017/06/string´n´base-_-Foto-by-Bernd-Freundorfer-1.jpg)
+[![string´n´base ](/media/2017/06/string-n-base-_-Foto-by-Bernd-Freundorfer-1.jpg)](/media/2017/06/string-n-base-_-Foto-by-Bernd-Freundorfer-1.jpg)
 
 **stringNbase** – das hamburger Projekt stringNbase entführt den Hörer auf eine musikalische Reise zwischen Vergangenheit und  Gegenwart. Frische elektronische beats, sphärische sounds und knarzende  Bässe werden spielerisch mit organischen Violinklängen und  minimalistischem Gesang verbunden. Daraus entsteht eine Mischung aus  anspruchsvollem lounge-sound kombiniert mit klassischen Einflüssen und  flirrender elektronischer Musik. [www.stringnbase.net](https://www.stringnbase.net/)
 
