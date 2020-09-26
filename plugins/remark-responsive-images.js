@@ -34,10 +34,13 @@ const resize = (input, output, originalSize, outputSize, blur) => {
       outputName = outputName.replace(fullName, `${fileName}-w${outputSize}.${ext}`)
     }
     image.toFile(outputName)
-    return outputName.split('/static').pop()
+    if (blur) {
+      return outputName
+    } else {
+      return outputName.split('/static').pop()
+    }
   } catch (err) {
-    // console.log('ERROR', err.message)
-    console.log(err.message)
+    console.log('ERROR', err.message)
   }
 }
 
@@ -73,12 +76,13 @@ async function visitor(node) {
     if (images.length > 3 && !!images[3]) srcset.push(`${images[2]} 1248w`)
 
     const srcsetString = srcset.join(', ')
-    console.log(srcsetString)
 
-    const placeholder = resize(input, output, sizeMax, 100, true)
+    const placeholder = resize(input, output, sizeMax, 24, true)
+    const buff = fs.readFileSync(placeholder, {encoding: 'base64'})
+    const base64 = `data:image/${ext};base64,${buff}`
 
     node.type = 'html'
-    node.value = `<responsive-image src="${images ? images[0] : url}" ratio="${ratio}" placeholder="${placeholder}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
+    node.value = `<responsive-image src="${images ? images[0] : url}" ratio="${ratio}" placeholder="${base64}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
   } else {
     // console.log('URL IS NO IMAGE', url)
   }

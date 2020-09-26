@@ -1,6 +1,6 @@
 ---
 title: ASV - Akteure
-description: 'Band, Gastsänger & Protagonisten'
+description: Band, Gastsänger & Protagonisten
 alias: /anderssein-vereint-2/band-gastsaenger-protagonisten.html
 ---
 
@@ -27,9 +27,9 @@ alias: /anderssein-vereint-2/band-gastsaenger-protagonisten.html
 
 [![Kassandra Wedel](/media/2015/05/Kassandra-Wedel-_-IMG_1392.jpg)](/media/2015/05/Kassandra-Wedel-_-IMG_1392.jpg) **Kassandra Wedel** – Kassandra Wedel gehört zu den besten europäischen Hip-Hop Künstlerinnen und ist seit einem Unfall mit drei Jahren gehörlos. Die vibrierenden Bässe aus der Lautsprechern übersetzt die Münchnerin in wunderschöne Körpersprache. Als Tanzlehrerin schafft sie mit ihrer Kunst ein Bindeglied zwischen hörender und nicht hörender Welt. [www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html](https://www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html)
 
-[![Gebärdenchor "Hands up" _ Foto by Tom Roeler](/media/2015/05/GabaerdenChor-Hands-up_Gruppe_IMG_8466-_TR.jpg)](/media/2015/05/GabaerdenChor-Hands-up_Gruppe_IMG_8466-_TR.jpg) **Gebärdenchor „Hands up“** – Hörende, Gehörlöse und Hörgeschädigte haben sich 2014 zusammengeschlossen und den Gebärdenchor „Hands up“ gegründet. Unter der Leitung von Ines Helke vom treffpunkt.altona von aa west gebärden sie u.a. Songs von Liedermacher Rolf Zuchowski oder Hamburger Songwritern wie Katrin Wulff.
+[![Gebärdenchor Hands up _ Foto by Tom Roeler](/media/2015/05/GabaerdenChor-Hands-up_Gruppe_IMG_8466-_TR.jpg)](/media/2015/05/GabaerdenChor-Hands-up_Gruppe_IMG_8466-_TR.jpg) **Gebärdenchor „Hands up“** – Hörende, Gehörlöse und Hörgeschädigte haben sich 2014 zusammengeschlossen und den Gebärdenchor „Hands up“ gegründet. Unter der Leitung von Ines Helke vom treffpunkt.altona von aa west gebärden sie u.a. Songs von Liedermacher Rolf Zuchowski oder Hamburger Songwritern wie Katrin Wulff.
 
-[![MIchel Arriens ](/media/2015/05/MIchel-Arriens-_-selfmade.jpeg)](/media/2015/05/MIchel-Arriens-_-selfmade.jpeg) **Michel Arriens** – Als Moderator führt Michel Arriens zusammen mit Ulla Kock am Bring regelmäßig durch die „Die grosse Welt der kleinen Menschen“. In Hamburg studiert der Multiinstrumentalist Medien- und Kommunikationswissenschaften und engagiert sich ehrenamtlich im Vorstand des BKMF e.V. [www.xing.com/profile/Michel_Arriens](https://www.xing.com/profile/Michel_Arriens)
+[![MIchel Arriens](/media/2015/05/MIchel-Arriens-_-selfmade.jpeg)](/media/2015/05/MIchel-Arriens-_-selfmade.jpeg) **Michel Arriens** – Als Moderator führt Michel Arriens zusammen mit Ulla Kock am Bring regelmäßig durch die „Die grosse Welt der kleinen Menschen“. In Hamburg studiert der Multiinstrumentalist Medien- und Kommunikationswissenschaften und engagiert sich ehrenamtlich im Vorstand des BKMF e.V. [www.xing.com/profile/Michel_Arriens](https://www.xing.com/profile/Michel_Arriens)
 
 [![Dirk C. Fleck _ Foty by Will Esskuchen](/media/2015/05/Dirk-Fleck2.jpg)](/media/2015/05/Dirk-Fleck2.jpg) **Dirk C. Fleck** – Der Hamburger Dirk Fleck ist freiberuflicher Autor und war als Journalist u.a. für GEO, stern und den Spiegel tätig. In seinen Büchern setzt er sich kritisch mit Umwelt- und Gesellschaftsthemen auseinander. [www.dirk-c-fleck.de](https://www.dirk-c-fleck.de)
 
