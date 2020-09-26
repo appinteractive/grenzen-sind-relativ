@@ -3,7 +3,7 @@
     class="w-full bg-gray-200 block mb-2 mt-10 p-0 relative"
     style="
       background-size: cover;
-      background-position: center;
+      background-position: bottom;
       max-height: 30rem;
     "
     :style="style"
@@ -27,8 +27,9 @@
         @load="loaded = true"
       />
     </transition>
-    <figcaption v-if="caption" class="absolute bottom-0 p-2 pt-10 w-full bg-gradient-to-t from-gray-900">
-      <span class="text-white font-medium">{{ imgTitle || imgAlt }}</span>
+    <figcaption v-if="imgTitle" class="absolute bottom-0 p-3 w-full bg-black bg-opacity-50 flex flex-col">
+      <span class="text-white font-semibold">{{ imgAlt }}</span>
+      <span v-if="imgAlt !== imgTitle" class="text-gray-200 text-xs">{{ imgTitle }}</span>
     </figcaption>
   </figure>
 </template>
@@ -64,8 +65,8 @@ export default {
         : null
     },
     imgAlt() {
-      return this.title && this.title.length > 0 && this.title != 'null'
-        ? this.title.trim()
+      return this.alt && this.alt.length > 0 && this.alt != 'null'
+        ? this.alt.trim()
         : null
     },
     caption() {

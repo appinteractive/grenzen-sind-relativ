@@ -91,4 +91,8 @@ export default {
   @apply text-base -mt-6 text-right text-gray-600 not-italic;
   quotes: none;
 }
+
+.prose figure {
+  @apply mt-10 mb-2;
+}
 </style>

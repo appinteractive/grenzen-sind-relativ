@@ -7,7 +7,7 @@ alias: /ueber-uns/gsr-team.html
 
 ## Aktionsbüro:
 
-![img](/media/2020/06/mischa-profil.jpg) **Initiator & Leitung: Mischa Gohlke** _(Kultur- & Medienmanager, Dozent, Musiker, Autor, Speaker, Inklusionsbotschafter, Aktivist und vor allem Mensch)_
+![Mischa Gohlke](/media/2020/06/mischa-profil.jpg "Mischa Gohlke") **Initiator & Leitung: Mischa Gohlke** _(Kultur- & Medienmanager, Dozent, Musiker, Autor, Speaker, Inklusionsbotschafter, Aktivist und vor allem Mensch)_
 
 Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und ist den Weg als Profimusiker eingeschlagen. Parallel zum Studium „Kultur- und Medienmanagement“ an der „Hochschule für Musik und Theater Hamburg“ gründete Mischa im Jahr 2006 die Event- und Projektmanagementagentur „migo connections“. Allein 2010 wurden über 100 Veranstaltungen, Festivals und Konzerte im norddeutschen Raum realisiert. Da die Agenturtätigkeiten für Mischa zu kommerziell und sinnentfremdet wurden, initiierte er 2011 die deutschlandweit einmalige Initiative „Grenzen sind relativ“, welche seit September 2016 als gemeinnütziger Verein anerkannt ist. Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Darüber hinaus ist Mischa als Speaker, Dozent, Autor sowie als Aktivist, u.a. in der Friedensbewegung, europaweit unterwegs.
 
@@ -16,13 +16,13 @@ Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und
 
 ---
 
-![img](/media/2020/06/Barb-Bwerbfoto1.jpg) **Persönliche Arbeitsassistenz & Projektkoordination: Barbara Wetzer**
+![Barbara Wetzer](/media/2020/06/Barb-Bwerbfoto1.jpg "Barbara Wetzer") **Persönliche Arbeitsassistenz & Projektkoordination: Barbara Wetzer**
 
 Barbara Wetzer ist schon seit vielen Jahren in der Musik- und Kulturbranche tätig. 1995 gründete sie zusammen mit dem Ärzte-Bassisten Rodrigo González die Firma “Rodrec”, welche in den Aktionsfeldern Musik-Label, Künstlermanagement, Booking, Promotion und Beratung für bekannte und unbekannte Künstler (u.a. “Der Fall Böse”, “Abwärts” und “Rantanplan”) aktiv ist. Dazu war Barbara mehrere Jahre für das Live-Programm von der “Grossen Freiheit 36” und dem “Docks” zuständig. Seit einigen Jahren stellt sie das Rahmenprogramm für das “Schanzenzelt” zusammen, wo Musik, Kultur und soziale Arbeit zu einem inspirierenden Kulturerlebnis inkludiert werden. Mittlerweile ist das “Schanzenzelt” ein Kulturtreff für diverse „Promis“ der Hamburger und Internationalen Musiklandschaft sowie Organisationen mit inklusiven und interkulturellen Hintergrund geworden. Mit viel Erfahrung, Expertise und einem großen Netzwerk möchte Barbara nun im Team „Grenzen sind relativ e.V.“ mit dazu beitragen, die (R)evolution auf dem Weg zu bringen.
 
 ## Vorstand:
 
-![markus-riemann-foto.1024x1024](/media/2016/07/markus-riemann-foto.1024x1024.jpg) **1. Vorsitzender: Markus Riemann** _(Kulturwissenschaftler, Kulturmanager, Moderator, Musiker, Klubbetreiber)_
+![Markus Riemann](/media/2016/07/markus-riemann-foto.1024x1024.jpg "Markus Riemann") **1. Vorsitzender: Markus Riemann** _(Kulturwissenschaftler, Kulturmanager, Moderator, Musiker, Klubbetreiber)_
 
 Markus Riemann steht mir großer Freude seit über 25 Jahren auf der Bühne, veranstaltet seit 20 Jahren Kultur, ist seit über 15 Jahren in der kulturellen Bildung aktiv, seit 8 Jahren Klub Betreiber in Hamburg und seit 3 Jahren für „Grenzen sind relativ“ aktiv und seit Frühjahr 2018 dessen 1. Vorsitzender. Er hat ein Studium der Kulturwissenschaft mit den Nebenfächern Musikwissenschaft, Erziehungswissenschaft, Philosophie und Geschichte in Bremen abgeschlossen. Vorher am Grundstudium der Betriebswirtschaft teilgenommen und war 8 Jahre als Projektkoordinator bei der Yehudi Menuhin Stiftung Deutschland aktiv. Diese Tätigkeit führte ihn nach Hamburg, wo er sich 2010 mit dem Klub.K im Hamburger Katharinenviertel selbstständig gemacht hat. Parallel entstand die gemeinnützige GmbH Kulturbedarf und als Partner das Institut für Bildungskunst. Erfahrungen, Ressourcen und breit aufgestellte Netzwerke in der kulturellen Bildung nutze Markus Riemann zur Realisierung diverser Projekte. Markus Riemann ist Gründungsmitglied des Vereins Art des Lebens und aktiv beim Spielhaus e.V.. [www.kulturbedarf.de ](https://www.kulturbedarf.de)
 
@@ -31,7 +31,7 @@ Markus Riemann steht mir großer Freude seit über 25 Jahren auf der Bühne, ver
 
 ---
 
-[![IMG](/media/2014/07/IMG_2279.jpeg)](/media/2014/07/IMG_2279.jpeg) **2. Vorsitzender: Jan Clasen** _(Projektleiter, Produzent, Kulturmanager, Veranstalter & Aktivist)_
+[![Jan Clasen](/media/2014/07/IMG_2279.jpeg)](/media/2014/07/IMG_2279.jpeg "Jan Clasen") **2. Vorsitzender: Jan Clasen** _(Projektleiter, Produzent, Kulturmanager, Veranstalter & Aktivist)_
 
 Jan Clasen ist der jüngste Neuzugang und seit September 2017 im Vorstand des Grenzen sind relativ e.V. aktiv. Das Studium zum Kameramann hat er mit einer Ausbildung zum Produzenten erweitert. Vor mehreren Jahren ist er als Produzent bei dem sozialen Unternehmen KULTURPRODUKTION eingestiegen und arbeitet seitdem vor allem an Projekten, die den regionalen Kulturkreis stärken und sich für ein friedliches Miteinander einsetzen. https://cartacultur.org
 
@@ -40,7 +40,7 @@ Jan Clasen ist der jüngste Neuzugang und seit September 2017 im Vorstand des Gr
 
 --- 
 
-![Jason Foley](/media/2014/07/Jason-Foley.jpg) **Schriftführer: Jason Foley** _(Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch und Sozialpädagogik)_
+![Jason Foley](/media/2014/07/Jason-Foley.jpg "Jason Foley") **Schriftführer: Jason Foley** _(Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch und Sozialpädagogik)_
 
 Lange Zeit lebte Jason ausschließlich von und für die Musik. Er tourte über 15 Jahre lang als Musiker-Vagabund durch Deutschland und Europa und spielte auf kleinen und größeren Bühnen. In dieser Phase lernte er unterschiedlichste Menschen, Haltungen, Lebensweisen und Kulturen kennen. Es waren vor allem diese Erfahrungen, die einen großen Einfluss auf seine inklusive Haltung von heute ausübten. Auf der Suche nach neuen Herausforderungen entschloss er sich, pädagogisch zu arbeiten. Immer noch als Musiker aktiv arbeitet er heute auch als Lehrer. Hierbei ist Inklusion nicht nur kennzeichnend für seine Haltung, sondern auch ein zentraler Baustein seiner Pädagogik – daher ein zentrales Paradigma seiner täglichen Arbeit und für ihn unerlässlich, um den Menschen an sich und die Gruppe als soziales Gefüge ganzheitlich abzuholen und multiplikatorische Lernprozesse in Gang zu setzen. [https://jason-foley.com/ ](https://jason-foley.com/)
 
@@ -51,13 +51,13 @@ Lange Zeit lebte Jason ausschließlich von und für die Musik. Er tourte über 1
 
 ## Beirat:
 
-[![15019310509](/media/2014/07/15019310509_7813e888fe_n.jpg)](/media/2014/07/15019310509_7813e888fe_n.jpg) **Raul Krauthausen** _(Aktivist, Speaker, Moderator, Berater, Autor)_
+[![Raul Krauthausen](/media/2014/07/15019310509_7813e888fe_n.jpg "Raul Krauthausen")](/media/2014/07/15019310509_7813e888fe_n.jpg) **Raul Krauthausen** _(Aktivist, Speaker, Moderator, Berater, Autor)_
 
 Raúl Aguayo-Krauthausen ist 1980 in Peru geboren und lebt heute in Berlin. Sein zweites Zuhause ist das Netz. Dort twittert, bloggt und postet er über die Dinge, die ihn bewegen. Mal humorvoll, mal ernst und mal mit spitzer Zunge. Er studierte Gesellschafts- und Wirtschaftskommunikation und Design Thinking. Nach einigen Abstechern in der Werbebranche arbeitete er für vier Jahre bei Radio Fritz vom rbb. Gemeinsam mit weiteren Mitstreiter*innen gründete er mit SOZIALHELDEN e.V. und AbilityWatch e.V. zwei gemeinnützige Vereine und setzt sich dort als Aktivist, Redner und Berater für Inklusion und Barrierefreiheit ein. 2013 erhielt er für sein Engagement das Bundesverdienstkreuz am Bande. Unter dem Titel „Dachdecker wollte ich eh nicht werden“ erschien Anfang 2014 seine Autobiographie. Für die abm moderiert er in Zusammenarbeit mit Suse Bauer (Redaktion) seit 2015 mit KRAUTHAUSEN – face to face eine eigene regelmäßige Talksendung zu den Themen Kultur und Inklusion. Gemeinsam entwickeln und arbeiten sie seitdem an Web-Videoproduktionen u.a. für ze.tt, das ZDF, den Sozialverband Deutschland und die Bundeszentrale für politische Bildung. https://raul.de/
 
 ---
 
-[![img](/media/2019/04/Ines-Zahmoul-Foto.jpeg)](/media/2019/04/Ines-Zahmoul-Foto.jpeg) **Inés Zahmoul** _(Coach, Trainer, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher Mensch)_
+[![Inés Zahmoul](/media/2019/04/Ines-Zahmoul-Foto.jpeg "Inés Zahmoul")](/media/2019/04/Ines-Zahmoul-Foto.jpeg) **Inés Zahmoul** _(Coach, Trainer, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher Mensch)_
 
 Als Voice Artist Coach ist Inés Zahmoul national und international in den Bereichen Sprechstimme (Bühne, Kamera, öffentliche Reden) und Stimmbildung, Gesang & Körpersprache (nonverbale Kommunikation und Mikroexpressionen) erfolgreich tätig. Inés Zahmoul gehört zu den Experten, wenn es um die Verbindung von Körper, Sprech- und Gesangsstimme geht. Sie trainiert Schauspieler, Sänger, Musiker, Beatboxer, Sprecher, Coaches, Regisseure und Führungskräfte. Außerdem bereitet Inés Zahmoul angehende Schauspielstudenten für Vorsprechen vor. Seit 2010 ist sie als Gesangsdozentin an der Schauspielfabrik Berlin, seit 2018 als Hochschuldozentin an der DMA-medienakademie für die Module Stimme und Sprache, Darstellerische Grundlagen und Studioinszenierung und seit 2015 bei Vogdt Training national als Trainerin für Stimme und Körpersprache tätig.
 
@@ -68,7 +68,7 @@ Als Voice Artist Coach ist Inés Zahmoul national und international in den Berei
 
 ---
 
-[![Portraitfoto Teubert](/media/2014/07/Portraitfoto-Teubert.jpg)](/media/2014/07/Portraitfoto-Teubert.jpg) **Anja Teubert** _(Mensch, Frau, Mutter, Prof, Freundin, Mitglied im wissenschaftlichen Beirat eines Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach))_
+[![Anja Teubert](/media/2014/07/Portraitfoto-Teubert.jpg "Foto von Portraitfoto Teubert")](/media/2014/07/Portraitfoto-Teubert.jpg) **Anja Teubert** _(Mensch, Frau, Mutter, Prof, Freundin, Mitglied im wissenschaftlichen Beirat eines Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach))_
 
 Anja hat trotz oder wegen ihrer diversen – rechtlich nicht anerkannten – Handicaps Soziale Arbeit studiert, promoviert und seit 2013 eine Professur für Sozialraumorientierte Soziale Arbeit an der Dualen Hochschule Baden-Württemberg in Villingen-Schwenningen. Nach mehr als zwanzig Jahren praktischer Sozialer Arbeit erarbeitet sie nun mit den Studierenden an der Entwicklung einer professionellen Haltung, damit diese unter anderem im leider noch vielerorts versäulten Hilfesystem, erreichen, dass der Mensch und nicht seine / ihre Defizite im Fokus stehen.
 
@@ -77,7 +77,7 @@ Anja hat trotz oder wegen ihrer diversen – rechtlich nicht anerkannten – Han
 
 ---
 
-[![251](/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg)](/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg) **Rolf Emmerich** _(Kulturmanager, Festivalleiter Sommerblut)_
+[![Rolf Emmerich](/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg "Rolf Emmerich")](/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg) **Rolf Emmerich** _(Kulturmanager, Festivalleiter Sommerblut)_
 
 Schon immer war es Rolf Emmerichs Lebensmotto, aktiv und praktisch, mit Herz und Verstand Projekte gegen Ausgrenzung, gegen Monokulturen, für Inklusion und Vielfalt anzustoßen. Sein wichtigstes, mittlerweile 17 Jahre altes „Kind“ ist ebenfalls aus diesem Lebensmotto heraus geboren worden: 2002 hat Rolf in Köln mit „Sommerblut“ das Festival für „Multipolarkultur“ gegründet.
 
