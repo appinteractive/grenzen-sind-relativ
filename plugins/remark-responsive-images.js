@@ -57,7 +57,7 @@ async function visitor(node) {
 
     const size = await sizeOf(input)
     const sizeMax = Math.max(size.width, size.height)
-    const ratio = (size.width / size.height) * 100
+    const ratio = (size.height / size.width) * 100
 
     const images = [
       resize(input, output, sizeMax, sizeMax),

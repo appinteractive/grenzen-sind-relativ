@@ -89,7 +89,7 @@
                 </ul>
               </li>
             </ul>
-            <transition name="fade">
+            <transition name="fade-menu">
               <div v-if="currentIndex === index1">
                 <component
                   :is="navComp(navigation[index1])"

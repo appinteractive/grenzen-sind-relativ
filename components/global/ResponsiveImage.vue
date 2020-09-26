@@ -1,36 +1,76 @@
 <template>
-  <span
+  <figure
     class="w-full bg-gray-200 block mb-2 mt-10 p-0 relative"
-    style="background-size: cover; background-position: center; max-height: 30rem;"
-    :style="style">
-    <span v-if="!loaded" class="w-full block pointer-events-none" :style="`padding-bottom: ${this.ratio}%`" />
-    <img
-      class="w-full object-contain transition-opacity opacity-100 duration-100 top-0"
-      :class="!loaded && 'opacity-0 h-0 absolute'"
-      style="max-height: 30rem; margin: 0;"
-      :src="src"
-      :title="title && title.length > 0 && title != 'null' ? title.trim() : null"
-      :alt="alt && alt.length > 0 && alt != 'null' ? alt.trim() : null"
-      :srcset="srcset && srcset.replace(/ \//g, ', /')"
-      @load="loaded = true"
+    style="
+      background-size: cover;
+      background-position: center;
+      max-height: 30rem;
+    "
+    :style="style"
+    v-observe-visibility="visibilityChanged"
+  >
+    <span
+      v-if="!loaded"
+      class="w-full block pointer-events-none"
+      :style="`padding-bottom: ${this.ratio}%`"
     />
-  </span>
+    <transition name="fade">
+      <img
+        v-if="visible || loaded"
+        class="w-full object-contain top-0"
+        :class="!loaded && 'absolute'"
+        style="max-height: 30rem; margin: 0"
+        :src="src"
+        :title="imgTitle"
+        :alt="imgAlt"
+        :srcset="srcset && srcset.replace(/ \//g, ', /')"
+        @load="loaded = true"
+      />
+    </transition>
+    <figcaption v-if="caption" class="absolute bottom-0 p-2 pt-10 w-full bg-gradient-to-t from-gray-900">
+      <span class="text-white font-medium">{{ imgTitle || imgAlt }}</span>
+    </figcaption>
+  </figure>
 </template>
 
 <script>
+import { ObserveVisibility } from 'vue-observe-visibility'
+
 export default {
+  directives: {
+    ObserveVisibility,
+  },
   props: {
     src: { type: String, required: true },
     srcset: { type: String, default: null },
     placeholder: { type: String, default: null },
     title: { type: String, default: '' },
     alt: { type: String, required: true },
-    ratio: { type: [Number, String], default: null }
+    ratio: { type: [Number, String], default: null },
   },
   data: () => ({
-    loaded: false
+    loaded: false,
+    visible: false,
   }),
+  methods: {
+    visibilityChanged(visible, entry) {
+      this.visible = visible
+    },
+  },
   computed: {
+    imgTitle() {
+      return this.title && this.title.length > 0 && this.title != 'null'
+        ? this.title.trim()
+        : null
+    },
+    imgAlt() {
+      return this.title && this.title.length > 0 && this.title != 'null'
+        ? this.title.trim()
+        : null
+    },
+    caption() {
+      return this.imgTitle || this.imgAlt || null
+    },
     style() {
       const str = []
       if (this.placeholder) {
@@ -38,7 +78,7 @@ export default {
       }
 
       return str.join('; ')
-    }
-  }
+    },
+  },
 }
 </script>

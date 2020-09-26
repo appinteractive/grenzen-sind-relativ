@@ -11,6 +11,10 @@ async function generateRoutes() {
 }
 
 export default {
+  // pageTransition: {
+  //   name: 'fade',
+  //   mode: 'fade'
+  // },
   /*
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
@@ -144,17 +148,14 @@ export default {
       }
     } */
   },
-  map: {
-    hostname: 'https://grenzensindrelativ.de',
-    gzip: true,
-    routes: async () => await generateRoutes()
-  },
   router: {
     linkActiveClass: 'link-parent-active',
     linkExactActiveClass: 'link-active'
   },
   sitemap: {
-    hostname: 'https://next.grenzensindrelativ.de'
+    hostname: 'https://next.grenzensindrelativ.de',
+    gzip: true,
+    routes: async () => await generateRoutes()
   },
   /* More information on the PWA module: https://pwa.nuxtjs.org/ */
   pwa: {

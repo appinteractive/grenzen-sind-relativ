@@ -2,9 +2,16 @@
   // position: absolute !important;
 } */
 .fade-enter-active, .fade-leave-active {
-  transition: opacity 60ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
 }
 .fade-enter, .fade-leave-active {
+  opacity: 0;
+}
+
+.fade-menu-enter-active, .fade-menu-leave-active {
+  transition: opacity 60ms ease-in-out;
+}
+.fade-menu-enter, .fade-menu-leave-active {
   opacity: 0.6;
 }
 
