@@ -70,7 +70,7 @@ async function visitor(node) {
     ].filter(item => !!item)
 
     const srcset = []
-    if (images.length == 0 && !!images[0]) srcset.push(`${images[0]} 1x`)
+    if (images.length == 0 && !!images[0]) srcset.push(``)
     if (images.length > 1 && !!images[1]) srcset.push(`${images[0]} 460w`)
     if (images.length > 2 && !!images[2]) srcset.push(`${images[1]} 1024w`)
     if (images.length > 3 && !!images[3]) srcset.push(`${images[2]} 1248w`)
@@ -82,7 +82,7 @@ async function visitor(node) {
     const base64 = `data:image/${ext};base64,${buff}`
 
     node.type = 'html'
-    node.value = `<responsive-image src="${images ? images[0] : url}" ratio="${ratio}" placeholder="${base64}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
+    node.value = `<responsive-image src="${url}" ratio="${ratio}" placeholder="${base64}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
   } else {
     // console.log('URL IS NO IMAGE', url)
   }
