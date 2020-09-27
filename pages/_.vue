@@ -48,7 +48,7 @@ export default {
     return { page, breadCrumbs, subMenu, currentTitle }
   },
   head() {
-    let url = 'https://grenzensindrelativ.de'
+    let url = 'https://next.grenzensindrelativ.de'
     let title = `${this.page.title} | Grenzen sind relativ e.V.`
     if (!title) {
       try {
@@ -67,7 +67,7 @@ export default {
         { hid: 'og:url', property: 'og:url', content: url },
         { hid: 'og:title', property: 'og:title', content: title },
         { hid: 'og:description', property: 'og:description', content: this.page.description },
-        { hid: 'og:image', property: 'og:image', content: this.page.teaser },
+        { hid: 'og:image', property: 'og:image', content: url + this.page.teaser },
         // Twitter Card
         { hid: 'twitter:title', name: 'twitter:title', content: title },
         { hid: 'twitter:description', name: 'twitter:description', content: this.page.description }
