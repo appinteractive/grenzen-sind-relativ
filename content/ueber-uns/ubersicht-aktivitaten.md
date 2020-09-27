@@ -1,11 +1,15 @@
 ---
 title: Übersicht Aktivitäten
 description: ''
+teaser: ''
+featured: false
+gallery: []
+alias: ''
 
 ---
 # Übersicht Aktivitäten:
 
-Mit verschiedensten Projekten, Veranstaltungen, Kampagnen, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein. Wir setzen selbst entwickelte Projekte, Veranstaltungen und Kampagnen um, machen verschiedenste Kooperationsprojekte und sind beratend tätig. Im Folgenden ein Ausschnitt von unserer Arbeit:
+Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein. Wir realisieren selbst entwickelte Projekte, Veranstaltungen und Kampagnen, machen verschiedenste Kooperationsprojekte und sind beratend tätig. Im Folgenden ein Ausschnitt von unserer Arbeit:
 
 * [**GRENZEN SIND RELATIV FESTIVALS**](/veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2.html)
 
