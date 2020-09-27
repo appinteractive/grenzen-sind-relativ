@@ -11,6 +11,7 @@ async function generateRoutes() {
 }
 
 export default {
+  telemetry: false,
   // pageTransition: {
   //   name: 'fade',
   //   mode: 'fade'
@@ -45,7 +46,8 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    '~/plugins/store-init.js',
+    { src: '~/plugins/store-init.js' },
+    { src: '~/plugins/vue-awesome-swiper', mode: 'client' },
     // '~/plugins/components.js',
     // '~/plugins/components.js',
     // '~/plugins/preview.client.js'

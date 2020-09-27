@@ -6,7 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt generate",
     "start": "nuxt start",
-    "generate": "nuxt generate",
+    "generate": "nuxt generate --modern=client",
     "storybook": "nuxt storybook",
     "forestry-preview": "nuxt -p 8080 -H 0.0.0.0"
   },
@@ -16,6 +16,8 @@
     "@nuxtjs/sitemap": "^2.4.0",
     "nuxt": "^2.14.0",
     "storyblok-nuxt": "^1.2.0",
+    "swiper": "^6.3.1",
+    "vue-awesome-swiper": "^4.1.1",
     "vue-observe-visibility": "^0.4.6",
     "vue-svg-loader": "^0.16.0"
   },

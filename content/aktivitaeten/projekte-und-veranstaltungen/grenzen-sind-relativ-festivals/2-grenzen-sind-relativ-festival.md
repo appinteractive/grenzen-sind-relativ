@@ -21,35 +21,37 @@ SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festiv
 
 <gallery>
 
-[![img](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg)](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg "Hier kommt einn Titel")
+![Rapfugees vs Bodyrhythm](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg "Rapfugees vs Bodyrhythm")
 
-[![img](/media/2018/11/Jan-Plewka-Marco-Schmedtje_rpl1lLgA.jpeg)](/media/2018/11/Jan-Plewka-Marco-Schmedtje_rpl1lLgA.jpeg)
+![Jan Plewka & Marco Schmedtje](/media/2018/11/Jan-Plewka-Marco-Schmedtje_rpl1lLgA.jpeg "Jan Plewka & Marco Schmedtje")
 
-[![img](/media/2018/11/Markus-Riemann_YCPzyH-g.jpeg)](/media/2018/11/Markus-Riemann_YCPzyH-g.jpeg)
+![Markus Riemann](/media/2018/11/Markus-Riemann_YCPzyH-g.jpeg "Markus Riemann")
 
-[![img](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg)](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg)
+![Sebo Kiddo Kat](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg "Sebo Kiddo Kat")
 
-[![img](/media/2018/11/interaktive-Malerei-2_zgJS-BZA-1.jpeg)](/media/2018/11/interaktive-Malerei-2_zgJS-BZA-1.jpeg)
+![Interaktive Malerei](/media/2018/11/interaktive-Malerei-2_zgJS-BZA-1.jpeg "Interaktive Malerei")
 
-[![img](/media/2018/11/Infostände_MldWFD3g-1.jpeg)](/media/2018/11/Infostände_MldWFD3g-1.jpeg)
+![Infostände](/media/2018/11/Infostände_MldWFD3g-1.jpeg "Infostände")
 
-[![img](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg)](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg)
+![Dreh Friedenssong](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg "Dreh Friedenssong")
 
-[![img](/media/2018/11/Safar-Band_ZD2M3Ndg.jpeg)](/media/2018/11/Safar-Band_ZD2M3Ndg.jpeg)
+![Safar Band](/media/2018/11/Safar-Band_ZD2M3Ndg.jpeg "Safar Band")
 
-[![img](/media/2018/11/Soularia_kGWfZ7Qg.jpeg)](/media/2018/11/Soularia_kGWfZ7Qg.jpeg)
+![Soularia](/media/2018/11/Soularia_kGWfZ7Qg.jpeg "Soularia")
 
-[![img](/media/2018/11/Klaauter-Theater_y4XxKw0w.jpeg)](/media/2018/11/Klaauter-Theater_y4XxKw0w.jpeg)
+![Klaauter Theater](/media/2018/11/Klaauter-Theater_y4XxKw0w.jpeg "Klaauter Theater")
 
-[![img](/media/2018/11/Kilez-MOre-feat.-Morgaine_-3-7IeREA.jpeg)](/media/2018/11/Kilez-MOre-feat.-Morgaine_-3-7IeREA.jpeg)
+![Kilez More feat. Morgaine](/media/2018/11/Kilez-MOre-feat.-Morgaine_-3-7IeREA.jpeg "Kilez More feat. Morgaine")
 
-[![img](/media/2018/11/MATE_9aYWRnRA.jpeg)](/media/2018/11/MATE_9aYWRnRA.jpeg)
+![MATE](/media/2018/11/MATE_9aYWRnRA.jpeg "MATE")
 
-[![img](/media/2018/11/stringNbase_MBIWn0ng.jpeg)](/media/2018/11/stringNbase_MBIWn0ng.jpeg)
+![String N Base](/media/2018/11/stringNbase_MBIWn0ng.jpeg "String N Base")
 
-[![img](/media/2018/11/Interaktive-Malerei_Tb1g-xAg.jpeg)](/media/2018/11/Interaktive-Malerei_Tb1g-xAg.jpeg)
+![Interaktive Malerei](/media/2018/11/Interaktive-Malerei_Tb1g-xAg.jpeg "Interaktive Malerei")
 
-[![img](/media/2018/11/mopo.jpg)](/media/2018/11/mopo.jpg)</galler>
+![MOPO](/media/2018/11/mopo.jpg "MOPO")
+
+</gallery>
 
 [![img](/media/2018/09/FB_Header_GSR_Final.jpg)](/media/2018/09/FB_Header_GSR_Final.jpg) Yeeaaah, am Sa. 20.10.18 feiern wir wieder die **Vielfalt der Künste, Menschen und Netzwerke** in der legendären [Fabrik](https://www.fabrik.de/) in Hamburg Altona!
 

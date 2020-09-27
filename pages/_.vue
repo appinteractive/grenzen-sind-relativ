@@ -34,6 +34,9 @@ export default {
     const subMenu = lastCrumb ? lastCrumb.siblings : []
     const currentTitle = lastCrumb ? lastCrumb.title : null
 
+    /* const featured = await $content().where({ featured: true }).fetch()
+    console.log(featured) */
+
     /* try {
       const surround = await $content(page.dir)
         .sortBy('createdAt', 'asc')
