@@ -49,7 +49,7 @@ export default {
   },
   head() {
     let url = 'https://grenzensindrelativ.de'
-    let title = this.page.title
+    let title = `${this.page.title} | Grenzen sind relativ e.V.`
     if (!title) {
       try {
         title = this.page.body.children[0].children[1].value
@@ -57,9 +57,10 @@ export default {
         // console.log('NO TITLE FOUND')
       }
     }
+    title = `${title || this.page.slug} | Grenzen sind relativ`
 
     return {
-      title: `${title || this.page.slug} | Grenzen sind relativ`,
+      title: title,
       meta: [
         { hid: 'description', name: 'description', content: this.page.description },
         // Open Graph
