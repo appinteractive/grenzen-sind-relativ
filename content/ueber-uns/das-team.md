@@ -31,7 +31,7 @@ Markus Riemann steht mir großer Freude seit über 25 Jahren auf der Bühne, ver
 
 ---
 
-[![Jan Clasen](/media/2014/07/IMG_2279.jpeg)](/media/2014/07/IMG_2279.jpeg "Jan Clasen") **2. Vorsitzender: Jan Clasen** _(Projektleiter, Produzent, Kulturmanager, Veranstalter & Aktivist)_
+[![Jan Clasen](/media/2014/07/IMG_2279.jpeg "Jan Clasen")](/media/2014/07/IMG_2279.jpeg) **2. Vorsitzender: Jan Clasen** _(Projektleiter, Produzent, Kulturmanager, Veranstalter & Aktivist)_
 
 Jan Clasen ist der jüngste Neuzugang und seit September 2017 im Vorstand des Grenzen sind relativ e.V. aktiv. Das Studium zum Kameramann hat er mit einer Ausbildung zum Produzenten erweitert. Vor mehreren Jahren ist er als Produzent bei dem sozialen Unternehmen KULTURPRODUKTION eingestiegen und arbeitet seitdem vor allem an Projekten, die den regionalen Kulturkreis stärken und sich für ein friedliches Miteinander einsetzen. https://cartacultur.org
 

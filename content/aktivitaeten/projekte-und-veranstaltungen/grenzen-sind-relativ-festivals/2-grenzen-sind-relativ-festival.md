@@ -17,7 +17,10 @@ Live-Musik, Theater, Kabarett, Performance, Video-Kunst, Kunstausstellung, inter
 
 SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festival“ in der „Fabrik Hamburg Altona“ stattfinden.
 
-“Hebt man den Blick, so sieht man keine Grenzen.” (Aus Japan)
+> Hebt man den Blick, so sieht man keine Grenzen.
+>> Aus Japan  
+   
+   
 
 <gallery>
 

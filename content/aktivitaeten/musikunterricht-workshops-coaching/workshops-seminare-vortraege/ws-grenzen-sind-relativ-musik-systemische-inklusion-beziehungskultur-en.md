@@ -22,4 +22,5 @@ Neben dem Wissenstransfer und Erfahrungsaustausch wollen wir vor allem in den in
 
 So können weiterführende Impulse für den Alltag, persönliche & kollektive Weiterentwicklungsprozesse und die Vision einer möglichen “gesamtgesellschaftlichen Beziehungskultur” entwickelt und freigesetzt werden.
 
-_“Hebt man den Blick, so sieht man keine Grenzen.” (Aus Japan)_
+> Hebt man den Blick, so sieht man keine Grenzen.
+>> Aus Japan

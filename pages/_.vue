@@ -76,22 +76,22 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="postcss">
 .prose h1 {
-  @apply font-serif;
+  @apply font-serif text-gray-900;
 }
 .prose h2 {
-  @apply font-serif;
+  @apply font-serif text-gray-800;
 }
 .prose h1 + h2 {
   @apply -mt-2;
 }
 
 .prose blockquote {
-  @apply text-xl font-serif text-left border-none text-gray-700;
+  @apply text-xl font-serif text-left pl-4 pr-2 border-none text-indigo-800;
 }
 .prose blockquote blockquote {
-  @apply text-base -mt-6 text-right text-gray-600 not-italic;
+  @apply text-base -mt-6 text-right text-pink-800 not-italic;
   quotes: none;
 }
 
