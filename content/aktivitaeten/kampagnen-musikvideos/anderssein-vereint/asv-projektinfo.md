@@ -30,7 +30,7 @@ b.) verschiedenste Themen, Menschen, Künste, Projekte, Initiativen, Institution
 
 c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielführende Crossover-Projekte zu realisieren. Wie z.B. inklusive Festivals, Aktionstage Inklusion in Schulen/Universitäten, Netzwerktreffen, Inklusions-Tournee, usw.
 
-[![We are the world](/media/2015/04/Jubelszene-e1436876863178.jpg "We are the world"](/media/2015/04/Jubelszene.jpg) Die **Musikvideo- und Radioversion** von „AndersSein vereint“ sind nun auch online erhältlich:  
+[![We are the world](/media/2015/04/Jubelszene.jpg "We are the world"](/media/2015/04/Jubelszene.jpg) Die **Musikvideo- und Radioversion** von „AndersSein vereint“ sind nun auch online erhältlich:  
  amazon: [https://t1p.de/qt1u](https://t1p.de/qt1u "https://t1p.de/qt1u")  
  iTunes: [https://t1p.de/1qm8](https://t1p.de/qt1u "https://t1p.de/qt1u")
 

@@ -63,7 +63,7 @@ Das Programm (Workshops, interaktive Erlebniswelten, Inklusionsforum, Podiumvera
 
 ## Workshops & Dozententeam
 
-### **WS 1 „Grenzen sind relativ – Musikunterricht für Hörgeschädigte“** [![Mischa Gohlke Solo 2](/media/2014/07/Mischa-Gohlke-Solo-2.jpg)](/media/2014/07/Mischa-Gohlke-Solo-2-e1405872711854.jpg)
+### **WS 1 „Grenzen sind relativ – Musikunterricht für Hörgeschädigte“** [![Mischa Gohlke Solo 2](/media/2014/07/Mischa-Gohlke-Solo-2.jpg)](/media/2014/07/Mischa-Gohlke-Solo-2.jpg)
 
 _Dozent: Mischa Gohlke (Initiator „Grenzen sind relativ“, Musiker, Dozent, Coach,_ [_www.grenzensindrelativ.de_](/)_)_
 

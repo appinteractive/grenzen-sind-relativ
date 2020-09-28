@@ -7,7 +7,7 @@
       max-height: 30rem;
     "
     :style="style"
-    v-observe-visibility="visibilityChanged"
+    v-observe-visibility="!visible && visibilityChanged"
   >
     <span
       v-if="!loaded"

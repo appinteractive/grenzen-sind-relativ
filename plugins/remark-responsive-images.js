@@ -10,7 +10,7 @@ const uniqId = (uniq) => {
   return ('00000000' + hash.result().toString(16)).substr(-8)
 }
 
-const resize = (input, output, originalSize, outputSize, blur) => {
+const resize = async (input, output, originalSize, outputSize, blur) => {
   if (originalSize < outputSize && !blur) return null
 
   let outputName = output
@@ -25,7 +25,7 @@ const resize = (input, output, originalSize, outputSize, blur) => {
       })
       .toFormat(ext, {
         quality: 90,
-        progressive: true
+        progressive: !blur
       })
     if (blur) {
       outputName = outputName.replace(fullName, `${fileName}-blurred.${ext}`)
@@ -33,10 +33,11 @@ const resize = (input, output, originalSize, outputSize, blur) => {
     } else {
       outputName = outputName.replace(fullName, `${fileName}-w${outputSize}.${ext}`)
     }
-    image.toFile(outputName)
     if (blur) {
+      await image.toFile(outputName)
       return outputName
     } else {
+      image.toFile(outputName)
       return outputName.split('/static').pop()
     }
   } catch (err) {
@@ -65,19 +66,22 @@ async function visitor(node) {
     const images = [
       resize(input, output, sizeMax, sizeMax),
       resize(input, output, sizeMax, 460),
+      resize(input, output, sizeMax, 700),
       resize(input, output, sizeMax, 1024),
-      resize(input, output, sizeMax, 1248)
+      resize(input, output, sizeMax, 2048)
     ].filter(item => !!item)
 
     const srcset = []
     if (images.length == 0 && !!images[0]) srcset.push(``)
+    if (images.length > 1 && !!images[1]) srcset.push(`${images[0]} ${sizeMax}w`)
     if (images.length > 1 && !!images[1]) srcset.push(`${images[0]} 460w`)
-    if (images.length > 2 && !!images[2]) srcset.push(`${images[1]} 1024w`)
-    if (images.length > 3 && !!images[3]) srcset.push(`${images[2]} 1248w`)
+    if (images.length > 2 && !!images[2]) srcset.push(`${images[1]} 700w`)
+    if (images.length > 3 && !!images[3]) srcset.push(`${images[2]} 1024w`)
+    if (images.length > 4 && !!images[4]) srcset.push(`${images[3]} 2048w`)
 
     const srcsetString = srcset.join(', ')
 
-    const placeholder = resize(input, output, sizeMax, 24, true)
+    const placeholder = await resize(input, output, sizeMax, 24, true)
     const buff = fs.readFileSync(placeholder, {encoding: 'base64'})
     const base64 = `data:image/${ext};base64,${buff}`
 
@@ -89,7 +93,12 @@ async function visitor(node) {
 }
 
 async function transformer(tree, file, done) {
-  await visit(tree, 'image', visitor)
+  const images = []
+  visit(tree, 'image', node => images.push(node))
+
+  for (const node of images) {
+    await visitor(node)
+  }
 
   done()
 }

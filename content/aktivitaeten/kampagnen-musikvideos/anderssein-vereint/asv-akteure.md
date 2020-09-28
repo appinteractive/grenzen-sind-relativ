@@ -13,7 +13,7 @@ alias: /anderssein-vereint-2/band-gastsaenger-protagonisten.html
 
 ## Die Gastsänger
 
-[![Volkan Baydar](/media/2015/05/Volkan-Baydar-_-anderssein-R7N_7624.jpg "Foto by Robin Schmiedebach")](/media/2015/05/Volkan-Baydar-_-anderssein-R7N_7624.jpg) **Volkan Baydar** – Wer kennt sie nicht, die Stimme von Orange Blue, die mit „She´s got that light“ im Jahr 2000 die Charts eroberten? Der Mann mit türkischen Wurzeln ist nicht nur einer der besten Soulsänger Deutschlands sondern engagiert sich seit Jahren auch für soziale Zwecke, u.a. für den Verein KinderLeben. [www.volkanbaydar.de](https://www.volkanbaydar.de)
+[![Volkan Baydar](/media/2015/05/Volkan-Baydar-_-Foto-by-Robin-Schmiedebach.jpg "Foto by Robin Schmiedebach")](/media/2015/05/Volkan-Baydar-_-Foto-by-Robin-Schmiedebach.jpg) **Volkan Baydar** – Wer kennt sie nicht, die Stimme von Orange Blue, die mit „She´s got that light“ im Jahr 2000 die Charts eroberten? Der Mann mit türkischen Wurzeln ist nicht nur einer der besten Soulsänger Deutschlands sondern engagiert sich seit Jahren auch für soziale Zwecke, u.a. für den Verein KinderLeben. [www.volkanbaydar.de](https://www.volkanbaydar.de)
 
 [![Jessy Marten & Graf Fidi](/media/2015/05/Favorit-_-Graf-Fidi-und-Jessy-Martens-_-DSCF7213-2.jpg "Foto by Tom Roeler")](/media/2015/05/Favorit-_-Graf-Fidi-und-Jessy-Martens-_-DSCF7213-2.jpg) **Jessy Martens** – Als zweifache Gewinnerin des „German Blues Awards“ und Preisträgerin des Deutschen Rockpreises trägt das Energiebündel zurecht den Titel als Deutschlands Blueslady Nr 1. Mit ihrer Band tourt sie unermüdlich durch die Lande und begeistert mit ihrer unverwechselbaren Powerstimme und Bühnenpräsenz. [www.jessymartens.de](https://www.jessymartens.de)
 

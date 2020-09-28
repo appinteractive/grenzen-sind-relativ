@@ -26,7 +26,7 @@ SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festiv
 
 <gallery>
 
-![Rapfugees vs Bodyrhythm](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA-1.jpeg "Rapfugees vs Bodyrhythm")
+![Rapfugees vs Bodyrhythm](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA.jpeg "Rapfugees vs Bodyrhythm")
 
 ![Jan Plewka & Marco Schmedtje](/media/2018/11/Jan-Plewka-Marco-Schmedtje_rpl1lLgA.jpeg "Jan Plewka & Marco Schmedtje")
 
@@ -34,9 +34,9 @@ SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festiv
 
 ![Sebo Kiddo Kat](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg "Sebo Kiddo Kat")
 
-![Interaktive Malerei](/media/2018/11/interaktive-Malerei-2_zgJS-BZA-1.jpeg "Interaktive Malerei")
+![Interaktive Malerei](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg "Interaktive Malerei")
 
-![Infostände](/media/2018/11/Infostände_MldWFD3g-1.jpeg "Infostände")
+![Infostände](/media/2018/11/Infostände_MldWFD3g.jpeg "Infostände")
 
 ![Dreh Friedenssong](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg "Dreh Friedenssong")
 
@@ -54,9 +54,9 @@ SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festiv
 
 ![Interaktive Malerei](/media/2018/11/Interaktive-Malerei_Tb1g-xAg.jpeg "Interaktive Malerei")
 
-![MOPO](/media/2018/11/mopo.jpg "MOPO")
-
 </gallery>
+
+![MOPO](/media/2018/11/mopo.jpg "MOPO")
 
 [![img](/media/2018/09/FB_Header_GSR_Final.jpg)](/media/2018/09/FB_Header_GSR_Final.jpg) Yeeaaah, am Sa. 20.10.18 feiern wir wieder die **Vielfalt der Künste, Menschen und Netzwerke** in der legendären [Fabrik](https://www.fabrik.de/) in Hamburg Altona!
 
