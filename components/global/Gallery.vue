@@ -20,6 +20,7 @@ function getGalleryItem(tag, item) {
 export default {
   data: () => ({
     items: [],
+    loaded: false,
     visible: false,
     swiperOption: {
       speed: 600,
@@ -51,36 +52,57 @@ export default {
           this.items.push(item)
         }
       })
+    /* console.log(this.items[0])
+    this.items[0].addEventListener('load', () => {
+      console.log('LOADED!')
+      this.loaded = true
+    }) */
     this.visible = true;
   },
   beforeDestroy() {
     this.visible = false;
   },
   render(createElement) {
-    if (!this.visible) {
+    /* if (!this.visible) {
       return createElement('div');
-    }
-    return createElement('swiper', {
-      class: 'swiper',
-      props: { options: this.swiperOption },
-      ref: 'slider',
-    }, [
-      createElement('div', {
-        class: 'swiper-button-prev',
-        slot: 'button-prev'
-      }),
-      createElement('div', {
-        class: 'swiper-button-next',
-        slot: 'button-next'
-      }),
-      createElement('div', {
-        class: 'swiper-pagination',
-        slot: 'pagination'
-      }),
-      ...this.items.map((item) => createElement('swiper-slide', {
-        class: '',
-      }, [item])),
-    ])
+    } */
+    let children = []
+    children = [
+      createElement('swiper', {
+        class: 'swiper',
+        props: { options: this.swiperOption },
+        ref: 'slider',
+      }, [
+        createElement('div', {
+          class: 'swiper-button-prev',
+          slot: 'button-prev'
+        }),
+        createElement('div', {
+          class: 'swiper-button-next',
+          slot: 'button-next'
+        }),
+        createElement('div', {
+          class: 'swiper-pagination',
+          slot: 'pagination'
+        }),
+        ...this.items.map((item) => createElement('swiper-slide', {
+          class: '',
+        }, [item])),
+      ])
+    ]
+    return createElement('div', {}, children)
   }
 }
 </script>
+
+<style lang="postcss">
+.prose .swiper {
+  @apply p-0 m-0
+}
+.prose .swiper-wrapper {
+  @apply overflow-y-visible p-0 m-0
+}
+.prose .swiper-pagination {
+  @apply p-0 m-0 -mb-10
+}
+</style>
