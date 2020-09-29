@@ -3,12 +3,27 @@ label: Slideshow
 hide_body: true
 fields:
 - name: pages
-  type: list
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: page
+    type: select
+    default: ''
+    config:
+      required: true
+      options: []
+      source:
+        type: pages
+        section: inahlt
+        file: 
+        path: 
+    label: Seite
   config:
-    use_select: true
     min: 
     max: 
-    source:
-      type: pages
-      section: inahlt
+    labelField: title
   label: Seiten
