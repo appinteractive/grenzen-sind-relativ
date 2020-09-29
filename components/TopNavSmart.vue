@@ -1,9 +1,9 @@
 <template>
   <nav
-    class="nav-main md:flex md:flex-wrap bg-white border-gray-300 fixed w-full z-50"
+    class="nav-main md:flex md:flex-wrap bg-white border-primary-200 fixed w-full z-50"
   >
     <div
-      class="w-full border-b border-gray-300 p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
+      class="w-full border-b border-primary-200 p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
       :class="isOpen && 'h-screen'"
     >
       <div
@@ -49,7 +49,7 @@
           >
             <TopNavLink
               :to="getNearestURL(level1)"
-              class="level1 font-medium tracking-wide hover:text-gray-900 flex py-2 md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0 relative"
+              class="level1 font-medium tracking-wide hover:text-primary-900 flex py-2 md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0 relative"
               :class="activeMain === level1.title && 'font-bold'"
               @mouseenter.native="setCurrentIndex(index1)"
             >
@@ -71,14 +71,14 @@
                 </TopNavLink>
                 <ul v-if="level2.children && level2.children.length > 0" class="px-6 pb-2">
                   <li v-for="level3 in level2.children" :key="level3.title">
-                    <TopNavLink :to="getNearestURL(level3)" class="text-sm text-gray-700 flex flex-col py-1">
+                    <TopNavLink :to="getNearestURL(level3)" class="text-sm text-primary-700 flex flex-col py-1">
                       <div class="flex">
                         <arrow-right class="h-4 w-4 mr-1 flex-shrink-0" />
                         {{ level3.title }}
                       </div>
                       <!-- <ul v-if="level3 && level3.children && level3.children.length > 0" class="px-6 pb-2">
                         <li v-for="level4 in level3.children" :key="level4.title">
-                          <TopNavLink :to="getNearestURL(level4)" class="text-sm text-gray-700 flex py-1">
+                          <TopNavLink :to="getNearestURL(level4)" class="text-sm text-primary-700 flex py-1">
                             <arrow-return class="h-2 w-2 mr-2 flex-shrink-0" />
                             {{ level4.title }}
                           </TopNavLink>
@@ -174,6 +174,6 @@ export default {
 <style lang="css">
 .nav-main .level1.link-active,
 .nav-main .level1.link-parent-active {
-  @apply font-bold;
+  @apply font-bold text-primary-900;
 }
 </style>

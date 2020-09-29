@@ -22,11 +22,11 @@
         </div>
         <div class="flex flex-col pb-8">
           <h3 class="text-xs uppercase text-primary-200 font-bold pb-3">Anmeldung zum Newsletter</h3>
-          <div class="flex flex-col">
+          <form @click.prevent="() => {}" class="flex flex-col">
             <p class="text-primary-300 text-sm">Melde dich hier zu unserem Newsletter an, um über aktuelle Events und Projekte auf dem laufenden zu bleiben.</p>
             <input type="email" aria-label="E-Mail für Newsletteranmeldung" name="email" class="rounded mt-3 py-3 px-4 bg-primary-400 text-primary-900 placeholder-black focus:bg-primary-200" placeholder="Deine E-Mail">
-            <button class="rounded bg-primary-900 mt-2 py-3 px-4 text-white font-bold tracking-wide" aria-label="zum Newsletter anmelden">Anmelden</button>
-          </div>
+            <button name="submit" type="submit" class="rounded bg-primary-900 mt-2 py-3 px-4 text-white font-bold tracking-wide" aria-label="zum Newsletter anmelden">Anmelden</button>
+          </form>
         </div>
       </div>
       <div class="text-sm">
