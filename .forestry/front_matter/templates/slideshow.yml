@@ -12,7 +12,7 @@ fields:
       required: true
       options: []
       source:
-        type: documents
+        type: pages
         section: inahlt
         file: 
         path: 
