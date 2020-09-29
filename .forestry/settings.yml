@@ -19,7 +19,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: "*.json"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - slideshow
 - type: heading
