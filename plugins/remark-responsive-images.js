@@ -64,11 +64,11 @@ async function visitor(node) {
     const ratio = (size.height / size.width) * 100
 
     const images = [
-      resize(input, output, sizeMax, sizeMax),
-      resize(input, output, sizeMax, 460),
-      resize(input, output, sizeMax, 700),
-      resize(input, output, sizeMax, 1024),
-      resize(input, output, sizeMax, 2048)
+      await resize(input, output, sizeMax, sizeMax),
+      await resize(input, output, sizeMax, 460),
+      await resize(input, output, sizeMax, 700),
+      await resize(input, output, sizeMax, 1024),
+      await resize(input, output, sizeMax, 2048)
     ].filter(item => !!item)
 
     const srcset = []
