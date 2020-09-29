@@ -27,6 +27,9 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
+    htmlAttrs: {
+      lang: 'de'
+    },
     title: settings.siteName,
     meta: [
       { charset: 'utf-8' },
