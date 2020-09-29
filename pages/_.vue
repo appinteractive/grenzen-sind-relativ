@@ -48,26 +48,32 @@ export default {
     return { page, breadCrumbs, subMenu, currentTitle }
   },
   head() {
-    let url = 'https://next.grenzensindrelativ.de'
-    let title = `${this.page.title} | Grenzen sind relativ e.V.`
+    const settings = require('~/config/settings.json')
+    const siteName = settings.siteName
+    const url = process.env.VERCEL_URL || settings.urls[process.env.NODE_ENV]
+
+    let title = this.page.title === siteName ? siteName : `${this.page.title} | ${siteName}`
     if (!title) {
       try {
-        title = this.page.body.children[0].children[1].value
+        title = `${this.page.body.children[0].children[1].value} | ${siteName}`
       } catch (e) {
         // console.log('NO TITLE FOUND')
       }
     }
-    title = `${title || this.page.slug} | Grenzen sind relativ`
+    title = title || this.page.slug
+
+    const fullURL = url + this.$route.fullPath
 
     return {
       title: title,
       meta: [
         { hid: 'description', name: 'description', content: this.page.description },
         // Open Graph
-        { hid: 'og:url', property: 'og:url', content: url },
+        { hid: 'og:url', property: 'og:url', content: fullURL },
         { hid: 'og:title', property: 'og:title', content: title },
         { hid: 'og:description', property: 'og:description', content: this.page.description },
         { hid: 'og:image', property: 'og:image', content: url + this.page.teaser },
+        { hid: 'og:locale', property: 'og:locale', content: 'de_DE' },
         // Twitter Card
         { hid: 'twitter:title', name: 'twitter:title', content: title },
         { hid: 'twitter:description', name: 'twitter:description', content: this.page.description }

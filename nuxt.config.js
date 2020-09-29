@@ -1,5 +1,6 @@
 import { MINIMAL_VIEWPORTS } from '@storybook/addon-viewport'
 const isProd = process.env.NODE_ENV === 'production'
+const settings = require('./config/settings.json')
 
 async function generateRoutes() {
   const { $content } = require('@nuxt/content')
@@ -26,7 +27,7 @@ export default {
   ** See https://nuxtjs.org/api/configuration-head
   */
   head: {
-    title: process.env.npm_package_name || '',
+    title: settings.siteName,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -155,24 +156,24 @@ export default {
     linkExactActiveClass: 'link-active'
   },
   sitemap: {
-    hostname: 'https://next.grenzensindrelativ.de',
+    hostname: process.env.VERCEL_URL || settings.urls[process.env.NODE_ENV],
     gzip: true,
     routes: async () => await generateRoutes()
   },
   /* More information on the PWA module: https://pwa.nuxtjs.org/ */
   pwa: {
     workbox: {
-      enabled: false,
+      enabled: true,
       autoRegister: true,
       offline: false,
     },
     manifest: {
-      name: "Grenzen sind relativ e.V.",
+      name: settings.siteName,
       short_name: 'GSR e.V.',
       description: 'Grenzen sind relativ e.V. - Kultur, Gesellschaft & Inklusion "Grenzen sind relativ e.V." setzt sich mit verschiedensten Projekten, Veranstaltungen und Kampagnen für eine inklusive, integrale und nachhaltige Gesellschaft ein. Das Pilotprojekt Мusikunterricht für Hörgeschädigte wurde bereits mehrfach ausgezeichnet.',
       theme_color: '#fff',
       appleStatusBarStyle: 'white',
-      ogImage: '/img/bike.jpg'
+      ogImage: '/media/gsr-fb-banner_2018-1.jpg'
     }
   },
 }
