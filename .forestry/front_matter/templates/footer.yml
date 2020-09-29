@@ -16,7 +16,7 @@ fields:
     template: menuunterseiten
     label: Unterseiten
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: title
   label: Bereiche

@@ -33,6 +33,10 @@ sections:
   label: Footer
   templates:
   - footer
+- type: document
+  path: config/settings.json
+  label: Seiteneinstellungen
+  match: "**/*"
 upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
