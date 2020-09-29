@@ -37,7 +37,7 @@ upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":year:/:month:/:filename:"
 build:
   preview_output_directory: ".nuxt"
   install_dependencies_command: yarn install
