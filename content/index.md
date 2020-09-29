@@ -1,13 +1,13 @@
 ---
 title: Grenzen sind relativ e.V.
 description: Grenzen sind relativ e.V. - Kultur, Gesellschaft, Inklusion & Frieden
-teaser: /media/gsr-fb-banner_2018-1.jpg
+teaser: /media/2020/09/gsr-fb-banner_2018-1.jpg
 seite:
 - template: seite
 - template: slideshow
 
 ---
-![](/media/gsr-fb-banner_2018-1.jpg)
+![](/media/2020/09/gsr-fb-banner_2018-1.jpg)
 
 > Hebt man den Blick, so sieht man keine Grenzen.
 >> Aus Japan

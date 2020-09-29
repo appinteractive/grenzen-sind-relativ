@@ -5,7 +5,7 @@ description: Im Geiste unseres Mottos „Grenzen sind relativ“ bringen wir ver
   Spektrum” der Künste, Menschen und Netzwerke zu feiern. Live-Musik, Theater, Kabarett,
   Performance, Video-Kunst, Kunstausstellung, interaktive Erlebniswelten, Network-Area
   und DJs finden hier eine gemeinsame Spielwiese.
-teaser: "/media/gsr-festival-beitragsbild.jpg"
+teaser: "/media/2020/09/gsr-festival-beitragsbild.jpg"
 
 ---
 # Grenzen sind relativ Festivals

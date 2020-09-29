@@ -1,16 +1,22 @@
- <template>
-  <div class="container mx-auto px-4 lg:px-6 pt-6 ">
+<template>
+  <div class="container mx-auto px-4 lg:px-6 pt-6">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
     <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
-      <article class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16">
-        <nuxt-content :document="page" class="prose w-full break-words hyphens-auto" />
+      <article
+        class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16"
+      >
+        <nuxt-content
+          :document="page"
+          class="prose w-full break-words hyphens-auto"
+        />
       </article>
       <div class="lg:w-2/6">
         <SubMenu
           v-if="breadCrumbs.length > 1"
           :sub-menu="subMenu"
           :parents="subMenu"
-          :current-title="currentTitle" />
+          :current-title="currentTitle"
+        />
       </div>
     </div>
   </div>
@@ -19,7 +25,15 @@
 <script>
 export default {
   middleware: 'redirect',
-  async asyncData({ params, $content, redirect, store, route, error, payload }) {
+  async asyncData({
+    params,
+    $content,
+    redirect,
+    store,
+    route,
+    error,
+    payload,
+  }) {
     const path = `/${params.pathMatch || 'index'}`
     const page = await $content(path).fetch()
 
@@ -28,7 +42,8 @@ export default {
     }
 
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
-    const crumbAnomaly = breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
+    const crumbAnomaly =
+      breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
     const off = crumbAnomaly ? 2 : 1
     const lastCrumb = breadCrumbs[breadCrumbs.length - off]
     const subMenu = lastCrumb ? lastCrumb.siblings : []
@@ -50,9 +65,14 @@ export default {
   head() {
     const settings = require('~/config/settings.json')
     const siteName = settings.siteName
-    const url = process.env.VERCEL_URL || settings.urls[process.env.NODE_ENV]
+    const url = process.env.VERCEL_URL
+      ? 'https://' + process.env.VERCEL_URL
+      : settings.urls[process.env.NODE_ENV]
 
-    let title = this.page.title === siteName ? siteName : `${this.page.title} | ${siteName}`
+    let title =
+      this.page.title === siteName
+        ? siteName
+        : `${this.page.title} | ${siteName}`
     if (!title) {
       try {
         title = `${this.page.body.children[0].children[1].value} | ${siteName}`
@@ -67,19 +87,35 @@ export default {
     return {
       title: title,
       meta: [
-        { hid: 'description', name: 'description', content: this.page.description },
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.page.description,
+        },
         // Open Graph
         { hid: 'og:url', property: 'og:url', content: fullURL },
         { hid: 'og:title', property: 'og:title', content: title },
-        { hid: 'og:description', property: 'og:description', content: this.page.description },
-        { hid: 'og:image', property: 'og:image', content: url + this.page.teaser },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: this.page.description,
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: url + this.page.teaser,
+        },
         { hid: 'og:locale', property: 'og:locale', content: 'de_DE' },
         // Twitter Card
         { hid: 'twitter:title', name: 'twitter:title', content: title },
-        { hid: 'twitter:description', name: 'twitter:description', content: this.page.description }
-      ].filter(item => !!item.content)
+        {
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: this.page.description,
+        },
+      ].filter((item) => !!item.content),
     }
-  }
+  },
 }
 </script>
 

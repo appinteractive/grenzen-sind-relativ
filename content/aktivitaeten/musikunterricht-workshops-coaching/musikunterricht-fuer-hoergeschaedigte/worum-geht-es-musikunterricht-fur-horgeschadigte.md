@@ -8,7 +8,7 @@ description: Ca. 14 Millionen Menschen in Deutschland sind hörgeschädigt. Derz
   & Pop Schule Kiel angeboten. Darüber hinaus machen wir bundesweit Workshops, Seminare
   und Vorträge und beraten Musikschulen, um inklusiven Musikunterricht zum Leben zu
   bringen.
-teaser: "/media/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
+teaser: "/media/2020/09/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
 featured: false
 gallery: []
 alias: '/musikunterricht-fuer-hoergeschaedigte/allgemeine-informationen-musikunterricht.html'
