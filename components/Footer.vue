@@ -24,8 +24,8 @@
           <h3 class="text-xs uppercase text-gray-500 font-semibold">Anmeldung zum Newsletter</h3>
           <div class="flex flex-col">
             <p class="text-gray-400 text-sm">Melde dich hier zu unserem Newsletter an, um über aktuelle Events und Projekte auf dem laufenden zu bleiben.</p>
-            <input type="email" class="rounded mt-3 py-3 px-4 text-gray-800" placeholder="Deine E-Mail">
-            <button class="rounded bg-gray-600 mt-2 py-3 px-4 text-white font-bold tracking-wide">Anmelden</button>
+            <input type="email" aria-label="E-Mail für Newsletter" name="email" class="rounded mt-3 py-3 px-4 text-gray-800" placeholder="Deine E-Mail">
+            <button class="rounded bg-gray-600 mt-2 py-3 px-4 text-white font-bold tracking-wide" aria-label="zum Newsletter anmelden">Anmelden</button>
           </div>
         </div>
       </div>

@@ -9,7 +9,7 @@
       <div
         class="container mx-auto flex flex-col md:flex-row items-center relative"
       >
-        <nuxt-link to="/" class="flex">
+        <nuxt-link to="/" class="flex" aria-label="Startseite">
           <Logo
             class="flex items-center flex-shrink-0 flex-grow-0 text-white lg:mr-6"
           />
