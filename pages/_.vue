@@ -20,7 +20,7 @@
 export default {
   middleware: 'redirect',
   async asyncData({ params, $content, redirect, store, route, error, payload }) {
-    const path = `/${params.pathMatch || 'startseite'}`
+    const path = `/${params.pathMatch || 'index'}`
     const page = await $content(path).fetch()
 
     if (Array.isArray(page)) {

@@ -6,7 +6,7 @@ async function generateRoutes() {
   const { $content } = require('@nuxt/content')
   const files = await $content({ deep: true }).only(['path', 'alias']).fetch()
 
-  const routes = files.map(file => file.path === '/startseite' ? '/' : file.path)
+  const routes = files.map(file => file.path === '/index' ? '/' : file.path)
 
   return routes
 }
