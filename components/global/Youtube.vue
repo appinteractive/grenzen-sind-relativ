@@ -6,16 +6,16 @@
   >
     <div
       v-if="!accept"
-      class="absolute w-full h-full items-center justify-center flex cursor-pointer"
+      class="absolute w-full h-full items-center justify-center flex cursor-pointer group"
       @click="accept = true"
     >
       <svg
         viewBox="0 0 24 24"
-        class="w-20 h-20 text-pink-700"
+        class="w-20 h-20 opacity-75 group-hover:w-24 group-hover:h-24 group-hover:opacity-100 transition-all duration-100 ease-in-out text-pink-700 border-white border-2 rounded-full"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <circle cx="12" cy="12" r="12" class="text-white" />
+        <circle cx="12" cy="12" r="12" fill="#ffffff" />
         <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-3 17v-10l9 5.146-9 4.854z"/>
       </svg>
     </div>

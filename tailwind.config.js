@@ -15,6 +15,9 @@ module.exports = {
   variants: {
     textDecoration: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
     backgroundColor: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    width: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    height: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    opacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
     zIndex: ['hover']
   },
   plugins: [
