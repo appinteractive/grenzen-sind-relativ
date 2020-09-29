@@ -5,6 +5,11 @@ fields:
 - name: pages
   type: field_group_list
   fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titel
   - name: page
     type: select
     default: ''
@@ -20,5 +25,5 @@ fields:
   config:
     min: 
     max: 
-    labelField: page
+    labelField: title
   label: Seiten
