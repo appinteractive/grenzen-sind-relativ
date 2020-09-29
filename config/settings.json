@@ -1,7 +1,7 @@
 {
   "siteName": "Grenzen sind relativ e.V.",
   "urls": {
-    "production": "https://grenzensindrelativ.de",
+    "production": "https://next.grenzensindrelativ.de",
     "staging": "https://next.grenzensindrelativ.de",
     "development": "http://localhost:3000"
   }

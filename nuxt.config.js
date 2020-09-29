@@ -8,8 +8,6 @@ async function generateRoutes() {
 
   const routes = files.map((file) => (file.path === '/index' ? '/' : file.path))
 
-  console.log(routes)
-
   return routes
 }
 
@@ -76,13 +74,13 @@ export default {
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
     '@nuxtjs/sitemap',
-    [
-      'storyblok-nuxt',
-      {
-        accessToken: process.env.STORYBLOK_KEY,
-        cacheProvider: 'memory',
-      },
-    ],
+    // [
+    //   'storyblok-nuxt',
+    //   {
+    //     accessToken: process.env.STORYBLOK_KEY,
+    //     cacheProvider: 'memory'
+    //   }
+    // ],
   ],
   /*
    ** Content module configuration
@@ -97,20 +95,23 @@ export default {
   /**
    * See https://storybook.nuxtjs.org/options/
    */
-  storybook: {
-    // Options
-    stories: ['~/components/**/*.stories.js', '~/components/**/*.stories.mdx'],
-    addons: [
-      '@storybook/addon-knobs',
-      '@storybook/addon-viewport',
-      '@storybook/addon-docs',
-    ],
-    parameters: {
-      viewport: {
-        viewports: MINIMAL_VIEWPORTS,
-      },
-    },
-  },
+  // storybook: {
+  //   // Options
+  //   stories: [
+  //     '~/components/**/*.stories.js',
+  //     '~/components/**/*.stories.mdx'
+  //   ],
+  //   addons: [
+  //     '@storybook/addon-knobs',
+  //     '@storybook/addon-viewport',
+  //     '@storybook/addon-docs'
+  //   ],
+  //   parameters: {
+  //     viewport: {
+  //       viewports: MINIMAL_VIEWPORTS,
+  //     },
+  //   }
+  // },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
@@ -156,9 +157,7 @@ export default {
     linkExactActiveClass: 'link-active',
   },
   sitemap: {
-    hostname: process.env.VERCEL_URL
-      ? 'https://' + process.env.VERCEL_URL
-      : settings.urls[process.env.NODE_ENV],
+    hostname: settings.urls[process.env.NODE_ENV],
     gzip: true,
     routes: async () => await generateRoutes(),
   },

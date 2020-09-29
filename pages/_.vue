@@ -65,9 +65,7 @@ export default {
   head() {
     const settings = require('~/config/settings.json')
     const siteName = settings.siteName
-    const url = process.env.VERCEL_URL
-      ? 'https://' + process.env.VERCEL_URL
-      : settings.urls[process.env.NODE_ENV]
+    const url = settings.urls[process.env.NODE_ENV]
 
     let title =
       this.page.title === siteName
