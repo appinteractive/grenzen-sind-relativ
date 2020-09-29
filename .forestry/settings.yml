@@ -13,6 +13,15 @@ sections:
   match: "**/*.md"
   templates:
   - seite
+- type: directory
+  path: config/slideshows
+  label: Slideshows
+  create: documents
+  match: "**/*"
+  exclude: ".json"
+  new_doc_ext: ".json"
+  templates:
+  - slideshow
 - type: heading
   label: Einstellungen
 - type: document
