@@ -1,5 +1,5 @@
 <template>
-  <footer class="w-full bg-gray-700 text-gray-400 mt-6">
+  <footer class="w-full bg-primary-700 text-primary-200 mt-6">
     <div class="container m-auto px-6 py-10">
       <div class="grid lg:grid-cols-3 gap-6">
         <div
@@ -7,12 +7,12 @@
           :key="col.title"
           class="flex flex-col gap-5"
         >
-          <h3 class="text-xs uppercase text-gray-500 font-semibold">{{ col.title }}</h3>
+          <h3 class="text-xs uppercase text-primary-300 font-semibold">{{ col.title }}</h3>
           <div>
             <div
               v-for="row in col.children"
               :key="row.title"
-              class="flex flex-col pb-1 text-gray-400"
+              class="flex flex-col pb-1 text-primary-300"
             >
               <nuxt-link v-if="row.url" :to="row.url" class="hover:underline hover:text-white">
                 {{ row.title }}
@@ -21,11 +21,11 @@
           </div>
         </div>
         <div class="flex flex-col gap-5">
-          <h3 class="text-xs uppercase text-gray-500 font-semibold">Anmeldung zum Newsletter</h3>
+          <h3 class="text-xs uppercase text-primary-300 font-semibold">Anmeldung zum Newsletter</h3>
           <div class="flex flex-col">
-            <p class="text-gray-400 text-sm">Melde dich hier zu unserem Newsletter an, um über aktuelle Events und Projekte auf dem laufenden zu bleiben.</p>
-            <input type="email" aria-label="E-Mail für Newsletteranmeldung" name="email" class="rounded mt-3 py-3 px-4 text-gray-800" placeholder="Deine E-Mail">
-            <button class="rounded bg-gray-600 mt-2 py-3 px-4 text-white font-bold tracking-wide" aria-label="zum Newsletter anmelden">Anmelden</button>
+            <p class="text-primary-300 text-sm">Melde dich hier zu unserem Newsletter an, um über aktuelle Events und Projekte auf dem laufenden zu bleiben.</p>
+            <input type="email" aria-label="E-Mail für Newsletteranmeldung" name="email" class="rounded mt-3 py-3 px-4 bg-primary-400 text-primary-900 placeholder-black focus:bg-primary-200" placeholder="Deine E-Mail">
+            <button class="rounded bg-primary-900 mt-2 py-3 px-4 text-white font-bold tracking-wide" aria-label="zum Newsletter anmelden">Anmelden</button>
           </div>
         </div>
       </div>

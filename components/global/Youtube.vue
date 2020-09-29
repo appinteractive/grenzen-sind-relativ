@@ -11,7 +11,7 @@
     >
       <svg
         viewBox="0 0 24 24"
-        class="w-20 h-20 opacity-75 group-hover:w-24 group-hover:h-24 group-hover:opacity-100 transition-all duration-100 ease-in-out text-pink-700 border-white border-2 rounded-full"
+        class="w-20 h-20 opacity-75 group-hover:w-24 group-hover:h-24 group-hover:opacity-100 transition-all duration-100 ease-in-out text-primary-700 border-white border-2 rounded-full"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"
       >
@@ -50,7 +50,7 @@ export default {
   },
   computed: {
     src() {
-      return `https://www.youtube.com/embed/${this.id}?feature=oembed&autoplay=1`
+      return `https://www.youtube.com/embed/${this.id}?feature=oembed&autoplay=1&rel=0`
     },
     style() {
       const styles = [

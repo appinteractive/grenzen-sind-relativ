@@ -118,18 +118,21 @@ export default {
 </script>
 
 <style lang="postcss">
+.prose {
+  @apply text-primary-700;
+}
 .prose h1 {
-  @apply font-serif text-gray-900;
+  @apply font-serif text-primary-700;
 }
 .prose h2 {
-  @apply font-serif text-gray-800;
+  @apply font-serif text-secondary-700;
 }
 .prose h1 + h2 {
   @apply -mt-2;
 }
 
 .prose blockquote {
-  @apply text-xl font-serif text-left pl-4 pr-2 border-none text-indigo-800;
+  @apply text-xl font-serif text-left pl-4 pr-2 border-none text-primary-600;
 }
 .prose blockquote blockquote {
   @apply text-base -mt-6 text-right text-pink-800 not-italic;
