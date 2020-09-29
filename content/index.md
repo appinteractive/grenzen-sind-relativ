@@ -7,7 +7,7 @@ seite:
 - template: slideshow
 
 ---
-![](/media/2020/09/gsr-fb-banner_2018-1.jpg)
+![Grenzen sind relativ e.V.](/media/2020/09/gsr-fb-banner_2018-1.jpg)
 
 > Hebt man den Blick, so sieht man keine Grenzen.
 >> Aus Japan

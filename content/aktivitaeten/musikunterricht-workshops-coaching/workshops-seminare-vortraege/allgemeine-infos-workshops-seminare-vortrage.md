@@ -32,8 +32,8 @@ Die Länge der Vorträge/Workshops/Seminare variieren je nach Rahmen der Veranst
 
 Die Vorträge, Workshops und Seminare möchten informieren, aufklären und den inklusiven Gedanken durch Multiplikatoren weitertragen. Zu den Zielgruppen zählen u.a. Universitäten, Schulen, Fachtagungen, Kongresse, Inklusionsveranstaltungen, u.v.m.
 
-[![](/media/2014/07/WE0092-1.jpg)](/media/2014/07/WE0092-1.jpg)
+[![Uni](/media/2014/07/WE0092-1.jpg)](/media/2014/07/WE0092-1.jpg)
 
-[![](/media/2014/07/uni-n.jpg)](/media/2014/07/uni-n.jpg)
+[![Uni](/media/2014/07/uni-n.jpg)](/media/2014/07/uni-n.jpg)
 
-[![](/media/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-136.jpg)](/media/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-136.jpg)
+[![Kongress Hammelburg](/media/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-136.jpg)](/media/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-136.jpg)
