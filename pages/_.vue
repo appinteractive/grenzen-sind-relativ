@@ -64,7 +64,7 @@ export default {
   },
   head() {
     const settings = require('~/config/settings.json')
-    const siteName = settings.siteName
+    const siteName = settings.title
     const url = settings.urls[process.env.NODE_ENV]
 
     let title =

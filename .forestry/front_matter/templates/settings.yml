@@ -1,0 +1,24 @@
+---
+label: Seiteneinstellungen
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titel
+- name: description
+  type: text
+  config:
+    required: true
+  label: Beschreibung
+- name: keywords
+  type: text
+  config:
+    required: true
+  label: Schlüsselwörter
+- name: copyright
+  type: text
+  config:
+    required: true
+  label: Copyright

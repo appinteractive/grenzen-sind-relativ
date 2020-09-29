@@ -28,16 +28,21 @@ export default {
    */
   head: {
     htmlAttrs: {
-      lang: 'de'
+      lang: 'de',
     },
-    title: settings.siteName,
+    title: settings.title,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || '',
+        content: settings.description,
+      },
+      {
+        hid: 'keywords',
+        name: 'keywords',
+        content: settings.keywords,
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
@@ -172,10 +177,9 @@ export default {
       offline: false,
     },
     manifest: {
-      name: settings.siteName,
+      name: settings.title,
       short_name: 'GSR e.V.',
-      description:
-        'Grenzen sind relativ e.V. - Kultur, Gesellschaft & Inklusion "Grenzen sind relativ e.V." setzt sich mit verschiedensten Projekten, Veranstaltungen und Kampagnen für eine inklusive, integrale und nachhaltige Gesellschaft ein. Das Pilotprojekt Мusikunterricht für Hörgeschädigte wurde bereits mehrfach ausgezeichnet.',
+      description: settings.description,
       theme_color: '#fff',
       appleStatusBarStyle: 'white',
       ogImage: '/media/gsr-fb-banner_2018-1.jpg',

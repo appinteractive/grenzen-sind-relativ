@@ -1,5 +1,6 @@
 import mainNav from '~/config/navigation/main.json'
 import footerNav from '~/config/navigation/footer.json'
+import settings from '~/config/settings.json'
 
 function normalizeUrls(items) {
   const output = [ ...items ]
@@ -49,7 +50,7 @@ function getBreadCrumbs(branch, url, parents) {
 export const state = (ctx) => ({
   mainNav: normalizeUrls(mainNav.menu),
   footerNav: normalizeUrls(footerNav.menu),
-  copyright: footerNav.copyright,
+  copyright: settings.copyright,
   route: null
 })
 

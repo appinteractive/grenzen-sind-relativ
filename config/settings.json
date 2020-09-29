@@ -1,5 +1,8 @@
 {
-  "siteName": "Grenzen sind relativ e.V.",
+  "title": "Grenzen sind relativ e.V.",
+  "description": "Grenzen sind relativ e.V. - Kultur, Gesellschaft & Inklusion \"Grenzen sind relativ e.V.\" setzt sich mit verschiedensten Projekten, Veranstaltungen und Kampagnen für eine inklusive, integrale und nachhaltige Gesellschaft ein. Das Pilotprojekt Мusikunterricht für Hörgeschädigte wurde bereits mehrfach ausgezeichnet.",
+  "copyright": "© 2020 - Grenzen sind relativ e.V.",
+  "keywords": "Kultur, Gesellschaft, Inklusion, Projekten, Veranstaltungen, Kampagnen, Мusikunterricht für Hörgeschädigte",
   "urls": {
     "production": "https://next.grenzensindrelativ.de",
     "staging": "https://next.grenzensindrelativ.de",
