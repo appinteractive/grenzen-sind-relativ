@@ -17,8 +17,7 @@ sections:
   path: config/slideshows
   label: Slideshows
   create: documents
-  match: "**/*"
-  exclude: "*.json"
+  match: "**/*.md"
   new_doc_ext: json
   templates:
   - slideshow
