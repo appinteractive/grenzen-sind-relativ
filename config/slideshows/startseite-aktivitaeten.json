@@ -6,10 +6,12 @@
   ],
   "pages": [
     {
-      "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md"
+      "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md",
+      "title": "AndersSein vereint Festivals"
     },
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md"
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
+      "title": "Erlebnistge Inklusion durch Musik"
     }
   ]
 }
