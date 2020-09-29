@@ -22,3 +22,5 @@ fields:
     max: 
     labelField: 
   label: Seiten
+pages:
+- config/slideshows/startseite-aktivitaeten..json
