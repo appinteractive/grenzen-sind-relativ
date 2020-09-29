@@ -7,6 +7,10 @@
 module.exports = {
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Signika', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'Noto Sans', 'sans-serif', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'],
+        serif: ['Lora', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif']
+      },
       colors: {
         primary: {
           50:  '#F4F8F9',

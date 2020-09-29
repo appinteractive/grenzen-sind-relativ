@@ -41,7 +41,7 @@
             <strong class="font-semibold group-hover:underline">{{
               level3.title
             }}</strong>
-            <p v-if="level3.description" class="text-xs text-gray-700">
+            <p v-if="level3.description" class="text-xs text-gray-700 font-normal pt-1">
               {{ level3.description }}
             </p>
           </TopNavLink>

@@ -122,17 +122,17 @@ export default {
   @apply text-primary-700;
 }
 .prose h1 {
-  @apply font-serif text-primary-700;
+  @apply font-bold text-4xl text-primary-700;
 }
 .prose h2 {
-  @apply font-serif text-secondary-700;
+  @apply font-serif italic font-bold text-primary-600;
 }
 .prose h1 + h2 {
   @apply -mt-2;
 }
 
 .prose blockquote {
-  @apply text-xl font-serif text-left pl-4 pr-2 border-none text-primary-600;
+  @apply text-xl font-serif italic text-left pl-4 pr-2 border-none text-primary-600;
 }
 .prose blockquote blockquote {
   @apply text-base -mt-6 text-right text-pink-800 not-italic;
