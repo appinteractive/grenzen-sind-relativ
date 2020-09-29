@@ -1,6 +1,6 @@
 ---
 title: Allgemeine Infos Beratung und Coaching
-description: Empty description
+description: 
 
 ---
 # Beratung und Coaching

@@ -88,7 +88,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: this.page.description,
+          content: this.page.description || settings.description,
         },
         // Open Graph
         { hid: 'og:url', property: 'og:url', content: fullURL },
@@ -101,7 +101,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: url + this.page.teaser,
+          content: url + (this.page.teaser || settings.image),
         },
         { hid: 'og:locale', property: 'og:locale', content: 'de_DE' },
         // Twitter Card

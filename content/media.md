@@ -1,6 +1,6 @@
 ---
 title: Media
-description: Empty description
+description: 
 
 ---
 # Media
