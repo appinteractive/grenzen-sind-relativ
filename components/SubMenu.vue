@@ -11,8 +11,8 @@
             >
               <nuxt-link
                 :to="getNearestURL(parent)"
-                class="block p-2 py-1 hover:text-gray-800 hover:underline rounded"
-                :class="currentTitle === parent.title ? 'text-gray-800 ': 'text-gray-600'"
+                class="block p-2 py-1 hover:text-gray-900 hover:underline rounded"
+                :class="currentTitle === parent.title ? 'text-gray-900 ': 'text-gray-700'"
               >
                 {{ parent.title }}
               </nuxt-link>
@@ -23,7 +23,7 @@
               <arrow-return class="h-4 w-4 text-gray-500 mt-1 pt-1 ml-4 flex-shrink-0" />
               <nuxt-link
                 :to="getNearestURL(item)"
-                class="block p-2 py-1 text-gray-700 text-sm hover:text-gray-800 hover:underline rounded"
+                class="block p-2 py-1 text-gray-700 text-sm hover:text-gray-900 hover:underline rounded"
               >
                 {{ item.title }}
               </nuxt-link>

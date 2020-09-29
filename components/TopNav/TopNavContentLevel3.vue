@@ -9,7 +9,7 @@
         <TopNavLink
           :to="getNearestURL(level2)"
           style="min-width: 20rem"
-          class="p-4 font-normal text-gray-600  flex flex-col rounded-l level2"
+          class="p-4 font-normal text-gray-700  flex flex-col rounded-l level2"
           :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
           @mouseenter.native="setLevel2($event, index2)"
         >

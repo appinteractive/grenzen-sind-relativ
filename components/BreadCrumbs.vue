@@ -7,7 +7,7 @@
         class="flex items-center"
       >
         <!-- <svg
-          class="w-4 h-4 text-gray-600"
+          class="w-4 h-4 text-gray-700"
           v-if="depth > 0"
           viewBox="0 0 16 16"
           fill="currentColor"
