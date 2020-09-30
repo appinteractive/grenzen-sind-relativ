@@ -1,17 +1,26 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "nuxt.config.js",
-      "use": "@nuxtjs/vercel-builder",
-      "config": {
-        "serverFiles": ["package.json"],
-        "generateStaticRoutes": true
-      }
-    }
-  ],
   "routes": [
-    { "src": "/_nuxt/.+", "headers": { "Cache-Control": "max-age=31557600" } },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/.*",
+      "headers": {
+        "X-Frame-Options": "DENY",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "Cache-Control": "max-age=31557600",
+        "Referrer-Policy": "strict-origin-when-cross-origin"
+      },
+      "continue": true
+    },
+    {
+      "src": "/_nuxt/.+",
+      "headers": {
+        "Cache-Control": "max-age=31557600"
+      }
+    },
     {
       "src": "/sw.js",
       "dest": "/_nuxt/static/sw.js",
@@ -20,6 +29,9 @@
         "Service-Worker-Allowed": "/"
       }
     },
-    { "src": "/(.*)", "dest": "/" }
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
   ]
 }
