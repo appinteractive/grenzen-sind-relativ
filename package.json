@@ -24,6 +24,7 @@
   "devDependencies": {
     "@nuxtjs/storybook": "^2.2.0",
     "@nuxtjs/tailwindcss": "^2.1.0",
+    "@nuxtjs/vercel-builder": "^0.17.12",
     "@storybook/addon-docs": "latest",
     "@storybook/addon-knobs": "latest",
     "@storybook/addon-viewport": "^6.0.21",
