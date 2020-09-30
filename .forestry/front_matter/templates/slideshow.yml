@@ -8,9 +8,9 @@ fields:
   default: true
 - name: delay
   type: number
-  label: Verzögerung
+  label: Verzögerung (ms)
   description: Zeit zwischen den Slides in millisekunden
-  default: 1000
+  default: 2500
   required: true
   config:
     min: 1000
