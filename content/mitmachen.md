@@ -1,6 +1,7 @@
 ---
 title: Mitmachen
-description: Mach mit!
+description: Du willst aktiv sein und möchtest Dich bei Grenzen sind relativ e.V.
+  mit einbringen und/oder hast selber Ideen/Projekte, die Du mit uns umsetzen möchtest?!
 gallery: []
 
 ---
