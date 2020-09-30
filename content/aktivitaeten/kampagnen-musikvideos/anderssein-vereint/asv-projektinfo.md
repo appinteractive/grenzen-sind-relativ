@@ -8,21 +8,20 @@ description: 'In der aufwendigen wie mitreißenden Musikvideoproduktion singen, 
 teaser: "/media/2020/09/asv-beitragsbild.jpg"
 featured: false
 gallery: []
-alias: /anderssein-vereint-2/inklusionssong-fuer-deutschland.html
+alias: "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html"
+
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
 
 [![AndersSein vereint](/media/2015/04/AndersSein-vereint-Massenszene2-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/AndersSein-vereint-Massenszene2-_-Foto-by-Tom-Roeler.jpg) **AndersSein vereint** – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein!
 
-In der aufwendige[![Band & Gastsänger](/media/2015/04/AndersSein-vereint-Band-Gastsänger-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/AndersSein-vereint-Band-Gastsänger-_-Foto-by-Tom-Roeler.jpg) n wie mitreissenden [Musikvideoproduktion](https://youtu.be/KPi9ZNp-YJQ) singen, grooven, rappen und gebärden die **mehr als 80 Protagonisten** von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
+In der aufwendigen wie mitreissenden [Musikvideoproduktion](https://youtu.be/KPi9ZNp-YJQ) singen, grooven, rappen und gebärden die **mehr als 80 Protagonisten** von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
 
-Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusammen mit dem Produzenten Jan Philipp Kelber (Ina Müller, Christina Stürm[![Lara Hahnel, Michel Arriens, Dirk C. Fleck, Lilian Gold, Laila Wulfers & Nicolai Sevke](/media/2015/04/IK_9857.jpg "Lara Hahnel, Michel Arriens, Dirk C. Fleck, Lilian Gold, Laila Wulfers & Nicolai Sevke")](/media/2015/04/IK_9857.jpg) er, usw.) einen eingängigen Crossover Sound kreiert, der mit den Stimmen von Orange Blue Sänger Volkan Baydar, Bluesröhre Jessy Martens, Rolli Rapper Graf Fidi und Marie Garroths sanfsten Soul bereichert wird.
+[![Band & Gastsänger](/media/2015/04/AndersSein-vereint-Band-Gastsänger-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/AndersSein-vereint-Band-Gastsänger-_-Foto-by-Tom-Roeler.jpg)Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusammen mit dem Produzenten Jan Philipp Kelber (Ina Müller, Christina Stürmer, usw.) einen eingängigen Crossover Sound kreiert, der mit den Stimmen von Orange Blue Sänger Volkan Baydar, Bluesröhre Jessy Martens, Rolli Rapper Graf Fidi und Marie Garroths sanfsten Soul bereichert wird.[![Lara Hahnel, Michel Arriens, Dirk C. Fleck, Lilian Gold, Laila Wulfers & Nicolai Sevke](/media/2015/04/IK_9857.jpg "Lara Hahnel, Michel Arriens, Dirk C. Fleck, Lilian Gold, Laila Wulfers & Nicolai Sevke")](/media/2015/04/IK_9857.jpg) Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor „Hands up“ sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.[![Komparsen](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg) Initiiert von „Grenzen sind relativ“ und dem an Taubheit grenzend hörgeschädigten Gitarristen Mischa Gohlke ist mit viel Eigenengagement und geringem Budget eine Produktion entstanden, welche die [„ganzheitlich gelebte Inklusion“](/anderssein-vereint-2/worum-geht-es.html) unmittelbar erfahrbar macht und eine Brücke schlägt zum jeweils anderen. Miteinander …
 
-Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor „Hands up“ [![Komparsen](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg) sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.
+[![Lara Hahnel & Kassandra Wedel](/media/2015/04/Bildschirmfoto-2015-04-12-um-12.44.30-21.jpg "Lara Hahnel & Kassandra Wedel")](/media/2015/04/Bildschirmfoto-2015-04-12-um-12.44.30-21.jpg) 
 
-Initiiert von „Grenzen sind relativ“ und dem an Taubheit grenzend hörgeschädigten Gitarristen Mischa Gohlke ist mit viel Eigenengagement und geringem Budget eine Produktion entstanden, welche die [„ganzheitlich gelebte Inklusion“](/anderssein-vereint-2/worum-geht-es.html) unmittelbar erfahrbar macht und eine Brücke schlägt zum jeweils anderen. Miteinander …
-
-[![Lara Hahnel & Kassandra Wedel](/media/2015/04/Bildschirmfoto-2015-04-12-um-12.44.30-21.jpg "Lara Hahnel & Kassandra Wedel")](/media/2015/04/Bildschirmfoto-2015-04-12-um-12.44.30-21.jpg) Verbunden mit der **Kampagne „AndersSein vereint – Inklusionssong für Deutschland“** sollen Impulse freisetzt werden, um:
+Verbunden mit der **Kampagne „AndersSein vereint – Inklusionssong für Deutschland“** sollen Impulse freisetzt werden, um:
 
 a) mit der „ganzheitlich gelebten Inklusion“ in der Mitte der Gesellschaft anzukommen
 
@@ -30,18 +29,12 @@ b.) verschiedenste Themen, Menschen, Künste, Projekte, Initiativen, Institution
 
 c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielführende Crossover-Projekte zu realisieren. Wie z.B. inklusive Festivals, Aktionstage Inklusion in Schulen/Universitäten, Netzwerktreffen, Inklusions-Tournee, usw.
 
-[![We are the world](/media/2015/04/Jubelszene.jpg "We are the world"](/media/2015/04/Jubelszene.jpg) Die **Musikvideo- und Radioversion** von „AndersSein vereint“ sind nun auch online erhältlich:  
- amazon: [https://t1p.de/qt1u](https://t1p.de/qt1u "https://t1p.de/qt1u")  
- iTunes: [https://t1p.de/1qm8](https://t1p.de/qt1u "https://t1p.de/qt1u")
-
-Mit den Erlösen aus den Verkäufen von „AndersSein vereint“ werden weiterführende inklusive Projekte von „Grenzen sind relativ e.V.“ unterstützt.
-
 [![Crew AndersSein vereint](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg "Foto by Tom Roeler")](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg)
 
 **Crew „AndersSein vereint – Inklusionssong für Deutschland“ (Tonstudio, Musikvideo & Kampagne):**
 
 **Idee, Produzent & Leitung Gesamtprojekt:**  
- Mischa Gohlke, [www.grenzensindrelativ.de](/%20)
+Mischa Gohlke, [www.grenzensindrelativ.de](/%20)
 
 **Musikproduktion:**
 
@@ -94,10 +87,10 @@ Gebärdensprach-Tänzerin/Schauspielerin:
 Kassandra Wedel (Tänzerin, Tanzlehrerin, Choreografin, gehörlos), [www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html](https://www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html%20)
 
 Gebärdensprach-Chor:  
- Hands up (mit gehörlosen, schwerhörigen und „normal“ hörenden Menschen von jung bis alt, Leitung Ines Helke)
+Hands up (mit gehörlosen, schwerhörigen und „normal“ hörenden Menschen von jung bis alt, Leitung Ines Helke)
 
 4 Inklusionsprotagonisten:  
- Dirk C. Fleck (Journalist & Autor), [www.dirk-c-fleck.de](https://www.dirk-c-fleck.de)
+Dirk C. Fleck (Journalist & Autor), [www.dirk-c-fleck.de](https://www.dirk-c-fleck.de)
 
 Michel Arriens (Autor & Aktivist), [www.facebook.com/marriens](https://www.facebook.com/marriens)
 
@@ -106,7 +99,7 @@ Lilian Gold (Sängerin), [www.facebook.com/pages/Lilian-Gold/406266242823249?fre
 Laila Wulfers (Schülerin)
 
 Inklusions-Protagonisten „We are the world“:  
- Robert Carl Blank, Peter Brownbill, Tom Steinbrecher, Michael Siassi, Philipp von Elm, Jana Münchow, Roland Keich, Elif Ergün, Maik Petersen, Ester Peter, Arnold Schnittger, Nico Schnittger, Hans-Michael Nikolai, Kathrin Jakobsen Nels, Peer-Ole Jacobsen, Chrissy Florence Hat, Susanne Olbrich, Helge Nissen, Patrick Hennings, Ernie Lawson, uvam.
+Robert Carl Blank, Peter Brownbill, Tom Steinbrecher, Michael Siassi, Philipp von Elm, Jana Münchow, Roland Keich, Elif Ergün, Maik Petersen, Ester Peter, Arnold Schnittger, Nico Schnittger, Hans-Michael Nikolai, Kathrin Jakobsen Nels, Peer-Ole Jacobsen, Chrissy Florence Hat, Susanne Olbrich, Helge Nissen, Patrick Hennings, Ernie Lawson, uvam.
 
 Kamera: Nikolai Sevke, Marc Steinwender, Frank Nietman und Christian Schwechten
 
@@ -131,14 +124,3 @@ Helfer, Unterstützer & Supporter: Olli Steffe, Maik Petersen, Rolf Kellner
 Danke auch an das Planetarium Hamburg, German Real Estate, La Douce Catering und miettoiletten-vonnebenan.
 
 [![AndersSein vereint Infobroschüre1](/media/2015/04/AndersSein-vereint-Infobroschuere1.jpg)](/media/2015/04/AndersSein-vereint-Infobroschuere1.jpg) [![AndersSein vereint Infobroschüre2](/media/2015/04/AndersSein-vereint-Infobroschuere2.jpg)](/media/2015/04/AndersSein-vereint-Infobroschuere2.jpg)
-
-1. AndersSein vereint
-   * [Worum geht es?](/anderssein-vereint-2/worum-geht-es.html)
-   * [AndersSein vereint – Inklusionssong für Deutschland](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html)
-   * [Band, Gastsänger & Protagonisten](/anderssein-vereint-2/band-gastsaenger-protagonisten.html)
-   * [Musikvideo, Making of & Eventfilm Festival](/anderssein-vereint-2/bericht-ndr-das-magazin-14-04.html)
-   * [Fotos](/?page_id=1480)
-   * [Review & Erfolge](/anderssein-vereint-2/status-quo-erfolge.html)
-   * [Review „3. AndersSein vereint Festival“ // 18.11.2016 „knust Hamburg“](/anderssein-vereint-2/3-anderssein-vereint-festival.html)
-
-©2015 Grenzen sind relativ | [Presse](/presse/bisherige-medienberichte.html "Presse") | [Impressum](/impressum.html) | [Newsletter](/newsletter.html) | [Facebook](https://www.facebook.com/grenzensindrelativ)
