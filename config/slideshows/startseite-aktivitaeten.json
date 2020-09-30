@@ -1,4 +1,6 @@
 {
+  "autoplay": true,
+  "delay": 2500,
   "slides": [
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",

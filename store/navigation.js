@@ -1,13 +1,14 @@
 import mainNav from '~/config/navigation/main.json'
 import footerNav from '~/config/navigation/footer.json'
 import settings from '~/config/settings.json'
+import helpers from '~/lib/helpers'
 
 function normalizeUrls(items) {
   const output = [ ...items ]
 
   output.forEach(item => {
     if (item.page) {
-      item.url = item.page.replace(/content(.+)\.md/, '$1')
+      item.url = helpers.urlByPath(item.page)
     }
     if (item.children && item.children.length > 0) {
       item.children = normalizeUrls(item.children)

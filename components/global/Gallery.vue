@@ -2,8 +2,8 @@
 
 function getGalleryItem(tag, item) {
   if (!tag.tag) return
-  if (tag.tag === 'img') {
-    return { ...item, url: tag.src}
+  if (tag.tag === 'img' || tag.tag === 'figure') {
+    return tag
   }
   if (tag.tag === 'p') {
     return getGalleryItem(tag.children[0], item)
@@ -18,29 +18,35 @@ function getGalleryItem(tag, item) {
 }
 
 export default {
-  data: () => ({
-    items: [],
-    loaded: false,
-    visible: false,
-    swiperOption: {
-      speed: 600,
-      spaceBetween: 0,
-      grabCursor: true,
-      autoplay: {
-        delay: 2500,
-        disableOnInteraction: true,
-        stopOnLastSlide: true
-      },
-      pagination: {
-        el: '.swiper-pagination',
-        clickable: true
-      },
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev'
+  props: {
+    autoplay: { type: Boolean, default: true },
+    delay: { type: Number, default: 2500 }
+  },
+  data() {
+    return {
+      items: [],
+      loaded: false,
+      visible: false,
+      swiperOption: {
+        speed: 600,
+        spaceBetween: 0,
+        grabCursor: true,
+        autoplay: this.autoplay ? {
+          delay: this.delay,
+          disableOnInteraction: true,
+          stopOnLastSlide: true
+        } : false,
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev'
+        }
       }
     }
-  }),
+  },
   mounted() {
     this.$slots['default']
       .forEach(tag => {
@@ -63,9 +69,6 @@ export default {
     this.visible = false;
   },
   render(createElement) {
-    /* if (!this.visible) {
-      return createElement('div');
-    } */
     let children = []
     children = [
       createElement('swiper', {
