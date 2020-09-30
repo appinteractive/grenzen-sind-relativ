@@ -1,11 +1,18 @@
 {
   "version": 2,
+  "builds": [
+    {
+      "src": "nuxt.config.js",
+      "use": "@nuxtjs/vercel-builder",
+      "config": {
+        "serverFiles": ["package.json"],
+        "generateStaticRoutes": true
+      }
+    }
+  ],
   "routes": [
     {
-      "handle": "filesystem",
-      "headers": {
-        "Cache-Control": "public, max-age=31557600"
-      }
+      "handle": "filesystem"
     },
     {
       "src": "/.*",
