@@ -2,28 +2,40 @@
 label: Slideshow
 hide_body: true
 fields:
-- name: pages
+- name: slides
   type: field_group_list
   fields:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: Titel
   - name: page
     type: select
-    default: ''
+    default: []
     config:
       required: true
       options: []
       source:
         type: pages
         section: inahlt
-        file: 
-        path: 
+        file:
+        path:
     label: Seite
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titel
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Untertitel (optional)
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Bild
   config:
-    min: 
-    max: 
-    labelField: title
-  label: Seiten
+    min:
+    max:
+    labelField:
+  label: Slides
+pages:
+- config/slideshows/startseite-aktivitaeten.json

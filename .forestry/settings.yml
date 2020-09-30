@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Inhalt
@@ -20,7 +20,6 @@ sections:
   match: "**/*.json"
   new_doc_ext: json
   templates:
-  - slideshow2
   - slideshow
 - type: heading
   label: Einstellungen

@@ -1,17 +1,22 @@
 {
-  "seiten": [
+  "slides": [
     {
-      "seite": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md"
-    }
-  ],
-  "pages": [
-    {
-      "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md",
-      "title": "AndersSein vereint Festivals"
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
+      "title": "Grenzen sind relativ Festivals",
+      "subtitle": "",
+      "image": "/media/2020/09/mach-dein-event-mit-uns-beitragsbild.jpg"
     },
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
-      "title": "Erlebnistge Inklusion durch Musik"
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
+      "title": "Spektralkombüse",
+      "subtitle": "Sebo",
+      "image": "/media/2018/09/Sebo_.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md",
+      "title": "Workshops, Seminare & Vorträge",
+      "subtitle": "",
+      "image": "/media/2018/09/Bodyrhythm-Unlimited.jpg"
     }
   ]
 }
