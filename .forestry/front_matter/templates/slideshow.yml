@@ -16,15 +16,15 @@ fields:
   type: number
   label: Verzögerung (ms)
   description: Zeit zwischen den Slides in millisekunden
-  default: 2500
+  default: 3500
   required: true
   config:
     min: 1000
     max: 5000
     step: 50
   showOnly:
-    field: autoplay
-    value: true
+    field: teasers
+    value: false
 - name: slides
   type: field_group_list
   fields:
