@@ -15,7 +15,7 @@ Als glaubwürdiger Botschafter initiierte er im Oktober 2011 die deutschlandweit
 
 Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Darüber hinaus ist Mischa als Speaker, Dozent, Autor sowie als Aktivist u.a. in der Friedensbewegung aktiv.
 
-# Referenzen
+## Referenzen
 
 Schulen, Universitäten, Fachtagungen, Kongresse, Symposien, usw. (Ausschnitt):
 

@@ -20,5 +20,7 @@ seite:
 
 Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
+## Aktivitäten
+
 <slideshow name="startseite-aktivitaeten"></slideshow>
 
