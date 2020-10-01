@@ -12,7 +12,18 @@
   ],
   "routes": [
     {
-      "handle": "filesystem"
+      "src": "/sw.js",
+      "dest": "/_nuxt/static/sw.js",
+      "headers": {
+        "cache-control": "public, max-age=43200, immutable",
+        "Service-Worker-Allowed": "/"
+      }
+    },
+    {
+      "src": "/_nuxt/.+",
+      "headers": {
+        "Cache-Control": "public, max-age=31557600"
+      }
     },
     {
       "src": "/.*",
@@ -24,27 +35,6 @@
         "Referrer-Policy": "strict-origin-when-cross-origin"
       },
       "continue": true
-    },
-    {
-      "src": "/_nuxt/.+",
-      "headers": {
-        "Cache-Control": "public, max-age=31557600"
-      }
-    },
-    {
-      "src": "/sw.js",
-      "dest": "/_nuxt/static/sw.js",
-      "headers": {
-        "cache-control": "public, max-age=43200, immutable",
-        "Service-Worker-Allowed": "/"
-      }
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/",
-      "headers": {
-        "Cache-Control": "public, max-age=31557600"
-      }
     }
   ]
 }

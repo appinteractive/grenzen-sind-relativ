@@ -159,18 +159,18 @@ export default {
       })
     },
   },
-  generate: {
+  /* generate: {
     fallback: true,
     async routes() {
       return generateRoutes()
     },
-    /* hooks: {
-      'content:file:beforeParse': (file) => {
-        if (file.extension !== '.md') return
-        file.data = file.data.replace(/react/g, 'vue')
-      }
-    } */
-  },
+    // hooks: {
+    //   'content:file:beforeParse': (file) => {
+    //     if (file.extension !== '.md') return
+    //     file.data = file.data.replace(/react/g, 'vue')
+    //   }
+    // }
+  }, */
   router: {
     linkActiveClass: 'link-parent-active',
     linkExactActiveClass: 'link-active',
