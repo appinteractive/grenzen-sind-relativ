@@ -52,7 +52,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: page
   label: Slides
 pages:
 - config/slideshows/startseite-aktivitaeten.json
