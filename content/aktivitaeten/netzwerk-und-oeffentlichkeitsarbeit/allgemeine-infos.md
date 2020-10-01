@@ -4,7 +4,6 @@ description: Zusammen mit vielen Mitstreitern engagieren wir uns für gesamtgese
   Inklusion, Frieden, Menschenrechte, integrales Bewusstsein, Dialog, Empathie, Miteinander
   und Mut für gelebte Utopien.
 teaser: "/media/2020/09/0-prio-friedensbrucke.jpg"
-featured: false
 gallery: []
 alias: ''
 

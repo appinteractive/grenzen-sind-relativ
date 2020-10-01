@@ -6,7 +6,6 @@ description: 'In der aufwendigen wie mitreißenden Musikvideoproduktion singen, 
   „gesamtgesellschaftlichen Inklusion“ in die Mitte der Gesellschaft anzukommen. Über
   die mediale Kampagne hinaus wird in diversen Crossover-Projekten Basisarbeit geleistet. '
 teaser: "/media/2020/09/asv-beitragsbild.jpg"
-featured: false
 gallery: []
 alias: "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html"
 

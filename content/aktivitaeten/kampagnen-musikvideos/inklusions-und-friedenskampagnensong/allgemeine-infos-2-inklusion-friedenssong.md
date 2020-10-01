@@ -2,7 +2,6 @@
 title: Allgemeine Infos 2. Inklusion- & Friedenssong
 description: ''
 teaser: ''
-featured: false
 gallery: []
 alias: ''
 

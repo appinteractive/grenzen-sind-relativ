@@ -17,10 +17,10 @@ fields:
   label: Beschreibung (SEO)
   config:
     required: false
-- name: featured
+- name: wide
   type: boolean
-  label: Hervorheben
-  description: Soll diese Seite in Auflistungen wie z.B. der Startseite erscheinen?
+  label: Breiter Inhalt
+  description: Soll der Inhalt breit angezeigt werden?
 - name: gallery
   type: image_gallery
   config: {}

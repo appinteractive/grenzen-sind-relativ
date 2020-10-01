@@ -3,7 +3,6 @@ title: Erlebnistage Inklusion durch Musik
 description: Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. Weiteres
   folgt.
 teaser: ''
-featured: false
 gallery: []
 alias: ''
 

@@ -2,6 +2,7 @@
 title: Grenzen sind relativ e.V.
 description: Grenzen sind relativ e.V. - Kultur, Gesellschaft, Inklusion & Frieden
 teaser: /media/2020/09/gsr-fb-banner_2018-1.jpg
+wide: true
 seite:
 - template: seite
 - template: slideshow
@@ -21,7 +22,3 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 
 <slideshow name="startseite-aktivitaeten"></slideshow>
 
-
-    Aktivitäten Slideshow (3 Felder)
-    
-    Slideshow Media Videos (TV Berichte, usw.)

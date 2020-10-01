@@ -19,8 +19,9 @@ function getGalleryItem(tag, item) {
 
 export default {
   props: {
+    teasers: { type: Boolean, default: false },
     autoplay: { type: Boolean, default: true },
-    delay: { type: Number, default: 2500 }
+    delay: { type: Number, default: 3000 }
   },
   data() {
     return {
@@ -30,8 +31,11 @@ export default {
       swiperOption: {
         speed: 600,
         spaceBetween: 0,
-        grabCursor: true,
-        autoplay: this.autoplay ? {
+        grabCursor: !this.teasers,
+        preventClicks: false,
+        slidesPerView: this.teasers ? 2 : 1,
+        spaceBetween: this.teasers ? 30 : 0,
+        autoplay: (this.autoplay && !this.teasers) ? {
           delay: this.delay,
           disableOnInteraction: true,
           stopOnLastSlide: true
@@ -72,7 +76,7 @@ export default {
     let children = []
     children = [
       createElement('swiper', {
-        class: 'swiper',
+        class: this.teasers ? 'swiper teasers' : 'swiper',
         props: { options: this.swiperOption },
         ref: 'slider',
       }, [
@@ -100,12 +104,20 @@ export default {
 
 <style lang="postcss">
 .prose .swiper {
-  @apply p-0 m-0
+  @apply p-0 m-0;
 }
 .prose .swiper-wrapper {
-  @apply overflow-y-visible p-0 m-0
+  @apply overflow-y-visible p-0 m-0;
 }
 .prose .swiper-pagination {
-  @apply p-0 m-0 -mb-10
+  @apply p-0 m-0 -mb-10;
+}
+
+.prose .swiper a {
+  text-decoration: none;
+}
+
+.prose .swiper.teasers {
+  @apply mb-10;
 }
 </style>

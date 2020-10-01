@@ -1,25 +1,17 @@
 {
-  "autoplay": true,
-  "delay": 2500,
+  "teasers": true,
   "slides": [
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
-      "title": "Grenzen sind relativ Festivals",
-      "subtitle": "",
-      "image": "/media/2020/09/mach-dein-event-mit-uns-beitragsbild.jpg"
+      "title": "Grenzen sind relativ Festivals"
     },
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
-      "title": "Spektralkombüse",
-      "subtitle": "Sebo",
-      "image": "/media/2018/09/Sebo_.jpg"
+      "title": "Spektralkombüse"
     },
     {
       "page": "content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md",
-      "title": "Workshops, Seminare & Vorträge",
-      "subtitle": "",
-      "image": "/media/2018/09/Bodyrhythm-Unlimited.jpg"
+      "title": "Workshops, Seminare & Vorträge"
     }
-  ],
-  "teasers": true
+  ]
 }

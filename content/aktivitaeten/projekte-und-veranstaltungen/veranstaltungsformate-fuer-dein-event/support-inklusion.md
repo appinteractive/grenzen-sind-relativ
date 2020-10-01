@@ -8,7 +8,6 @@ description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und größe
   Art und Weise Nahe gebracht wird. Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance,
   interaktive Erlebniswelten und Inklusionsforum.'
 teaser: ''
-featured: false
 gallery: []
 alias: "/veranstaltungen/support-inklusion-support-mal-anders.html"
 

@@ -2,7 +2,6 @@
 title: Übersicht Aktivitäten
 description: ''
 teaser: ''
-featured: false
 gallery: []
 alias: ''
 

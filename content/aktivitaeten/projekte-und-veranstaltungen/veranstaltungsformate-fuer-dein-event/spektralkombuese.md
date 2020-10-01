@@ -11,7 +11,6 @@ description: Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kaba
   Konzert oder Kabarett entscheiden wollen. Warum sollten Sie auch, wenn das ganze
   Spektrum liegt so nah.
 teaser: "/media/2020/09/spektralkombuse-beitragsbild.png"
-featured: false
 gallery: []
 alias: '/veranstaltungen/spektralkombuese.html'
 

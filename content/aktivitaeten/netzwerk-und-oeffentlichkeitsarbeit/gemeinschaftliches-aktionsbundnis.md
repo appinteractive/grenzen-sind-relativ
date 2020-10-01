@@ -2,7 +2,6 @@
 teaser: ''
 title: Gemeinschaftliches Aktionsbündnis
 description: ''
-featured: false
 gallery: []
 alias: ''
 

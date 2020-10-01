@@ -8,6 +8,7 @@
         <nuxt-content
           :document="page"
           class="prose w-full break-words hyphens-auto"
+          :class="classes"
         />
       </article>
       <div class="lg:w-2/6">
@@ -48,6 +49,7 @@ export default {
     const lastCrumb = breadCrumbs[breadCrumbs.length - off]
     const subMenu = lastCrumb ? lastCrumb.siblings : []
     const currentTitle = lastCrumb ? lastCrumb.title : null
+    const widePage = !!page.wide
 
     /* const featured = await $content().where({ featured: true }).fetch()
     console.log(featured) */
@@ -60,7 +62,7 @@ export default {
       console.log(surround)
     } catch (e) {} */
 
-    return { page, breadCrumbs, subMenu, currentTitle }
+    return { page, breadCrumbs, subMenu, currentTitle, widePage }
   },
   head() {
     const settings = require('~/config/settings.json')
@@ -114,6 +116,15 @@ export default {
       ].filter((item) => !!item.content),
     }
   },
+  computed: {
+    classes() {
+      if (this.widePage) {
+        return 'max-w-4xl'
+      } else {
+        return ''
+      }
+    }
+  }
 }
 </script>
 

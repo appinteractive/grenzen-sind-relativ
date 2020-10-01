@@ -6,7 +6,6 @@ description: 'Unser „Grenzen sind relativ e.V.“ Projektleiter & Inklusionbot
   Wahrnehmungsebenen, gesamtgesellschaftliche Inklusion, Projekt- & Veranstaltungsmanagement,
   Analyse & Aktiv Sein, uvm.'
 teaser: "/media/2020/09/ws-beitragsbild.jpg"
-featured: false
 gallery: []
 alias: '/workshops-seminare-vortraege/allgemeine-informationen-workshops.html'
 

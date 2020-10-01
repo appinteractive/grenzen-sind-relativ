@@ -2,7 +2,6 @@
 teaser: ''
 title: Identität & Positionierung
 description: ''
-featured: false
 gallery: []
 alias: ''
 

@@ -6,7 +6,6 @@ description: Du möchtest in (D)einer Institution (z.B. Schule, Universität, Ve
   stellen? Diesbezüglich haben wir mehrere Muster-Veranstaltungsformate entwickelt,
   die umgesetzt werden wollen. Vielleicht hast Du noch andere Ideen? :)
 teaser: "/media/2020/09/mach-dein-event-mit-uns-beitragsbild.jpg"
-featured: false
 gallery: []
 alias: ''
 

@@ -7,7 +7,6 @@ description: Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und inte
   Inklusion freizusetzen. Die Veranstaltungen werden exklusiv umgesetzt oder finden
   im Rahmen von Kongressen, Kampagnen, Sommerfesten, Projektwochen, usw. statt.
 teaser: "/media/2020/09/mgb-beitragsbild.jpeg"
-featured: false
 gallery: []
 alias: '/veranstaltungen/konzert-workshop-talkrunde.html'
 
