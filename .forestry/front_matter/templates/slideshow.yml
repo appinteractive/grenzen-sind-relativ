@@ -2,10 +2,16 @@
 label: Slideshow
 hide_body: true
 fields:
+- name: teasers
+  type: boolean
+  label: Inhalts-Teaser
+  description: Soll der Inhalt aus den Unterseiten gezogen werden?
 - name: autoplay
   type: boolean
   label: Automatisch abspielen
   default: true
+  showOnly:
+    field: teasers
 - name: delay
   type: number
   label: Verzögerung (ms)
