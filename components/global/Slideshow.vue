@@ -7,14 +7,14 @@ import settings from '~/config/settings.json'
 
 export default {
   props: {
-    name: { type: String, required: true }
+    name: { type: String, required: true },
   },
   data: () => ({
     slides: [],
     count: 0,
     autoplay: true,
     delay: 3000,
-    teasers: false
+    teasers: false,
   }),
   async created() {
     const data = require(`~/config/slideshows/${this.name}.json`)
@@ -29,14 +29,16 @@ export default {
     if (this.teasers) {
       this.slides = []
       return new Promise((resolve) => {
-        slides.forEach(async slide => {
+        slides.forEach(async (slide) => {
           const url = helpers.urlByPath(slide.page)
-          const content = await this.$content(url).only(['path', 'title', 'description', 'teaser']).fetch()
+          const content = await this.$content(url, { deep: true })
+            .only(['path', 'title', 'description', 'teaser'])
+            .fetch()
           this.slides.push({
-            page: content.path,
+            page: url,
             title: content.title,
             image: content.teaser,
-            description: content.description
+            description: content.description,
           })
 
           if (this.slides.length === slides.length) {
@@ -45,14 +47,6 @@ export default {
         })
       })
     }
-
-    /*
-      await slides.forEach(async slide => {
-        const url = helpers.urlByPath(slide.page)
-        const content = await this.$content(url).only(['path', 'title', 'teaser']).fetch()
-        this.slides.push(content)
-      })
-    */
   },
   render(createElement) {
     let children = []
@@ -60,38 +54,46 @@ export default {
       const slides = []
       this.slides.forEach((slide, i) => {
         if (this.teasers) {
-          slides.push(createElement(PostCard, {
-            props: {
-              key: i,
-              link: helpers.urlByPath(slide.page),
-              image: slide.image,
-              title: slide.title,
-              description: slide.description
-            }
-          }))
+          slides.push(
+            createElement(PostCard, {
+              props: {
+                key: i,
+                link: helpers.urlByPath(slide.page),
+                image: slide.image,
+                title: slide.title,
+                description: slide.description,
+              },
+            })
+          )
         } else {
-          slides.push(createElement(ResponsiveImage, {
-            props: {
-              key: i,
-              src: slide.image || settings.image,
-              alt: slide.title,
-              title: slide.subtitle || slide.title
-            }
-          }))
+          slides.push(
+            createElement(ResponsiveImage, {
+              props: {
+                key: i,
+                src: slide.image || settings.image,
+                alt: slide.title,
+                title: slide.subtitle || slide.title,
+              },
+            })
+          )
         }
       })
 
       children = [
-        createElement(Gallery, {
-          props: {
-            autoplay: this.autoplay,
-            delay: this.delay,
-            teasers: this.teasers
-          }
-        }, slides)
+        createElement(
+          Gallery,
+          {
+            props: {
+              autoplay: this.autoplay,
+              delay: this.delay,
+              teasers: this.teasers,
+            },
+          },
+          slides
+        ),
       ]
     }
     return createElement('div', {}, children)
-  }
+  },
 }
 </script>

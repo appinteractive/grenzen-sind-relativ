@@ -33,8 +33,14 @@ export default {
         spaceBetween: 0,
         grabCursor: !this.teasers,
         preventClicks: false,
-        slidesPerView: this.teasers ? 2 : 1,
+        slidesPerView: 1,
         spaceBetween: this.teasers ? 30 : 0,
+        breakpoints: {
+          // 640: { slidesPerView: this.teasers ? 1 : 1 },
+          768: { slidesPerView: this.teasers ? 2 : 1 },
+          1024: { slidesPerView: this.teasers ? 3 : 1 },
+          // 1280: { slidesPerView: this.teasers ? 3 : 1 },
+        },
         autoplay: (this.autoplay && !this.teasers) ? {
           delay: this.delay,
           disableOnInteraction: true,
