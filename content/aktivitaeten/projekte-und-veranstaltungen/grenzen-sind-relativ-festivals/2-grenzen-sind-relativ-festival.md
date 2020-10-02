@@ -198,7 +198,7 @@ Verschiedenste Künstler*innen präsentieren ihre Fotoarbeiten zur  universellen
 
 ## **PASSAUSGABE:**
 
-**Urban Citizenship Card** – Ein Konzept, in dem die Realität  nicht den Papieren angepasst wird, sondern die Papiere der Realitäten.  Dieses Recht auf gesellschaftliche, politische, kulturelle und  ökonomische Teilhabe darf nicht von einem Zufall (Geburtsort) oder von  Willkür (Anerkennung) abhängen. Die Benutzung der Urban Citizenship wird in US-amerikanischen Städten bereits praktiziert. In New York City  beispielsweise wird sie in Form der Stadtbewohner*innen-Karte „ID NYC“  ausgegeben. Bringe Dein Foto mit! https://urban-citizenship-hamburg.rechtaufstadt.net/
+**Urban Citizenship Card** – Ein Konzept, in dem die Realität  nicht den Papieren angepasst wird, sondern die Papiere der Realitäten.  Dieses Recht auf gesellschaftliche, politische, kulturelle und  ökonomische Teilhabe darf nicht von einem Zufall (Geburtsort) oder von  Willkür (Anerkennung) abhängen. Die Benutzung der Urban Citizenship wird in US-amerikanischen Städten bereits praktiziert. In New York City  beispielsweise wird sie in Form der Stadtbewohner*innen-Karte „ID NYC“  ausgegeben. Bringe Dein Foto mit! http://urban-citizenship-hamburg.rechtaufstadt.net/
 
 ### **AFTERSHOW-PARTY MIT DJ QMUTAT:** 
 
