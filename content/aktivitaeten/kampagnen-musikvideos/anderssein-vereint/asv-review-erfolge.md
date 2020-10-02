@@ -8,9 +8,9 @@ alias: /anderssein-vereint-2/status-quo-erfolge.html
 **1. Infos zum Gesamtprojekt “AndersSein vereint – Inklusionssong für Deutschland”:**
 
 * Unter folgendem Link gibt es die Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger und Protagonisten: [/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ (aktuell 119.094 Aufrufe): [https://youtu.be/KPi9ZNp-YJQ](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* TV Bericht – NDR DAS! Magazin “Ein Inklusionssong für Deutschland”: [https://youtu.be/BPQpJT0kyMw](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
-* Eventfilm „AndersSein vereint Festival“ // 15.06.2015 Knust Hamburg: [https://youtu.be/YtkNIEK4zEs](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html")
+* Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ (aktuell 119.094 Aufrufe): [https://youtu.be/KPi9ZNp-YJQ](https://youtu.be/KPi9ZNp-YJQ)
+* TV Bericht – NDR DAS! Magazin “Ein Inklusionssong für Deutschland”: [https://youtu.be/BPQpJT0kyMw](https://youtu.be/BPQpJT0kyMw)
+* Eventfilm „AndersSein vereint Festival“ // 15.06.2015 Knust Hamburg: [https://youtu.be/YtkNIEK4zEs](https://youtu.be/YtkNIEK4zEs)
 
 **2.) Medienberichte:**
 
@@ -20,7 +20,7 @@ _ARD, ZDF, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, Sat1, RTL, HH1, NDR 90.3, NDR 
 
 **3.) Radiocharts:**
 
-„AndersSein vereint“ ist auf Platz 44 und 87 der Radio-Airplay-Charts „Deutschland Konservativ“ (Trend, ermittelt von Musictrace) gewesen. Darüber hinaus ist „AndersSein vereint“ u.a. in der[ „radioBERLIN 88,8 Hey Music“](https://www.radioberlin.de/musik/hey_music/archiv/13_07_15.html) Hitparade auf Platz 5 gewesen.
+„AndersSein vereint“ ist auf Platz 44 und 87 der Radio-Airplay-Charts „Deutschland Konservativ“ (Trend, ermittelt von Musictrace) gewesen. Darüber hinaus ist „AndersSein vereint“ u.a. in der[„radioBERLIN 88,8 Hey Music“](https://www.radioberlin.de/musik/hey_music/archiv/13_07_15.html) Hitparade auf Platz 5 gewesen.
 
 **4.) Durchführung von 3 “AndersSein vereint Festivals” im “knust Hamburg” (2015-2016):**
 
@@ -50,7 +50,7 @@ Die Kampagne „AndersSein vereint“ hat sehr erfolgreich weiterführende Proje
 * Das Musikvideo wurde bei diversen (Inklusions)-Veranstaltungen präsentiert: U.a. bei den Inklusionstagen 2015 im Berlin Congress Center (veranstaltet vom Bundesministerium für Arbeit und Soziales)
 
 
-* Kampagne[ „Inklusion schaffen wir“](https://www.inklusion-schaffen-wir.de/): Mit Hans Sarpei, Erik Meijer, Annette Frier, Mischa Gohlke, Timo Horn, Milos Jojic, Raul Krauthausen, Mrs Greenbird.[ Hier](https://www.youtube.com/watch?v=hKXNw9AbHJA) geht es zum youtube-Video.
+* Kampagne[ „Inklusion schaffen wir“](https://www.inklusion-schaffen-wir.de/): Mit Hans Sarpei, Erik Meijer, Annette Frier, Mischa Gohlke, Timo Horn, Milos Jojic, Raul Krauthausen, Mrs Greenbird. [Hier](https://www.youtube.com/watch?v=hKXNw9AbHJA) geht es zum youtube-Video.
 
 
 * Vereine und Institutionen haben zu dem Original-Song eigene kreative Musikvideos produziert: U.a. Gebärdenchor „HandsUp“, Jugendfeuerwehr, usw.

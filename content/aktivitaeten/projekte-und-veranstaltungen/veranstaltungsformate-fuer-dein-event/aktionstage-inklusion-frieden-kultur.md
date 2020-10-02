@@ -75,7 +75,7 @@ In Kooperation mit der renommierten „Rock & Pop Schule Kiel“ hat Mischa Gohl
 
 ### **WS 2 „Chorspirit inklusiv“ + WS 3 „Stimme macht Stimmung“ + WS 4 „Stimmiger Inklusionsgroove“**
 
-_Dozentin: K_[_![Katrin live1](/media/2014/07/Katrin-live1.jpg)_](/media/2014/07/Katrin-live1.jpg)_atrin Wulff (Sängerin, Songwriterin, Texterin, Gedächniscoach, getourt mit Udo Lindenberg, Xavier Naidoo, Peter Kraus,_ [_www.katrinwulff.de_](https://www.katrinwulff.de)_)_
+_Dozentin: K_[![Katrin live1](/media/2014/07/Katrin-live1.jpg)](/media/2014/07/Katrin-live1.jpg)_atrin Wulff (Sängerin, Songwriterin, Texterin, Gedächniscoach, getourt mit Udo Lindenberg, Xavier Naidoo, Peter Kraus,_ [_www.katwulff.de/_](https://www.katwulff.de/)_)_
 
 **WS 2 „Chorspirit inklusiv“:** Du liebst es zu singen und hast Lust mit einem Chor und echten Profis auf der Bühne zu stehen?! Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, du bist herzlich willkommen! Gemeinsam werden wir den Inklusionssong „AndersSein vereint“ erproben und auf die Bühne bringen. Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme und lernst mehr über Rhythm&Groove. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
@@ -85,7 +85,7 @@ _Dozentin: K_[_![Katrin live1](/media/2014/07/Katrin-live1.jpg)_](/media/2014/07
 
 ### **WS 5-9 von/mit „K Produktion“:**
 
-[_![OLYMPUS DIGITAL CAMERA](/media/2014/07/k-produktion2.jpg)_](/media/2014/07/k-produktion2.jpg)_Dozent*innen: Christian Judith und Anja Teufel (Inklusive Firma K Produktion, Pädagoge, Sozialwissenschaftlerin, nicht-schwermehrfach-normal und liebevollst-streitbar-neugierig,_ [_www.k-produktion.de_](https://www.k-produktion.de)_)_
+[![OLYMPUS DIGITAL CAMERA](/media/2014/07/k-produktion2.jpg)](/media/2014/07/k-produktion2.jpg)_Dozent*innen: Christian Judith und Anja Teufel (Inklusive Firma K Produktion, Pädagoge, Sozialwissenschaftlerin, nicht-schwermehrfach-normal und liebevollst-streitbar-neugierig,_ [_www.k-produktion.de_](https://www.k-produktion.de)_)_
 
 **WS 5 „IQ – der Inklusions-Quiz“:** Bei uns steht IQ für Inklusions-Quiz. Wir haben Fragen rund ums Thema Inklusion, mal ernst, mal mit Humor. Welche Antwort ist richtig? Das Diskutieren folgt wie von selbst, denn gibt es manchmal nicht auch mehrere Antworten? Wir finden, Theorie sollte auch Spaß machen. Dabei tauchen dann oft noch ganz neue Fragen auf: „Was haben wir eigentlich von Inklusion? Und was hat Inklusion mit den Barrieren in unseren Köpfen zu tun?“ Im Gepäck haben wir auch Materialien (z.B. Unterlagen in Brailleschrift, Leichte Sprache), zu denen wir Quizfragen stellen. Hinterher sind wir alle schlauer, versprochen.
 
@@ -119,7 +119,7 @@ Kassandra ist professionelle Tänzerin und die einzige gehörlose ausgebildete T
 
 _Dozent: Klaus W. Becker (Projektleiter des Inklusionsbüros Hamburg,_ [_www.hamburg.de/inklusion_](https://www.hamburg.de/inklusion)_)_
 
-[![???????????????????????????????](/media/2014/07/klaus-becker.jpg)](/media/2014/07/klaus-becker.jpg)Häufig reagieren Menschen so oder so ähnlich auf die Forderung nach Inklusion. Insbesondere diejenigen, die im Arbeitsalltag schon mehr als belastet sind. Oder auch diejenigen, die seit Jahren oder gar Jahrzehnten erfolgreich Integration betreiben. „Was“ – so die nächste Frage – „ist eigentlich der Unterschied zur Integration“?
+[![Klaus Becker](/media/2014/07/klaus-becker.jpg)](/media/2014/07/klaus-becker.jpg) Häufig reagieren Menschen so oder so ähnlich auf die Forderung nach Inklusion. Insbesondere diejenigen, die im Arbeitsalltag schon mehr als belastet sind. Oder auch diejenigen, die seit Jahren oder gar Jahrzehnten erfolgreich Integration betreiben. „Was“ – so die nächste Frage – „ist eigentlich der Unterschied zur Integration“?
 
 Ich möchte im Workshop auf diese und auf weitere Fragen mit Impulsen begegnen und so die sicher vielfältigen Antworten hervorlocken. Ein bisschen Theorie, ein bisschen Rollenspiel, ein bisschen Film etc. werden dabei sehr hilfreich sein. Am Ende wäre es gar nicht schlimm, wenn die Teilnehmerinnen und Teilnehmer nachdenklicher aus dem Workshop heraus kommen als sie hinein gegangen sind.
 

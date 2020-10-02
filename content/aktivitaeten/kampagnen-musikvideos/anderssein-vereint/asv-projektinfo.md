@@ -33,13 +33,13 @@ c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielf�
 **Crew „AndersSein vereint – Inklusionssong für Deutschland“ (Tonstudio, Musikvideo & Kampagne):**
 
 **Idee, Produzent & Leitung Gesamtprojekt:**  
-Mischa Gohlke, [www.grenzensindrelativ.de](/%20)
+Mischa Gohlke, [www.grenzensindrelativ.de](/)
 
 **Musikproduktion:**
 
-Songwriting & Text: Katrin Wulff (getourt u.a. mit Xavier Naidoo und Udo Lindenberg), [www.katrinwulff.de](https://www.katrinwulff.de%20)
+Songwriting & Text: Katrin Wulff (getourt u.a. mit Xavier Naidoo und Udo Lindenberg), [www.katwulff.de/](https://www.katwulff.de)
 
-Musik: Mischa Gohlke Band feat. Katrin Wulff (Crossover Blues, Inklusion und mehr), [www.grenzensindrelativ.de/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html](/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html%20 "Mischa Gohlke Band feat. Katrin Wulff")
+Musik: Mischa Gohlke Band feat. Katrin Wulff (Crossover Blues, Inklusion und mehr), [www.grenzensindrelativ.de/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html](/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html "Mischa Gohlke Band feat. Katrin Wulff")
 
 Aufgenommen von Jan Philipp Kelber und Karsten Böttcher im melloton Studio Hamburg
 
@@ -53,11 +53,11 @@ Gastsänger/innen:
 
 Volkan Baydar (Orange Blue), [www.volkan-baydar.de](https://www.volkan-baydar.de)
 
-Jessy Martens (Deutschlands Rock- & Blues-Lady No. 1), [www.jessymartens.de](https://www.jessymartens.de%20)
+Jessy Martens (Deutschlands Rock- & Blues-Lady No. 1), [www.jessymartens.de](https://www.jessymartens.de)
 
-Graf Fidi (Rapper aus Berlin „Ich mach das mit links.“), [www.graffidi.de](https://www.graffidi.de%20)
+Graf Fidi (Rapper aus Berlin „Ich mach das mit links.“), [www.graffidi.de](https://www.graffidi.de)
 
-Marie Garroth (Sängerin von BurnoutSounds), [www.burnoutsounds.com](https://www.burnoutsounds.com%20)
+Marie Garroth (Sängerin von BurnoutSounds), [www.burnoutsounds.com](https://www.burnoutsounds.com)
 
 Chorstimmen:
 
@@ -79,11 +79,11 @@ Jakob Mährlein (technische Assistenz & Livestream-Technik für Kunden wie Googl
 
 Tänzerin/Schauspielerin aka Jedermensch-Figur:
 
-Lara Hahnel (Tänzerin, Schauspielerin, Model, Choreografin), [www.lara-hahnel.de](https://www.lara-hahnel.de%20)
+Lara Hahnel (Tänzerin, Schauspielerin, Model, Choreografin), [www.lara-hahnel.de](https://www.lara-hahnel.de)
 
 Gebärdensprach-Tänzerin/Schauspielerin:
 
-Kassandra Wedel (Tänzerin, Tanzlehrerin, Choreografin, gehörlos), [www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html](https://www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html%20)
+Kassandra Wedel (Tänzerin, Tanzlehrerin, Choreografin, gehörlos), [www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html](https://www.br.de/themen/kultur/inhalt/gesellschaft/kassandra-wedel-102.html)
 
 Gebärdensprach-Chor:  
 Hands up (mit gehörlosen, schwerhörigen und „normal“ hörenden Menschen von jung bis alt, Leitung Ines Helke)
@@ -93,7 +93,7 @@ Dirk C. Fleck (Journalist & Autor), [www.dirk-c-fleck.de](https://www.dirk-c-fle
 
 Michel Arriens (Autor & Aktivist), [www.facebook.com/marriens](https://www.facebook.com/marriens)
 
-Lilian Gold (Sängerin), [www.facebook.com/pages/Lilian-Gold/406266242823249?fref=ts](https://www.facebook.com/pages/Lilian-Gold/406266242823249?fref=ts%20)
+Lilian Gold (Sängerin), [www.facebook.com/pages/Lilian-Gold/406266242823249?fref=ts](https://www.facebook.com/pages/Lilian-Gold/406266242823249?fref=ts)
 
 Laila Wulfers (Schülerin)
 
