@@ -267,7 +267,8 @@
             }
           ],
           "showInMainNavigation": true,
-          "description": "Wir bringen verschiedenste Akteure zusammen und setzen uns für eine inklusive, integrale und friedliche Gesellschaft ein."
+          "description": "Wir bringen verschiedenste Akteure zusammen und setzen uns für eine inklusive, integrale und friedliche Gesellschaft ein.",
+          "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md"
         }
       ],
       "showInMainNavigation": true
