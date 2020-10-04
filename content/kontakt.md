@@ -1,7 +1,9 @@
 ---
 title: Kontakt
-description: Willst du helfen?
-alias: /kontakt.html
+description: ''
+alias: "/kontakt.html"
+wide: true
+
 ---
 # Kontakt
 
