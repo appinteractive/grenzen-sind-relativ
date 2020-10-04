@@ -262,7 +262,8 @@
             },
             {
               "title": "Gesamtgesellschaftliches Aktionsbündnis",
-              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/gemeinschaftliches-aktionsbundnis.md"
+              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/gemeinschaftliches-aktionsbundnis.md",
+              "disabled": true
             }
           ],
           "showInMainNavigation": true
