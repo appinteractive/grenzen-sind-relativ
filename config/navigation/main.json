@@ -13,7 +13,8 @@
         },
         {
           "title": "Übersicht Aktivitäten",
-          "page": "content/ueber-uns/ubersicht-aktivitaten.md"
+          "page": "content/ueber-uns/ubersicht-aktivitaten.md",
+          "disabled": true
         },
         {
           "title": "Das Team",
@@ -25,7 +26,8 @@
         },
         {
           "title": "Manifest ",
-          "page": "content/ueber-uns/manifest.md"
+          "page": "content/ueber-uns/manifest.md",
+          "disabled": true
         },
         {
           "title": "Zitate",
