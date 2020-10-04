@@ -9,8 +9,10 @@ alias: ''
 ---
 # Vermittlungsbörse
 
-Es gehört zu unserer Mission, verschiedenste Menschen, Szenen und Netzwerke zusammen zu bringen. Somit haben wir unsere neue Rubrik "Vermittlungsbörse" eingeführt.
+Es gehört zu unserer Mission, verschiedenste Menschen, Netzwerke und Institutionen zusammen zu bringen. Somit haben wir die neue Rubrik "Vermittlungsbörse" eingeführt.
 
-In unserem “Grenzen sind relativ e.V.”- Team wirken mehrere professionelle Kulturschaffende, Künstler, Projekt- & Veranstaltungsmanager, Promoter und Campaigner mit und wir können somit auf ein großes Netzwerk, u.a. in den Bereichen Künstlerkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
+Verbunden mit unseren vielfältigen Aktivitäten können wir auf ein großes Netzwerk, u.a. in den Bereichen Künstlerkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
 
-Alles weitere im persönlichen Kontakt. :)
+_"Netzwerken bedeutet nicht nur, Menschen miteinander zu verbinden. Es geht darum, Menschen mit Menschen zu verbinden, Menschen mit Ideen, und Menschen mit Möglichkeiten."_ (vgl. Michele Jennae)
+
+Alles weitere im direkten Kontakt. :)
