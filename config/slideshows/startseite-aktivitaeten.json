@@ -3,15 +3,23 @@
   "slides": [
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
-      "title": "Grenzen sind relativ Festivals"
+      "title": "Grenzen sind relativ Festivals",
+      "subtitle": "",
+      "image": ""
     },
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
-      "title": "Spektralkombüse"
+      "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md",
+      "title": "AndersSein vereint",
+      "subtitle": "",
+      "image": ""
     },
     {
-      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md",
-      "title": "Workshops, Seminare & Vorträge"
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
+      "title": "Mach deine Veranstaltung mit uns!",
+      "subtitle": "",
+      "image": ""
     }
-  ]
+  ],
+  "autoplay": false,
+  "delay": null
 }
