@@ -1,6 +1,6 @@
 <template>
-  <footer class="w-full bg-primary-700 text-primary-200 mt-6 bottom-0">
-    <div class="container m-auto px-6 py-10 pb-16 lg:pb-10">
+  <footer class="w-full bg-primary-700 text-primary-200 bottom-0">
+    <div class="container m-auto px-4 md:px-8 py-10 pb-16 lg:pb-10">
       <div class="grid lg:grid-cols-3">
         <div
           v-for="col in navigation"
@@ -29,8 +29,11 @@
           </form>
         </div>
       </div>
-      <div class="text-sm">
-        {{ copyright }}
+      <div class="flex">
+        <div class="text-sm flex flex-grow">
+          {{ copyright }}
+        </div>
+        <social-icons class="flex justify-end items-center text-gray-300" />
       </div>
     </div>
   </footer>
@@ -45,7 +48,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="postcss">
 footer .link-active {
   @apply font-bold text-white;
 }

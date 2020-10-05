@@ -7,6 +7,9 @@
 module.exports = {
   theme: {
     extend: {
+      minWidth: {
+        '20': '20rem',
+      },
       fontFamily: {
         sans: ['Signika', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'Noto Sans', 'sans-serif', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'],
         serif: ['Lora', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif']
@@ -56,6 +59,7 @@ module.exports = {
   purge: {
     // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
     enabled: process.env.NODE_ENV === 'production',
+    whitelist: ['swiper', 'swiper-*'],
     content: [
       'components/**/*.vue',
       'layouts/**/*.vue',

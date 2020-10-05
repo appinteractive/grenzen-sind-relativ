@@ -44,7 +44,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="postcss">
 .group .level2.link-active {
   @apply text-gray-800 font-semibold;
 }

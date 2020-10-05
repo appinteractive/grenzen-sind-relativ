@@ -2,7 +2,7 @@
 title: Kontakt
 description: ''
 alias: "/kontakt.html"
-wide: true
+wide: false
 
 ---
 # Kontakt

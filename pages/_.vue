@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 lg:px-6 pt-6">
+  <div class="container mx-auto px-4 md:px-8 pt-6 \\bg-white \\lg:border \\border-b-0 \\border-t-0">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
     <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
       <article
@@ -11,9 +11,8 @@
           :class="classes"
         />
       </article>
-      <div class="lg:w-2/6">
+      <div v-if="hasSubMenu">
         <SubMenu
-          v-if="breadCrumbs.length > 1"
           :sub-menu="subMenu"
           :parents="subMenu"
           :current-title="currentTitle"
@@ -117,12 +116,17 @@ export default {
     }
   },
   computed: {
+    hasSubMenu() {
+      return this.breadCrumbs.length > 1
+    },
     classes() {
-      if (this.widePage) {
-        return 'max-w-4xl'
+      const classes = []
+      if (this.widePage && !this.hasSubMenu) {
+        classes.push('is-wide max-w-3xl mx-auto')
       } else {
-        return ''
+        classes.push('max-w-full md:max-w-2xl')
       }
+      return classes.join(' ')
     }
   }
 }
@@ -152,5 +156,16 @@ export default {
 
 .prose figure {
   @apply mt-10 mb-2;
+}
+
+@screen lg {
+  .prose.is-wide .wide {
+    @apply -mx-24;
+  }
+}
+@screen xl {
+  .prose.is-wide .wide {
+    @apply -mx-48;
+  }
 }
 </style>

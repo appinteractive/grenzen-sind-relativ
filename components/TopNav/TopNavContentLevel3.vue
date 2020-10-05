@@ -8,8 +8,8 @@
       >
         <TopNavLink
           :to="getNearestURL(level2)"
-          style="min-width: 20rem"
-          class="p-4 font-normal text-gray-700  flex flex-col rounded-l level2"
+          style="/* min-width: 20rem */"
+          class="p-4 font-normal text-gray-700 flex flex-col rounded-l level2 lg:min-w-20"
           :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
           @mouseenter.native="setLevel2($event, index2)"
         >
@@ -70,7 +70,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="postcss">
 .group .level2.link-active {
   @apply text-gray-800 font-semibold;
 }

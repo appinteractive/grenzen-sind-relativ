@@ -1,5 +1,5 @@
 <template>
-  <GSRLogo class="fill-current h-8 lg:h-12 mr-2" />
+  <GSRLogo class="fill-current w-20 lg:w-24" />
 </template>
 
 <script>

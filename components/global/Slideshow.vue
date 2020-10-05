@@ -93,7 +93,39 @@ export default {
         ),
       ]
     }
-    return createElement('div', {}, children)
+    return createElement('div', { class: 'slideshow' }, children)
   },
 }
 </script>
+
+<style lang="postcss">
+.prose .slideshow .swiper-slide {
+  @apply bg-white border !important;
+}
+.prose .slideshow .swiper-slide img {
+  @apply p-0 m-0 !important;
+}
+.prose .slideshow .swiper-slide p, .swiper-slide h3 {
+  @apply px-4 pb-2 !important;
+}
+.prose .slideshow .swiper-slide h3 {
+  @apply pt-2 mt-0 !important;
+}
+.prose .slideshow .swiper {
+  @apply px-12 !important;
+}
+.prose .slideshow .swiper-button-prev.swiper-button-disabled,
+.prose .slideshow .swiper-button-next.swiper-button-disabled {
+  @apply text-gray-500 text-opacity-0 !important;
+}
+.prose .slideshow .swiper-button-prev,
+.prose .slideshow .swiper-button-next {
+  @apply h-full p-0 m-0 top-0 px-6 from-gray-100 z-10 text-blue-700 opacity-100 font-bold !important;
+}
+.prose .slideshow .swiper-button-prev {
+  @apply -ml-3 bg-gradient-to-r !important;
+}
+.prose .slideshow .swiper-button-next {
+  @apply -mr-3 bg-gradient-to-l !important;
+}
+</style>

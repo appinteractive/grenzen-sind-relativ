@@ -32,14 +32,14 @@ export default {
         speed: 600,
         spaceBetween: 0,
         grabCursor: !this.teasers,
-        preventClicks: false,
+        preventClicks: true,
         slidesPerView: 1,
-        spaceBetween: this.teasers ? 30 : 0,
+        spaceBetween: this.teasers ? 20 : 0,
         breakpoints: {
           // 640: { slidesPerView: this.teasers ? 1 : 1 },
           768: { slidesPerView: this.teasers ? 2 : 1 },
-          1024: { slidesPerView: this.teasers ? 3 : 1 },
-          // 1280: { slidesPerView: this.teasers ? 3 : 1 },
+          // 1024: { slidesPerView: this.teasers ? 2 : 1 },
+          1280: { slidesPerView: this.teasers ? 3 : 1 },
         },
         autoplay: (this.autoplay && !this.teasers) ? {
           delay: this.delay,
@@ -113,10 +113,21 @@ export default {
   @apply p-0 m-0;
 }
 .prose .swiper-wrapper {
-  @apply overflow-y-visible p-0 m-0;
+  @apply p-0 m-0;
 }
 .prose .swiper-pagination {
   @apply p-0 m-0 -mb-10;
+}
+
+.prose .swiper {
+  @apply pb-12 !important;
+}
+.prose .swiper .swiper-pagination {
+  @apply mb-0 !important;
+}
+
+.prose .swiper .swiper-pagination .swiper-pagination-bullet-active {
+  @apply bg-blue-700 !important;
 }
 
 .prose .swiper a {

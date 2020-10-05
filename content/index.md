@@ -14,7 +14,7 @@ seite:
 
 ---
 
-# Grenzen sind relativ e.V. 
+# Grenzen sind relativ e.V.
 
 ## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
 
@@ -23,7 +23,7 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 > Hebt man den Blick, so sieht man keine Grenzen.
 >> Aus Japan
 
-## Aktivitäten
-
-<slideshow name="startseite-aktivitaeten"></slideshow>
+<div class="wide">
+  <slideshow name="startseite-aktivitaeten"></slideshow>
+</div>
 

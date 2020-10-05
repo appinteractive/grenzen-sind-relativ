@@ -1,7 +1,7 @@
   <template>
   <div class="min-h-screen flex flex-col bg-gray-100 w-screen text-gray-700 antialiased leading-tight">
     <TopNavSmart :navigation="mainNav" :active-main="activeMain" :current-title="currentTitle" />
-    <main class="min-h-full flex-grow">
+    <main class="min-h-full flex-grow" style="min-height: 30rem">
       <Nuxt class="pt-32" />
     </main>
     <Footer :navigation="footerNav" :copyright="copyright" />
@@ -11,6 +11,7 @@
 <script>
 
 export default {
+
   created() {
     this.mainNav = this.$store.getters['navigation/mainNav']
     this.footerNav = this.$store.getters['navigation/footerNav']

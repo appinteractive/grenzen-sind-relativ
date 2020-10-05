@@ -7,37 +7,40 @@
       :class="isOpen && 'h-screen'"
     >
       <div
-        class="container mx-auto flex flex-col md:flex-row items-center relative"
+        class="container px-4 lg:px-8 mx-auto flex flex-col md:flex-row items-center relative h-full"
       >
-        <nuxt-link to="/" class="flex" aria-label="Startseite">
-          <Logo
-            class="flex items-center flex-shrink-0 flex-grow-0 text-white lg:mr-6"
-          />
-        </nuxt-link>
-        <button
-          class="flex appearance-none md:hidden absolute top-0 right-0 p-1"
-          @click="isOpen = !isOpen"
-        >
-          <svg
-            viewBox="0 0 16 16"
-            class="w-8 h-8"
-            fill="currentColor"
-            xmlns="http://www.w3.org/2000/svg"
+        <div class="flex fixed bg-white z-10 top-0 left-0 px-4 py-4 md:p-0 border-b md:border-0 md:static w-full md:w-auto items-center justify-center">
+          <nuxt-link to="/" class="flex items-center self-center h-full lg:w-32" aria-label="Startseite">
+            <Logo
+              class="flex flex-shrink-0 flex-grow-0 text-white mr-2 lg:mr-6"
+            />
+          </nuxt-link>
+          <social-icons class="absolute md:hidden right-0 flex justify-end items-center p-4 text-gray-700" />
+          <button
+            class="flex appearance-none md:hidden absolute left-0 p-4"
+            @click="isOpen = !isOpen"
           >
-            <path
-              v-if="isOpen"
-              fill-rule="evenodd"
-              d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
-            />
-            <path
-              v-else
-              fill-rule="evenodd"
-              d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"
-            />
-          </svg>
-        </button>
+            <svg
+              viewBox="0 0 16 16"
+              class="w-8 h-8"
+              fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                v-if="isOpen"
+                fill-rule="evenodd"
+                d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+              />
+              <path
+                v-else
+                fill-rule="evenodd"
+                d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"
+              />
+            </svg>
+          </button>
+        </div>
         <ul
-          class="md:pl-6 pt-1"
+          class="mt-12 md:mt-0 pt-1 flex-grow justify-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
           :class="!isOpen ? 'hidden md:flex' : 'pt-12 pb-24 px-8'"
@@ -99,6 +102,7 @@
             </transition>
           </li>
         </ul>
+        <social-icons class="hidden lg:flex justify-end items-center w-32 text-gray-700" />
       </div>
     </div>
   </nav>
@@ -131,6 +135,14 @@ export default {
       this.currentIndex = null
       this.isOpen = false
     },
+  },
+  mounted() {
+    this.listener = window.addEventListener('resize', () => {
+      this.isOpen = false
+    })
+  },
+  beforeDestroy() {
+    window.removeEventListener(this.listener)
   },
   methods: {
     navComp(level1) {
@@ -171,7 +183,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="postcss">
 .nav-main .level1.link-active,
 .nav-main .level1.link-parent-active {
   @apply font-bold text-primary-900;
