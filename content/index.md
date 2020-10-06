@@ -23,7 +23,4 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 > Hebt man den Blick, so sieht man keine Grenzen.
 >> Aus Japan
 
-<div class="wide">
-  <slideshow name="startseite-aktivitaeten"></slideshow>
-</div>
-
+<slideshow class="wide" name="startseite-aktivitaeten"></slideshow>

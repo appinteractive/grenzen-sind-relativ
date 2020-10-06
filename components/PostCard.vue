@@ -8,6 +8,9 @@
       <p class="text-gray-700 font-normal" v-html="description" />
       <div class="absolute w-full bottom-0 left-0 from-white h-24 mb-4 bg-gradient-to-t">&nbsp;</div>
       <div class="absolute w-full bottom-0 left-0 h-4 bg-white">&nbsp;</div>
+      <div class="absolute w-full bottom-0 left-0 bg-white text-right p-2 pr-4 text-blue-500 text-sm uppercase font-semibold">
+        weiterlesen →
+      </div>
     </div>
   </nuxt-link>
 </template>

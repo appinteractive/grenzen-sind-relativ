@@ -23,6 +23,42 @@
 </template>
 
 <script>
+import helpers from '~/lib/helpers'
+
+function processSlideshow(name, props, $content) {
+  const data = require(`~/config/slideshows/${name}.json`)
+  let slides = data && data.slides ? data.slides : []
+
+  if (data.teasers) {
+    const slidesNew = []
+    return new Promise((resolve) => {
+      slides.forEach(async (slide) => {
+        const url = helpers.urlByPath(slide.page)
+        const content = await $content(url, { deep: true })
+          .only(['path', 'title', 'description', 'teaser'])
+          .fetch()
+        slidesNew.push({
+          page: url,
+          title: content.title,
+          image: content.teaser,
+          description: content.description,
+        })
+
+        if (slidesNew.length === slides.length) {
+          slides = slidesNew
+          props.slides = JSON.stringify(slidesNew)
+          props.delay = data.delay
+          props.autoplay = data.autoplay
+          props.teasers = true
+          resolve(slides)
+        }
+      })
+    })
+  }
+
+return slides
+}
+
 export default {
   middleware: 'redirect',
   async asyncData({
@@ -31,8 +67,7 @@ export default {
     redirect,
     store,
     route,
-    error,
-    payload,
+    error
   }) {
     const path = `/${params.pathMatch || 'index'}`
     const page = await $content(path).fetch()
@@ -50,16 +85,15 @@ export default {
     const currentTitle = lastCrumb ? lastCrumb.title : null
     const widePage = !!page.wide
 
-    /* const featured = await $content().where({ featured: true }).fetch()
-    console.log(featured) */
-
-    /* try {
-      const surround = await $content(page.dir)
-        .sortBy('createdAt', 'asc')
-        .only(['title', 'path', 'createdAt'])
-        .surround(page.slug).fetch()
-      console.log(surround)
-    } catch (e) {} */
+    const process = []
+    page.body.children.forEach((child, i) => {
+      if (child.tag === 'slideshow') {
+        process.push(new Promise((resolve) => {
+          resolve(processSlideshow(child.props.name, child.props, $content))
+        }))
+      }
+    })
+    const slides = await Promise.all(process)
 
     return { page, breadCrumbs, subMenu, currentTitle, widePage }
   },

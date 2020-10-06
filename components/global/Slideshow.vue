@@ -8,51 +8,25 @@ import settings from '~/config/settings.json'
 export default {
   props: {
     name: { type: String, required: true },
+    slides: { type: [Array, String], default: () => [] },
+    autoplay: { type: Boolean, default: true },
+    delay: { type: Number, default: 3000 },
+    teasers: { type: Boolean, default: false },
   },
   data: () => ({
-    slides: [],
-    count: 0,
-    autoplay: true,
-    delay: 3000,
-    teasers: false,
+    ready: false,
   }),
-  async created() {
-    const data = require(`~/config/slideshows/${this.name}.json`)
-    const slides = data && data.slides ? data.slides : []
-
-    this.autoplay = data.autoplay
-    this.delay = data.delay
-    this.count = slides.length
-    this.slides = slides
-    this.teasers = data.teasers
-
-    if (this.teasers) {
-      this.slides = []
-      return new Promise((resolve) => {
-        slides.forEach(async (slide) => {
-          const url = helpers.urlByPath(slide.page)
-          const content = await this.$content(url, { deep: true })
-            .only(['path', 'title', 'description', 'teaser'])
-            .fetch()
-          this.slides.push({
-            page: url,
-            title: content.title,
-            image: content.teaser,
-            description: content.description,
-          })
-
-          if (this.slides.length === slides.length) {
-            resolve()
-          }
-        })
-      })
-    }
+  mounted() {
+    this.$nextTick(() => {
+      this.ready = true
+    })
   },
   render(createElement) {
     let children = []
-    if (this.slides.length === this.count) {
+    if (this.slides.length && this.ready) {
       const slides = []
-      this.slides.forEach((slide, i) => {
+      const s = Array.isArray(this.slides) ? this.slides : JSON.parse(this.slides)
+      s.forEach((slide, i) => {
         if (this.teasers) {
           slides.push(
             createElement(PostCard, {
@@ -93,7 +67,7 @@ export default {
         ),
       ]
     }
-    return createElement('div', { class: 'slideshow' }, children)
+    return createElement('div', { class: 'slideshow ' + (this.$attrs.class || '') }, children)
   },
 }
 </script>
