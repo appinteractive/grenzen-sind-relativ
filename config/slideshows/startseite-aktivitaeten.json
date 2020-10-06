@@ -2,8 +2,8 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
-      "title": "Musikunterricht für Hörgeschädigte",
+      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md",
+      "title": "Workshops, Seminare & Vorträge",
       "subtitle": "",
       "image": ""
     },
@@ -22,6 +22,12 @@
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
       "title": "Mach deine Veranstaltung mit uns!",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
+      "title": "Musikunterricht für Hörgeschädigte",
       "subtitle": "",
       "image": ""
     }
