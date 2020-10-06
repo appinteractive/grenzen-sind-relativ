@@ -10,7 +10,7 @@ seite:
 ---
 
 
-![Grenzen sind relativ e.V.](/media/2020/09/gsr-fb-banner_2018-1.jpg)
+![Grenzen sind relativ e.V.](/media/2020/10/social-banner-2020-3.jpg)
 
 ---
 
