@@ -2,12 +2,6 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
-      "title": "Workshops, Talk & Konzert von/mit der Mischa Gohlke Band",
-      "subtitle": "",
-      "image": ""
-    },
-    {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
       "title": "Grenzen sind relativ Festivals",
       "subtitle": "",
@@ -38,8 +32,20 @@
       "image": ""
     },
     {
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
+      "title": "Workshops, Talk & Konzert von/mit der Mischa Gohlke Band",
+      "subtitle": "",
+      "image": ""
+    },
+    {
       "page": "content/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong.md",
       "title": "NEU - Kampagne 2. Inklusions- & Friedenssong",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md",
+      "title": "NEU - Vermittlungsbörse",
       "subtitle": "",
       "image": ""
     },
