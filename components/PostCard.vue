@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link :to="link" class="post-card bg-white group overflow-hidden rounded-sm border-gray-200 hover:shadow-2xl hover:border-gray-400 hover:z-0 transition duration-100">
+  <nuxt-link :to="link" class="post-card bg-white group overflow-hidden rounded-sm border-gray-600 hover:shadow-2xl hover:border-gray-400 hover:z-0 transition duration-100">
     <div v-if="image" class="relative pb-16/9">
       <img class="absolute w-full h-full object-cover" :src="image" alt="title">
     </div>
