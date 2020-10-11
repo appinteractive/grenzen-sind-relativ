@@ -1,6 +1,10 @@
 ---
 title: Erlebnistage Inklusion durch Musik
-description: 'Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. '
+description: Das Projekt „Erlebnistage Inklusion durch Musik“ (gefördert von "Aktion
+  Mensch") schafft Raum für Begegnung, Erfahrungsaustausch  und Perspektivwechsel
+  für Menschen mit und ohne Beeinträchtigungen. Durch Musik-Workshops, interaktive
+  Begegnungen und Konzertveranstaltungen werden Impulse für eine “gelebte(re) gesamtgesellschaftliche
+  Inklusion” freigesetzt.
 teaser: "/media/2020/10/bandtraining-elbschule-_-musikunterricht-fur-horgeschadigte-2.JPG"
 gallery: []
 alias: ''
