@@ -2,18 +2,6 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
-      "title": "Kooperationsprojekte",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/beratung-und-coaching.md",
-      "title": "Beratung & Coaching",
-      "subtitle": "",
-      "image": ""
-    },
-    {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
       "title": "Grenzen sind relativ Festivals",
       "subtitle": "",
@@ -64,6 +52,18 @@
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
       "title": "Workshops, Talk & Konzert von/mit der Mischa Gohlke Band",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/beratung-und-coaching.md",
+      "title": "Beratung & Coaching",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
+      "title": "Kooperationsprojekte",
       "subtitle": "",
       "image": ""
     }
