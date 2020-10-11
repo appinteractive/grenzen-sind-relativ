@@ -1,5 +1,5 @@
 ---
-title: Erlebnistage Inklusion durch Musik
+title: NEU - Erlebnistage Inklusion durch Musik
 description: Das Projekt „Erlebnistage Inklusion durch Musik“ (gefördert von "Aktion
   Mensch") schafft Raum für Begegnung, Erfahrungsaustausch  und Perspektivwechsel
   für Menschen mit und ohne Beeinträchtigungen. Durch Musik-Workshops, interaktive
