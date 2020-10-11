@@ -1,5 +1,6 @@
 ---
-title: 'Marienkriche Osnabrück: Beethoven – mit allen Sinnen hören!'
+title: 'MusikBüro St. Marien Osnabrück: Projektwoche "Beethoven – mit allen Sinnen
+  hören!"'
 description: Die Projektwoche „Beethoven - mit allen Sinnen hören!“ (03.-10. Oktober
   2021) dreht sich rund um Person und Werk Ludwig van Beethovens. Ausgehend von Beethovens
   künstlerischem Schaffensdrang trotz frühzeitiger Schwerhörigkeit bis hin zur völligen
