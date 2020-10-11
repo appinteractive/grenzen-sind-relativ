@@ -5,7 +5,7 @@ description: Das Projekt „Erlebnistage Inklusion durch Musik“ (gefördert vo
   für Menschen mit und ohne Beeinträchtigungen. Durch Musik-Workshops, interaktive
   Begegnungen und Konzertveranstaltungen werden Impulse für eine “gelebte(re) gesamtgesellschaftliche
   Inklusion” freigesetzt.
-teaser: "/media/2020/10/bandtraining-elbschule-_-musikunterricht-fur-horgeschadigte-2.JPG"
+teaser: "/media/2020/10/danke-schreiben-schule.jpg"
 gallery: []
 alias: ''
 wide: false
