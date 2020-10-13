@@ -7,22 +7,22 @@ description: TV Berichte
 
 ### "Ein Inklusionssong für Deutschland"
 
-<youtube id="BPQpJT0kyMw"></youtube>
+https://youtu.be/BPQpJT0kyMw
 
 ## NDR SH-Magazin
 
 ### "Mischa Gohlke - Musiker ohne Gehör"
 
-<youtube id="7RohEwmDdXY"></youtube>
+https://youtu.be/7RohEwmDdXY
 
 ## BR3 Sehen statt Hören
 
 ### "Mischa Gohlke - Grenzen sind relativ"
 
-<youtube id="XCACmrTMky8"></youtube>
+https://youtu.be/XCACmrTMky8
 
 ## vollWert
 
 ### "Musik und Inklusion - AndersSein vereint"
 
-<youtube id="LlIbuEv-7AM"></youtube>
+https://youtu.be/LlIbuEv-7AM

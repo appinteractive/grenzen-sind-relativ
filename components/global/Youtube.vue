@@ -11,13 +11,13 @@
     >
       <svg
         viewBox="0 0 24 24"
-        class="w-20 h-20 opacity-75 group-hover:w-24 group-hover:h-24 group-hover:opacity-100 transition-all duration-100 ease-in-out text-primary-700 border-white border-2 rounded-full"
+        class="w-12 h-12 absolute"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"
       >
         <circle cx="12" cy="12" r="12" fill="#ffffff" />
-        <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-3 17v-10l9 5.146-9 4.854z"/>
       </svg>
+      <icon-youtube class="w-20 h-20 group-hover:w-24 group-hover:h-24 text-red-800 z-10" />
     </div>
     <iframe
       v-if="visible && accept"
@@ -31,8 +31,12 @@
 
 <script>
 import { ObserveVisibility } from 'vue-observe-visibility'
+import IconYoutube from '~/static/svg/youtube.svg?inline'
 
 export default {
+  components: {
+    IconYoutube
+  },
   directives: {
     ObserveVisibility,
   },

@@ -51,11 +51,30 @@ export default {
       },
     ],
     link: [
-      { rel: 'icon', type: 'image/png', sizes: '96x96', href: '/favicon-96x96.png' },
-      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' },
-      { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '96x96',
+        href: '/favicon-96x96.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/favicon-32x32.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: '/favicon-16x16.png',
+      },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500;1,600;1,700&family=Signika:wght@300;400;500;600;700&display=swap' },
+      {
+        rel: 'stylesheet',
+        href:
+          'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500;1,600;1,700&family=Signika:wght@300;400;500;600;700&display=swap',
+      },
     ],
   },
   /*
@@ -108,7 +127,10 @@ export default {
   content: {
     liveEdit: false,
     markdown: {
-      remarkPlugins: ['~/plugins/remark-responsive-images.js'],
+      remarkPlugins: [
+        '~/plugins/remark-responsive-images.js',
+        '~/plugins/remark-embeds.js',
+      ],
     },
   },
   /**

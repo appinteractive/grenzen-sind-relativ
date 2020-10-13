@@ -26,17 +26,17 @@ Thementag „Inklusion im Kulturbetrieb“ (KMM Hamburg | Institut für Kultur- 
 Links:
 
 **NDR Schleswig Holstein Magazin „Mischa Gohlke – Musiker ohne Gehör“**  
-<youtube id="7RohEwmDdXY"></youtube>
+https://youtu.be/7RohEwmDdXY
 
 [Blog von Mischa Gohlke – „Grenzen sind relativ – Musik, Hören und Inklusion“](/2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html)
 
 [Blog von Mischa Gohlke – „Auf in eine neue Beziehungskultur!“](/2016/12/03/auf-in-eine-neue-beziehungskultur.html)
 
 **Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“**
-<youtube id="KPi9ZNp-YJQ">
+https://youtu.be/KPi9ZNp-YJQ
 
 **NDR DAS! Magazin Bericht – „Ein Inklusionssong für Deutschland“**
-<youtube id="BPQpJT0kyMw">
+https://youtu.be/BPQpJT0kyMw
 
 Kontakt:
 
