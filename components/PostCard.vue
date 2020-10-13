@@ -8,7 +8,7 @@
       <p class="text-gray-700 font-normal" v-html="description" />
       <div class="absolute w-full bottom-0 left-0 from-white h-24 mb-6 bg-gradient-to-t">&nbsp;</div>
       <div class="absolute w-full bottom-0 left-0 h-6 bg-white">&nbsp;</div>
-      <div class="absolute w-full bottom-0 left-0 text-right p-2 pr-4 text-blue-500 text-sm uppercase font-semibold">
+      <div class="absolute w-full bottom-0 left-0 text-right p-2 pr-4 text-blue-700 text-sm uppercase font-semibold">
         weiterlesen →
       </div>
     </div>

@@ -1,6 +1,7 @@
 <template>
   <nav
     class="nav-main md:flex md:flex-wrap bg-white border-primary-200 fixed w-full z-50"
+    role="navigation"
   >
     <div
       class="w-full border-b border-primary-200 p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
@@ -13,12 +14,14 @@
           <nuxt-link to="/" class="flex items-center self-center h-full lg:w-32" aria-label="Startseite">
             <Logo
               class="flex flex-shrink-0 flex-grow-0 text-white mr-2 lg:mr-6"
+              alt="Grenzen sind relativ e.V."
             />
           </nuxt-link>
           <social-icons class="absolute md:hidden right-0 flex justify-end items-center p-4 text-gray-700" />
           <button
             class="flex appearance-none md:hidden absolute left-0 p-4"
             @click="isOpen = !isOpen"
+            aria-label="Navigation öffnen"
           >
             <svg
               viewBox="0 0 16 16"
@@ -92,7 +95,7 @@
                 </ul>
               </li>
             </ul>
-            <transition name="fade-menu">
+            <transition name="fade-menu" aria-hidden="true">
               <div v-if="currentIndex === index1">
                 <component
                   :is="navComp(navigation[index1])"
