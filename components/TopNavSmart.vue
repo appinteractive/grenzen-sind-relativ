@@ -2,6 +2,7 @@
   <nav
     class="nav-main md:flex md:flex-wrap bg-white border-primary-200 fixed w-full z-50"
     role="navigation"
+    aria-label="Hauptnavigation"
   >
     <div
       class="w-full border-b border-primary-200 p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
@@ -17,7 +18,7 @@
               alt="Grenzen sind relativ e.V."
             />
           </nuxt-link>
-          <social-icons class="absolute md:hidden right-0 flex justify-end items-center p-4 text-gray-700" />
+          <social-icons class="absolute md:hidden right-0 flex justify-end items-center p-4 text-gray-700" aria-hidden="true" />
           <button
             class="flex appearance-none md:hidden absolute left-0 p-4"
             @click="isOpen = !isOpen"
@@ -46,7 +47,9 @@
           class="mt-12 md:mt-0 pt-1 flex-grow justify-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
-          :class="!isOpen ? 'hidden md:flex' : 'pt-12 pb-24 px-8'"
+          aria-label="Seiten"
+          role="menubar"
+          :class="!isOpen ? 'sr-only md:not-sr-only flex' : 'pt-12 pb-24 px-8'"
         >
           <li
             class="relative"
@@ -57,6 +60,7 @@
               :to="getNearestURL(level1)"
               class="level1 font-medium tracking-wide hover:text-primary-900 flex py-2 md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0 relative"
               :class="activeMain === level1.title && 'font-bold'"
+              role="menuitem"
               @mouseenter.native="setCurrentIndex(index1)"
             >
               {{ level1.title }}
@@ -65,7 +69,7 @@
               />
             </TopNavLink>
             <ul
-              class="md:hidden w-full pb-4 flex flex-col"
+              class="md:sr-only w-full pb-4 flex flex-col"
               v-if="level1.children && level1.children.length > 0"
             >
               <li v-for="level2 in level1.children" :key="level2.title">
@@ -95,8 +99,8 @@
                 </ul>
               </li>
             </ul>
-            <transition name="fade-menu" aria-hidden="true">
-              <div v-if="currentIndex === index1">
+            <transition name="fade-menu">
+              <div v-if="currentIndex === index1" aria-hidden="true">
                 <component
                   :is="navComp(navigation[index1])"
                   :navigation="navigation[index1]"
@@ -105,7 +109,7 @@
             </transition>
           </li>
         </ul>
-        <social-icons class="hidden lg:flex justify-end items-center w-32 text-gray-700" />
+        <social-icons class="sr-only lg:not-sr-only flex justify-end items-center w-32 text-gray-700" />
       </div>
     </div>
   </nav>

@@ -1,10 +1,14 @@
 <template>
   <aside class="lg:w-56 lg:fixed h-full border mb-12 p-6 lg:p-0 bg-primary-100 lg:bg-transparent lg:border-transparent rounded">
-    <nav class="-ml-1">
+    <nav
+      class="-ml-1"
+      aria-label="Unternavigation"
+      role="menu"
+    >
       <ul>
         <li v-for="parent in subMenu" :key="parent.title" class="flex items-start flex-col pb-1">
           <div class="sub-nav_main flex">
-            <arrow-right class="h-5 w-5 text-primary-500 mt-1 -mr-1 flex-shrink-0" />
+            <arrow-right class="h-5 w-5 text-primary-500 mt-1 -mr-1 flex-shrink-0" aria-hidden="true" />
             <div
               class="w-full text-md"
               :class="currentTitle === parent.title && 'font-semibold'"
@@ -13,6 +17,7 @@
                 :to="getNearestURL(parent)"
                 class="block p-2 py-1 hover:text-primary-900 hover:underline rounded"
                 :class="currentTitle === parent.title ? 'text-primary-900 ': 'text-primary-700'"
+                role="menuitem"
               >
                 {{ parent.title }}
               </nuxt-link>
@@ -24,6 +29,7 @@
               <nuxt-link
                 :to="getNearestURL(item)"
                 class="block p-2 py-1 text-primary-700 text-sm hover:text-primary-900 hover:underline rounded"
+                role="menuitem"
               >
                 {{ item.title }}
               </nuxt-link>

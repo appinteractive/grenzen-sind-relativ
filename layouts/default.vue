@@ -1,10 +1,10 @@
   <template>
   <div class="min-h-screen flex flex-col bg-gray-100 w-screen text-gray-700 antialiased leading-tight">
     <TopNavSmart :navigation="mainNav" :active-main="activeMain" :current-title="currentTitle" />
-    <main class="min-h-full flex-grow" style="min-height: 30rem">
+    <main class="min-h-full flex-grow" style="min-height: 30rem" role="main" aria-label="Inhalt">
       <Nuxt class="pt-32" />
     </main>
-    <Footer :navigation="footerNav" :copyright="copyright" />
+    <Footer :navigation="footerNav" :copyright="copyright" aria-label="Fußleiste" />
   </div>
 </template>
 

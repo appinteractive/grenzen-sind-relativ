@@ -2,7 +2,7 @@
   <nuxt-link v-if="to" :to="to">
     <slot />
   </nuxt-link>
-  <div v-else class="inline cursor-pointer">
+  <div v-else class="inline cursor-pointer" aria-hidden="true">
     <slot />
   </div>
 </template>
