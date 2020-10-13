@@ -1,7 +1,10 @@
 ---
-title: Allgemeine Infos 2. Inklusion- & Friedenssong
-description: ''
-teaser: ''
+title: NEU - Kampagne 2. Inklusion- & Friedenssong (Arbeitstitel)
+description: Aufbauend auf unsere Kampagne „AndersSein vereint – Inklusionssong für
+  Deutschland“ werden wir nun einen „2. Inklusions- & Friedenssong“ realisieren, der
+  im Rahmen einer bundesweiten Kampagne diverse Synergien, Entwicklungsprozesse und
+  Folgeprojekte freisetzen wird.
+teaser: "/media/2020/09/0-prio-friedensbrucke.jpg"
 gallery: []
 alias: ''
 

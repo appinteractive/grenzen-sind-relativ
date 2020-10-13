@@ -1,6 +1,10 @@
 ---
 title: 'Musikunterricht Kiel '
 description: ''
+teaser: ''
+wide: false
+gallery: []
+alias: ''
 
 ---
 # Musikunterricht Kiel
@@ -17,7 +21,11 @@ _Unsere Vision ist: Es gibt keine Handicaps mehr !_
 
 _Musik ist ein Planet für alle Menschen und kennt keine Grenzen_
 
-_Zum Abschluss ein Zitat: „Ohne Musik ist das Leben ein Irrtum“. (Nietzsche)“_
+_Zum Abschluss ein Zitat:_ 
+
+> _Ohne Musik ist das Leben ein Irrtum_
+>
+> > _Nietzsche_
 
 Weitere Infos: [www.rockpopschule.de](http://www.rockpopschule.de/)
 
