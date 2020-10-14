@@ -1,5 +1,5 @@
 ---
-title: NEU - Vermittlungsbörse
+title: Vermittlungsbörse
 description: Es gehört zu unserer Mission, verschiedenste Menschen, Netzwerke und
   Institutionen zusammen zu bringen. Somit haben wir die neue Rubrik "Vermittlungsbörse"
   eingeführt. Verbunden mit unseren vielfältigen Aktivitäten können wir auf ein großes
