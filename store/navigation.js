@@ -4,7 +4,7 @@ import settings from '~/config/settings.json'
 import helpers from '~/lib/helpers'
 
 function normalizeUrls(items) {
-  const output = [ ...items ]
+  const output = [ ...items.filter(item => !item.disabled) ]
 
   output.forEach(item => {
     if (item.page) {
@@ -15,7 +15,7 @@ function normalizeUrls(items) {
     }
   })
 
-  return output
+  return output.filter(item => !item.disabled)
 }
 
 function getBreadCrumbs(branch, url, parents) {
