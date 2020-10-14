@@ -80,7 +80,7 @@ export default {
   @apply p-0 m-0 !important;
 }
 .prose .slideshow .swiper-slide p, .swiper-slide h3 {
-  @apply px-4 pb-2 !important;
+  @apply px-2 pb-2 !important;
 }
 .prose .slideshow .swiper-slide h3 {
   @apply pt-2 mt-0 !important;
