@@ -1,5 +1,5 @@
 ---
-title: NEU - Mach Deine Veranstaltung mit uns!
+title: Mach Deine Veranstaltung mit uns!
 description: Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein,
   Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten
   & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine
