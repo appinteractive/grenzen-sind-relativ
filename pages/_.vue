@@ -4,7 +4,7 @@
     <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
       <article
         tabindex="-1"
-        class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16"
+        class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16 outline-none"
       >
         <nuxt-content
           :document="page"
