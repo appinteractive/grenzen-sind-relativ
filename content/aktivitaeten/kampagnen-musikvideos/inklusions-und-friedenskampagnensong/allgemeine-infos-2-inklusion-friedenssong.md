@@ -1,5 +1,5 @@
 ---
-title: Kampagne 2. Inklusion- & Friedenssong (Arbeitstitel)
+title: Kampagne 2. Inklusion- & Friedenssong
 description: Aufbauend auf unsere Kampagne „AndersSein vereint – Inklusionssong für
   Deutschland“ werden wir nun einen „2. Inklusions- & Friedenssong“ realisieren, der
   im Rahmen einer bundesweiten Kampagne diverse Synergien, Entwicklungsprozesse und
