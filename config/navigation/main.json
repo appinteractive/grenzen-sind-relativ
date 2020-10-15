@@ -290,19 +290,9 @@
         {
           "title": "Pressespiegel",
           "children": [
-            {
-              "title": "TV",
-              "page": "content/media/pressespiegel/tv.md"
-            },
-            {
-              "title": "Print & Online",
-              "page": "content/media/pressespiegel/print-und-online.md"
-            },
-            {
-              "title": "Radio",
-              "page": "content/media/pressespiegel/radio.md"
-            }
-          ]
+
+          ],
+          "page": "content/media/pressespiegel-kompakt.md"
         },
         {
           "title": "GSR e.V. Channel",
