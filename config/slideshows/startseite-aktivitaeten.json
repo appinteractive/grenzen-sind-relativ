@@ -32,12 +32,6 @@
       "image": ""
     },
     {
-      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md",
-      "title": "Vermittlungsbörse",
-      "subtitle": "",
-      "image": ""
-    },
-    {
       "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
       "title": "Musikunterricht für Hörgeschädigte",
       "subtitle": "",
@@ -52,6 +46,12 @@
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
       "title": "Workshops, Talk & Konzert von/mit der Mischa Gohlke Band",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md",
+      "title": "Vermittlungsbörse",
       "subtitle": "",
       "image": ""
     },

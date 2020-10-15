@@ -18,6 +18,6 @@ gallery:
 ---
 # Print & Online
 
-<gallery>
+<gallery>![](/media/2020/09/taz-bilder-im-kopf-8-07-2013.jpg)![](/media/2020/09/taz-02-12-16-interview-mischa-gohlke.jpg)
 
 </gallery>

@@ -1,5 +1,5 @@
 ---
-title: AndersSein vereint – Inklusionssong für Deutschland
+title: 'Kampagne "AndersSein vereint" '
 description: 'In der aufwendigen wie mitreißenden Musikvideoproduktion singen, grooven,
   rappen und gebärden mehr als 80 Protagonisten von universeller Verbundenheit und
   der Überwindung persönlicher wie gesellschaftlicher Grenzen. Ziel ist es, mit der
@@ -8,6 +8,7 @@ description: 'In der aufwendigen wie mitreißenden Musikvideoproduktion singen, 
 teaser: "/media/2020/09/asv-beitragsbild.jpg"
 gallery: []
 alias: "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html"
+wide: false
 
 ---
 # AndersSein vereint – Inklusionssong für Deutschland

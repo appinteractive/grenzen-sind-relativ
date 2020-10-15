@@ -65,7 +65,7 @@
               ]
             },
             {
-              "title": "NEU - Erlebnistage Inklusion durch Musik",
+              "title": "Erlebnistage Inklusion durch Musik",
               "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
               "children": [
                 {
@@ -77,7 +77,7 @@
               "disabled": false
             },
             {
-              "title": "NEU - Mach Deine Veranstaltung mit uns!",
+              "title": "Mach Deine Veranstaltung mit uns!",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
               "children": [
                 {
@@ -162,7 +162,7 @@
               ]
             },
             {
-              "title": "NEU - 2. Inklusions- & Friedenssong (Arbeitstitel)",
+              "title": "2. Inklusions- & Friedenssong (Arbeitstitel)",
               "description": "Eine (r)evolutionäre Kampagne für eine Beziehungskultur mit allem was dazu gehört!",
               "children": [
                 {
@@ -258,12 +258,12 @@
               "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md"
             },
             {
-              "title": "NEU - Vermittlungsbörse",
+              "title": "Vermittlungsbörse",
               "description": "Vermittlung von Künstlern, Dozenten, Filmern, Designern, Promotern, usw.",
               "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md"
             },
             {
-              "title": "NEU - Gesamtgesellschaftliches Aktionsbündnis",
+              "title": "Gesamtgesellschaftliches Aktionsbündnis",
               "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/gemeinschaftliches-aktionsbundnis.md",
               "disabled": true
             }
@@ -290,23 +290,14 @@
         {
           "title": "Pressespiegel",
           "children": [
-            {
-              "title": "TV",
-              "page": "content/media/pressespiegel/tv.md"
-            },
-            {
-              "title": "Print & Online",
-              "page": "content/media/pressespiegel/print-und-online.md"
-            },
-            {
-              "title": "Radio",
-              "page": "content/media/pressespiegel/radio.md"
-            }
-          ]
+
+          ],
+          "page": "content/media/pressespiegel-kompakt.md"
         },
         {
           "title": "GSR e.V. Channel",
-          "page": "content/media/gsr-ev-channel.md"
+          "page": "content/media/gsr-ev-channel.md",
+          "disabled": true
         },
         {
           "title": "Blog",

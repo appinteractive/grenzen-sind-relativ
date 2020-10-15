@@ -1,6 +1,6 @@
 ---
 teaser: "/media/2015/04/AndersSein-vereint-Massenszene1-_-Foto-by-Tom-Roeler.jpg"
-title: NEU - Gesamtgesellschaftliches Aktionsbündnis
+title: Gesamtgesellschaftliches Aktionsbündnis
 description: Im Rahmen unserer neuen Kampagne "2. Inklusions- und Friedenssong" (Arbeitstitel)
   werden wir im kommenden Jahr ein neues “gesamtgesellschaftliches Aktionsbündnis”
   ins Leben rufen. So können wir Synergien & Multiplikatoren strukturell mehr bündeln
