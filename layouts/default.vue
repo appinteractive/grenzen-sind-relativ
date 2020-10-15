@@ -4,6 +4,7 @@
     <main class="min-h-full flex-grow" style="min-height: 30rem" role="main" aria-label="Inhalt">
       <Nuxt class="pt-32" />
     </main>
+    <!-- <VueAnnouncer /> -->
     <Footer :navigation="footerNav" :copyright="copyright" aria-label="Fußleiste" />
   </div>
 </template>
@@ -11,7 +12,6 @@
 <script>
 
 export default {
-
   created() {
     this.mainNav = this.$store.getters['navigation/mainNav']
     this.footerNav = this.$store.getters['navigation/footerNav']

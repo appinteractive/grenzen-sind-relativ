@@ -3,6 +3,7 @@
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
     <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
       <article
+        tabindex="-1"
         class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16"
       >
         <nuxt-content
@@ -13,6 +14,7 @@
       </article>
       <div v-if="hasSubMenu">
         <SubMenu
+          tabindex="-1"
           :sub-menu="subMenu"
           :parents="subMenu"
           :current-title="currentTitle"
@@ -182,6 +184,7 @@ export default {
 
 .prose blockquote {
   @apply text-xl font-serif italic text-left pl-4 pr-2 border-none text-primary-600;
+  label: "Zitat";
 }
 .prose blockquote blockquote {
   @apply text-base -mt-6 text-right text-pink-800 not-italic;
