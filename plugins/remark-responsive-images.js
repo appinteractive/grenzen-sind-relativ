@@ -19,19 +19,19 @@ const resize = async (input, output, originalSize, outputSize, blur) => {
   const fullName = `${fileName}.${ext}`
 
   try {
-    let image = sharp(input)
+    let image = sharp(input.trim())
       .resize(outputSize, null, {
         withoutEnlargement: true
       })
-      .toFormat(ext, {
+      .toFormat(ext.toLowerCase(), {
         quality: 90,
         progressive: !blur
       })
     if (blur) {
-      outputName = outputName.replace(fullName, `${fileName}-blurred.${ext}`)
+      outputName = outputName.replace(fullName, `${fileName}-blurred.${ext.toLowerCase()}`)
       image.blur(10)
     } else {
-      outputName = outputName.replace(fullName, `${fileName}-w${outputSize}.${ext}`)
+      outputName = outputName.replace(fullName, `${fileName}-w${outputSize}.${ext.toLowerCase()}`)
     }
     if (blur) {
       await image.toFile(outputName)
@@ -41,7 +41,7 @@ const resize = async (input, output, originalSize, outputSize, blur) => {
       return outputName.split('/static').pop()
     }
   } catch (err) {
-    console.log('ERROR', err.message)
+    console.log('ERROR', err.message, input)
   }
 }
 
@@ -82,8 +82,12 @@ async function visitor(node) {
     const srcsetString = srcset.join(', ')
 
     const placeholder = await resize(input, output, sizeMax, 24, true)
-    const buff = fs.readFileSync(placeholder, {encoding: 'base64'})
-    const base64 = `data:image/${ext};base64,${buff}`
+
+    let base64 = null
+    if (fs.existsSync(placeholder)) {
+      const buff = fs.readFileSync(placeholder, {encoding: 'base64'})
+      base64 = `data:image/${ext};base64,${buff}`
+    }
 
     node.type = 'html'
     node.value = `<responsive-image src="${url}" ratio="${ratio}" placeholder="${base64}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
