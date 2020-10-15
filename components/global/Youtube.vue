@@ -14,7 +14,7 @@
     >
       <svg
         viewBox="0 0 24 24"
-        class="w-12 h-12 absolute"
+        class="w-12 h-12 z-10 absolute"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"
       >
@@ -31,6 +31,11 @@
       frameborder="0"
       allowFullscreen
     ></iframe>
+    <transition name="fade">
+      <div v-if="title" :key="title" class="absolute pointer-events-none z-10 h-full w-full bg-black bg-opacity-75">
+        <p v-if="title" class="absolute pointer-events-none z-10 text-white text-xl py-0 px-4 bottom-0">{{ title }}</p>
+      </div>
+    </transition>
   </div>
 </template>
 
@@ -47,6 +52,7 @@ export default {
   },
   props: {
     id: { type: String, required: true },
+    title: { type: String, default: null },
     preview: { type: String, default: null },
   },
   data: () => ({

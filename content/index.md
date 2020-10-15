@@ -24,3 +24,5 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 >> Aus Japan
 
 <slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
+
+<video-gallery name="startseite-video-galerie"></video-galerie>

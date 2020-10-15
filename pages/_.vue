@@ -58,7 +58,28 @@ function processSlideshow(name, props, $content) {
     })
   }
 
-return slides
+  return slides
+}
+
+function processVideoGallery(name, props) {
+  const data = require(`~/config/video-galleries/${name}.json`)
+  let videos = data && data.videos ? data.videos : []
+
+  const videosNew = []
+  return new Promise((resolve) => {
+    videos.forEach((video) => {
+      videosNew.push({
+        videoId: video.videoId,
+        title: video.title,
+      })
+
+      if (videosNew.length === videos.length) {
+        videos = videosNew
+        props.videos = JSON.stringify(videosNew)
+        resolve(videos)
+      }
+    })
+  })
 }
 
 export default {
@@ -87,15 +108,20 @@ export default {
     const currentTitle = lastCrumb ? lastCrumb.title : null
     const widePage = !!page.wide
 
-    const process = []
+    const processSlideshows = []
+    const processVideoGalleries = []
     page.body.children.forEach((child, i) => {
       if (child.tag === 'slideshow') {
-        process.push(new Promise((resolve) => {
+        processSlideshows.push(new Promise((resolve) => {
           resolve(processSlideshow(child.props.name, child.props, $content))
+        }))
+      } else if (child.tag === 'video-gallery') {
+        processVideoGalleries.push(new Promise((resolve) => {
+          resolve(processVideoGallery(child.props.name, child.props))
         }))
       }
     })
-    const slides = await Promise.all(process)
+    await Promise.all(processSlideshows, processVideoGalleries)
 
     return { page, breadCrumbs, subMenu, currentTitle, widePage }
   },
