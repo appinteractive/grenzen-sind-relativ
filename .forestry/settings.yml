@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Inhalt
@@ -21,6 +21,14 @@ sections:
   new_doc_ext: json
   templates:
   - slideshow
+- type: directory
+  path: config/video-galleries
+  label: Video Galerien
+  create: documents
+  match: "**/*.json"
+  new_doc_ext: json
+  templates:
+  - video-gallery
 - type: heading
   label: Einstellungen
 - type: document

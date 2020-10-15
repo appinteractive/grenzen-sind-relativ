@@ -1,0 +1,18 @@
+---
+label: Video-Galerie
+hide_body: true
+fields:
+- name: slides
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titel
+  - name: video
+    type: text
+    label: Youtube URL
+  config:
+    labelField: title
+  label: Videos
