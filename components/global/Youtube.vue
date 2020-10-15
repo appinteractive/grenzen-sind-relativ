@@ -3,11 +3,14 @@
     class="relative w-full pb-16/9 bg-black bg-center"
     :style="style"
     v-observe-visibility="!visible && visibilityChanged"
+    aria-label="Video abspielen"
+    role="button"
   >
     <div
       v-if="!accept"
       class="absolute w-full h-full items-center justify-center flex cursor-pointer group"
       @click="accept = true"
+      role="button"
     >
       <svg
         viewBox="0 0 24 24"
@@ -17,7 +20,9 @@
       >
         <circle cx="12" cy="12" r="12" fill="#ffffff" />
       </svg>
-      <icon-youtube class="w-20 h-20 group-hover:w-24 group-hover:h-24 text-red-800 z-10" />
+      <icon-youtube
+        class="w-20 h-20 group-hover:w-24 group-hover:h-24 text-red-800 z-10"
+      />
     </div>
     <iframe
       v-if="visible && accept"
@@ -35,13 +40,14 @@ import IconYoutube from '~/static/svg/youtube.svg?inline'
 
 export default {
   components: {
-    IconYoutube
+    IconYoutube,
   },
   directives: {
     ObserveVisibility,
   },
   props: {
     id: { type: String, required: true },
+    preview: { type: String, default: null },
   },
   data: () => ({
     visible: false,
@@ -59,7 +65,11 @@ export default {
     style() {
       const styles = [
         `background-size: cover`,
-        `background-image: url(https://i.ytimg.com/vi/${this.id}/sddefault.jpg)`,
+        `background-image: url(${
+          this.preview && this.preview.length > 10
+            ? this.preview
+            : `https://i.ytimg.com/vi/${this.id}/sddefault.jpg`
+        })`,
       ]
       return this.visible ? styles.join('; ') : []
     },
