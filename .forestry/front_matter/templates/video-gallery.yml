@@ -19,3 +19,5 @@ fields:
   config:
     labelField: title
   label: Videos
+pages:
+- config/video-galleries/startseite-video-galerie.json
