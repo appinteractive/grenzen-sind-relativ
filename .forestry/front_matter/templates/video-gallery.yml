@@ -10,11 +10,12 @@ fields:
     config:
       required: true
     label: Titel
-  - name: video
+  - name: video-id
     type: text
-    label: Youtube URL
+    label: Youtube Video ID
     config:
       required: true
+      min: 5
   config:
     labelField: title
   label: Videos
