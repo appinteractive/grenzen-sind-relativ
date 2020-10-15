@@ -2,7 +2,7 @@
 label: Video-Galerie
 hide_body: true
 fields:
-- name: slides
+- name: videos
   type: field_group_list
   fields:
   - name: title
@@ -10,7 +10,7 @@ fields:
     config:
       required: true
     label: Titel
-  - name: video-id
+  - name: videoId
     type: text
     label: Youtube Video ID
     config:
