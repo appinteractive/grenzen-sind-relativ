@@ -33,7 +33,7 @@
     ></iframe>
     <transition name="fade">
       <div v-if="title" :key="title" class="absolute pointer-events-none z-10 h-full w-full bg-black bg-opacity-75">
-        <p v-if="title" class="absolute pointer-events-none z-10 text-white text-xl py-0 px-4 bottom-0">{{ title }}</p>
+        <p v-if="title" class="absolute pointer-events-none z-10 text-white text-xl py-0 px-6 bottom-0">{{ title }}</p>
       </div>
     </transition>
   </div>
