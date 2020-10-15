@@ -29,7 +29,7 @@ const resize = async (input, output, originalSize, outputSize, blur) => {
       })
     if (blur) {
       outputName = outputName.replace(fullName, `${fileName}-blurred.${ext.toLowerCase()}`)
-      image.blur(10)
+      image.blur(5)
     } else {
       outputName = outputName.replace(fullName, `${fileName}-w${outputSize}.${ext.toLowerCase()}`)
     }
