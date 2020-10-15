@@ -13,6 +13,8 @@ fields:
   - name: video
     type: text
     label: Youtube URL
+    config:
+      required: true
   config:
     labelField: title
   label: Videos
