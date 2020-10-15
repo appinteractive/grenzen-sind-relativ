@@ -3,7 +3,13 @@
     <div v-if="vids.length > 0">
       <youtube :id="vids[current].videoId" :title="title" />
     </div>
-    <div class="grid gap-1 h-auto pt-1" :class="`grid-cols-${Math.max(vids.length, 4)}`">
+    <div
+      class="grid gap-1 h-auto pt-1"
+      :style="`grid-template-columns: repeat(${Math.max(
+        vids.length,
+        4
+      )}, minmax(0, 1fr))`"
+    >
       <div
         v-for="(vid, i) of vids"
         :key="vid.videoId"
@@ -36,7 +42,7 @@ export default {
     setVid(i) {
       this.current = i
       this.hover = null
-    }
+    },
   },
   computed: {
     vids() {
@@ -55,7 +61,6 @@ export default {
       ) {
         return null
       } else {
-        console.log('HOVER', this.hover)
         return this.vids[this.hover].title
       }
     },

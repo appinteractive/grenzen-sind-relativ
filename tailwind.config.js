@@ -1,22 +1,44 @@
 /*
-** TailwindCSS Configuration File
-**
-** Docs: https://tailwindcss.com/docs/configuration
-** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
-*/
+ ** TailwindCSS Configuration File
+ **
+ ** Docs: https://tailwindcss.com/docs/configuration
+ ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
+ */
 module.exports = {
   theme: {
     extend: {
       minWidth: {
-        '20': '20rem',
+        20: '20rem',
       },
       fontFamily: {
-        sans: ['Signika', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'Noto Sans', 'sans-serif', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'],
-        serif: ['Lora', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif']
+        sans: [
+          'Signika',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          'Segoe UI',
+          'Roboto',
+          'Helvetica Neue',
+          'Arial',
+          'Noto Sans',
+          'sans-serif',
+          'Apple Color Emoji',
+          'Segoe UI Emoji',
+          'Segoe UI Symbol',
+          'Noto Color Emoji',
+        ],
+        serif: [
+          'Lora',
+          'Georgia',
+          'Cambria',
+          'Times New Roman',
+          'Times',
+          'serif',
+        ],
       },
       colors: {
         primary: {
-          50:  '#F4F8F9',
+          50: '#F4F8F9',
           100: '#E9F1F3',
           200: '#C8DCE2',
           300: '#A7C6D1',
@@ -28,7 +50,7 @@ module.exports = {
           900: '#0B222A',
         },
         secondary: {
-          50:  '#F7FCFE',
+          50: '#F7FCFE',
           100: '#EFF8FD',
           200: '#D8EEF9',
           300: '#C0E4F5',
@@ -41,9 +63,9 @@ module.exports = {
         },
       },
       spacing: {
-        '16/9': '56.25%'
-      }
-    }
+        '16/9': '56.25%',
+      },
+    },
   },
   variants: {
     textDecoration: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
@@ -51,21 +73,19 @@ module.exports = {
     width: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
     height: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
     opacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    zIndex: ['hover']
+    zIndex: ['hover'],
   },
-  plugins: [
-    require('@tailwindcss/typography'),
-  ],
+  plugins: [require('@tailwindcss/typography')],
   purge: {
     // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
     enabled: process.env.NODE_ENV === 'production',
-    whitelist: ['swiper', 'swiper-*', 'grid-cols-*'],
+    whitelist: ['swiper', 'swiper-*'],
     content: [
       'components/**/*.vue',
       'layouts/**/*.vue',
       'pages/**/*.vue',
       'plugins/**/*.js',
-      'nuxt.config.js'
-    ]
-  }
+      'nuxt.config.js',
+    ],
+  },
 }
