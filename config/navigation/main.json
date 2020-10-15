@@ -306,7 +306,8 @@
         },
         {
           "title": "GSR e.V. Channel",
-          "page": "content/media/gsr-ev-channel.md"
+          "page": "content/media/gsr-ev-channel.md",
+          "disabled": true
         },
         {
           "title": "Blog",
