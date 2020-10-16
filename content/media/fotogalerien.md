@@ -25,6 +25,8 @@ description: Fotogalerien unserer Feranstaltungen
 
 <gallery>
 
-![](/media/2020/10/hoffenheim1.png)![](/media/2020/10/hoffenheim2.jpg)![](/media/2020/10/est-asv.jpg)![](/media/2020/10/friedenssong-ptm-2017.jpg)![](/media/2020/10/konfliktlotsentage.jpg)![](/media/2020/10/kinder.jpg)![](/media/2020/10/gruppenfoto.jpg)
+![](/media/2020/10/neu1.jpg)
+
+![](/media/2020/10/hoffenheim1.png)![](/media/2020/10/hoffenheim2.jpg)![](/media/2020/10/est-asv.jpg)![](/media/2020/10/friedenssong-ptm-2017.jpg)![](/media/2020/10/konfliktlotsentage.jpg)![](/media/2020/10/kinder.jpg)![](/media/2020/10/gruppenfoto.jpg)![](/media/2020/10/talk.jpg)
 
 </gallery>
