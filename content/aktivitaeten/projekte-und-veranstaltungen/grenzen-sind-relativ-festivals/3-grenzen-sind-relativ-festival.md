@@ -1,15 +1,16 @@
 ---
 title: 3. Grenzen sind relativ Festival 2019
-description: 
-alias: /veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2.html
+description: Empty description
+alias: "/veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2.html"
+
 ---
 # 3. Grenzen sind relativ Festival
 
 ## Sa. 26.10.19 Fabrik Hamburg
 
-[![img](/media/2019/08/Webseite-Overbild.jpg)](/media/2019/08/Webseite-Overbild.jpg)
+[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)
 
-Yeeaaahh, ++++ bald ist es wieder soweit !! Zusammen mit über 100  Künstler*innen, Ausstellenden und gemeinnützigen Organisationen, werden  wir das *__“synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke*__ ausgiebig feiern! Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen! 🙂
+Yeeaaahh, ++++ bald ist es wieder soweit !! Zusammen mit über 100  Künstler*innen, Ausstellenden und gemeinnützigen Organisationen, werden  wir das ___“synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke___ ausgiebig feiern! Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen! 🙂
 
 Ein Highlight des diesjährigen Festivals sind unsere **“Art-Clashes”**: Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen  exklusive Performances auf die Bühne zaubern, die so noch nie so  gesehen, gehört und erlebt worden sind. _It´s only “Clash! Boom! Bang!”, but we like it!_ 😉
 
@@ -29,13 +30,13 @@ Sa. 26.10.2019 in der Fabrik (Barnerstr. 36, 22765 Hamburg, [www.fabrik.de](http
 
 Einlass & Beginn: 19:00 Uhr
 
-**[VVK: Tickets für 15 Euro (zzgl. Geb.)](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=31039) AK: 20 Euro**
+[**VVK: Tickets für 15 Euro (zzgl. Geb.)**](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=31039) **AK: 20 Euro**
 
 Facebook-Event: https://www.facebook.com/events/400120764041058
 
 _Die Fabrik ist für “Wheelers” barrierefrei gestaltet! Gebärdensprach- & Schriftdolmetscher werden vor Ort sein._ *Für die großzügige Unterstützung geht unser Dank an das “Bezirksamt Altona” die “Stiftung Hamburger Wohnen”, die “Behörde für Kultur und Medien  Hamburg” und die „GLS Treuhand“.
 
----
+———————————————————————————————————————————
 
 ## **PROGRAMM / LIVE ON STAGE:**
 
@@ -75,12 +76,12 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 
 ## **INTERAKTIVE ERLEBNISWELTEN, VIDEO-KUNST, KUNSTAUSSTELLUNGEN** **& NETWORK-AREA von/mit**:
 
-[**BEYOND BORDERS e.V.**](https://beyond-borders-ev.de/de/) **+++** [**UNIVERSITY OF APPLIED SCIENCES EUROPE**](https://www.btk-fh.de/de/hamburg/) **+++** [**YACHTKLUB – KÜNSTLER*INNEN-KOLLEKTIV**](https://www.instagram.com/yachtklub_society/) **+++** [**HÜLLER MEDIENWERKSTATT e.V.**](https://hueller-medienwerkstatt.de/) **+++** [**EMBASSY OF HOPE THALIA THEATER**](https://www.facebook.com/EmbassyThaliaTheater/) **+++** [**PAX TERRA MUSICA – DAS FRIEDENSFESTIVAL**](https://www.pax-terra-musica.de/) **+++** [**KINDERLEBEN e.V.**](https://kinderleben.hamburg/) **+++** [**INKLUSION MUSS LAUT SEIN e.V.**](https://www.i-m-l-s.com/) **+++** [**RAP FOR REFUGEES e.V.**](https://www.rapforrefugees.org/) **+++** [**GOOD CAUSE e.V.**](https://www.facebook.com/goodcause2013/) **+++** [**BDS HAMBURG e.V.**](https://www.bds-hh.de/) **+++** [**LERNART**](https://lernart.schule/) **+++** [**URBAN CITIZENSHIP CARD**](http://urban-citizenship-hamburg.rechtaufstadt.net/) **+++** [**LINA HAWK**](https://linahawk.com/site/) **+++** [**TOM ROELER**](https://roeler.com/) **+++** [**SHIATSU ZUM LEBEN**](https://www.shiatsu-zum-leben.de) **+++ U.V.M.**
+[**BEYOND BORDERS e.V.**](https://beyond-borders-ev.de/de/) **+++** [**UNIVERSITY OF APPLIED SCIENCES EUROPE**](https://www.btk-fh.de/de/hamburg/) **+++** [**YACHTKLUB – KÜNSTLER*INNEN-KOLLEKTIV**](https://www.instagram.com/yachtklub_society/) **+++** [**HÜLLER MEDIENWERKSTATT e.V.**](https://hueller-medienwerkstatt.de/) **+++** [**EMBASSY OF HOPE THALIA THEATER**](https://www.facebook.com/EmbassyThaliaTheater/) **+++** [**PAX TERRA MUSICA – DAS FRIEDENSFESTIVAL**](https://www.pax-terra-musica.de/) **+++** [**KINDERLEBEN e.V.**](https://kinderleben.hamburg/) **+++** [**INKLUSION MUSS LAUT SEIN e.V.**](https://www.i-m-l-s.com/) **+++** [**RAP FOR REFUGEES e.V.**](https://www.rapforrefugees.org/) **+++** [**GOOD CAUSE e.V.**](https://www.facebook.com/goodcause2013/) **+++** [**BDS HAMBURG e.V.**](https://www.bds-hh.de/) **+++** [**LERNART**](https://lernart.schule/) **+++** [**URBAN CITIZENSHIP CARD**](https://urban-citizenship-hamburg.rechtaufstadt.net/) **+++** [**LINA HAWK**](https://linahawk.com/site/) **+++** [**TOM ROELER**](https://roeler.com/) **+++** [**SHIATSU ZUM LEBEN**](https://www.shiatsu-zum-leben.de) **+++ U.V.M.**
 
----
+————————————————————————————————————————————-
 
 ## **Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden:**
 
-Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. /
+Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. https://www.grenzensindrelativ.de
 
-[![img](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)
+[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)
