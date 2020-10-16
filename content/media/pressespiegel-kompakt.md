@@ -1,6 +1,6 @@
 ---
 teaser: ''
-title: Pressespiegel (kompakt)
+title: Pressespiegel
 description: ''
 wide: false
 gallery: []
