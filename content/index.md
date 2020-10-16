@@ -10,7 +10,7 @@ seite:
 ---
 
 
-![Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden](/media/2020/10/social-banner-2020-4.jpg)
+![Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden](/media/2020/10/social-banner-2020-5.jpg)
 
 ---
 
