@@ -4,7 +4,7 @@ description: ''
 teaser: ''
 wide: false
 gallery: []
-alias: ''
+alias: "/musikunterricht-fuer-hoergeschaedigte/kiel.html"
 
 ---
 # Musikunterricht Kiel
