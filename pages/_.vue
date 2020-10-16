@@ -231,4 +231,10 @@ export default {
     @apply -mx-48;
   }
 }
+
+@screen md {
+  .prose .md\:text-center blockquote {
+    @apply text-center;
+  }
+}
 </style>
