@@ -38,7 +38,7 @@
     "image-size": "^0.9.1",
     "imurmurhash": "^0.1.4",
     "prettier": "^2.0.5",
-    "sharp": "^0.26.1",
+    "sharp": "^0.26.2",
     "tailwindcss": "^1.7.6",
     "unist-util-visit": "^2.0.3"
   }

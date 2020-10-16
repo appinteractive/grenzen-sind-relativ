@@ -56,7 +56,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="postcss">
 .sub-nav_main .link-active {
   @apply text-primary-800 font-semibold;
 }

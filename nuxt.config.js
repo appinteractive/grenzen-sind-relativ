@@ -196,12 +196,6 @@ export default {
     async routes() {
       return generateRoutes()
     },
-    /* hooks: {
-      'content:file:beforeParse': (file) => {
-        if (file.extension !== '.md') return
-        file.data = file.data.replace(/react/g, 'vue')
-      }
-    } */
   },
   router: {
     linkActiveClass: 'link-parent-active',
@@ -225,7 +219,7 @@ export default {
       description: settings.description,
       theme_color: '#fff',
       appleStatusBarStyle: 'white',
-      ogImage: '/media/gsr-fb-banner_2018-1.jpg',
+      ogImage: '/media/2020/10/social-banner-2020-5.jpg',
     },
   },
 }
