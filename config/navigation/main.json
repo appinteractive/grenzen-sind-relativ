@@ -94,14 +94,15 @@
                 },
                 {
                   "title": "Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/aktionstage-inklusion-frieden-kultur.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/aktionstage-inklusion-frieden-kultur.md",
+                  "disabled": true
                 },
                 {
                   "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md"
                 }
               ],
-              "disabled": true
+              "disabled": false
             },
             {
               "title": "Kooperationsprojekte",
