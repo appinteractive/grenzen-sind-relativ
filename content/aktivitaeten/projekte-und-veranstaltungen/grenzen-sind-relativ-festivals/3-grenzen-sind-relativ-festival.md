@@ -36,7 +36,7 @@ Facebook-Event: https://www.facebook.com/events/400120764041058
 
 _Die Fabrik ist für “Wheelers” barrierefrei gestaltet! Gebärdensprach- & Schriftdolmetscher werden vor Ort sein._ *Für die großzügige Unterstützung geht unser Dank an das “Bezirksamt Altona” die “Stiftung Hamburger Wohnen”, die “Behörde für Kultur und Medien  Hamburg” und die „GLS Treuhand“.
 
-———————————————————————————————————————————
+---
 
 ## **PROGRAMM / LIVE ON STAGE:**
 
@@ -78,7 +78,7 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 
 [**BEYOND BORDERS e.V.**](https://beyond-borders-ev.de/de/) **+++** [**UNIVERSITY OF APPLIED SCIENCES EUROPE**](https://www.btk-fh.de/de/hamburg/) **+++** [**YACHTKLUB – KÜNSTLER*INNEN-KOLLEKTIV**](https://www.instagram.com/yachtklub_society/) **+++** [**HÜLLER MEDIENWERKSTATT e.V.**](https://hueller-medienwerkstatt.de/) **+++** [**EMBASSY OF HOPE THALIA THEATER**](https://www.facebook.com/EmbassyThaliaTheater/) **+++** [**PAX TERRA MUSICA – DAS FRIEDENSFESTIVAL**](https://www.pax-terra-musica.de/) **+++** [**KINDERLEBEN e.V.**](https://kinderleben.hamburg/) **+++** [**INKLUSION MUSS LAUT SEIN e.V.**](https://www.i-m-l-s.com/) **+++** [**RAP FOR REFUGEES e.V.**](https://www.rapforrefugees.org/) **+++** [**GOOD CAUSE e.V.**](https://www.facebook.com/goodcause2013/) **+++** [**BDS HAMBURG e.V.**](https://www.bds-hh.de/) **+++** [**LERNART**](https://lernart.schule/) **+++** [**URBAN CITIZENSHIP CARD**](https://urban-citizenship-hamburg.rechtaufstadt.net/) **+++** [**LINA HAWK**](https://linahawk.com/site/) **+++** [**TOM ROELER**](https://roeler.com/) **+++** [**SHIATSU ZUM LEBEN**](https://www.shiatsu-zum-leben.de) **+++ U.V.M.**
 
-————————————————————————————————————————————-
+---
 
 ## **Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden:**
 
