@@ -21,9 +21,9 @@ Zu Zeiten der individuellen und gesellschaftlichen Spaltung brauchen wir Inklusi
 Ziel muss es sein:
 
 * Die verschiedensten Prozesse und Themenbereiche, die das Leben ausmachen, in die Tiefe gehend mehr zu verstehen und in Beziehung zueinander zu bringen. →  Analyse
-* Zu reflektieren und zu erfahren, wer wir sind, was wir selbermächtigend in der Hand haben und eine gemeinschaftliche integrale Utopie zu entwickeln, wo wir als Menschheitsfamilie hin können und wollen. → Identität & Positionierung
+* Zu reflektieren und zu erfahren, wer wir sind, was wir selbstermächtigend in der Hand haben und eine gemeinschaftliche integrale Utopie zu entwickeln, wohin wir uns als Menschheitsfamilie entwickeln können und wollen. → Identität & Positionierung
 * Eine gesamtgesellschaftliche Bewegung aufzubauen, die sich für Systeme einsetzt, die wirklich für und mit uns Menschen - verbunden mit unserer Mit-Welt (Tiere, Pflanzen, usw.) - sind. Im Kleinen wie im Großen. → Aktiv Sein
-* Das „Große Ganze“ auf verschiedensten Ebenen mehr und mehr zum Leben zu bringen und dabei möglichst im achtsamen, wertfreien und ergebnisoffenen Dialog zu sein. → LEBEN
+* Das „Große Ganze“ auf verschiedensten Ebenen mehr und mehr zum Leben zu bringen und dabei prozessorientiert im achtsameren, wertfreieren und ergebnisoffeneren Dialog - nach innen und außen - zu sein. → LEBEN
 
 Lass uns also ALLE zusammen für einen grundlegenden  gesellschaftspolitischen strukturellen Wandel einsetzen und eine in die  Tiefe gehende Auseinandersetzung führen, was sich hinter Bewusstsein, Wahrnehmung und den scheinbaren Realitäten überhaupt verbirgt!
 
