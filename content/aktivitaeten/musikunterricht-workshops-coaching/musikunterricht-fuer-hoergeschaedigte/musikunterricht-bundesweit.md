@@ -1,6 +1,10 @@
 ---
 title: Musikunterricht Bundesweit
 description: ''
+teaser: ''
+wide: false
+gallery: []
+alias: "/musikunterricht-fuer-hoergeschaedigte/bundesweit.html"
 
 ---
 # Musikunterricht Bundesweit
