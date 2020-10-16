@@ -29,6 +29,7 @@ export default {
       loaded: false,
       visible: false,
       swiperOption: {
+        autoHeight: true,
         speed: 600,
         spaceBetween: 0,
         grabCursor: !this.teasers,
@@ -136,5 +137,10 @@ export default {
 
 .prose .swiper.teasers {
   @apply mb-10;
+}
+
+.prose .swiper-container {
+  width: 100%;
+  height: auto;
 }
 </style>
