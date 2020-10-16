@@ -12,7 +12,8 @@ description: Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kaba
   Spektrum liegt so nah.
 teaser: "/media/2020/09/spektralkombuse-beitragsbild.png"
 gallery: []
-alias: '/veranstaltungen/spektralkombuese.html'
+alias: "/veranstaltungen/spektralkombuese.html"
+wide: false
 
 ---
 # Spektralkombüse - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
@@ -23,7 +24,7 @@ Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kabarett? Eine Fr
 
 ***
 
-**Kassandra Wedel** ![kassandra wedel](/media/2015/11/kassandra-wedel.jpg)
+### **Kassandra Wedel** ![kassandra wedel](/media/2015/11/kassandra-wedel.jpg)
 
 Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer Auffassung. Sie spürt die Musik mit dem ganzen Körper. Dieser dankt es ihr, wenn sie mal elegant, mal wild oder einfühlsam über die Tanzfläche schwebt. Dabei ist Kassandra eine Perfektionistin, professionell ausgebildet und konnte sich bereits einige nationale wie internationale Preise sichern. U.a. ist Kassandra im Tatort „Totenstille“ und als Gewinnerin der Pro7-Show „Deutschland tanzt“ zu sehen gewesen. Sie hat den Rhythmus im Blut und das Talent in den Beinen. Sie werden begeistert sein!
 
@@ -33,25 +34,23 @@ Gehörlos und Tanzen geht nicht? Kassandra Wedel ist da ganz anderer Auffassung.
 
 → Pro7 „Deutschland tanzt“: [Deutschland tanzt- Kassandra Wedel für Bayern: Spiegel](https://www.prosieben.de/tv/deutschland-tanzt/video/12-kassandra-wedel-fuer-bayern-spiegel-clip)
 
-**Martin Fromme** ![Martin-Fromme](/media/2015/11/Martin-Fromme.jpeg)
+### **Martin Fromme** ![Martin-Fromme](/media/2015/11/Martin-Fromme.jpeg)
 
 Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Martin Fromme, der sich selbst als Deutschlands ersten und einzigen asymmetrischen Künstler bezeichnet. Geradezu unverschämt offensiv geht der MDR Moderator mit „appen“ Arm in die Schlacht gegen behinderte Klischees. „Kann eine Prostituierte im Rollstuhl eine Wander-hure sein?“ Tja, das regt zum nachdenken an und jede Opferrolle löst sich in Wohlgefallen auf. Viel Spaß damit!
 
 → Webseite: [https://www.martin-fromme.de](https://www.martin-fromme.de "https://www.martin-fromme.de")
 
-→ Video “Darf man Witze über Behinderung machen?”**:** [https://youtu.be/JjdRzwKuqKQ](https://youtu.be/JjdRzwKuqKQ "https://youtu.be/JjdRzwKuqKQ")
+[https://youtu.be/JjdRzwKuqKQ](https://youtu.be/JjdRzwKuqKQ "https://youtu.be/JjdRzwKuqKQ")
 
-→ Tegtmeier 2015: [https://youtu.be/bKXbiHQKC9I](https://youtu.be/bKXbiHQKC9I "https://youtu.be/bKXbiHQKC9I")
-
-**Mischa Gohlke Band**
+### **Mischa Gohlke Band**
 
 [![Mischa Gohlke Band - Fabrik 2018](/media/2019/04/Mischa-Gohlke-Band-Fabrik2018.jpg)](/media/2019/04/Mischa-Gohlke-Band-Fabrik2018.jpg) Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er – „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps – erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht. In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach. Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den gebürtigen Rheinländer und studierten Jazz-Schlagzeuger Alex Jezdinsky (Nils Frevert, Gisbert zu Knyphausen, Michel van Dyke). Das Power-Trio spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt!
 
 → Webseite: [www.mischagohlkeband.de](https://mischagohlkeband.de/)
 
-–> Mischa Gohlke Band – Teaser: [https://youtu.be/D2xro2s2Crs](https://youtu.be/D2xro2s2Crs "https://youtu.be/D2xro2s2Crs")
+[https://youtu.be/D2xro2s2Crs](https://youtu.be/D2xro2s2Crs "https://youtu.be/D2xro2s2Crs")
 
-→ NDR SH Magazin „Musiker ohne Gehör“: [https://youtu.be/7RohEwmDdXY](https://youtu.be/7RohEwmDdXY "https://youtu.be/7RohEwmDdXY")
+[https://youtu.be/7RohEwmDdXY](https://youtu.be/7RohEwmDdXY "https://youtu.be/7RohEwmDdXY")
 
 **Moderation:**[![markus-riemann-foto.1024x1024](/media/2016/07/markus-riemann-foto.1024x1024.jpg)](/media/2016/07/markus-riemann-foto.1024x1024.jpg)
 
