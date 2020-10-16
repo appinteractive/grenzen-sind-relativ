@@ -1,13 +1,13 @@
 ---
 teaser: ''
-title: Pressespiegel (kompakt)
+title: Pressespiegel
 description: ''
 wide: false
 gallery: []
 alias: ''
 
 ---
-# Pressespiegel 
+# Pressespiegel
 
 ### Bisherige Medienberichte:
 
@@ -19,7 +19,9 @@ Die “GRENZEN SIND RELATIV”- Projekte haben bereits ein großes öffentliches
 
 ![](/media/2020/09/2-asv-festival-abendblatt-mopo-_-oxmox.jpg)
 
-![](/media/2018/11/mopo.jpg)![](/media/2020/09/hh-abendblatt-25-06-_-portrait-mischa-gohlke.JPG)![](/media/2020/09/taz-02-12-16-interview-mischa-gohlke.jpg)![](/media/2020/09/taz-bilder-im-kopf-8-07-2013.jpg)![](/media/2020/09/mhg_kn_2011_11_10.jpg)![](/media/2020/09/life-insight-_-anderssein-1-_-feb-2016-1.jpg)![](/media/2020/09/life-insight-_-anderssein-1-_-feb-2016-2.jpg)![](/media/2020/09/hamburger-abendblatt-_-3-anderssein-vereint-festival.jpg)![](/media/2020/09/anderssein-vereint_life-insight_06-0715_02.jpg)![](/media/2020/09/anderssein-vereint_life-insight_06-0715_01.jpg)</gallery>
+![](/media/2018/11/mopo.jpg)![](/media/2020/09/hh-abendblatt-25-06-_-portrait-mischa-gohlke.JPG)![](/media/2020/09/taz-02-12-16-interview-mischa-gohlke.jpg)![](/media/2020/09/taz-bilder-im-kopf-8-07-2013.jpg)![](/media/2020/09/mhg_kn_2011_11_10.jpg)![](/media/2020/09/life-insight-_-anderssein-1-_-feb-2016-1.jpg)![](/media/2020/09/life-insight-_-anderssein-1-_-feb-2016-2.jpg)![](/media/2020/09/hamburger-abendblatt-_-3-anderssein-vereint-festival.jpg)![](/media/2020/09/anderssein-vereint_life-insight_06-0715_02.jpg)![](/media/2020/09/anderssein-vereint_life-insight_06-0715_01.jpg)![](/media/2020/10/pressebericht-weimar-17-08-2013.jpg)![](/media/2020/10/break-the-distance-__-mopo-29-05-2013.jpg)![](/media/2020/10/3-gsr-festival-2014.jpg)![](/media/2020/10/festival-9-04-kn.jpg)![](/media/2020/10/musikschule-des-jahres-2012.jpg)![](/media/2020/10/bergedorfer-wochenblatt.jpg)![](/media/2020/10/evangelische-kitazeitung-6-09-2015-_-2.JPG)![](/media/2020/10/wochenblatt-_-12-02-2014-_-mischa-gohlke-portrait.jpeg)![](/media/2020/10/festival-9-04-kieler-express.jpg)![](/media/2020/10/gsr-bericht.jpg)![](/media/2020/10/junge-welt-26-10-2019-_-seite-1.png)![](/media/2020/10/junge-welt-26-10-2019-_-seite-2.png)![](/media/2020/10/junge-welt-26-10-2019-_-seite-3.png)![](/media/2020/10/kita-6-12-2015-interview-mischa.png)![](/media/2020/10/mgohlke.jpg)![](/media/2020/10/mgohlke2.jpg)![](/media/2020/10/mgohlke3.jpg)![](/media/2020/10/mopo-eimsbuttler-nachrichten-25-10-2019-_-seite-1.png)![](/media/2020/10/131114_stadtlichh_nr13_mein_dingtest.jpg)![](/media/2020/10/1.jpg)![](/media/2020/10/2.jpg)![](/media/2020/10/4.jpg)![](/media/2020/10/5.jpg)![](/media/2020/10/artikel_aktion_mensch.jpg)![](/media/2020/10/lippstadter-patriot-_-20-05-2015.jpg)
+
+</gallery>
 
 ### Radio:
 
