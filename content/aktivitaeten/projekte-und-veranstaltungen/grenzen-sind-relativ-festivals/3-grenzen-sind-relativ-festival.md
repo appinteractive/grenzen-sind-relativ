@@ -8,7 +8,7 @@ alias: "/veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamb
 
 ## Sa. 26.10.19 Fabrik Hamburg
 
-[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Webseite-Overbild.jpg)
+![3. Grenzen sind Relativ Festival](/media/2019/08/Webseite-Overbild.jpg)
 
 Yeeaaahh, ++++ bald ist es wieder soweit !! Zusammen mit über 100  Künstler*innen, Ausstellenden und gemeinnützigen Organisationen, werden  wir das ___“synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke___ ausgiebig feiern! Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen! 🙂
 
@@ -84,4 +84,4 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 
 Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. https://www.grenzensindrelativ.de
 
-[![img](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)](https://www.grenzensindrelativ.de/wp-content/uploads/2019/08/Plakat_OnlineA2_GSR3.jpg)
+[![3. Grenzen sind relativ Festival – Plakat](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)
