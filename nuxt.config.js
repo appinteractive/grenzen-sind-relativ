@@ -105,6 +105,7 @@ export default {
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-analytics',
+    '@nuxtjs/sentry',
   ],
   googleAnalytics: {
     id: process.env.GOOGLE_ANALYTICS_ID,
