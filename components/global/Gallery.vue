@@ -20,7 +20,7 @@ function getGalleryItem(tag, item) {
 export default {
   props: {
     teasers: { type: Boolean, default: false },
-    autoplay: { type: Boolean, default: true },
+    autoplay: { type: Boolean, default: false },
     delay: { type: Number, default: 3000 }
   },
   data() {
