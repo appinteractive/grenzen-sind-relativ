@@ -234,7 +234,7 @@ export default {
 }
 
 @screen md {
-  .prose .md\:text-center blockquote {
+  .prose .md\:text-center * {
     @apply text-center;
   }
 }
