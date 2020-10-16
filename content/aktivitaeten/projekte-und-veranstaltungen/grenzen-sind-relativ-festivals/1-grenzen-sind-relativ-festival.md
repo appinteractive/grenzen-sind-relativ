@@ -102,4 +102,5 @@ Jörn Braasch, geboren 1985 in Hamburg, lebt in Altona. Kam vom Malen zur Fotogr
 
 **KUNSTAUSTELLUNG**
 **mit Christina Kohla, Nora Block und Laura Schwoerer**:
-Die 3 Künstlerinnen haben entscheidend das [PleinAir 54 Grad](https://www.plein-air-54grad.de/startseite/) Festival umgesetzt und werden in der Fabrik einige Kunstwerke präsentieren. Dazu wird es vor Ort einen Malworkshop geben und ein interaktives Bild,  welches an dem Abend noch versteigert wird, kreiert./veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2-2/audiovisuelle-impressionen-vom-grenzen-sind-relativ-festival-2017.html)
+Die 3 Künstlerinnen haben entscheidend das [PleinAir 54 Grad](https://www.plein-air-54grad.de/startseite/) Festival umgesetzt und werden in der Fabrik einige Kunstwerke präsentieren. Dazu wird es vor Ort einen Malworkshop geben und ein interaktives Bild,  welches an dem Abend noch versteigert wird, kreiert.
+
