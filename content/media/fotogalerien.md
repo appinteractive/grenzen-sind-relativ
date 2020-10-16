@@ -1,6 +1,6 @@
 ---
 title: Fotogalerien
-description: 
+description: Fotogalerien unserer Feranstaltungen
 
 ---
 # Fotogalerien
