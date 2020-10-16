@@ -104,7 +104,15 @@ export default {
   buildModules: [
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-analytics',
   ],
+  googleAnalytics: {
+    id: process.env.GOOGLE_ANALYTICS_ID,
+  },
+  sentry: {
+    dsn: process.env.SENTRY_DSN,
+    config: {},
+  },
   /*
    ** Nuxt.js modules
    */

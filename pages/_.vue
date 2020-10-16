@@ -138,7 +138,8 @@ export default {
     if (!title) {
       try {
         title = `${this.page.body.children[0].children[1].value} | ${siteName}`
-      } catch (e) {
+      } catch (err) {
+        this.$sentry.captureException(err)
         // console.log('NO TITLE FOUND')
       }
     }

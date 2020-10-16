@@ -13,6 +13,7 @@
   "dependencies": {
     "@nuxt/content": "^1.5.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "@nuxtjs/sentry": "^4.3.5",
     "@nuxtjs/sitemap": "^2.4.0",
     "@vue-a11y/announcer": "^2.1.0",
     "nuxt": "^2.14.0",
@@ -24,6 +25,7 @@
     "vue-truncate-filter": "^1.1.7"
   },
   "devDependencies": {
+    "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/storybook": "^2.2.0",
     "@nuxtjs/tailwindcss": "^2.1.0",
     "@storybook/addon-docs": "latest",
