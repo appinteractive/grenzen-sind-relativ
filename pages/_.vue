@@ -14,6 +14,7 @@
       </article>
       <div v-if="hasSubMenu">
         <SubMenu
+          class="outline-none"
           tabindex="-1"
           :sub-menu="subMenu"
           :parents="subMenu"
