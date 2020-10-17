@@ -7,7 +7,8 @@ description: 'Unser „Grenzen sind relativ e.V.“ Projektleiter & Inklusionbot
   Analyse & Aktiv Sein, uvm.'
 teaser: "/media/2020/09/ws-beitragsbild.jpg"
 gallery: []
-alias: '/workshops-seminare-vortraege/allgemeine-informationen-workshops.html'
+alias: "/workshops-seminare-vortraege/allgemeine-informationen-workshops.html"
+wide: false
 
 ---
 # Workshops, Seminare & Vorträge
@@ -31,8 +32,10 @@ Die Länge der Vorträge/Workshops/Seminare variieren je nach Rahmen der Veranst
 
 Die Vorträge, Workshops und Seminare möchten informieren, aufklären und den inklusiven Gedanken durch Multiplikatoren weitertragen. Zu den Zielgruppen zählen u.a. Universitäten, Schulen, Fachtagungen, Kongresse, Inklusionsveranstaltungen, u.v.m.
 
-[![Uni](/media/2014/07/WE0092-1.jpg)](/media/2014/07/WE0092-1.jpg)
+<gallery>
 
 [![Uni](/media/2014/07/uni-n.jpg)](/media/2014/07/uni-n.jpg)
 
 [![Kongress Hammelburg](/media/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-136.jpg)](/media/2014/07/2014er-Kongress-Hammelburg-Bilder-von-Marcus-1200er-136.jpg)
+
+[![Uni](/media/2014/07/WE0092-1.jpg)](/media/2014/07/WE0092-1.jpg)</gallery>
