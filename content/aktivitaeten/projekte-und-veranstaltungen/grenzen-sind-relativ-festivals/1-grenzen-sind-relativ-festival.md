@@ -1,8 +1,8 @@
 ---
 title: 1. Grenzen sind relativ Festival 2017
-description: Grenzen sind relativ Festival am 23.09.2017 in der Fabrik
----
+description: Grenzen sind relativ Festival am 23.09.2017 in der Fabrik Hamburg Altona
 
+---
 # 1. Grenzen sind relativ Festival
 
 ## Sa. 23.09.2017 Fabrik Hamburg
@@ -103,4 +103,3 @@ Jörn Braasch, geboren 1985 in Hamburg, lebt in Altona. Kam vom Malen zur Fotogr
 **KUNSTAUSTELLUNG**
 **mit Christina Kohla, Nora Block und Laura Schwoerer**:
 Die 3 Künstlerinnen haben entscheidend das [PleinAir 54 Grad](https://www.plein-air-54grad.de/startseite/) Festival umgesetzt und werden in der Fabrik einige Kunstwerke präsentieren. Dazu wird es vor Ort einen Malworkshop geben und ein interaktives Bild,  welches an dem Abend noch versteigert wird, kreiert.
-
