@@ -1,15 +1,17 @@
 ---
 title: ASV - Akteure
 description: Band, Gastsänger & Protagonisten
-alias: /anderssein-vereint-2/band-gastsaenger-protagonisten.html
+alias: "/anderssein-vereint-2/band-gastsaenger-protagonisten.html"
+teaser: ''
+wide: false
+gallery: []
+
 ---
-
-
 # Band, Gastsänger & Protagonisten
 
 ## Die Band
 
-[![Mischa Gohlke Band feat. Katrin Wulff](/media/2015/05/Mischa-Gohlke-Band-feat.-Katrin-Wulff-4a-_-Foto-by-Tom-Roeler-2.jpg "Foto by Tom Roeler")](/media/2015/05/Mischa-Gohlke-Band-feat.-Katrin-Wulff-4a-_-Foto-by-Tom-Roeler-2.jpg) **Mischa Gohlke Band feat. Katrin Wulff** – AndersSein vereint, das ist Bandmotto und Single-Titel zugleich. Da rockt der Vater mit dem Sohn, die westfälische Gesangslady mit dem US-Basser, der österreichische Tastenmann mit dem coolen Szene-Drummer, der Alt- 68er mit dem klassischen Geiger, und die Virtuosität des an Taubheit grenzenden Gitarristen Mischa Gohlke lässt Grenzen relativ erscheinen. Aus der Reibung der unterschiedlichsten Backgrounds kreieren die Musiker einen fesselnden Crossover Sound, in dem Pop-, Blues- und Rockelemente zu einem Ganzen verschmelzen. Inklusion at its best. Mit Songs, die Herz und Beine bewegen. Die Referenzliste der Musiker ist lang: Touren mit Udo Lindenberg, Xavier Naidoo, Peter Kraus, Madonna, Shakira, Johannes Oerding oder 4Lyn, um nur einige zu nennen. Die überwiegend deutschen Texte handeln von universeller Verbundenheit, persönlichen Grenzen, kleinen wie grossen Gefühlen, und sind charmante Zeugnisse menschlicher Vielfalt. Angereichert werden die Eigenkompositionen durch Coverversionen der beiden Legenden Stevie Ray Vaughan und Jimi Hendrix. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. [www.grenzensindrelativ.de/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html](/mischa-gohlke-band/mischa-gohlke-band-feat-katrin-wulff.html)
+[![Mischa Gohlke Band feat. Katrin Wulff](/media/2015/05/Mischa-Gohlke-Band-feat.-Katrin-Wulff-4a-_-Foto-by-Tom-Roeler-2.jpg "Foto by Tom Roeler")](/media/2015/05/Mischa-Gohlke-Band-feat.-Katrin-Wulff-4a-_-Foto-by-Tom-Roeler-2.jpg) **Mischa Gohlke Band feat. Katrin Wulff** – AndersSein vereint, das ist Bandmotto und Single-Titel zugleich. Da rockt der Vater mit dem Sohn, die westfälische Gesangslady mit dem US-Basser, der österreichische Tastenmann mit dem coolen Szene-Drummer, der Alt- 68er mit dem klassischen Geiger, und die Virtuosität des an Taubheit grenzenden Gitarristen Mischa Gohlke lässt Grenzen relativ erscheinen. Aus der Reibung der unterschiedlichsten Backgrounds kreieren die Musiker einen fesselnden Crossover Sound, in dem Pop-, Blues- und Rockelemente zu einem Ganzen verschmelzen. Inklusion at its best. Mit Songs, die Herz und Beine bewegen. Die Referenzliste der Musiker ist lang: Touren mit Udo Lindenberg, Xavier Naidoo, Peter Kraus, Madonna, Shakira, Johannes Oerding oder 4Lyn, um nur einige zu nennen. Die überwiegend deutschen Texte handeln von universeller Verbundenheit, persönlichen Grenzen, kleinen wie grossen Gefühlen, und sind charmante Zeugnisse menschlicher Vielfalt. Angereichert werden die Eigenkompositionen durch Coverversionen der beiden Legenden Stevie Ray Vaughan und Jimi Hendrix. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. [www.mischagohlkeband.de](https://mischagohlkeband.de/)
 
 ## Die Gastsänger
 
@@ -19,7 +21,7 @@ alias: /anderssein-vereint-2/band-gastsaenger-protagonisten.html
 
 **Graf Fidi** – Nach dem Motto „ich mach das mit links“ zieht Graf Fidi als cooler Rolli Rapper durch Clubs, Bildungsmessen und Kampagnen von Aktion Mensch. Als eloquenter Botschafter für Inklusion bringt er Menschen mit und ohne Handicap zusammen und begeistert mit seiner Sprechkunst und fetten Beats. [www.graffidi.de](https://www.graffidi.de)
 
-[![Marie Garroth](/media/2015/05/MarieIMG_8302.jpg "Foto by Tom Roeler")](/media/2015/05/MarieIMG_8302.jpg) **Marie Garroth** – Die Sängerin vom Burnout Sounds begeistert mit sanfter Soulstimme und einem grossen Bündel positiver Energie. Selbst seit dem 15. Lebensjahr an MS erkrankt gibt die Hamburgerin ihre Leidenschaft für Musik im Verein Lukulule an junge Talente weiter. [https://de-de.facebook.com/BurnOutSounds](https://de-de.facebook.com/BurnOutSounds 'https://de-de.facebook.com/BurnOutSounds')
+[![Marie Garroth](/media/2015/05/MarieIMG_8302.jpg "Foto by Tom Roeler")](/media/2015/05/MarieIMG_8302.jpg) **Marie Garroth** – Die Sängerin vom Burnout Sounds begeistert mit sanfter Soulstimme und einem grossen Bündel positiver Energie. Selbst seit dem 15. Lebensjahr an MS erkrankt gibt die Hamburgerin ihre Leidenschaft für Musik im Verein Lukulule an junge Talente weiter. [https://de-de.facebook.com/BurnOutSounds](https://de-de.facebook.com/BurnOutSounds "https://de-de.facebook.com/BurnOutSounds")
 
 ## Die weiteren Protagonisten
 
