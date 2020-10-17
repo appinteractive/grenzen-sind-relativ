@@ -43,14 +43,14 @@ Unser Aktionsbüro „Grenzen sind relativ e.V.“ entwickelt zusammen mit dem V
 
 Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- & Veranstaltungstechnik und Personal am Veranstaltungstag auf unser großes Netzwerk zurückgreifen. Im Rahmen der PR- & Öffentlichkeitsarbeit mobilisieren wir die allgemeine Öffentlichkeit, machen umfangreiche Pressearbeit (Print, Online, TV & Radio) und laden diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung ein.
 
-1. Bühnenprogramm:
+**Bühnenprogramm:**
 
 * Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden.
 * Zu unserem großen Künstlernetzwerk gehören u.a. die Mischa Gohlke Band, Martin Fromme, Kassandra Wedel, uvam.
 * Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ ](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos)_(und/oder “2. Inklusionssong” ab April 2021)_ gemacht werden.
 * Unser Moderator [Markus Riemann](https://kulturbedarf.de/) wird durch das Programm führen, einige Vereine/Projekte vorstellen und Interviews mit den Künstlern machen.
 
-1. Interaktive Erlebniswelten:
+**Interaktive Erlebniswelten:**
 
 * Es wird eine Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden
 * Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(und/oder_ _“2. Inklusionssong” ab April.2021)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben
@@ -59,7 +59,7 @@ Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- 
   Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.
 * …
 
-1. Network-Area:
+**Network-Area:**
 
 * Hier können sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN präsentieren, kennenlernen, austauschen und vernetzen
 
