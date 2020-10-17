@@ -21,25 +21,25 @@ teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
 
 ![Markus Riemann](/media/2018/11/Markus-Riemann_YCPzyH-g.jpeg "Markus Riemann")
 
-![Sebo Kiddo Kat](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg "Sebo Kiddo Kat")
+![Sebo & Kiddo Kat](/media/2018/11/Sebo-Kiddo-Kat_0uZx28uQ.jpeg "Sebo & Kiddo Kat")
 
 ![Interaktive Malerei](/media/2018/11/interaktive-Malerei-2_zgJS-BZA.jpeg "Interaktive Malerei")
 
-![Infostände](/media/2018/11/Infostände_MldWFD3g.jpeg "Infostände")
+![Network Area](/media/2018/11/Infostände_MldWFD3g.jpeg "Network Area")
 
-![Dreh Friedenssong](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg "Dreh Friedenssong")
+![Musikvideo-Dreh "Zeig Dein Gesicht für den Frieden"](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg 'Musikvideo-Dreh "Zeig Dein Gesicht für den Frieden"')
 
 ![Safar Band](/media/2018/11/Safar-Band_ZD2M3Ndg.jpeg "Safar Band")
 
 ![Soularia](/media/2018/11/Soularia_kGWfZ7Qg.jpeg "Soularia")
 
-![Klaauter Theater](/media/2018/11/Klaauter-Theater_y4XxKw0w.jpeg "Klaauter Theater")
+![Klabauter Theater](/media/2018/11/Klaauter-Theater_y4XxKw0w.jpeg "Klabauter Theater")
 
 ![Kilez More feat. Morgaine](/media/2018/11/Kilez-MOre-feat.-Morgaine_-3-7IeREA.jpeg "Kilez More feat. Morgaine")
 
-![MATE](/media/2018/11/MATE_9aYWRnRA.jpeg "MATE")
+![Mischa Gohlke Band](/media/2018/11/MATE_9aYWRnRA.jpeg "Mischa Gohlke Band")
 
-![String N Base](/media/2018/11/stringNbase_MBIWn0ng.jpeg "String N Base")
+![StringNBase](/media/2018/11/stringNbase_MBIWn0ng.jpeg "StringNBase")
 
 ![Interaktive Malerei](/media/2018/11/Interaktive-Malerei_Tb1g-xAg.jpeg "Interaktive Malerei")
 
