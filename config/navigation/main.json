@@ -178,7 +178,7 @@
         },
         {
           "title": "Musikunterricht, Workshops & Coaching",
-          "page": "content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-musikunterricht-beratung-coaching.md",
+          "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
           "children": [
             {
               "title": "Musikunterricht für Hörgeschädigte",
@@ -210,7 +210,8 @@
                   "title": "Allgemeine Infos",
                   "page": "content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-bands.md"
                 }
-              ]
+              ],
+              "disabled": true
             },
             {
               "title": "Workshops, Seminare & Vorträge",
