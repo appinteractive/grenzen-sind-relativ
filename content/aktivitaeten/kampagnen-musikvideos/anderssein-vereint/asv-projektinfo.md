@@ -13,25 +13,21 @@ wide: false
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
 
-[![AndersSein vereint](/media/2015/04/AndersSein-vereint-Massenszene2-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/AndersSein-vereint-Massenszene2-_-Foto-by-Tom-Roeler.jpg) **AndersSein vereint** – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein!
+ ![](/media/2020/10/online-plakat-anderssein-vereint.jpg)**AndersSein vereint** – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein!
 
 In der aufwendigen wie mitreissenden Musikvideoproduktion singen, grooven, rappen und gebärden die **mehr als 80 Protagonisten** von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
 
 Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusammen mit dem Produzenten Jan Philipp Kelber (Ina Müller, Christina Stürmer, usw.) einen eingängigen Crossover Sound kreiert, der mit den Stimmen von Orange Blue Sänger Volkan Baydar, Bluesröhre Jessy Martens, Rolli Rapper Graf Fidi und Marie Garroths sanfsten Soul bereichert wird.
 
-<gallery>
-
-![](/media/2020/10/anderssein-vereint-band-_-gastsanger-_-foto-by-tom-roeler.jpg)![](/media/2020/10/gastsanger-_-foto-by-tom-roeler.jpg)![](/media/2020/10/mischa-gohlke-band-feat-katrin-wulff-1-_-potrait-_-foto-by-tom-roeler.jpg)
-
-</gallery>
-
 Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor „Hands up“ sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.
 
 <gallery>
 
-![](/media/2020/10/lara-hahnel-_-4-inklusionsprotagonisten.jpg)[![Komparsen](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg) 
+![](/media/2020/10/anderssein-vereint-massenszene1-_-foto-by-tom-roeler.jpg)
 
-</gallery>
+![](/media/2020/10/anderssein-vereint-band-_-gastsanger-_-foto-by-tom-roeler.jpg)![](/media/2020/10/lara-hahnel-_-4-inklusionsprotagonisten.jpg)![](/media/2020/10/komparsen-_-foto-by-tom-roeler.jpg)
+
+![](/media/2020/10/anderssein-vereint-crew1-_-foto-by-tom-roeler.jpg)</gallery>
 
 Initiiert von „Grenzen sind relativ“ und dem an Taubheit grenzend hörgeschädigten Gitarristen Mischa Gohlke ist mit viel Eigenengagement und geringem Budget eine Produktion entstanden, welche die [„ganzheitlich gelebte Inklusion“](/anderssein-vereint-2/worum-geht-es.html) unmittelbar erfahrbar macht und eine Brücke schlägt zum jeweils anderen. Miteinander …
 
