@@ -8,7 +8,8 @@ description: Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und inte
   im Rahmen von Kongressen, Kampagnen, Sommerfesten, Projektwochen, usw. statt.
 teaser: "/media/2020/09/mgb-beitragsbild.jpeg"
 gallery: []
-alias: '/veranstaltungen/konzert-workshop-talkrunde.html'
+alias: "/veranstaltungen/konzert-workshop-talkrunde.html"
+wide: false
 
 ---
 # Konzert, Workshops & Talk von/mit der Mischa Gohlke Band
@@ -25,12 +26,10 @@ Die Veranstaltungen werden exklusiv in Schulen, Universitäten, Unternehmen, Spo
 
 ***
 
-[![Abendblatt](/media/2018/11/abendblatt.jpg)](/media/2018/11/abendblatt.jpg)
-
 Das Veranstaltungsformat umfasst folgende Säulen:
 
 1. Konzert „[Mischa Gohlke Band](https://mischagohlkeband.de/)“ + ggfs. weitere Acts (Local Hero, Musikprojekt von einer gemeinnützigen Organisation, Nachwuchsgruppen, usw.)
-2. [Workshops/Seminare von/mit der „Mischa Gohlke Band“ (Rhythm´n´Groove, Musikorient, Bandtraing, Instrumente, Chor, usw.)](/veranstaltungen/konzert-workshop-talkrunde.html)
+2. Workshops/Seminare von/mit der „Mischa Gohlke Band“ (Rhythm´n´Groove, Musikorient, Bandtraing, Instrumente, Chor, usw.)
 3. Interviews, Vortrag, Talkrunde und interaktive Gesprächsrunde von/mit [Mischa Gohlke](/workshops-seminare-vortraege/allgemeine-informationen-workshops.html) oder/und der „Mischa Gohlke Band“
 4. Idee: Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei der Konzertveranstaltung den Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) (ab Sept. 2020: “2. Inklusionssong”) auf der Bühne mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einzuproben.
 5. Ggfs. Network-Area bei der Konzertveranstaltung: Hier könn(t)en sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN in einem Infotischbereich präsentieren und sich dabei kennenlernen, austauschen und vernetzen.
