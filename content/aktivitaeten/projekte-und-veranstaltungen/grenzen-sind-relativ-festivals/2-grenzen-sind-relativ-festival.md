@@ -9,20 +9,6 @@ teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
 
 ## Sa. 20.10.18 Fabrik Hamburg
 
-Es ist ein wunderbares „2. Grenzen sind relativ Festival“ mit vielen open minded Menschen und good vibes in der „Fabrik Hamburg Altona“ gewesen!
-
-DANKE an ALLE Menschen, die das Festival möglich gemacht haben !!!
-
-Im Geiste unseres Mottos „Grenzen sind relativ“ bringen wir bei unseren jährlichen Festivals verschiedenste Künstler, Vereine und Initiativen zusammen, um gemeinsam die Vielfalt der Künste, Menschen und Netzwerke zu feiern.
-
-Live-Musik, Theater, Kabarett, Performance, Video-Kunst, Kunstausstellung, interaktive Erlebniswelten, Network-Area und DJs finden hier eine gemeinsame Spielwiese.
-
-SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festival“ in der „Fabrik Hamburg Altona“ stattfinden.
-
-> Hebt man den Blick, so sieht man keine Grenzen.
->
-> > Aus Japan
-
 <gallery>
 
 ![Rapfugees vs Bodyrhythm](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA.jpeg "Rapfugees vs Bodyrhythm")
@@ -67,7 +53,7 @@ SAVE THE DATE!! Am Sa. den 26.10.2019 wird das „3. Grenzen sind relativ Festiv
 
 ***
 
-> ## _Hebt man den Blick, so sieht man keine Grenzen._ 
+> ## _Hebt man den Blick, so sieht man keine Grenzen._
 >
 > > ## _Aus Japan_
 
@@ -130,7 +116,7 @@ Musiker. Freigeist. Inklusionsbotschafter. Die Reihe [![img](/media/2018/09/Misc
 
 Der akustische Sonnenbräuner aus dem Norden. [![img](/media/2018/09/Soularia-TimHellmers-Bandphoto-2018-4z3-.jpg)](/media/2018/09/Soularia-TimHellmers-Bandphoto-2018-4z3-.jpg) Die Band SOULARIA ist das musikalische Baby von Mastermind und Komponist  Tim Hellmers. SOULARIA, die sich im Bereich von Soul, Pop, Funk, Rock,  Latin bewegen, sind musikalisch exakt und auf den Punkt so abgestimmt,  dass jeder Song groovt wie Sau. Mal rockig-gitarrenlastig, dann wieder  funk-gesteuert mit knackigen Bläsersätzen, mal hitzig durch  percussion-getriebene Latingrooves, abgelöst von glamourösen, fetten,  gospelartigen Vokalsätzen. Die Band bewies ihr musikalisches Können  bereits in ihren Anfangszeiten als Support-Act für die BritFunk Legende  Incognito und den Jazz-Soul Allrounder Al Jarreau im Rahmen des  Hamburger WESTPORT Jazzfestivals. Es folgten weitere Supports als  Vorband für die US Formation The Temptations. Bei eigenen Konzerten in  Kiel und Berlin sowie bei Auftritten in Verbindung mit dem  MOJO-CLUB-DJ-Team in Hamburg und Köln erschloss sich die Band damals  bereits eine große Fangemeinde. Nach längerer Pause geben SOULARIA am  20.Oktober 2018 beim 2. Grenzen sind relativ Festival ihr Debut in neuer Besetzung. https://www.facebook.com/soularia
 
-### **Kilez More feat. Morgaine** 
+### **Kilez More feat. Morgaine**
 
 [![img](/media/2018/09/Kilez-More.jpg)](/media/2018/09/Kilez-More.jpg)
 
@@ -180,13 +166,13 @@ Seit Anfang 2018 ist Jay Holler Rap-Coach bei Rap for Refugees e.V.  und die Rap
 
 ## **MODERATION:**
 
-### **Markus Riemann** 
+### **Markus Riemann**
 
 [![img](/media/2018/09/markus-riemann-foto.1024x1024.jpg)](/media/2018/09/markus-riemann-foto.1024x1024.jpg)
 
 Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen  fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a.  tätig auf dem Weltkindertag in Hamburg, dem Internationalen  Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf.  [www.kulturbedarf.de](https://www.kulturbedarf.de/)
 
-## **KUNSTAUSTELLUNG** 
+## **KUNSTAUSTELLUNG**
 
 ### **PUSHING THE BOUNDARIES**
 
@@ -200,7 +186,7 @@ Verschiedenste Künstler*innen präsentieren ihre Fotoarbeiten zur  universellen
 
 **Urban Citizenship Card** – Ein Konzept, in dem die Realität  nicht den Papieren angepasst wird, sondern die Papiere der Realitäten.  Dieses Recht auf gesellschaftliche, politische, kulturelle und  ökonomische Teilhabe darf nicht von einem Zufall (Geburtsort) oder von  Willkür (Anerkennung) abhängen. Die Benutzung der Urban Citizenship wird in US-amerikanischen Städten bereits praktiziert. In New York City  beispielsweise wird sie in Form der Stadtbewohner*innen-Karte „ID NYC“  ausgegeben. Bringe Dein Foto mit! http://urban-citizenship-hamburg.rechtaufstadt.net/
 
-### **AFTERSHOW-PARTY MIT DJ QMUTAT:** 
+### **AFTERSHOW-PARTY MIT DJ QMUTAT:**
 
 [![img](/media/2017/06/dj-qmutat.jpg)](/media/2017/06/dj-qmutat.jpg)
 
