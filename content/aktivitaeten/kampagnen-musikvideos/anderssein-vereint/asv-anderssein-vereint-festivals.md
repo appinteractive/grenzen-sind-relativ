@@ -1,7 +1,11 @@
 ---
 title: ASV - AndersSein vereint Festivals
 description: ''
-alias: /anderssein-vereint-2/3-anderssein-vereint-festival.html
+alias: "/anderssein-vereint-2/3-anderssein-vereint-festival.html"
+teaser: ''
+wide: false
+gallery: []
+
 ---
 # Review „3. AndersSein vereint Festival“ // 18.11.2016 „knust Hamburg“
 
@@ -9,69 +13,69 @@ alias: /anderssein-vereint-2/3-anderssein-vereint-festival.html
 
 **Volkan Baydar (Orange Blue), Jessy Martens, Tom Klose, Still in Search, Mischa Gohlke Band, Katrin Wulff, Hörbie Schmidt, Graf Fidi, Jirri & Lash, Martin Fromme, 12-Yards, Gebärdenchor HandsUp, Dirk C. Fleck, Markus Riemann, Überraschungsgäste, Musikvideopremiere „AndersSein vereint – Live On Stage“ & AfterShow-JAM-Party**
 
-“**AndersSein vereint**”, das ist das Motto dieses ungewöhnlichen Veranstaltungsabends im Hamburger Knust. Verbunden mit der gleichnamigen mitreißenden [Song- und Musikvideoproduktion](https://www.youtube.com/watch?v=KPi9ZNp-YJQ) hat die Plattform „Grenzen sind relativ e.V.“ Künstler unterschiedlichster Couleur zusammengebracht, um gemeinsam die **Vielfalt der Künste, Menschen und Netzwerke** zu feiern.
+“**AndersSein vereint**”, das ist das Motto dieses ungewöhnlichen Veranstaltungsabends im Hamburger Knust. Verbunden mit der gleichnamigen mitreißenden [Song- und Musikvideoproduktion](https://youtu.be/KPi9ZNp-YJQ "https://youtu.be/KPi9ZNp-YJQ") hat die Plattform „Grenzen sind relativ e.V.“ Künstler unterschiedlichster Couleur zusammengebracht, um gemeinsam die **Vielfalt der Künste, Menschen und Netzwerke** zu feiern.
 
-[![3. AndersSein vereint Festival](/media/2016/01/mvscol8475.jpg "am Fr. 18.11.16 im Hamburger Knust")](/media/2016/01/mvscol8475.jpg) Mit dabei sind Soulikone und “Orange Blue“ Sänger **VOLKAN** **BAYDAR**, Deutschlands Rock- & Blues-Lady No. 1 **JESSY MARTENS** der unfassbare und einzige asymmetrische Komiker **MARTIN FROMME**, das unbeschreibliche Trio **STILL IN SEARCH**, der schubladensprengende **TOM KLOSE**, Ausnahmestimme und Geschichtenerzählerin **KATRIN WULFF**, der Berliner Rapper & Aktivist **GRAF FIDI**, der ausgezeichnete Bluesrocker **HÖRBIE SCHMIDT**, das aktivierende Power-Duo![ASV Festival - AndersSein vereint](/media/2014/07/ASV-Festival-_-AndersSein-vereint-_-Foto-by-Stephan-Olbrich.jpg "Foto by Stephan Olbrich") **JIRRI & LASH**, Bestseller Buchautor **DIRK C. FLECK**, das funkende Tanz- und Musiktheater **12-YARDS** (Leitung **MABLE PREACH**), der nonverbale Gebärdenchor **HANDSUP** sowie die famose Band um Gitarrist und Festival Initiator **MISCHA GOHLKE**. Dieser lässt mit seiner Spielkunst nicht nur Grenzen, sondern auch die eigene Hörschädigung relativ erscheinen.![AndersSein vereint - Inklusionssong für Deutschland](/media/2015/04/AndersSein-vereint-Massenszene1-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")  
- Durch den Abend führen wird Kulturmanager & Moderator **MARKUS RIEMANN**.
+Mit dabei sind Soulikone und “Orange Blue“ Sänger **VOLKAN** **BAYDAR**, Deutschlands Rock- & Blues-Lady No. 1 **JESSY MARTENS** der unfassbare und einzige asymmetrische Komiker **MARTIN FROMME**, das unbeschreibliche Trio **STILL IN SEARCH**, der schubladensprengende **TOM KLOSE**, Ausnahmestimme und Geschichtenerzählerin **KATRIN WULFF**, der Berliner Rapper & Aktivist **GRAF FIDI**, der ausgezeichnete Bluesrocker **HÖRBIE SCHMIDT**, das aktivierende Power-Duo **JIRRI & LASH**, Bestseller Buchautor **DIRK C. FLECK**, das funkende Tanz- und Musiktheater **12-YARDS** (Leitung **MABLE PREACH**), der nonverbale Gebärdenchor **HANDSUP** sowie die famose Band um Gitarrist und Festival Initiator **MISCHA GOHLKE**. Dieser lässt mit seiner Spielkunst nicht nur Grenzen, sondern auch die eigene Hörschädigung relativ erscheinen.  
+Durch den Abend führen wird Kulturmanager & Moderator **MARKUS RIEMANN**.
 
 Zum Auftakt des Veranstaltungsabends dürfen wir uns auf  
- eine ganz besondere Premiere freuen. Erstmals wird das **Musikvideo „AndersSein vereint – Live on Stage“** gezeigt. Mit vielen schönen, sinnigen und eindrucksvollen Bildern vom Musikvideodreh, den bisherigen Festivals und diversen![mvssw7553](/media/2016/01/mvssw7553.jpg) weiteren Bühnen. Beim **großen Finale** wird „AndersSein vereint“ von allen Künstlern zusammen LIVE ALIVE auf die Bühne gebracht. Den Vorraum des Knusts werden verschiedenste Initiativen, Organisationen, Vereine und Projekte mit interaktiven Aktionen und Infoständen zum LEBEN bringen.
+eine ganz besondere Premiere freuen. Erstmals wird das **Musikvideo „AndersSein vereint – Live on Stage“** gezeigt. Mit vielen schönen, sinnigen und eindrucksvollen Bildern vom Musikvideodreh, den bisherigen Festivals und diversen weiteren Bühnen. Beim **großen Finale** wird „AndersSein vereint“ von allen Künstlern zusammen LIVE ALIVE auf die Bühne gebracht. Den Vorraum des Knusts werden verschiedenste Initiativen, Organisationen, Vereine und Projekte mit interaktiven Aktionen und Infoständen zum LEBEN bringen.
 
-So darf man und frau sich auf einen spannenden![Crew AndersSein vereint](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg "Foto by Tom Roeler") Freitag Abend freuen mit viel inspirierender Kunst, mitreißenden Begegnungen, coolen Beats und einer dicken gemeinsamen **JAM-Party** im Anschluss. Es lebe das Miteinander, es lebe die Vielfalt!
+So darf man und frau sich auf einen spannenden Freitag Abend freuen mit viel inspirierender Kunst, mitreißenden Begegnungen, coolen Beats und einer dicken gemeinsamen **JAM-Party** im Anschluss. Es lebe das Miteinander, es lebe die Vielfalt!
 
 **Facts:**  
- 3. AndersSein vereint Festival [![Komparsen](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg "Foto by Tom Roeler")](/media/2015/04/Komparsen-_-Foto-by-Tom-Roeler.jpg)  
- Fr. 18.11.2016 im Knust (Neuer Kamp 30, 20357 Hamburg)  
- Einlass Bar 19:00h, Einlass Saal 19:30h, Beginn 20:00h  
- AK 12 € , [VVK 10 € ](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=16901)  
- Das Knust ist barrierefrei und Gebärden- und Schriftdolmetscher sind vor Ort. Für die großzügige Unterstützung geht der Dank an die Kulturbehörde Hamburg.
+3\. AndersSein vereint Festival   
+Fr. 18.11.2016 im Knust (Neuer Kamp 30, 20357 Hamburg)  
+Einlass Bar 19:00h, Einlass Saal 19:30h, Beginn 20:00h  
+AK 12 € , [VVK 10 € ](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=16901)  
+Das Knust ist barrierefrei und Gebärden- und Schriftdolmetscher sind vor Ort. Für die großzügige Unterstützung geht der Dank an die Kulturbehörde Hamburg.
 
 Facebook-Event: [www.facebook.com/events/938690972943439](https://www.facebook.com/events/938690972943439/)
 
 **LIVE MUSIK:**
 
-**Volkan Baydar** – Wer kennt sie nicht, die Stimme von [![Volkan Baydar](/media/2015/05/Volkan-Baydar-_-Foto-by-Robin-Schmiedebach.jpg "Foto by Robin Schmiedebach")](/media/2015/05/Volkan-Baydar-_-Foto-by-Robin-Schmiedebach.jpg) Orange Blue, die mit „She´s got that light“ im Jahr 2000 die Charts eroberten? Der Mann mit türkischen Wurzeln ist nicht nur einer der besten Soulsänger Deutschlands sondern engagiert sich seit Jahren auch für soziale Zwecke, u.a. für die Vereine KinderLeben und Grenzen sind relativ. Im Knust wird er mit seinem Soloprojekt zu hören sein. [www.volkanbaydar.de](https://www.volkanbaydar.de)
+**Volkan Baydar** – Wer kennt sie nicht, die Stimme von Orange Blue, die mit „She´s got that light“ im Jahr 2000 die Charts eroberten? Der Mann mit türkischen Wurzeln ist nicht nur einer der besten Soulsänger Deutschlands sondern engagiert sich seit Jahren auch für soziale Zwecke, u.a. für die Vereine KinderLeben und Grenzen sind relativ. Im Knust wird er mit seinem Soloprojekt zu hören sein. [www.volkanbaydar.de](https://www.volkanbaydar.de)[![Volkan Baydar](/media/2015/05/Volkan-Baydar-_-Foto-by-Robin-Schmiedebach.jpg "Foto by Robin Schmiedebach")](/media/2015/05/Volkan-Baydar-_-Foto-by-Robin-Schmiedebach.jpg) 
 
-**Jessy Martens** – Als zweifache Gewinnerin des „German Blues ![Jessy Martens](/media/2015/05/jessy-martens.jpg "Jessy Martens")Awards“ und Preisträgerin des Deutschen Rockpreises trägt das Energiebündel zurecht den Titel als Deutschlands Blueslady Nr 1. Mit ihrer Band tourt sie unermüdlich durch die Lande und begeistert mit ihrer unverwechselbaren Powerstimme und Bühnenpräsenz. [www.jessymartens.de](https://www.jessymartens.de/)
+**Jessy Martens** – Als zweifache Gewinnerin des „German Blues Awards“ und Preisträgerin des Deutschen Rockpreises trägt das Energiebündel zurecht den Titel als Deutschlands Blueslady Nr 1. Mit ihrer Band tourt sie unermüdlich durch die Lande und begeistert mit ihrer unverwechselbaren Powerstimme und Bühnenpräsenz. [www.jessymartens.de](https://www.jessymartens.de/)![Jessy Martens](/media/2015/05/jessy-martens.jpg "Jessy Martens")
 
-**Tom Klose** – Keep it simple! Dieses Motto prägt![Tom Klose](/media/2015/05/promo_tom_klose_2016_01.jpeg "Tom Klose") Tom Klose als Künstler, Songschreiber und Musiker. Wer ihn kennt, weiß dass sich der gebürtige Flensburger nicht um Konventionen, Gerne-Schubladen und gängige Standards schert. Experimentierfreude, Lust auf Neues und klare, kraftvolle Kompositionen stehen hinter seinem ständig wachsenden Erfolg. [www.tomklose.de](https://www.tomklose.de/)
+**Tom Klose** – Keep it simple! Dieses Motto prägt Tom Klose als Künstler, Songschreiber und Musiker. Wer ihn kennt, weiß dass sich der gebürtige Flensburger nicht um Konventionen, Gerne-Schubladen und gängige Standards schert. Experimentierfreude, Lust auf Neues und klare, kraftvolle Kompositionen stehen hinter seinem ständig wachsenden Erfolg. [www.tomklose.de](https://www.tomklose.de/)![Tom Klose](/media/2015/05/promo_tom_klose_2016_01.jpeg "Tom Klose") 
 
-**Still in Search –** Das Hamburger Trio Still in Search![Still in Search](/media/2015/05/Still-in-Search_2016_3.jpg "2016") lässt immer wieder Momente aufblitzen, die sich nicht in einem Satz beschreiben lassen. Ein Pattern Biffy Clyro, eine Passage Muse, dann wieder Kensington, die Holländischen Pop/Rock-Helden des Jahres. Dazu  
- Clara Brauers markante Stimme, die stellenweise an die der Cranberries erinnert. Ein großer, weiter Sound zieht sich durch, der zum Mitgehen einlädt und immer wieder Popmomente feiert. Live ist Still in Search unbändiger Enthusiasmus und überbordende Energie. Etwas, was man von einer norddeutschen Band wohl nicht erwartet. Kein Konzert – sondern eine Show! Bis ins Detail verliebt. Und das zieht das Publikum jedes Mal aufs Neue in den Bann. [https://stillinsearch.com](https://stillinsearch.com "https://stillinsearch.com")
+**Still in Search –** Das Hamburger Trio Still in Search lässt immer wieder Momente aufblitzen, die sich nicht in einem Satz beschreiben lassen. Ein Pattern Biffy Clyro, eine Passage Muse, dann wieder Kensington, die Holländischen Pop/Rock-Helden des Jahres. Dazu Clara Brauers markante Stimme, die stellenweise an die der Cranberries erinnert. Ein großer, weiter Sound zieht sich durch, der zum Mitgehen einlädt und immer wieder Popmomente feiert. Live ist Still in Search unbändiger Enthusiasmus und überbordende Energie. Etwas, was man von einer norddeutschen Band wohl nicht erwartet. Kein Konzert – sondern eine Show! Bis ins Detail verliebt. Und das zieht das Publikum jedes Mal aufs Neue in den Bann. [https://stillinsearch.com](https://stillinsearch.com "https://stillinsearch.com")![Still in Search](/media/2015/05/Still-in-Search_2016_3.jpg "2016") 
 
-**Mischa Gohlke Band –** Musiker. Freigeist. Inklusionsbotschafter. ![Mischa Gohlke Band Band Live](/media/2015/05/8824-Mischa-Gohlke-Band-LIVE-_-Foto-by-Jan-Ziegler.jpg "Foto by Jan Ziegler")Die Reihe könnte man endlos fortsetzen. Der Hamburger Bluesgitarrist ist facettenreich und ebenso seine Biographie. In der nach ihm benannten „Mischa Gohlke Band“ fließen deutsch- und englischsprachige Eigenkompositionen zu einem Crossover Sound zusammen, der hochprofessionell wie leidenschaftlich daher kommt. Darüber hinaus widmet sich die Band mit einer ganz exklusiven Hommage den beiden Legenden Stevie Ray Vaughan und Jimi Hendrix. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. [www.grenzensindrelativ.de/mischa-gohlke-band/bandinfo.html](/mischa-gohlke-band/bandinfo.html)
+**Mischa Gohlke Band –** Musiker. Freigeist. Inklusionsbotschafter. ![Mischa Gohlke Band Band Live](/media/2015/05/8824-Mischa-Gohlke-Band-LIVE-_-Foto-by-Jan-Ziegler.jpg "Foto by Jan Ziegler")Die Reihe könnte man endlos fortsetzen. Der Hamburger Bluesgitarrist ist facettenreich und ebenso seine Biographie. In der nach ihm benannten „Mischa Gohlke Band“ fließen deutsch- und englischsprachige Eigenkompositionen zu einem Crossover Sound zusammen, der hochprofessionell wie leidenschaftlich daher kommt. Darüber hinaus widmet sich die Band mit einer ganz exklusiven Hommage den beiden Legenden Stevie Ray Vaughan und Jimi Hendrix. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. [www.mischagohlkeband.de](https://mischagohlkeband.de/)
 
-**Katrin Wulff –** Ein bunter Vogel in der deutschen Musikszene. ![Katrin Wulff](/media/2016/07/Katrin-WulffCMuenchbach.jpeg "Foto by Muenchbach")Nicht nur dank ihrer roten Haare. Angeflogen aus dem Westfalenland legt die Wahlhamburgerin stattliche vier Oktaven auf die Waagschale und bewegt sich elegant zwischen engelsgleicher Sirene und dreckiger Soulröhre. Eine Ausnahmestimme, die Songs schreibt erzählt über Lust und Laster, digitales Grundrauschen, alte Denkschleifen und neue Kapitel. Eine Künstlerin zum Entdecken, die Herz und Hirn bewegt und als bekennende Bühnensau nur zu gern das Publikum unterhält. Katrin Wulff hat u.a. mit Xavier Naidoo und Udo Lindenberg zusammengearbeitet und ist die Songwriterin von„AndersSein vereint“. Im Kukuun auf der Hamburger Reeperbahn ist sie Gastgeberin der Reihe „KAT\`S SUITE“. [www.katwulff.de](https://www.katwulff.de/)
+**Katrin Wulff –** Ein bunter Vogel in der deutschen Musikszene. Nicht nur dank ihrer roten Haare. Angeflogen aus dem Westfalenland legt die Wahlhamburgerin stattliche vier Oktaven auf die Waagschale und bewegt sich elegant zwischen engelsgleicher Sirene und dreckiger Soulröhre. Eine Ausnahmestimme, die Songs schreibt erzählt über Lust und Laster, digitales Grundrauschen, alte Denkschleifen und neue Kapitel. Eine Künstlerin zum Entdecken, die Herz und Hirn bewegt und als bekennende Bühnensau nur zu gern das Publikum unterhält. Katrin Wulff hat u.a. mit Xavier Naidoo und Udo Lindenberg zusammengearbeitet und ist die Songwriterin von„AndersSein vereint“. Im Kukuun auf der Hamburger Reeperbahn ist sie Gastgeberin der Reihe „KAT\`S SUITE“. [www.katwulff.de](https://www.katwulff.de/)![Katrin Wulff](/media/2016/07/Katrin-WulffCMuenchbach.jpeg "Foto by Muenchbach")
 
-[![Graf Fidi](/media/2016/07/Graf-Fidi.jpg "Graf Fidi")](/media/2016/07/Graf-Fidi.jpg) **Graf Fidi –** Nach dem Motto „ich mach das mit links“ zieht Graf Fidi als cooler Szene-Rapper durch Clubs, Bildungsmessen und Kampagnen von Aktion Mensch. Als eloquenter Botschafter für Inklusion bringt er Menschen mit und ohne Handicap zusammen und begeistert mit seiner Sprechkunst und fetten Beats. [www.graffidi.de](https://graffidi.de/) ![Jirri und Lash](/media/2015/05/Jirri_und_Lash_Presse.png "Jirri und Lash")
+**Graf Fidi –** Nach dem Motto „ich mach das mit links“ zieht Graf Fidi als cooler Szene-Rapper durch Clubs, Bildungsmessen und Kampagnen von Aktion Mensch. Als eloquenter Botschafter für Inklusion bringt er Menschen mit und ohne Handicap zusammen und begeistert mit seiner Sprechkunst und fetten Beats. [www.graffidi.de](https://graffidi.de/) 
+
+[![Graf Fidi](/media/2016/07/Graf-Fidi.jpg "Graf Fidi")](/media/2016/07/Graf-Fidi.jpg) 
 
 **Jirri & Lash**  
- Hip-Hop, Reggae und Rap schallt es aus den Boxen. Ihre Texte sind politisch motiviert, voller Liebe und Witz. [https://www.youtube.com/watch?v=bZNwrvvleiM](https://stillinsearch.com "https://stillinsearch.com")
+Hip-Hop, Reggae und Rap schallt es aus den Boxen. Ihre Texte sind politisch motiviert, voller Liebe und Witz. [https://www.youtube.com/watch?v=bZNwrvvleiM](https://www.youtube.com/watch?v=bZNwrvvleiM "https://www.youtube.com/watch?v=bZNwrvvleiM")![Jirri und Lash](/media/2015/05/Jirri_und_Lash_Presse.png "Jirri und Lash")
 
-**Gebärdenchor HandsUp –** Hörende, Gehörlose und ![Gebärdenchor HandsUp](/media/2016/01/ASV_HandsUP_0715-_-MT.jpg "MT")Hörgeschädigte haben sich 2014 zusammengeschlossen und den Gebärdenchor „HandsUp“ gegründet. Unter der Leitung von Ines Helke vom treffpunkt.altona von aa west gebärden sie u.a. Songs von Liedermacher Rolf Zuchowski oder Hamburger Songwritern wie Katrin Wulff.
+**Gebärdenchor HandsUp –** Hörende, Gehörlose und Hörgeschädigte haben sich 2014 zusammengeschlossen und den Gebärdenchor „HandsUp“ gegründet. Unter der Leitung von Ines Helke vom treffpunkt.altona von aa west gebärden sie u.a. Songs von Liedermacher Rolf Zuchowski oder Hamburger Songwritern wie Katrin Wulff.![Gebärdenchor HandsUp](/media/2016/01/ASV_HandsUP_0715-_-MT.jpg "MT")
 
 **COMEDY:**
 
-**Martin Fromme** – Besser Arm ab als arm dran, heißt das aktuelle ![Martin Fromme](/media/2015/11/Martin-Fromme.jpeg "Martin Fromme")  
- Programm des Kabarettisten Martin Fromme, der sich selbst als Deutschlands ersten und einzigen asymmetrischen Künstler bezeichnet. Geradezu unverschämt offensiv geht der MDR Moderator mit „appen“ Arm in die Schlacht gegen behinderte Klischees. „Kann eine Prostituierte im Rollstuhl eine Wanderhure sein?“ Tja, das regt zum nachdenken an und jede Opferrolle löst sich in Wohlgefallen auf. Viel Spaß damit! [www.martin-fromme.de](https://www.martin-fromme.de)
+**Martin Fromme** – Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Martin Fromme, der sich selbst als Deutschlands ersten und einzigen asymmetrischen Künstler bezeichnet. Geradezu unverschämt offensiv geht der MDR Moderator mit „appen“ Arm in die Schlacht gegen behinderte Klischees. „Kann eine Prostituierte im Rollstuhl eine Wanderhure sein?“ Tja, das regt zum nachdenken an und jede Opferrolle löst sich in Wohlgefallen auf. Viel Spaß damit! [www.martin-fromme.de](https://www.martin-fromme.de)![Martin Fromme](/media/2015/11/Martin-Fromme.jpeg "Martin Fromme")
 
 **TANZ & THEATER:**
 
-»12-Yards!« – das ist die Mutprobe, der sich [![Lukulule, 12 Yards, Hamburg](/media/2015/05/TGL_150119_lukulule_12yards_02.jpg "Lukulule, 12 Yards, Hamburg")](/media/2015/05/TGL_150119_lukulule_12yards_02.jpg) Neulinge am College stellen müssen. Wer Teil der Clique sein will, kommt um dieses Aufnahmeritual nicht herum. Welche Konflikte sich daraus ergeben und ob und wie es möglich ist, unter diesem Druck sich selbst treu zu bleiben und eigene Wege zu gehen, ist das zentrale Thema von »12 Yards! Dein Spiel beginnt« [www.lukulule.de/lukulule/aktuelle-projekte/12yards/](https://www.lukulule.de/lukulule/aktuelle-projekte/12yards/)
+»12-Yards!« – das ist die Mutprobe, der sich Neulinge am College stellen müssen. Wer Teil der Clique sein will, kommt um dieses Aufnahmeritual nicht herum. Welche Konflikte sich daraus ergeben und ob und wie es möglich ist, unter diesem Druck sich selbst treu zu bleiben und eigene Wege zu gehen, ist das zentrale Thema von »12 Yards! Dein Spiel beginnt« [www.lukulule.de/lukulule/aktuelle-projekte/12yards/](https://www.lukulule.de/lukulule/aktuelle-projekte/12yards/)[![Lukulule, 12 Yards, Hamburg](/media/2015/05/TGL_150119_lukulule_12yards_02.jpg "Lukulule, 12 Yards, Hamburg")](/media/2015/05/TGL_150119_lukulule_12yards_02.jpg) 
 
-**LESUNG:** ![Dirk C. Fleck](/media/2015/05/Dirk-Fleck2.jpg "Foty by Will Esskuchen")
+**LESUNG:** 
 
-**Dirk C. Fleck** – Der Hamburger Dirk Fleck ist freiberuflicher Autor und war als Journalist u.a. für GEO, Stern und den Spiegel tätig. In seinen Büchern setzt er sich kritisch mit Umwelt- und Gesellschaftsthemen auseinander. [www.dirk-c-fleck.de](https://www.dirk-c-fleck.de)
+**Dirk C. Fleck** – Der Hamburger Dirk Fleck ist freiberuflicher Autor und war als Journalist u.a. für GEO, Stern und den Spiegel tätig. In seinen Büchern setzt er sich kritisch mit Umwelt- und Gesellschaftsthemen auseinander. [www.dirk-c-fleck.de](https://www.dirk-c-fleck.de)![Dirk C. Fleck](/media/2015/05/Dirk-Fleck2.jpg "Foty by Will Esskuchen")
 
 **MODERATION:**
 
-**Markus Riemann** – Musiker, Moderator und Kulturmanager. [![Markus Riemann](/media/2016/07/markus-riemann-foto.1024x1024.jpg "Markus Riemann")](/media/2016/07/markus-riemann-foto.1024x1024.jpg) Auf großen und kleinen Bühnen fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag in Hamburg, dem Internationalen Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf. [www.kulturbedarf.de](https://www.kulturbedarf.de)
+**Markus Riemann** – Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag in Hamburg, dem Internationalen Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf. [www.kulturbedarf.de](https://www.kulturbedarf.de)[![Markus Riemann](/media/2016/07/markus-riemann-foto.1024x1024.jpg "Markus Riemann")](/media/2016/07/markus-riemann-foto.1024x1024.jpg) 
 
 ***
 
-![Online Banner AndersSein vereint _ 960x300](/media/2016/07/Online-Banner-AndersSein-vereint-_-960x300.jpg)
+![Online Banner AndersSein vereint ](/media/2016/07/Online-Banner-AndersSein-vereint-_-960x300.jpg)
 
-**Background “AndersSein vereint – Inklusionssong für Deutschland” (Tonstudio, Musikvideo, Festivals & Kampagne)**
+**Background: Kampagne “AndersSein vereint – Inklusionssong für Deutschland”** 
 
 AndersSein vereint – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein.
 
@@ -80,15 +84,16 @@ Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusamm
 Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor “Hands up” sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.
 
 Verbunden mit der Kampagne „AndersSein vereint – Inklusionssong für Deutschland“ sollen Impulse freisetzt werden, um:  
- a) mit der „ganzheitlich gelebten Inklusion“ in der Mitte der Gesellschaft anzukommen.  
- b) verschiedenste Themen, Menschen, Künste, Projekte, Initiativen, Institutionen, Communities, usw. zusammen zu bringen und eine übergreifende interaktive Plattform zu schaffen.  
- c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielführende Crossover-Projekte zu realisieren. Wie zum Beispiel Aktionstage Inklusion an Schulen und Universitäten, spartenübergreifenden Festivals, inklusive Tourneen, Netzwerktreffen, sowie eine Albumproduktion mit nationalen und internationalen Künstlern.
+a) mit der „ganzheitlich gelebten Inklusion“ in der Mitte der Gesellschaft anzukommen.  
+b) verschiedenste Themen, Menschen, Künste, Projekte, Initiativen, Institutionen, Communities, usw. zusammen zu bringen und eine übergreifende interaktive Plattform zu schaffen.  
+c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielführende Crossover-Projekte zu realisieren. Wie zum Beispiel Aktionstage Inklusion an Schulen und Universitäten, spartenübergreifenden Festivals, inklusive Tourneen, Netzwerktreffen, sowie eine Albumproduktion mit nationalen und internationalen Künstlern.
 
 Unter folgendem Link gibt es alle Informationen über das Song- und Videoprojekt, die Kampagne, den Background, die Band, Gastsänger. Protagonisten sowie das „AndersSein vereint Festival“ am 18.11.2016 im Knust Hamburg:  
- [/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](https://stillinsearch.com "https://stillinsearch.com")
+[/anderssein-vereint-2/inklusionssong-fuer-deutschland.html](https://stillinsearch.com "https://stillinsearch.com")
 
 > Bei Inklusion gibt es keine Diskussion um Inklusion.
->> Wolfgang S. Zechmayer
+>
+> > Wolfgang S. Zechmayer
 
 ***
 
