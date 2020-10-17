@@ -9,6 +9,12 @@ teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
 
 ## Sa. 20.10.18 Fabrik Hamburg
 
+### Aftermovie:
+
+[https://youtu.be/tfQJfC9bmmU](https://youtu.be/tfQJfC9bmmU "https://youtu.be/tfQJfC9bmmU")
+
+### Fotogalerie:
+
 <gallery>
 
 ![Rapfugees vs Bodyrhythm](/media/2018/11/Rapfugees-vs-Bodyrhythm_bq0-u3CA.jpeg "Rapfugees vs Bodyrhythm")
