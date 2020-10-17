@@ -1,12 +1,17 @@
 ---
 title: "“Grenzen sind relativ – Musik, Hören und Inklusion“ "
 description: ''
-alias: /2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html
+alias: "/2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html"
+teaser: ''
+wide: false
+gallery: []
+
 ---
 # “Grenzen sind relativ – Musik, Hören und Inklusion“ (von Mischa Gohlke)
 
 > Fürchte dich nicht vor Fehlern. Es gibt keine.
->> Miles Davis
+>
+> > Miles Davis
 
 Mit 15/16 habe ich den Blues-Rock Gitarristen Stevie Ray Vaughan gehört, spürte sofort eine tiefe Verbindung zu seiner Musik und musste einfach anfangen, Gitarre zu spielen. Dass ich offiziell von Geburt an Taubheit grenzend hörgeschädigt bin, spielte dabei keine große Rolle. Musik hat in mir Leidenschaft, Begeisterung und Liebe erweckt. Das Gitarre spielen ist mir anfangs auf verschiedensten Ebenen – bezüglich Motorik, Rhythmus, Technik und Hören – schwer gefallen. Dabei fand ich es spannend, gerade das zu tun, was ich scheinbar am wenigsten kann. Grenzen zu spüren, mit ihnen im Prozess zu sein und daran zu wachsen.
 
@@ -29,7 +34,7 @@ Für mich persönlich werden die „Bewusstseinsprozesse“ bei verschiedensten 
 Ca. 14 Millionen Menschen in Deutschland sind hörgeschädigt. Derzeit gibt es wenig Angebote für hörgeschädigte Menschen, Musikunterricht zu nehmen. Dazu existiert der weit verbreitete Glaubenssatz, dass „man aufgrund einer Hörschädigung keine Musik machen kann“.
 
 Seit sieben Jahren biete ich – u.a. in Kooperation mit der renommierten „Rock & Pop Schule Kiel“ – Gitarrenunterricht und Bandtraining für hörgeschädigte und hörende Menschen an. Zusammengefasst kann ich sagen, dass „Musikunterricht für Hörgeschädigte“ zwar auf einer Ebene paradox und spektakulär klingt, es aber letztlich „normaler“ Musikunterricht ist. Es geht immer wieder darum, sich von Konstrukten freizumachen und in die zwischenmenschlichen Beziehungsebenen zu kommen. Dabei können wir alle von- und miteinander lernen. Folgendes Erlebnis im Musikunterricht gibt es gut wieder:  
- Eine Frau, Mitte fünfzig und Cochlea-Implantat-Trägerin, kam zu einer Gitarren-Probestunde. Sie sagte, dass sie bisher nie in Berührung mit Musik gekommen sei und nun erstmals diese Erfahrung sammeln möchte. Weiter formulierte sie, dass sie aufgrund ihrer Hörschädigung sicherlich nicht hören könne, ob sie die Töne „richtig“ spiele. Wir spielten eine einfache Melodie und es wurde deutlich, dass sie eine wunderbare Wahrnehmung für Tonbildung und Phrasierung sowie ein autodidaktisches Talent hatte. Wenn ich dies mal (be)werte, sind ihre musikalischen Veranlagungen deutlich besser gewesen als bei den meisten hörenden Schülern. Die Praxis zeigt also, dass es relativ unbedeutend ist, ob man hörgeschädigt oder hörend ist. Entscheidend ist, was ein jeder daraus macht!
+Eine Frau, Mitte fünfzig und Cochlea-Implantat-Trägerin, kam zu einer Gitarren-Probestunde. Sie sagte, dass sie bisher nie in Berührung mit Musik gekommen sei und nun erstmals diese Erfahrung sammeln möchte. Weiter formulierte sie, dass sie aufgrund ihrer Hörschädigung sicherlich nicht hören könne, ob sie die Töne „richtig“ spiele. Wir spielten eine einfache Melodie und es wurde deutlich, dass sie eine wunderbare Wahrnehmung für Tonbildung und Phrasierung sowie ein autodidaktisches Talent hatte. Wenn ich dies mal (be)werte, sind ihre musikalischen Veranlagungen deutlich besser gewesen als bei den meisten hörenden Schülern. Die Praxis zeigt also, dass es relativ unbedeutend ist, ob man hörgeschädigt oder hörend ist. Entscheidend ist, was ein jeder daraus macht!
 
 Einer der wohl größten Fehler ist, wenn wir hörgeschädigte Menschen die „normalen“ Prozesse beim Musizieren und im Leben ausschließlich auf unsere Hörschädigung projizieren und uns damit identifizieren. Auch Normalhörende können oft zwei Töne nicht voneinander unterscheiden. Es gibt viele Profimusiker, die das Dilemma erfahren, sich auf der Bühne nicht zu hören. Auch Hörgeschädigte können ihr Gehör trainieren und lernen, in verschiedenen Lebenssituationen einen gesunden Umgang zu finden.
 
@@ -56,7 +61,8 @@ Die Auseinandersetzung mit einer vermeintlichen Sinnes-Beeinträchtigung – wie
 **Inklusion**
 
 > Bei Inklusion gibt es keine Diskussion um Inklusion.
->> Wolfgang S. Zechmayer
+>
+> > Wolfgang S. Zechmayer
 
 Inklusion ist ein in Deutschland viel diskutiertes und mit vielen Berührungsängsten behaftetes Thema. Zumeist wird Inklusion auf die „Integration“ von Menschen mit formal anerkannter Behinderung runter gebrochen, für einseitige separierende Interessen benutzt und in der öffentlichen Debatte symptomorientiert ausgetragen. Dabei kann, will und muss Inklusion wesentlich mehr sein!
 
@@ -74,10 +80,10 @@ Die Gedanken um den Begriff Inklusion sind nicht neu, im Gegenteil. Der aktuelle
 
 Musik hat von jeher etwas Verbindendes und bringt Menschen unterschiedlichster Backgrounds zusammen. Bei der Produktion von AndersSein vereint – Inklusionssong für Deutschland haben wir uns damit auseinandergesetzt, Inklusion mit all ihren Facetten zum LEBEN zu bringen. Projekte sind generell ein Spiegel für individuelle und gruppendynamische Prozesse. Mit großem Engagement, einem begrenztem Budget und vielen mitwirkenden Menschen ist eine aufwendig produzierte Tonstudio- und Musikvideoproduktion realisiert worden. In den verschiedenen Arbeitsprozessen führte die Essenz immer wieder auf „Einfach Mensch sein“ zurück. Mit allen Stärken, Schwächen, Gemeinsamkeiten und Unterschieden. Visionen wollen manifestiert werden. Im Kleinen wie im Großen.
 
-Das Gesamtprojekt AndersSein vereint – Inklusionssong für Deutschland setzt sich aus den Modulen Tonstudio, Musikvideo, Festivals und Kampagne zusammen. In dem Musikvideo ([https://youtu.be/KPi9ZNp-YJQ](https://youtu.be/KPi9ZNp-YJQ "https://youtu.be/KPi9ZNp-YJQ")) singen, grooven, rappen und gebärden mehr als 80 Protagonisten von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
+Das Gesamtprojekt AndersSein vereint – Inklusionssong für Deutschland setzt sich aus den Modulen Tonstudio, Musikvideo, Festivals und Kampagne zusammen. In dem [Musikvideo](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo) singen, grooven, rappen und gebärden mehr als 80 Protagonisten von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
 
 Ziel ist es, für die „ganzheitliche gelebte Inklusion“ zu begeistern und mit der Thematik in die Mitte der Gesellschaft zu kommen. Darüber hinaus wollen wir verschiedenste Menschen, Szenen, Künste und Themen zusammenbringen und vor allem Basisarbeit leisten. Dies beinhaltet Projekte wie inklusive Festivals, Aktionstage Inklusion in Schulen & Universitäten, Workshops/Seminare, Bandcamps sowie eine Inklusions-Tournee durch Deutschland.
 
 Über den Autor:
 
-[![Mischa Gohlke](/media/2015/04/mischa-foto.jpg)](/media/2015/04/mischa-foto.jpg) Mit einer an Taubheit grenzenden Hörschädigung hat Mischa Gohlke „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und hat den Weg als Profimusiker eingeschlagen. Parallel zum Studium „Kultur- und Medienmanagement“ an der „Hochschule für Musik und Theater Hamburg“ gründete Mischa Gohlke im Jahr 2006 die Event- und Projektmanagementagentur „migo connections“. Allein 2010 wurden über 100 Veranstaltungen, Festivals und Konzerte im norddeutschen Raum realisiert. Als glaubwürdiger Botschafter initiierte er im Oktober 2011 die deutschlandweit einmalige Initiative „Grenzen sind relativ“, welche sich in verschiedensten Projekten und Veranstaltungen für eine inklusive, integrale und nachhaltige Gesellschaft einsetzt. Das Pilotprojekt „Musikunterricht für Hörgeschädigte“ wurde bereits mehrfach ausgezeichnet. Spartenübergreifende Festivals, Aktionstage Inklusion an Schulen und Universitäten, Netzwerkarbeit, Workshops/Seminare und Bandcamps sind weitere Eckpfeiler der Plattform. In dem Musikvideo des aktuellen Crossover-Projektes AndersSein vereint – Inklusionssong für Deutschland singen, rappen, grooven, tanzen und gebärden über 80 Protagonisten für die „ganzheitlich gelebte Inklusion“. Diverse TV-, Radio- und Presseberichte (ARD, ZDF, N3, BR3, WDR, MDR, 3sat, SWR, RBB, Sat1, HH1, NDR 90.3, ORF, Deutsche Welle, Deutschland Radio,TAZ, MOPO, HH Abendblatt, KN, Aktion Mensch, Musiker, Gitarre & Bass, Kobinet Nachrichten, uvam.) zeigen das öffentliche Interesse an den „Grenzen sind relativ“-Projekten, die eine Pionierfunktion in der Realisierung ganzheitlicher Gesellschaftsprozesse innehalten.
+[![Mischa Gohlke](/media/2015/04/mischa-foto.jpg)](Mischa Gohlke "Mischa Gohlke") Mit einer an Taubheit grenzenden Hörschädigung hat Mischa Gohlke „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und hat den Weg als Profimusiker eingeschlagen. Parallel zum Studium „Kultur- und Medienmanagement“ an der „Hochschule für Musik und Theater Hamburg“ gründete Mischa Gohlke im Jahr 2006 die Event- und Projektmanagementagentur „migo connections“. Allein 2010 wurden über 100 Veranstaltungen, Festivals und Konzerte im norddeutschen Raum realisiert. Als glaubwürdiger Botschafter initiierte er im Oktober 2011 die deutschlandweit einmalige Initiative „Grenzen sind relativ“, welche sich in verschiedensten Projekten und Veranstaltungen für eine inklusive, integrale und nachhaltige Gesellschaft einsetzt. Das Pilotprojekt „Musikunterricht für Hörgeschädigte“ wurde bereits mehrfach ausgezeichnet. Spartenübergreifende Festivals, Aktionstage Inklusion an Schulen und Universitäten, Netzwerkarbeit, Workshops/Seminare und Bandcamps sind weitere Eckpfeiler der Plattform. In dem Musikvideo des aktuellen Crossover-Projektes AndersSein vereint – Inklusionssong für Deutschland singen, rappen, grooven, tanzen und gebärden über 80 Protagonisten für die „ganzheitlich gelebte Inklusion“. Diverse TV-, Radio- und Presseberichte (ARD, ZDF, N3, BR3, WDR, MDR, 3sat, SWR, RBB, Sat1, HH1, NDR 90.3, ORF, Deutsche Welle, Deutschland Radio,TAZ, MOPO, HH Abendblatt, KN, Aktion Mensch, Musiker, Gitarre & Bass, Kobinet Nachrichten, uvam.) zeigen das öffentliche Interesse an den „Grenzen sind relativ“-Projekten, die eine Pionierfunktion in der Realisierung ganzheitlicher Gesellschaftsprozesse innehalten.
