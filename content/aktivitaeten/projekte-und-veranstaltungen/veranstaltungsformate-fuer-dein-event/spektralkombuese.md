@@ -54,7 +54,9 @@ Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Marti
 
 [https://youtu.be/7RohEwmDdXY](https://youtu.be/7RohEwmDdXY "https://youtu.be/7RohEwmDdXY")
 
-**Moderation:**[![markus-riemann-foto.1024x1024](/media/2016/07/markus-riemann-foto.1024x1024.jpg)](Markus Riemann "Markus Riemann")
+**Moderation:**
+
+![Markus Riemann](/media/2018/09/markus-riemann-foto.1024x1024.jpg "Markus Riemann")
 
 **Markus Riemann** – Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen fühlt sich Markus Riemann seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag in Hamburg, dem Internationalen Strassenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf. [www.kulturbedarf.de](https://www.kulturbedarf.de)
 
