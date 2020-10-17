@@ -1,5 +1,5 @@
 ---
-title: ASV - Akteure
+title: AndersSein vereint - Akteure
 description: Band, Gastsänger & Protagonisten
 alias: "/anderssein-vereint-2/band-gastsaenger-protagonisten.html"
 teaser: ''
