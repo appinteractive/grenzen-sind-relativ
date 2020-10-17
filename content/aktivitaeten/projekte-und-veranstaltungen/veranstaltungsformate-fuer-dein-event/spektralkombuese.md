@@ -16,7 +16,9 @@ alias: "/veranstaltungen/spektralkombuese.html"
 wide: false
 
 ---
-# Spektralkombüse - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
+# Spektralkombüse
+
+## Erfahrbare Inklusion durch Musik, Tanz und Kabarett
 
 ![SPEKTRALKOMBÜSE 3](/media/2015/11/SPEKTRALKOMBUESE-3.png)
 
