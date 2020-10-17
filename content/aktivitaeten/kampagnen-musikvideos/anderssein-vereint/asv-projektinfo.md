@@ -13,15 +13,13 @@ wide: false
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
 
- ![](/media/2020/10/online-plakat-anderssein-vereint.jpg)**AndersSein vereint** – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein!
+![](/media/2020/10/online-plakat-anderssein-vereint.jpg)**AndersSein vereint** – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein!
 
 In der aufwendigen wie mitreissenden Musikvideoproduktion singen, grooven, rappen und gebärden die **mehr als 80 Protagonisten** von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
 
 Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusammen mit dem Produzenten Jan Philipp Kelber (Ina Müller, Christina Stürmer, usw.) einen eingängigen Crossover Sound kreiert, der mit den Stimmen von Orange Blue Sänger Volkan Baydar, Bluesröhre Jessy Martens, Rolli Rapper Graf Fidi und Marie Garroths sanfsten Soul bereichert wird.
 
-Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor „Hands up“ sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.
-
-<gallery>
+Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor „Hands up“ sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.<gallery>
 
 ![](/media/2020/10/anderssein-vereint-massenszene1-_-foto-by-tom-roeler.jpg)
 
