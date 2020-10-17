@@ -19,7 +19,7 @@ Aufbauend auf unsere erfolgreichen Kulturfestivals in Hamburg _(Fabrik & Knust)_
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, bei dem
 
-a) Künstler, gemeinnützige Organisationen und  Netzwerke unterschiedlichster Backgrounds zusammen kommen 
+a) Künstler, gemeinnützige Organisationen und  Netzwerke unterschiedlichster Backgrounds zusammen kommen
 
 b) den Besuchern vor Ort die essentielle Thematik „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare, mitreißende und künstlerische Art und Weise Nahe gebracht wird
 
@@ -37,15 +37,15 @@ Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- 
 
 1. Bühnenprogramm:
 
-* Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden. 
+* Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden.
 * Zu unserem großen Künstlernetzwerk gehören u.a. die Mischa Gohlke Band, Martin Fromme, Kassandra Wedel, uvam.
-* Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://youtu.be/KPi9ZNp-YJQ) _(oder “2. Inklusionssong” ab Sept. 2020)_ gemacht werden.
+* Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ ](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos)_(und/oder “2. Inklusionssong” ab April 2021)_ gemacht werden.
 * Unser Moderator [Markus Riemann](https://kulturbedarf.de/) wird durch das Programm führen, einige Vereine/Projekte vorstellen und Interviews mit den Künstlern machen.
 
 1. Interaktive Erlebniswelten:
 
 * Es wird eine Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden
-* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(oder_ _“2. Inklusionssong” ab Sept. 2020)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben 
+* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(und/oder_ _“2. Inklusionssong” ab April.2021)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben
 * Gebärdensprach-Barkeeper, interaktive Aktionen, Kleinkunst zum Mitmachen, usw.
 * Künstlerische Präsentationen zu den Themen Inklusion,  
   Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.
