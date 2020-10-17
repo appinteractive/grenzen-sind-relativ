@@ -1,5 +1,5 @@
 ---
-title: ASV - Videos & Fotos
+title: AndersSein vereint - Videos & Fotos
 description: ''
 teaser: ''
 wide: false

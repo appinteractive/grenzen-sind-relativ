@@ -1,5 +1,5 @@
 ---
-title: ASV - Review & Erfolge
+title: AndersSein vereint - Review & Erfolge
 description: ''
 alias: "/anderssein-vereint-2/status-quo-erfolge.html"
 teaser: ''
