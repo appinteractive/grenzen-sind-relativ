@@ -1,5 +1,5 @@
 ---
-title: ASV - AndersSein vereint Festivals
+title: AndersSein vereint Festivals
 description: ''
 alias: "/anderssein-vereint-2/3-anderssein-vereint-festival.html"
 teaser: ''
