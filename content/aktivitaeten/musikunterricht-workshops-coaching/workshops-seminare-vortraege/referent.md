@@ -1,13 +1,19 @@
 ---
 title: WS Referent
 description: ''
+teaser: ''
+wide: false
+gallery: []
+alias: ''
 
 ---
 # Referent
 
 **Mischa Gohlke – _Musiker, Aktivist, Speaker, Kultur- & Medienmanager, Dozent, Coach, Autor, Inklusionsbotschafter und vor allem Mensch …_**
 
-Mischa Gohlke ist facettenreich und ebenso seine[![Mischa Gohlke Portrait](/media/2014/07/Mischa-Gohlke-Portrait.jpg)](/media/2014/07/Mischa-Gohlke-Portrait.jpg) erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und ist den Weg als Profimusiker eingeschlagen.
+![](/media/2020/06/mischa-profil.jpg)
+
+Mischa Gohlke ist facettenreich und ebenso seineerstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und ist den Weg als Profimusiker eingeschlagen.
 
 Parallel zum Studium „Kultur- und Medienmanagement“ an der „Hochschule für Musik und Theater Hamburg“ gründete Mischa im Jahr 2006 die Event- und Projektmanagementagentur „migo connections“. Allein 2010 wurden über 100 Veranstaltungen, Festivals und Konzerte im norddeutschen Raum realisiert.
 
