@@ -52,8 +52,6 @@ Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Marti
 
 [https://youtu.be/D2xro2s2Crs](https://youtu.be/D2xro2s2Crs "https://youtu.be/D2xro2s2Crs")
 
-[https://youtu.be/7RohEwmDdXY](https://youtu.be/7RohEwmDdXY "https://youtu.be/7RohEwmDdXY")
-
 **Moderation:**
 
 ![Markus Riemann](/media/2018/09/markus-riemann-foto.1024x1024.jpg "Markus Riemann")
