@@ -25,6 +25,14 @@ b) den Besuchern vor Ort die essentielle Thematik „[gesamtgesellschaftliche In
 
 Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance, Network-Area und interaktive Erlebniswelten/Aktionen.
 
+<gallery>
+
+![](/media/2020/10/neu1.jpg)![](/media/2020/10/asv-festival-_-anderssein-vereint-_-foto-by-marie-tabuena-_-online.jpg)![](/media/2020/10/hoffenheim1.png)
+
+![](/media/2015/07/NDR-Inklusionsfackel3.jpg)
+
+![](/media/2015/07/NDR-Inklusionsfackel.jpg)</gallery>
+
 **Sinn und Zweck:**
 
 Mit dem „Inklusions-Support“ können wir dazu beitragen, für Thematik zu sensibilisieren & zu begeistern und mit der „gesamtgesellschaftlichen Inklusion“ mehr in der Mitte der Gesellschaft anzukommen. Darüber hinaus schafft man mit dem Veranstaltungsformat eine erfrischende kulturelle Abwechslung und bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikatoren und weiterführende Basisarbeit auf den Weg gebracht werden.
