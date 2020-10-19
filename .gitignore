@@ -93,3 +93,4 @@ sw.*
 
 .nuxt-storybook
 storybook-static
+node_modules*

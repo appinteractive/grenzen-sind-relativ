@@ -1,7 +1,6 @@
 ---
 title: 2. Grenzen sind relativ Festival 2018
-description: Es ist ein wunderbares „2. Grenzen sind relativ Festival“ mit vielen
-  open minded Menschen und good vibes in der „Fabrik Hamburg Altona“ gewesen!
+description: "Es ist ein wunderbares „2. Grenzen sind relativ Festival“ mit vielen open minded Menschen und good vibes in der „Fabrik Hamburg Altona“ gewesen!"
 teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
 
 ---
@@ -29,7 +28,7 @@ teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
 
 ![Network Area](/media/2018/11/Infostände_MldWFD3g.jpeg "Network Area")
 
-![Musikvideo-Dreh "Zeig Dein Gesicht für den Frieden"](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg 'Musikvideo-Dreh "Zeig Dein Gesicht für den Frieden"')
+![Musikvideo-Dreh "Zeig Dein Gesicht für den Frieden"](/media/2018/11/Dreh-Friedenssong_iH-kKv7w.jpeg "Musikvideo-Dreh Zeig Dein Gesicht für den Frieden")
 
 ![Safar Band](/media/2018/11/Safar-Band_ZD2M3Ndg.jpeg "Safar Band")
 
@@ -53,11 +52,11 @@ teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
 
 **Mit Live Musik, Theater, Kabarett, Performance, Kunstausstellung, Video-Kunst, Passausgabe, Musikvideo-Release, Network-Area, interaktive Erlebniswelten & Aftershowparty mit DJ**
 
-**Feat. Jan Plewka & Marco Schmedtje, Sebó, Soularia, Mischa Gohlke & The Everythings, Kiddo Kat, Michael Krebs, Kilez More feat. Morgaine, Klabauter Theater, stringNbase,** **Bodyrhythm Unlimited, Rapfugees, Safar Band, GSR Allstars & Friends,** **Kymat,** **Florian Huber, Christina Kohla, Nora Block, Laura Schwoerer, Urban Citizenship Card****, DJ Qmutat,** **Markus Riemann + Überraschungsgäste**
+**Feat. Jan Plewka & Marco Schmedtje, Sebó, Soularia, Mischa Gohlke & The Everythings, Kiddo Kat, Michael Krebs, Kilez More feat. Morgaine, Klabauter Theater, stringNbase,Bodyrhythm Unlimited, Rapfugees, Safar Band, GSR Allstars & Friends, Kymat, Florian Huber, Christina Kohla, Nora Block, Laura Schwoerer, Urban Citizenship Card, DJ Qmutat, Markus Riemann + Überraschungsgäste**
 
 **SAVE THE DATE + sei auch DU mit dabei!! 🙂**
 
-***
+---
 
 > ## _Hebt man den Blick, so sieht man keine Grenzen._
 >
@@ -67,22 +66,22 @@ Nach der wunderbaren Hamburger Festival-Premiere 2017 geht es nun in die 2. Rund
 
 Im Geiste unseres Mottos „**Grenzen sind relativ**“ haben wir über 80 Künstler, Aussteller und Kooperationspartner unterschiedlichster  Backgrounds zusammengebracht, um gemeinsam die **Vielfalt der Künste, Menschen und Netzwerke** ausgiebig zu feiern.
 
-* **LIVE ON STAGE:** Live-Musik, Theater, Kabarett und Performances finden eine gemeinsame Bühne. Eine Crossover-Melange, die es in sich hat!
-* **KUNSTAUSTELLUNG “Pushing the boundaries__”***_: Verschiedenste Künstler_innen präsentieren ihre Arbeiten zur universellen Thematik “Grenzen”. Kuration: Florian Huber
-* **VIDEO-KUNST:** KYMAT vereinigt die Wissenschaft Kymatik und  verschiedene Formen der Klangtherapie in einem Kunstprojekt. Frequenzen  und Klänge werden im Wasser sichtbar.
-* **PASSAUSGABE Urban Citizenship Card:** Ein Konzept, in dem die Realität nicht den Papieren angepasst wird, sondern die Papiere der Realitäten. Bringe Dein Foto mit!
-* **MUSIKVIDEO-RELEASE “Krieg ist vorbei”:** Über 20 Menschen haben sich zusammengetan, um einen Kampagnensong für den Frieden zu  produzieren. Frieden. Ein Wort wartet auf Verständnis. Frieden. Braucht  uns. In aller Vielfalt.
-* **NETWORK-AREA:** Hier können sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN kennenlernen, austauschen und vernetzen.
-* **INTERAKTIVE ERLEBNISWELTEN**: Auch diese Welten laden zu  spannenden Perspektivwechseln ein. Vor Ort wird es interaktive Malerei  von/mit Christina Kohla, Nora Block und Laura Schwoerer, einen  Gebärdensprach-Barkeeper sowie weitere Aktionen geben. Lass Dich  überraschen!
-* **AFTERSHOWPARTY mit DJ Qmutat:** MashUp aus Soul, Funk, Latin, Afro, Reggae, Rock und Hip Hop
+- **LIVE ON STAGE:** Live-Musik, Theater, Kabarett und Performances finden eine gemeinsame Bühne. Eine Crossover-Melange, die es in sich hat!
+- **KUNSTAUSTELLUNG “Pushing the boundaries__”***_: Verschiedenste Künstler_innen präsentieren ihre Arbeiten zur universellen Thematik “Grenzen”. Kuration: Florian Huber
+- **VIDEO-KUNST:** KYMAT vereinigt die Wissenschaft Kymatik und  verschiedene Formen der Klangtherapie in einem Kunstprojekt. Frequenzen  und Klänge werden im Wasser sichtbar.
+- **PASSAUSGABE Urban Citizenship Card:** Ein Konzept, in dem die Realität nicht den Papieren angepasst wird, sondern die Papiere der Realitäten. Bringe Dein Foto mit!
+- **MUSIKVIDEO-RELEASE “Krieg ist vorbei”:** Über 20 Menschen haben sich zusammengetan, um einen Kampagnensong für den Frieden zu  produzieren. Frieden. Ein Wort wartet auf Verständnis. Frieden. Braucht  uns. In aller Vielfalt.
+- **NETWORK-AREA:** Hier können sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN kennenlernen, austauschen und vernetzen.
+- **INTERAKTIVE ERLEBNISWELTEN**: Auch diese Welten laden zu  spannenden Perspektivwechseln ein. Vor Ort wird es interaktive Malerei  von/mit Christina Kohla, Nora Block und Laura Schwoerer, einen  Gebärdensprach-Barkeeper sowie weitere Aktionen geben. Lass Dich  überraschen!
+- **AFTERSHOWPARTY mit DJ Qmutat:** MashUp aus Soul, Funk, Latin, Afro, Reggae, Rock und Hip Hop
 
-**Seid mit dabei und sichert Euch** [**HIER**](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=25622) **die Karten im Vorverkauf:**
+**Seid mit dabei und sichert Euch [HIER](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=25622) die Karten im Vorverkauf:**
 
 **Es lebe das Miteinander, es lebe die Vielfalt!**
 
-***
+---
 
-## **Facts:**
+## Facts:
 
 \\2. Grenzen sind relativ Festival
 

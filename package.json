@@ -26,11 +26,8 @@
   },
   "devDependencies": {
     "@nuxtjs/google-analytics": "^2.4.0",
-    "@nuxtjs/storybook": "^2.2.0",
     "@nuxtjs/tailwindcss": "^2.1.0",
-    "@storybook/addon-docs": "latest",
-    "@storybook/addon-knobs": "latest",
-    "@storybook/addon-viewport": "^6.0.21",
+    "@nuxtjs/vercel-builder": "^0.17.12",
     "@tailwindcss/typography": "^0.2.0",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "eslint-config-prettier": "^6.11.0",
