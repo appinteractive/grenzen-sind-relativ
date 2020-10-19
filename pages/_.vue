@@ -154,6 +154,11 @@ export default {
 .prose h1 + h2 {
   @apply -mt-2;
 }
+.prose h1 + .swiper-outer,
+.prose h2 + .swiper-outer,
+.prose h3 + .swiper-outer {
+  @apply -mt-8 !important;
+}
 
 .prose blockquote {
   @apply text-xl font-serif italic text-left pl-4 pr-2 border-none text-primary-600;

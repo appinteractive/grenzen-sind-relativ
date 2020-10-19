@@ -104,7 +104,9 @@ export default {
         }, [item])),
       ])
     ]
-    return createElement('div', {}, children)
+    return createElement('div', {
+      class: 'swiper-outer'
+    }, children)
   }
 }
 </script>
