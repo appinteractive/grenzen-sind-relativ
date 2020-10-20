@@ -24,5 +24,13 @@
       }
     },
     { "src": "/(.*)", "dest": "/" }
+  ],
+  "redirects": [
+    { 
+      "source": "/veranstaltungen/3-grenzen-sind-relativ-festival-sa-26-10-19-fabrik-hamburg-2-2/audiovisuelle-impressionen-vom-grenzen-sind-relativ-festival-2017.html",
+      "destination": "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival", 
+      "permanent": true
+    }
   ]
+  
 }
