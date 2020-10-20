@@ -8,7 +8,8 @@
     "start": "nuxt start",
     "generate": "nuxt generate --modern=client",
     "storybook": "nuxt storybook",
-    "forestry-preview": "nuxt -p 8080 -H 0.0.0.0"
+    "forestry-preview": "nuxt -p 8080 -H 0.0.0.0",
+    "clean": "rm -rf ./static/thumbs"
   },
   "dependencies": {
     "@nuxt/content": "^1.5.0",
@@ -26,17 +27,15 @@
   },
   "devDependencies": {
     "@nuxtjs/google-analytics": "^2.4.0",
-    "@nuxtjs/storybook": "^2.2.0",
     "@nuxtjs/tailwindcss": "^2.1.0",
-    "@storybook/addon-docs": "latest",
-    "@storybook/addon-knobs": "latest",
-    "@storybook/addon-viewport": "^6.0.21",
+    "@nuxtjs/vercel-builder": "^0.17.12",
     "@tailwindcss/typography": "^0.2.0",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "image-size": "^0.9.1",
     "imurmurhash": "^0.1.4",
+    "mkdirp": "^1.0.4",
     "prettier": "^2.0.5",
     "sharp": "^0.26.2",
     "tailwindcss": "^1.7.6",

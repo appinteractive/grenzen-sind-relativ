@@ -1,4 +1,3 @@
-import { MINIMAL_VIEWPORTS } from '@storybook/addon-viewport'
 const isProd = process.env.NODE_ENV === 'production'
 const settings = require('./config/settings.json')
 
@@ -143,26 +142,6 @@ export default {
       ],
     },
   },
-  /**
-   * See https://storybook.nuxtjs.org/options/
-   */
-  // storybook: {
-  //   // Options
-  //   stories: [
-  //     '~/components/**/*.stories.js',
-  //     '~/components/**/*.stories.mdx'
-  //   ],
-  //   addons: [
-  //     '@storybook/addon-knobs',
-  //     '@storybook/addon-viewport',
-  //     '@storybook/addon-docs'
-  //   ],
-  //   parameters: {
-  //     viewport: {
-  //       viewports: MINIMAL_VIEWPORTS,
-  //     },
-  //   }
-  // },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
