@@ -311,6 +311,10 @@
               "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md"
             }
           ]
+        },
+        {
+          "title": "Zitate",
+          "page": "content/ueber-uns/zitate.md"
         }
       ],
       "showInMainNavigation": true
