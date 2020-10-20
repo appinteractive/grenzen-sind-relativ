@@ -22,7 +22,8 @@
         },
         {
           "title": "Identität & Positionierung",
-          "page": "content/ueber-uns/identitat-positionierung.md"
+          "page": "content/ueber-uns/identitat-positionierung.md",
+          "disabled": true
         },
         {
           "title": "Manifest ",
