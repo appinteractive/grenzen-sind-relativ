@@ -29,10 +29,6 @@
           "title": "Manifest ",
           "page": "content/ueber-uns/manifest.md",
           "disabled": true
-        },
-        {
-          "title": "Zitate",
-          "page": "content/ueber-uns/zitate.md"
         }
       ],
       "showInMainNavigation": true
