@@ -27,6 +27,8 @@ Die “GRENZEN SIND RELATIV”- Projekte haben bereits ein großes öffentliches
 
 [Deutschlandfunk Kultur "Musik ist ein wunderbarer Spiegel" (19.10.2017)](https://www.deutschlandfunkkultur.de/musikunterricht-fuer-gehoerlose-musik-ist-ein-wunderbarer.2177.de.html?dram:article_id=398602)
 
+[Deutsche Welle "Pulse: Deaf musicians playing a message of inclusion" (15.12.2015)](https://www.dw.com/en/pulse-deaf-musicians-playing-a-message-of-inclusion/av-18919280)
+
 [Deutsche Welle "Making the impossible, possible" (22.03.2012)](https://www.dw.com/en/making-the-impossible-possible/a-15828093)
 
 ### TV:
