@@ -12,6 +12,4 @@ alias: ''
 
 ### Forschen - Informieren - Entwickeln - Verändern
 
-### Kutur ist für alle da!
-
-Alles Infos findet ihr auf [https://kudiba.berlin/](https://kudiba.berlin/  "https://kudiba.berlin/")
+Kultur ist für alle da! Alle Infos findet ihr auf [https://kudiba.berlin/](https://kudiba.berlin/  "https://kudiba.berlin/")
