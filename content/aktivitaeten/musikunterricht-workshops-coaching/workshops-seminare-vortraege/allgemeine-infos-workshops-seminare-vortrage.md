@@ -19,7 +19,8 @@ wide: false
 * [Grenzen sind relativ – Musik, systemische Inklusion & Beziehungskultur(en)](/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musik-systemische-inklusion-beziehungskulturen.html)
 * Inklusives Veranstaltungsmanagement am Beispiel der „Grenzen sind relativ Festivals“
 * Projekt- & Veranstaltungsmanagement – Vorlauf, strategische & operative Planung, Durchführung und Evaluation
-* Inklusive Kulturarbeit 
+* Inklusive Kulturarbeit - Social Business, institutionelle & projektbezogene Arbeit, Verbindung von Soziales & Kultur, Projektmanagement, Fundraising, Marketing, etc.
+* Inklusive & Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
 * Mentale Hörwahrnehmung & Multisensorische Wahrnehmungsebenen
 * Der Umgang mit Stärken, Schwächen, Erfolgen und Frustration
 * Inklusion – Herleitung, Interpretationsansätze, status quo & Gesellschaft von morgen
