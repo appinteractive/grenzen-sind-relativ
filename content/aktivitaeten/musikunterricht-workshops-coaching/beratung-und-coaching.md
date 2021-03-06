@@ -9,5 +9,6 @@ Wir beraten und coachen u.a. in folgenden Themenbereichen:
 
 * Musikunterricht für Hörgeschädigte, inklusiver Musikunterricht & Bandtraining
 * Projekt-, Veranstaltungs- und Kampagnenmanagement
-* „gesamtgesellschaftliche gelebte Inklusion“
-* Social Business & Vereinsmanagement
+* „Gesamtgesellschaftliche Inklusion“
+* Vereinsmanagement und inklusive Kulturarbeit - Social Business, institutionelle & projektbezogene Arbeit, Verbindung von Soziales & Kultur, Projektmanagement, Fundraising, Marketing, etc.
+* Inklusive & Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
