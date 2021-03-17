@@ -21,6 +21,4 @@ Im Auftrag von Kunst, Kultur und politischer Bildung sowie im Sinne unseres Arbe
 
 Mit der umfangreichen medialen Kampagne wollen wir eine große Öffentlichkeit erreichen und mit essentiellen Themen wie gesamtgesellschaftliche Inklusion, Frieden, Menschenrechte, integrales Bewusstsein, Dialog, Empathie & Utopien in die “Mitte der Gesellschaft”. Dazu werden wir weiterführende Basisarbeit auf den Weg bringen, wie z. B. diverse Kulturveranstaltungen, Aktionstage in Schulen & Universitäten, Netzwerktreffen, eine Petition und die Gründung eines neuen “gesamtgesellschaftlichen Aktionsbündnisses”. Let´s do it - auf in eine Beziehungskultur!
 
-Die Musikvideo-Release-Konzertveranstaltung ist im August/September 2021 geplant.
-
 Weitere Infos folgen. :)
