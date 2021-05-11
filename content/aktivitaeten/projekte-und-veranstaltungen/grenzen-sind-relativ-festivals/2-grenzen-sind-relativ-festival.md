@@ -60,7 +60,7 @@ teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
 
 > ## _Hebt man den Blick, so sieht man keine Grenzen._
 >
-> > ## _Aus Japan_
+> > **_Aus Japan_**
 
 Nach der wunderbaren Hamburger Festival-Premiere 2017 geht es nun in die 2. Runde.
 

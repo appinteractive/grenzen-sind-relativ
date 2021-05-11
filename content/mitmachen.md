@@ -34,3 +34,4 @@ Im GSR e.V. - Streetteam machen wir verschiedenste projektbezogene Aktionen, bri
 Als gemeinnütziger Verein sind wir stets auf Spenden angewiesen und freuen uns über jede einmalige und/oder regelmäßige (monatliche) Spende! Weitere Information findest Du unter der Rubrik Spenden.
 
 ### 4.) Welche Ideen, Inputs, usw. hast Du? :)
+>
