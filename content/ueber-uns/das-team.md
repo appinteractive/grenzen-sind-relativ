@@ -30,13 +30,13 @@ Barbara Wetzer ist schon seit vielen Jahren in der Musik- und Kulturbranche tät
 
 **Filmproduktion (Autor & Redakteur): Andreas "Rudi" Dutschke:**
 
-Andreas "Rudi" Dutschke ist seit mehr als zwanzig Jahren Fernsehautor und -redakteur. Nach dem Studium der Kulturgeschichte Osteuropas, Germanistik und Kulturwissenschaften ging er in die TV-Branche und machte diverse Filmproduktionen für das ZDF und Arte: Dokumentationen über Theater, Oper & Popmusik, Arbeiten für Markus Lanz und Maybrit Illner, verschiedene Wissenssendungen und Verbrauchermagazine. Außerdem macht er regelmäßig Industrie- und Imagefilme sowie Presse- und Öffentlichkeitsarbeit (etwa für den Bundesverband Windenergie BWE).
+Andreas "Rudi" Dutschke ist seit mehr als zwanzig Jahren Fernsehautor und -redakteur. Nach dem Studium der Kulturgeschichte Osteuropas, Germanistik und Kulturwissenschaften ging er in die TV-Branche und machte diverse Filmproduktionen für das ZDF und Arte: Dokumentationen über Theater, Oper & Popmusik, Arbeiten für Markus Lanz und Maybrit Illner, verschiedene Wissenssendungen und Verbrauchermagazine. Außerdem produziert er regelmäßig Industrie- und Imagefilme sowie Presse- und Öffentlichkeitsarbeit (etwa für den Bundesverband Windenergie BWE).
 
 ![](/media/2021/05/foto-fabian-kohler.jpeg)
 
 **Filmproduktion (Regie, Kamera & Postproduktion): Fabian Köhler** 
 
-Nach seinem Abitur 1996 machte er eine Ausbildung als Industriekaufmann in Lübeck. Dann zog er in die große Hauptstadt Berlin, um ein Studium zu beginnen, als Politik-Wissenschaftler, Publizistik, und Psychologie Student. Er wechselt das Studium dann, und zog nach Hamburg, wo er Diplom-Ingenieur der Medientechnik wurde. Er arbeitete lange als Kameramann und gründete 2010 die GmbH "Regenfrei Produktion". Mit ihr verwirklicht er jede Menge Musikvideos, und andere internationale Produktionen. 2014 erlitt er einen schweren Unfall, und musste die GmbH leider auflösen. Doch er kämpfte sich wieder empor, und verstärkt nun das "Grenzen sind relativ e.V." - Aktionsbüro im Bereich der Filmproduktionen.
+Nach seinem Abitur 1996 machte er eine Ausbildung als Industriekaufmann in Lübeck. Dann zog er in die große Hauptstadt Berlin, um ein Studium zu beginnen, als Politik-Wissenschaftler, Publizistik und Psychologie Student. Er wechselt das Studium und zog nach Hamburg, wo er Diplom-Ingenieur der Medientechnik wurde. Er arbeitete lange als Kameramann und gründete 2010 die GmbH "Regenfrei Produktion". Mit seiner Produktionsfirma realisierte er viele  Musikvideos, Kinofilme und andere internationale Produktionen. 2014 erlitt er einen schweren Unfall und musste die GmbH auflösen. Doch er kämpfte sich wieder empor und verstärkt nun das "Grenzen sind relativ e.V." - Aktionsbüro im Bereich der Filmproduktionen.
 
 ## Vorstand:
 
