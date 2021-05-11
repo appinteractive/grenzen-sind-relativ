@@ -47,7 +47,7 @@ Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- 
 
 * Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden.
 * Zu unserem großen Künstlernetzwerk gehören u.a. die Mischa Gohlke Band, Martin Fromme, Kassandra Wedel, uvam.
-* Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“ ](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos)_(und/oder “2. Inklusionssong” ab April 2021)_ gemacht werden.
+* Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos) _(und/oder “2. Inklusionssong” ab April 2021)_ gemacht werden.
 * Unser Moderator [Markus Riemann](https://kulturbedarf.de/) wird durch das Programm führen, einige Vereine/Projekte vorstellen und Interviews mit den Künstlern machen.
 
 **Interaktive Erlebniswelten:**
