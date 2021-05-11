@@ -6,7 +6,7 @@ alias: "/ueber-uns/gsr-team.html"
 ---
 # Das Team
 
-## Aktionsbüro:
+## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden:
 
 ![Mischa Gohlke](/media/2020/06/mischa-profil.jpg "Mischa Gohlke") **Initiator & Leitung: Mischa Gohlke** _(Kultur- & Medienmanager, Dozent, Musiker, Autor, Speaker, Inklusionsbotschafter, Aktivist und vor allem Mensch)_
 
@@ -26,13 +26,13 @@ Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und
 
 Barbara Wetzer ist schon seit vielen Jahren in der Musik- und Kulturbranche tätig. 1995 gründete sie zusammen mit dem Ärzte-Bassisten Rodrigo González die Firma “Rodrec”, welche in den Aktionsfeldern Musik-Label, Künstlermanagement, Booking, Promotion und Beratung für bekannte und unbekannte Künstler (u.a. “Der Fall Böse”, “Abwärts” und “Rantanplan”) aktiv ist. Dazu war Barbara mehrere Jahre für das Live-Programm von der “Grossen Freiheit 36” und dem “Docks” zuständig. Seit einigen Jahren stellt sie das Rahmenprogramm für das “Schanzenzelt” zusammen, wo Musik, Kultur und soziale Arbeit zu einem inspirierenden Kulturerlebnis inkludiert werden. Mittlerweile ist das “Schanzenzelt” ein Kulturtreff für diverse „Promis“ der Hamburger und Internationalen Musiklandschaft sowie Organisationen mit inklusiven und interkulturellen Hintergrund geworden. Mit viel Erfahrung, Expertise und einem großen Netzwerk möchte Barbara nun im Team „Grenzen sind relativ e.V.“ mit dazu beitragen, die (R)evolution auf dem Weg zu bringen.
 
-**![](/media/2021/05/rudi-duttschke-002.jpg)**
+**![Andreas "Rudi" Dutschke](/media/2021/05/rudi-duttschke-002.jpg 'Andreas "Rudi" Dutschke')**
 
 **Filmproduktion (Autor & Redakteur): Andreas "Rudi" Dutschke:**
 
 Andreas "Rudi" Dutschke ist seit mehr als zwanzig Jahren Fernsehautor und -redakteur. Nach dem Studium der Kulturgeschichte Osteuropas, Germanistik und Kulturwissenschaften ging er in die TV-Branche und machte diverse Filmproduktionen für das ZDF und Arte: Dokumentationen über Theater, Oper & Popmusik, Arbeiten für Markus Lanz und Maybrit Illner, verschiedene Wissenssendungen und Verbrauchermagazine. Außerdem produziert er regelmäßig Industrie- und Imagefilme sowie Presse- und Öffentlichkeitsarbeit (etwa für den Bundesverband Windenergie BWE).
 
-![](/media/2021/05/foto-fabian-kohler.jpeg)
+![Fabian Köhler](/media/2021/05/foto-fabian-kohler.jpeg "Fabian Köhler")
 
 **Filmproduktion (Regie, Kamera & Postproduktion): Fabian Köhler** 
 
@@ -108,7 +108,7 @@ Als Voice Artist Coach ist Inés Zahmoul national und international in den Berei
 
 ***
 
-![Anja Teubert](/media/2014/07/Portraitfoto-Teubert.jpg "Foto von Portraitfoto Teubert") **Anja Teubert** _(Mensch, Frau, Mutter, Prof, Freundin, Mitglied im wissenschaftlichen Beirat eines Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach))_
+![Anja Teubert](/media/2014/07/Portraitfoto-Teubert.jpg "Anja Teubert") **Anja Teubert** _(Mensch, Frau, Mutter, Prof, Freundin, Mitglied im wissenschaftlichen Beirat eines Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach))_
 
 Anja hat trotz oder wegen ihrer diversen – rechtlich nicht anerkannten – Handicaps Soziale Arbeit studiert, promoviert und seit 2013 eine Professur für Sozialraumorientierte Soziale Arbeit an der Dualen Hochschule Baden-Württemberg in Villingen-Schwenningen. Nach mehr als zwanzig Jahren praktischer Sozialer Arbeit erarbeitet sie nun mit den Studierenden an der Entwicklung einer professionellen Haltung, damit diese unter anderem im leider noch vielerorts versäulten Hilfesystem, erreichen, dass der Mensch und nicht seine / ihre Defizite im Fokus stehen.
 
