@@ -27,6 +27,13 @@
         {
           "title": "Spenden",
           "page": "content/spenden.md"
+        },
+        {
+          "children": [
+
+          ],
+          "title": "Stellenausschreibung",
+          "disabled": false
         }
       ]
     }
