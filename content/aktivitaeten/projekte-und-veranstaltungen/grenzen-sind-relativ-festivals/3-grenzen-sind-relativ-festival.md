@@ -41,7 +41,7 @@ _Die Fabrik ist für “Wheelers” barrierefrei gestaltet! Gebärdensprach- & S
 
 ## **PROGRAMM / LIVE ON STAGE:**
 
-[**DAS PACK**](https://www.daspack.de/) feat. [**TONALI** ](https://www.tonali.de/)
+[**DAS PACK**](https://www.daspack.de/) feat. [**TONALI**](https://www.tonali.de/)
 Die legendären Herren um Pensen Paletti (u.a. Monsters of Liedermaching) machen gemeinsame Sache mit Ausnahmekünstlern des Kulturprojekts Tonali (u.a. ECHO Klassik), [**Tae-Min Hyun**](https://www.tonalisten.com/tonalisten/tonalisten/show/tae-min-hyun/) (Klavier), [**Joel Blido**](https://www.tonalisten.com/tonalisten/tonalisten/show/joel-blido/) (Cello)
 
 [**SOULOUNGE**](https://www.soulounge.com/) feat. [**SARAJANE**](https://www.sarajane.eu/) & [**PHIL SIEMERS**](https://www.philsiemers.de/)
@@ -83,6 +83,6 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 
 ## **Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden:**
 
-Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. https://www.grenzensindrelativ.de
+Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. <https://www.grenzensindrelativ.de>
 
 [![3. Grenzen sind relativ Festival – Plakat](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)

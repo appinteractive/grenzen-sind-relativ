@@ -25,7 +25,7 @@ So darf man und frau sich auf einen spannenden Freitag Abend freuen mit viel ins
 3\. AndersSein vereint Festival  
 Fr. 18.11.2016 im Knust (Neuer Kamp 30, 20357 Hamburg)  
 Einlass Bar 19:00h, Einlass Saal 19:30h, Beginn 20:00h  
-AK 12 € , [VVK 10 € ](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=16901)  
+AK 12 € , [VVK 10 €](https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=16901)  
 Das Knust ist barrierefrei und Gebärden- und Schriftdolmetscher sind vor Ort. Für die großzügige Unterstützung geht der Dank an die Kulturbehörde Hamburg.
 
 Facebook-Event: [www.facebook.com/events/938690972943439](https://www.facebook.com/events/938690972943439/)

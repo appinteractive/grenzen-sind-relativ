@@ -53,7 +53,7 @@ Es lebe die Vielfalt, es lebe das Miteinander!!
 
 **nihiling**
 
-[![nihiling ](/media/2017/06/nihiling-_-by-nele-mohr-klumpen-1.jpg)](/media/2017/06/nihiling-_-by-nele-mohr-klumpen-1.jpg)
+[![nihiling](/media/2017/06/nihiling-_-by-nele-mohr-klumpen-1.jpg)](/media/2017/06/nihiling-_-by-nele-mohr-klumpen-1.jpg)
 
 nihiling mögen geräusche.  
 über sie nachzudenken und ihnen namen zu geben.  
@@ -65,7 +65,7 @@ dinge die wachsen und leuchten und irgendwann erlöschen.
 
 [![Hosain & Elsam](/media/2017/06/Hosain-Elsam_Presse2-klein.jpeg)](/media/2017/06/Hosain-Elsam_Presse2-klein.jpeg)
 
-**Hosain & Elsam, 0093 –** Die Hamburg-Afghanistan Connection. 2010 lernten sich Hosain & Elsam, zu der Zeit noch minderjährig, in Athen kennen. Hosain rappte auf der Straße, Elsam filmte dies und  stellte es ins Netz. Beide waren auf ihrem Weg, weg aus Afghanistan in  eine neue, bessere Zukunft. Träume, Hoffnung und Musik im Gepäck. Sie  verbindet vieles, die Flucht, die Herkunft und vor allem eine tiefe  Freundschaft. Heute Leben Hosain & Elsam in Hamburg und haben nun  ihr erstes Album aufgenommen:0093 (Vorwahl von Afghanistan) Hip Hop mit  vielen Facetten und Skills, auf Deutsch, Dari und Englisch – eine bunte, junge Generation erzählt von Wünschen, Problemen, Mut, Freude,  Freundschaft und Erfahrungen, die über Gangster spielen und Dissen weit  hinaus gehen. [https://www.facebook.com/Hosain-Elsam-0093-259594431143314/ ](https://www.facebook.com/Hosain-Elsam-0093-259594431143314/)
+**Hosain & Elsam, 0093 –** Die Hamburg-Afghanistan Connection. 2010 lernten sich Hosain & Elsam, zu der Zeit noch minderjährig, in Athen kennen. Hosain rappte auf der Straße, Elsam filmte dies und  stellte es ins Netz. Beide waren auf ihrem Weg, weg aus Afghanistan in  eine neue, bessere Zukunft. Träume, Hoffnung und Musik im Gepäck. Sie  verbindet vieles, die Flucht, die Herkunft und vor allem eine tiefe  Freundschaft. Heute Leben Hosain & Elsam in Hamburg und haben nun  ihr erstes Album aufgenommen:0093 (Vorwahl von Afghanistan) Hip Hop mit  vielen Facetten und Skills, auf Deutsch, Dari und Englisch – eine bunte, junge Generation erzählt von Wünschen, Problemen, Mut, Freude,  Freundschaft und Erfahrungen, die über Gangster spielen und Dissen weit  hinaus gehen. [https://www.facebook.com/Hosain-Elsam-0093-259594431143314/](https://www.facebook.com/Hosain-Elsam-0093-259594431143314/)
 
 [![Pressefoto](/media/2017/06/Pressefoto_Jirri_Lash.jpg)](/media/2017/06/Pressefoto_Jirri_Lash.jpg)
 
@@ -75,7 +75,7 @@ dinge die wachsen und leuchten und irgendwann erlöschen.
 
 **Felix Oliver Schepp** – STOPP ! Kurz Zeit ? Oder  müssen Sie mal eben schnell noch mehr und das am besten perfekt ? Felix  Oliver Schepp holt Sie dort ab, wo Sie eigentlich nicht hinwollten ! Mit Klavier und Loopmaschine begleitet er seine „scheppsons“, nimmt die  Zeit, von der wir denken, dass wir sie nicht haben, unter die Loope und  entführt in einen skurril-poetischen Kosmos voll von wortwitziger  Doppeldeutigkeit. Ironisch und doch umwerfend charmant jubelt er ganz  zwischenmenschliche Alltagsgeschichten unter, untersucht die Liebe,  liebt trotz allem das Leben und das alles jetzt auch in Ihrer Nähe.  Progressive Muskelentspannung für die Stirnfalten garantiert! [www.felixoliverschepp.de](https://www.felixoliverschepp.de)
 
-[![string´n´base ](/media/2017/06/string-n-base-_-Foto-by-Bernd-Freundorfer-1.jpg)](/media/2017/06/string-n-base-_-Foto-by-Bernd-Freundorfer-1.jpg)
+[![string´n´base](/media/2017/06/string-n-base-_-Foto-by-Bernd-Freundorfer-1.jpg)](/media/2017/06/string-n-base-_-Foto-by-Bernd-Freundorfer-1.jpg)
 
 **stringNbase** – das hamburger Projekt stringNbase entführt den Hörer auf eine musikalische Reise zwischen Vergangenheit und  Gegenwart. Frische elektronische beats, sphärische sounds und knarzende  Bässe werden spielerisch mit organischen Violinklängen und  minimalistischem Gesang verbunden. Daraus entsteht eine Mischung aus  anspruchsvollem lounge-sound kombiniert mit klassischen Einflüssen und  flirrender elektronischer Musik. [www.stringnbase.net](https://www.stringnbase.net/)
 
