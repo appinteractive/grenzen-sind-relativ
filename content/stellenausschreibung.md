@@ -7,20 +7,18 @@ gallery: []
 alias: ''
 
 ---
-# **Stellenausschreibung “Grenzen sind relativ e.V.” (intern!)**
+# **Stellenausschreibung “Grenzen sind relativ e.V.”** 
 
-**Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden**
+Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein. 
 
-Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein. [www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
-
-Nun wollen wir unser [Team](http://www.grenzensindrelativ.de/ueber-uns/gsr-team.html) erweitern und suchen 3 Menschen für folgende 3 Arbeitsbereiche/Stellen:
+Wir wollen nun unser [“Grenzen sind relativ e.V. - Team”](https://www.grenzensindrelativ.de/ueber-uns/das-team) erweitern und suchen 3 Menschen für folgende 3 Arbeitsbereiche/Stellen:
 
 **1.) Operative Geschäftsleitung, Kultur- und Medienmanagement, Projekt-, Veranstaltungs- und Kampagnenmanagement _(40 Wochenstunden, ab dem 01.07.2021)_**
 
 * Operative Geschäftsleitung (Social Business, Finanzen, Personal, Strukturen, Projekte, usw.)
 * Kommunikationsschnittstelle & Personalführung GSR e.V. Team (Koordination & Kommunikation: Aktionsbüro, Vorstand, Beirat, Streetteam, Botschafter, Ehrenamtliche, Kooperationspartner, usw.)
 * Kultur- und Medienmanagement, Projekt-, Veranstaltungs- & Kampagnenmanagement (Leitung, institutionell & projektbezogen, strategisch & operativ, Projekte, Veranstaltungen, Kampagnen, Filmproduktionen, usw. eigenständig planen und durchführen)
-* Akquise [Workshops/Seminare/Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage) & [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event)
+* Akquise  [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) & [Workshops/Seminare/Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
 * Finanzen, Fundraising, Spenden-Akquise & Crowdfunding-Aktionen.
 * Wettbewerbe, Preise, Stipendien & Ausschreibungen
 
