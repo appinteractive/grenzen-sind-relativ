@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2020/10/social-banner-2020-5.jpg"
 title: Stellenausschreibung
 description: ''
 wide: false
