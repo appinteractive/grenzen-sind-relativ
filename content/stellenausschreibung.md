@@ -15,10 +15,6 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 
 Nun wollen wir unser [Team](http://www.grenzensindrelativ.de/ueber-uns/gsr-team.html) erweitern und suchen 3 Menschen für folgende 3 Arbeitsbereiche/Stellen:
 
-1. **Operative Geschäftsleitung, Kultur- und Medienmanagement, Projekt-, Veranstaltungs- und Kampagnenmanagement** _(40 Wochenstunden, ab 01.07.21)_
-2. **Projekt- & Redaktionsleitung für unseren neuen “Grenzen sind relativ e.V.” Social Media Channel, Mediengestaltung/Designs und Marketing, PR-, Öffentlichkeits- & Netzwerkarbeit & Promotion** _(20 Wochenstunden, mittelfristige Perspektive Vollzeitstelle, ab dem 01.07.2021)_
-3. **Filmproduktion: Regie, Drehbuch, Kamera & Postproduktion** _(20 Wochenstunden, ab 1.07.21)_
-
 **1.) Operative Geschäftsleitung, Kultur- und Medienmanagement, Projekt-, Veranstaltungs- und Kampagnenmanagement _(40 Wochenstunden, ab dem 01.07.2021)_**
 
 * Operative Geschäftsleitung (Social Business, Finanzen, Personal, Strukturen, Projekte, usw.)
