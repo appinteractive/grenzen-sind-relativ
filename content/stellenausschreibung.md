@@ -13,7 +13,7 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 
 Wir wollen nun unser [“Grenzen sind relativ e.V. - Team”](https://www.grenzensindrelativ.de/ueber-uns/das-team) erweitern und suchen 3 Menschen für folgende 3 Arbeitsbereiche/Stellen:
 
-**1.) Operative Geschäftsleitung, Kultur- und Medienmanagement, Projekt-, Veranstaltungs- und Kampagnenmanagement _(40 Wochenstunden, ab dem 01.07.2021)_**
+**1.) Operative Geschäftsleitung, Kultur- und Medienmanagement, Projekt-, Veranstaltungs- und Kampagnenmanagement** _(40 Wochenstunden, ab dem 01.07.2021)_
 
 * Operative Geschäftsleitung (Social Business, Finanzen, Personal, Strukturen, Projekte, usw.)
 * Kommunikationsschnittstelle & Personalführung GSR e.V. Team (Koordination & Kommunikation: Aktionsbüro, Vorstand, Beirat, Streetteam, Botschafter, Ehrenamtliche, Kooperationspartner, usw.)
@@ -46,4 +46,6 @@ Wir wollen nun unser [“Grenzen sind relativ e.V. - Team”](https://www.grenze
 * Lust beim gesamtgesellschaftlichen Wandel bzw. bei der (R)evolution mitzugestalten
 * Sich zu 100 Prozent mit „Grenzen sind relativ e.V.“ identifizieren zu können, loyal zu sein, es zu LEBEN und einfach richtig Bock auf die Zusammenarbeit & Tätigkeiten zu haben. Beruf(ungen)! :)
 
-**Bei Interesse melde Dich bitte per E-Mail (Deadline 31.05.2021): mischa.gohlke@grenzensindrelativ.de**
+**Bei Interesse melde Dich bitte per E-Mail (Deadline 31.05.2021):** 
+
+**mischa.gohlke@grenzensindrelativ.de**
