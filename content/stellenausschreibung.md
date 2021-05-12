@@ -9,23 +9,18 @@ alias: ''
 ---
 # **Stellenausschreibung “Grenzen sind relativ e.V.” (intern!)**
 
-  
 **Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden**
 
 Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein. [www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
 
-Nun wollen wir unser [Team](http://www.grenzensindrelativ.de/ueber-uns/gsr-team.html) erweitern und suchen 3 Menschen für folgende Arbeitsbereiche/Stellen:
-
-1. **Operative Geschäftsleitung, Kultur- und Medienmanagement, Projekt-, Veranstaltungs- und Kampagnenmanagement** _(40 Wochenstunden, ab 01.07.21)_
-2. **Projekt- & Redaktionsleitung für unseren neuen “Grenzen sind relativ e.V.” Social Media Channel, Mediengestaltung/Designs und Marketing, PR-, Öffentlichkeits- & Netzwerkarbeit & Promotion** _(20 Wochenstunden, mittelfristige Perspektive Vollzeitstelle, ab dem 01.07.2021)_
-3. **Filmproduktion: Regie, Drehbuch, Kamera & Postproduktion** _(20 Wochenstunden, ab 1.07.21)_
+Nun wollen wir unser [Team](http://www.grenzensindrelativ.de/ueber-uns/gsr-team.html) erweitern und suchen 3 Menschen für folgende 3 Arbeitsbereiche/Stellen:
 
 **1.) Operative Geschäftsleitung, Kultur- und Medienmanagement, Projekt-, Veranstaltungs- und Kampagnenmanagement _(40 Wochenstunden, ab dem 01.07.2021)_**
 
 * Operative Geschäftsleitung (Social Business, Finanzen, Personal, Strukturen, Projekte, usw.)
 * Kommunikationsschnittstelle & Personalführung GSR e.V. Team (Koordination & Kommunikation: Aktionsbüro, Vorstand, Beirat, Streetteam, Botschafter, Ehrenamtliche, Kooperationspartner, usw.)
 * Kultur- und Medienmanagement, Projekt-, Veranstaltungs- & Kampagnenmanagement (Leitung, institutionell & projektbezogen, strategisch & operativ, Projekte, Veranstaltungen, Kampagnen, Filmproduktionen, usw. eigenständig planen und durchführen)
-* Akquise [Workshops/Seminare/Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage) & [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) 
+* Akquise [Workshops/Seminare/Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage) & [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event)
 * Finanzen, Fundraising, Spenden-Akquise & Crowdfunding-Aktionen.
 * Wettbewerbe, Preise, Stipendien & Ausschreibungen
 
