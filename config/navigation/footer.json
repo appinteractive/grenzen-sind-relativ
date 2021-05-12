@@ -29,11 +29,8 @@
           "page": "content/spenden.md"
         },
         {
-          "children": [
-
-          ],
           "title": "Stellenausschreibung",
-          "disabled": false
+          "page": "content/stellenausschreibung.md"
         }
       ]
     }
