@@ -26,6 +26,10 @@
       [
         "remark-lint-list-item-indent",
         false
+      ],
+      [
+        "lint-final-newline",
+        false
       ]
     ]
   },
