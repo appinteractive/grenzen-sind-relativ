@@ -21,7 +21,7 @@ Wir wollen nun unser [“Grenzen sind relativ e.V. - Team”](https://www.grenze
 * Akquise & Booking [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) & [Workshops/Seminare/Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
 * Spenden-Kampagnen & Crowdfunding-Aktionen
 
-**2.) Filmproduktion: Regie, Drehbuch, Kamera & Postproduktion** _(20 Wochenstunden, ab 01.07.21)_
+**2.) Filmproduktion: Regie, Drehbuch, Kamera & Postproduktion** _(20 Wochenstunden, ab 01.07.2021)_
 
 * Musikvideo 2. Inklusions- & Friedenskampagnensong
 * Content für den neuen GSR e.V. Social Media-Channel (Social Media Clips, interaktive Formate, “Der Behinderte der Woche”, Talk- und Musikshow, etc.)
