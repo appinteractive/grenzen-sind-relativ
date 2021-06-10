@@ -1,7 +1,8 @@
 ---
 title: Impressum
 description: 
-alias: /impressum.html
+alias: "/impressum.html"
+
 ---
 # Impressum
 
@@ -10,11 +11,10 @@ alias: /impressum.html
 „Grenzen sind relativ e.V.“
 
 c/o Mischa Gohlke  
- Wrangelstrasse 103  
- 20235 Hamburg
+Wrangelstrasse 103  
+20235 Hamburg
 
-E-Mail: mail@grenzensindrelativ.de  
-Telefon: [+49 (0) 172 4307786](tel://+491724307786) (Barbara Wetzer)
+E-Mail: mail@grenzensindrelativ.de
 
 ## Haftung für Inhalte
 
