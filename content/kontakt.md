@@ -3,6 +3,7 @@ title: Kontakt
 description: ''
 alias: "/kontakt.html"
 wide: false
+teaser: "/media/2020/10/social-banner-2020-5.jpg"
 
 ---
 # Kontakt
@@ -13,5 +14,4 @@ c/o Mischa Gohlke
 Wrangelstrasse 103  
 20235 Hamburg
 
-E-Mail: mail@grenzensindrelativ.de  
-Telefon: +49 (0) 172 4307786 (Barbara Wetzer)
+E-Mail: mail@grenzensindrelativ.de
