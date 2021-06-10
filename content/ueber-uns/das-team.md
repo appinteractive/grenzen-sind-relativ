@@ -32,7 +32,13 @@ Barbara Wetzer ist schon seit vielen Jahren in der Musik- und Kulturbranche tät
 
 Fabia Mekus ist Kulturmanagerin und hat ihr Bachelorstudium in den Disziplinen Ethnologie und Erziehungswissenschaften an der Universität zu Köln absolviert und sich in diesem Kontext vor allem mit den Themen Feminismus und Postkolonialismus auseinandergesetzt. In ihrem Masterstudiengang „Kulturmanagement und Kulturpädagogik“ an der Hochschule Niederrhein gehörten neben unterschiedlichen Management- und Marketingstrategien für den Kulturbereich vor allem kulturpolitische und -soziologische Themen zu ihren Kerninteressen. Fabia hat bereits in unterschiedlichen Kulturprojekten in Köln und Hamburg als Produktionsleitung mitgearbeitet. Weil Tanzen ihre Leidenschaft ist, vertieft sie ihre Kenntnisse im Bereich der Persönlichkeitsentwicklung und -bildung seit 2017 durch die Ausbildung zur Tanztherapeutin bei der _Deutschen_ _Gesellschaft_ _für_ _Tanztherapie_ und seit 2020 durch die Fortbildung zur Tanzpädagogin beim _Tanzimpulse e.V._
 
-> Künstlerisches Schaffen hat weit mehr Potenzial als das des ästhetischen Äußeren: Die Kraft kreativer Praxis für die Erforschung und Hinterfragung bestehender Normen ist groß – sowohl auf individueller als auch auf gesamtgesellschaftlicher Ebene. Kreativität vermag es, bestehende Normen zu unterlaufen und individuelle Handlungsmuster zu verändern. Vor allem in unserer neoliberalen Gesellschaft, in der Zahlen mehr Wert sind als Lebenszeit, kann diese Kraft genutzt werden – um Gemeinschaft zu schaffen und Reflektionsräume zu eröffnen, um Begegnung und Austausch zu ermöglichen! Deshalb stehe ich hinter dem ganzheitlichen Ansatz von _Grenzen sind relativ e.V._– gesellschaftspolitische Kunst und Kultur ist Empowerment!
+> Künstlerisches Schaffen hat weit mehr Potenzial als das des ästhetischen Äußeren: Die Kraft kreativer Praxis für die Erforschung und Hinterfragung bestehender Normen ist groß – sowohl auf individueller als auch auf gesamtgesellschaftlicher Ebene. 
+>
+> Kreativität vermag es, bestehende Normen zu unterlaufen und individuelle Handlungsmuster zu verändern. Vor allem in unserer neoliberalen Gesellschaft, in der Zahlen mehr Wert sind als Lebenszeit, kann diese Kraft genutzt werden – um Gemeinschaft zu schaffen und Reflektionsräume zu eröffnen, um Begegnung und Austausch zu ermöglichen! 
+>
+> Deshalb stehe ich hinter dem ganzheitlichen Ansatz von _Grenzen sind relativ e.V._– gesellschaftspolitische Kunst und Kultur ist Empowerment!
+>
+> > Fabia Mekus
 
 ![Andreas 'Rudi' Dutschke](/media/2021/05/rudi-duttschke-002.jpg "Andreas 'Rudi' Dutschke")
 
