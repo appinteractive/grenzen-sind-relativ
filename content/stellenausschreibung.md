@@ -44,6 +44,6 @@ Wir wollen nun unser [“Grenzen sind relativ e.V. - Team”](https://www.grenze
 * Lust beim gesamtgesellschaftlichen Wandel bzw. bei der (R)evolution mitzugestalten
 * Sich zu 100 Prozent mit „Grenzen sind relativ e.V.“ identifizieren zu können, loyal zu sein, es zu LEBEN und einfach richtig Bock auf die Zusammenarbeit & Tätigkeiten zu haben. Beruf(ungen)! :)
 
-**Bei Interesse melde Dich bitte per E-Mail (Deadline 13.06.2021):**
+**Bei Interesse melde Dich bitte per E-Mail (Deadline 21.06.2021):**
 
 **mischa.gohlke@grenzensindrelativ.de**
