@@ -35,7 +35,7 @@ Wir wollen nun unser [“Grenzen sind relativ e.V. - Team”](https://www.grenze
 
 **Voraussetzungen, Sinnhaftigkeit & Identität:**
 
-* Professionelle Allrounder-Kompetenzen in den oben genannten Arbeitsbereichen (gerne "Bundesliga-Niveau")
+* Professionelle Kompetenzen in den oben genannten Arbeitsbereichen (gerne "Bundesliga-Niveau")
 * Persönlichkeit, Kreativität, Pioniergeist, Führungs- & Managementfähigkeiten
 * Analyse & Aktiv Sein, aktiv gestaltend agieren können/wollen, selbst & neu denken
 * Kommunikationsfreude mit Dritten (Telefon, E-Mail & Live)
