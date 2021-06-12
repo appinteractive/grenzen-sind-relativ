@@ -25,7 +25,7 @@ Wir wollen nun unser [“Grenzen sind relativ e.V. - Team”](https://www.grenze
 
 * Musikvideo 2. Inklusions- & Friedenskampagnensong
 * Content für den neuen GSR e.V. Social Media-Channel (Social Media Clips, interaktive Formate, “Der Behinderte der Woche”, Talk- und Musikshow, etc.)
-* Teaser & Dokumentationen für Projekte wie 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, etc.
+* Teaser & Dokumentationen für Projekte wie 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) Grenzen sind relativ Festivals, etc.
 
 **3.) Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab 01.07.2021)_
 
