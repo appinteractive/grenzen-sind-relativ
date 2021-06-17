@@ -3,7 +3,8 @@ title: Spenden
 description: Wir freuen uns über jede einmalige und/oder regelmäßige (monatliche)
   Spende
 wide: false
-alias: /spenden.html
+alias: "/spenden.html"
+
 ---
 # Spenden
 
@@ -13,7 +14,7 @@ seit dem Freistellungsbescheid vom 13.09.2016 ist „Grenzen sind relativ e.V.�
 
 Wir setzen uns mit viel Herzblut für eine inklusive, integrale und friedliche Gesellschaft ein. Mit unseren Projekten, Veranstaltungen, Aktionen und Kampagnen wollen wir Impulse freisetzen, um verschiedenste Menschen, Netzwerke und Themenbereiche zusammen zu bringen, in den Dialog zu kommen und für eine „neue Beziehungskultur“ zu sensibilisieren und zu begeistern. Damit verbunden sind wir auch in den Aktionsfeldern Beratung & Coaching, Netzwerkarbeit und Öffentlichkeitsarbeit & Bewusstseinsbildung aktiv.
 
-Um diese vielfältigen Arbeiten weiterhin tätigen zu können und den wachsenden Anforderungen gerecht zu werden, sind wir dringend auf Spenden für folgende Kostenbereiche angewiesen: Personal- & Honorarkosten, Büromiete, Außenauftritt (Designs, Filme, usw.) sowie Eigenmittel bei unseren Projekten (Kampagne 2. Inklusions- & Friedenssong, GSR e.V. - Veranstaltungsformate, Netzwerktreffen, usw.).
+Um diese vielfältigen Arbeiten weiterhin tätigen zu können und den wachsenden Anforderungen gerecht zu werden, sind wir dringend auf Spenden für folgende Kostenbereiche angewiesen: Miete & Büroausstattung für uns neues Vereinsbüro ab dem 1.10.2021, Personal- & Honorarkosten, Außenauftritt (Designs, Filme, usw.) sowie Eigenmittel bei unseren Projekten ([Kampagne 2. Inklusions- & Friedenssong](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong), etc.).
 
 Transparenz, Wirkung und Teamspirit sind für uns essenziell. Somit informieren wir unsere Spender regelmäßig über die aktuellen Projekte und Vereinsgeschehnisse. Darüber hinaus sind regelmäßige persönliche Treffen, gemeinsame Veranstaltungen sowie weitere Aktionen geplant.
 
