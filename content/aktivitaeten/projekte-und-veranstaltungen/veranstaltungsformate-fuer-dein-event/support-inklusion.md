@@ -15,7 +15,7 @@ wide: false
 ---
 # Support Inklusion – Support mal anders!
 
-Aufbauend auf unsere erfolgreichen Kulturfestivals in Hamburg _(Fabrik & Knust)_ und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir nun das neue frische Veranstaltungsformat [“Support Inklusion – Support mal anders!”](/veranstaltungen/support-inklusion-support-mal-anders.html) kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
+Aufbauend auf unsere erfolgreichen Kulturfestivals in Hamburg _(Fabrik & Knust)_ und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir nun das neue frische Veranstaltungsformat [Support Inklusion – Support mal anders!](/veranstaltungen/support-inklusion-support-mal-anders.html) kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, bei dem
 
