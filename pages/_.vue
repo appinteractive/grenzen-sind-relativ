@@ -38,7 +38,11 @@ export default {
     error
   }) {
     const path = `/${params.pathMatch || 'index'}`
-    const page = await $content(path).fetch()
+    const page = await $content(path)
+      .fetch()
+      .catch((err) => {
+        error({ statusCode: 404, message: 'Page not found' })
+      })
 
     if (Array.isArray(page)) {
       throw error({ statusCode: 404, message: 'Page not found' })

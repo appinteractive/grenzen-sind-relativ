@@ -29,7 +29,7 @@ export default {
 
   // Speed up development experience
   buildOptimisations: {
-    profile: 'experimental',
+    profile: isProd ? false : 'experimental',
   },
 
   head: {
@@ -144,7 +144,7 @@ export default {
     liveEdit: false,
     markdown: {
       remarkPlugins: [
-        '~/plugins/remark-responsive-images.js',
+        // '~/plugins/remark-responsive-images.js',
         '~/plugins/remark-embeds.js',
       ],
     },
