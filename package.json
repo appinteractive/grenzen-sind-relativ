@@ -34,14 +34,13 @@
     ]
   },
   "dependencies": {
-    "@nuxt/content": "^1.5.0",
-    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "@nuxt/content": "^1.14.0",
+    "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/sentry": "^4.3.5",
     "@nuxtjs/sitemap": "^2.4.0",
     "@vue-a11y/announcer": "^2.1.0",
-    "nuxt": "^2.14.0",
+    "nuxt": "^2.15.7",
     "remark-preset-lint-markdown-style-guide": "^4.0.0",
-    "storyblok-nuxt": "^1.2.0",
     "swiper": "^6.3.1",
     "vue-awesome-swiper": "^4.1.1",
     "vue-observe-visibility": "^0.4.6",
