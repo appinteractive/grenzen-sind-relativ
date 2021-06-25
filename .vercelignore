@@ -1,1 +1,8 @@
 static/thumbs/**/*
+.nuxt
+.nuxt-storybook
+.vscode
+node_modules
+.env
+yarn.error.log
+dist

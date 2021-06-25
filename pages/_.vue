@@ -29,22 +29,38 @@
 
 export default {
   middleware: 'redirect',
-  async asyncData({
-    params,
-    $content,
-    redirect,
-    store,
-    route,
-    error
-  }) {
-    const path = `/${params.pathMatch || 'index'}`
-    const page = await $content(path).fetch()
+  data() {
+    return {
+      page: { title: undefined, body: undefined, slug: undefined },
+      breadCrumbs: undefined,
+      subMenu: undefined,
+      currentTitle: undefined,
+      widePage: false,
+    }
+  },
+  async fetch() {
+    const path = `/${this.$route.params.pathMatch || 'index'}`
+    const page = await this.$content(path)
+      .fetch()
+      .catch((err) => {
+        console.error(err)
+        if (process.server) {
+          this.$nuxt.context.res.statusCode = 404
+        }
+        throw new Error('Page not found')
+      })
+
+    if (!page) return
+
 
     if (Array.isArray(page)) {
-      throw error({ statusCode: 404, message: 'Page not found' })
+      if (process.server) {
+        this.$nuxt.context.res.statusCode = 404
+      }
+      throw new Error('Page not found')
     }
 
-    let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
+    let breadCrumbs = this.$store.getters['navigation/breadCrumbs'](this.$route)
     const crumbAnomaly =
       breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
     const off = crumbAnomaly ? 2 : 1
@@ -59,7 +75,7 @@ export default {
     page.body.children.forEach((child, i) => {
       if (child.tag === 'slideshow') {
         processSlideshows.push(new Promise((resolve) => {
-          resolve(processSlideshow(child.props.name, child.props, $content))
+          resolve(processSlideshow(child.props.name, child.props, this.$content))
         }))
       } else if (child.tag === 'video-gallery') {
         processVideoGalleries.push(new Promise((resolve) => {
@@ -69,7 +85,11 @@ export default {
     })
     await Promise.all(processSlideshows, processVideoGalleries)
 
-    return { page, breadCrumbs, subMenu, currentTitle, widePage }
+    this.page = page,
+    this.breadCrumbs = breadCrumbs,
+    this.subMenu = subMenu,
+    this.currentTitle = currentTitle,
+    this.widePage = widePage
   },
   head() {
     const settings = require('~/config/settings.json')
@@ -126,7 +146,7 @@ export default {
   },
   computed: {
     hasSubMenu() {
-      return this.breadCrumbs.length > 1
+      return this.breadCrumbs?.length > 1
     },
     classes() {
       const classes = []
