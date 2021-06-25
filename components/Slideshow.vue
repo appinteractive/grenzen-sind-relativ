@@ -1,7 +1,7 @@
 <script>
 import helpers from '~/lib/helpers'
-import Gallery from '~/components/global/Gallery'
-import ResponsiveImage from '~/components/global/ResponsiveImage'
+import Gallery from '~/components/Gallery'
+import ResponsiveImage from '~/components/ResponsiveImage'
 import PostCard from '~/components/PostCard'
 import settings from '~/config/settings.json'
 
