@@ -46,6 +46,7 @@
     "vue-svg-loader": "^0.16.0"
   },
   "devDependencies": {
+    "@nuxt/image": "^0.4.17",
     "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/tailwindcss": "^4.2.0",
     "@tailwindcss/typography": "^0.4.1",
