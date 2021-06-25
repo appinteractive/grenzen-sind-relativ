@@ -12,20 +12,16 @@ async function generateRoutes() {
 
 export default {
   telemetry: false,
-  // pageTransition: {
-  //   name: 'fade',
-  //   mode: 'fade'
-  // },
+  /* pageTransition: {
+    name: 'fade',
+    mode: 'out-in'
+  }, */
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
    */
-  ssr: false,
+  // ssr: false,
   target: 'static',
-  /*
-   ** Headers of the page
-   ** See https://nuxtjs.org/api/configuration-head
-   */
 
   // Speed up development experience
   buildOptimisations: {
@@ -83,14 +79,9 @@ export default {
       },
     ],
   },
-  /*
-   ** Global CSS
-   */
+
   css: [],
-  /*
-   ** Plugins to load before mounting the App
-   ** https://nuxtjs.org/guide/plugins
-   */
+
   plugins: [
     { src: '~/plugins/store-init.js' },
     { src: '~/plugins/vue-awesome-swiper', mode: 'client' },
@@ -99,10 +90,6 @@ export default {
     // '~/plugins/components.js',
     // '~/plugins/preview.client.js'
   ],
-  /*
-   ** Auto import components
-   ** See https://nuxtjs.org/api/configuration-components
-   */
   components: true,
   /*
    ** Nuxt.js dev-modules
@@ -120,11 +107,9 @@ export default {
     dsn: process.env.SENTRY_DSN,
     config: {},
   },
-  /*
-   ** Nuxt.js modules
-   */
+
   modules: [
-    '@nuxtjs/pwa',
+    // '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
     '@nuxtjs/sitemap',
@@ -144,7 +129,7 @@ export default {
     liveEdit: false,
     markdown: {
       remarkPlugins: [
-        // '~/plugins/remark-responsive-images.js',
+        '~/plugins/remark-responsive-images.js',
         '~/plugins/remark-embeds.js',
       ],
     },
@@ -156,6 +141,12 @@ export default {
   build: {
     babel: {
       plugins: isProd ? ['transform-remove-console'] : [],
+    },
+    postcss: {
+      plugins: {
+        'tailwindcss': {},
+        'autoprefixer': {},
+      },
     },
     extend: (config) => {
       const svgRule = config.module.rules.find((rule) => rule.test.test('.svg'))
