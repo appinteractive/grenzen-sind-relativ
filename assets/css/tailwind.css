@@ -1,4 +1,4 @@
-@import 'animations';
+@import './animations';
 
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';

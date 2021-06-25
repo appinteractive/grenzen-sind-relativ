@@ -20,11 +20,18 @@ export default {
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
    */
+  ssr: false,
   target: 'static',
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
    */
+
+  // Speed up development experience
+  buildOptimisations: {
+    profile: 'experimental',
+  },
+
   head: {
     htmlAttrs: {
       lang: 'de',
@@ -101,7 +108,7 @@ export default {
    ** Nuxt.js dev-modules
    */
   buildModules: [
-    // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
+    'nuxt-build-optimisations',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-analytics',
     '@nuxtjs/sentry',
