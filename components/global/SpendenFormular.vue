@@ -1,7 +1,7 @@
 <template>
   <div>
     <iframe
-      src="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html"
+      src="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#https%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html"
       id="fbIframe"
       title="Spendenformular"
       style="width: 100%; height: 1648px"
@@ -15,7 +15,7 @@
         Ihr Browser kann keine iFrames darstellen, bitte nutzen Sie folgenden
         Link:
         <a
-          href="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#http%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html"
+          href="https://secure.fundraisingbox.com/app/payment?hash=6j98n4k8fqegir0h#https%3A%2F%2Fwww.grenzensindrelativ.de%2Fspenden.html"
           >Spendenformular</a
         >
       </p></iframe
