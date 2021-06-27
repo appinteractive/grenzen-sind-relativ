@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2020/10/social-banner-2020-5.jpg"
-title: 'Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre
-  Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur '
+title: 'Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung
+  von Kunst & Kultur '
 description: ''
 wide: false
 gallery: []
