@@ -74,10 +74,6 @@
               "disabled": false
             },
             {
-              "title": "Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur ",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/Wissenstransfer, Vernetzung und Kooperationsvorhaben für die inklusive & interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur /wissenstransfer-vernetzung-und-kooperationsvorhaben-fur-die-interdisziplinare-kulturarbeit-im-kontext-der-gesamtgesellschaftlichen-entwicklung-von-kunst-kultur.md"
-            },
-            {
               "title": "Mach Deine Veranstaltung mit uns!",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
               "children": [
@@ -104,6 +100,10 @@
                 }
               ],
               "disabled": false
+            },
+            {
+              "title": "Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur ",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/Wissenstransfer, Vernetzung und Kooperationsvorhaben für die inklusive & interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur /wissenstransfer-vernetzung-und-kooperationsvorhaben-fur-die-interdisziplinare-kulturarbeit-im-kontext-der-gesamtgesellschaftlichen-entwicklung-von-kunst-kultur.md"
             },
             {
               "title": "Kooperationsprojekte",
