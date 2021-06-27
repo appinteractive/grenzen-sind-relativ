@@ -9,13 +9,13 @@ alias: ''
 ---
 # Grenzen sind relativ - Social Media Channel
 
-Ab September 2021 werden wir mit unserem neuen "Grenzen sind relativ - Social Media Channel" starten.
+Im September 2021 werden wir mit unserem neuen "Grenzen sind relativ - Social Media Channel" starten.
 
 Diesbezüglich werden wir umfangreichen interdisziplinären Content (Filme, Fotos, Designs & Texte) produzieren und über unsere Kanäle (facebook, twitter, instagram, youtube, Webseiten, usw.) weitreichend verbreiten.
 
 Ziel ist es, die digitalen Möglichkeiten der Kulturkommunikation und Kulturvermittlung zu nutzen, um:
 
-1. generell Mehrwerte im analogen Leben auf den Weg zu bringen. 
+1. generell Mehrwerte im analogen Leben zu schaffen.
 2. Menschen, Themen, Netzwerke, Künste, usw. - die zumeist separat aneinander vorbei leben - regional, überregional und bundesweit mehr zusammen zu bringen
 3. den themenübergreifenden Wissenstransfer (u.a. interdisziplinäre Kulturarbeit, inklusives Veranstaltungsmanagement, Bildung, Umwelt, usw.) anzuregen
 4. für Themenbereiche wie gesamtgesellschaftliche Inklusion, integrales Bewusstsein, Kunst & Kultur und Frieden sensibilisieren, aufklären und begeistern zu können
