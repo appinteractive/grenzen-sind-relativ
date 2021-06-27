@@ -29,4 +29,6 @@ Wir wollen aus unseren Filterblasen rauskommen und können alle von- und miteina
 
 Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der Dialektik - Inklusion statt Separation, Kooperation statt Konkurrenz und gelebten Frieden für alle Menschen auf diesem Planeten.
 
+Weitere Informationen folgen ... :)
+
 Für die großzügige Unterstützung geht unser Dank an die "KULTUR.GEMEINSCHAFTEN".
