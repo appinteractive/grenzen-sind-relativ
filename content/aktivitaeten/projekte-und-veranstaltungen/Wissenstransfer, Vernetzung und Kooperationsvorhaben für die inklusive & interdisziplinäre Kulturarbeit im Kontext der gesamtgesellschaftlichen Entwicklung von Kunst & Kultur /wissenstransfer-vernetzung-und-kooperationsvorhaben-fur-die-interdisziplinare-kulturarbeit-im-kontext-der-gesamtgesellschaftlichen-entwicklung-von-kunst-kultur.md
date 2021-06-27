@@ -10,7 +10,7 @@ alias: ''
 ---
 # Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
 
-##### Für/Mit Vereine(n), Institutionen, Künstler:innen, Kulturmanager:innen, Veranstalter:innen, Wissenschaftler:innen, Journalisten und allgemeine Öffentlichkeit.
+### Für/Mit Vereine(n), Institutionen, Künstler:innen, Kulturmanager:innen, Veranstalter:innen, Wissenschaftler:innen, Journalisten und allgemeine Öffentlichkeit.
 
 Die Auseinandersetzung mit der interdisziplinären Kulturarbeit ist ein wunderbarer Transmitter, um sich komplexen (neuen) Thematiken zu nähern, den Dialog, Erfahrungsaustausch und Perspektivwechsel zu fördern und diese Prozesse in die institutionelle & projektbezogene Arbeit mit einfließen zu lassen. Dazu können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
