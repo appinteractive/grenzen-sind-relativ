@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2020/10/social-banner-2020-5.jpg"
 title: 'Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre
   Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur '
 description: ''
@@ -10,18 +10,18 @@ alias: ''
 ---
 # Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
 
-##### Für/Mit Vereinen, Institutionen, Künstler*innen, Kulturmanager*innen, Veranstalter*innen, Wissenschaftler*innen, Journalisten und allgemeine Öffentlichkeit.
+##### Für/Mit Vereine(n), Institutionen, Künstler:innen, Kulturmanager:innen, Veranstalter:innen, Wissenschaftler:innen, Journalisten und allgemeine Öffentlichkeit.
 
 Die Auseinandersetzung mit der interdisziplinären Kulturarbeit ist ein wunderbarer Transmitter, um sich komplexen (neuen) Thematiken zu nähern, den Dialog, Erfahrungsaustausch und Perspektivwechsel zu fördern und diese Prozesse in die institutionelle & projektbezogene Arbeit mit einfließen zu lassen. Dazu können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
 Das Vernetzungsprojekt zum **“Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur“** setzt sich aus folgenden Modulen zusammen:
 
-1. **Kennenlern-, Austausch- & Vernetzungsphase** mit diversen Akteuren/Institutionen 
+1. **Kennenlern-, Austausch- & Vernetzungsphase** mit diversen Akteuren/Institutionen
 2. **Wissenstransfer und Konzeptarbeit** (zusammen mit diversen Akteuren/Kooperationspartnern):
 
    a) Kreierung von Themen- & Arbeitsgruppen aus dem bundesweiten Netzwerk
 
-   b) 5 Online-Zoom-Workshops/Seminare von Dozenten/Experten 
+   b) 5 Online-Zoom-Workshops/Seminare von Dozenten/Experten
 
    c) Gemeinschaftliche partizipative Entwicklung & Ausarbeitung der Talks- & Kulturhow, der redaktionellen Social Media Channel Öffentlichkeitsarbeit & Bewusstseinsbildung und Toolboxes/Handouts/Projekt- & Veranstaltungskonzepte.
 3. **Ausarbeitung & Ausfertigung der Toolboxes/Handouts/Projekt- & Veranstaltungskonzepte + Umfangreiche PR- & Öffentlichkeitsarbeit:**
@@ -37,10 +37,10 @@ Das Vernetzungsprojekt zum **“Wissenstransfer, Vernetzung und Kooperationsvorh
 
    b) Kulturpraxis-Videoeinblendungen (Stimmen von der Strasse, Kurzfilme mit Praxisbeispielen, etc.)
 
-   c) Live-Band 
+   c) Live-Band
 5. **Ergebnisse zum Projektende:**
 
-   a) Produktion & Veröffentlichung eines ausführlichen Handouts (wo alle Projektergebnisse zusammengetragen werden) und Entwicklung von Toolboxes/Handouts/Projekt- und Veranstaltungskonzepte für die weiterführende institutionelle & projektbezogene Zusammenarbeit mit diversen Institutionen/Akteuren 
+   a) Produktion & Veröffentlichung eines ausführlichen Handouts (wo alle Projektergebnisse zusammengetragen werden) und Entwicklung von Toolboxes/Handouts/Projekt- und Veranstaltungskonzepte für die weiterführende institutionelle & projektbezogene Zusammenarbeit mit diversen Institutionen/Akteuren
 
    b) Diverse Folgeprozesse, weiterführende Kooperationen & Basisarbeit 2022 & 2023 (der mitwirkenden Akteure und darüber hinaus), Synergien, Multiplikatoren, usw.
 
