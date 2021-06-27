@@ -103,8 +103,14 @@
             },
             {
               "title": "Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesell- schaftlichen Entwicklung von Kunst & Kultur ",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/Wissenstransfer, Vernetzung und Kooperationsvorhaben für die inklusive & interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur /wissenstransfer-vernetzung-und-kooperationsvorhaben-fur-die-interdisziplinare-kulturarbeit-im-kontext-der-gesamtgesellschaftlichen-entwicklung-von-kunst-kultur.md",
-              "description": "Für/Mit Vereine(n), Institutionen, Künstler:innen, Kulturmanager:innen, Veranstalter:innen, Wissenschaftler:innen, Journalisten und allgemeine Öffentlichkeit."
+              "page": null,
+              "description": "Für/Mit Vereine(n), Institutionen, Künstler:innen, Kulturmanager:innen, Veranstalter:innen, Wissenschaftler:innen, Journalisten und allgemeine Öffentlichkeit.",
+              "children": [
+                {
+                  "title": "Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesell- schaftlichen Entwicklung von Kunst & Kultur ",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/Wissenstransfer, Vernetzung und Kooperationsvorhaben für die inklusive & interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur /wissenstransfer-vernetzung-und-kooperationsvorhaben-fur-die-interdisziplinare-kulturarbeit-im-kontext-der-gesamtgesellschaftlichen-entwicklung-von-kunst-kultur.md"
+                }
+              ]
             },
             {
               "title": "Kooperationsprojekte",
