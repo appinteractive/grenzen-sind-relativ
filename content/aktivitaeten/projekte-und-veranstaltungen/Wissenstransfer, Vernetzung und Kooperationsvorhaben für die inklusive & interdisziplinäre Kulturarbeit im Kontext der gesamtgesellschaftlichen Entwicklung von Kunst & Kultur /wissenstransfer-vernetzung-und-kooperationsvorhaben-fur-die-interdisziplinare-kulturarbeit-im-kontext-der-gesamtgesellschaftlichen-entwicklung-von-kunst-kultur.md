@@ -44,4 +44,8 @@ Das Vernetzungsprojekt zum **“Wissenstransfer, Vernetzung und Kooperationsvorh
 
    b) Diverse Folgeprozesse, weiterführende Kooperationen & Basisarbeit 2022 & 2023 (der mitwirkenden Akteure und darüber hinaus), Synergien, Multiplikatoren, usw.
 
-   Die mitwirkenden Akteure kommen aus dem gesamten kulturellen Spektrum. Wir wollen aus unseren Filterblasen rauskommen und können alle von- und miteinander lernen.
+Die mitwirkenden Akteure kommen aus dem gesamten kulturellen Spektrum. Wir wollen aus unseren Filterblasen rauskommen und können alle von- und miteinander lernen.
+
+Für die großzügige Unterstützung geht der Dank an den "Fonds Soziokultur"!
+
+Weitere Informationen folgen... :)
