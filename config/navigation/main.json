@@ -102,6 +102,17 @@
               "disabled": false
             },
             {
+              "title": "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur ",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/Wissenstransfer, Vernetzung und Kooperationsvorhaben für die inklusive & interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur /wissenstransfer-vernetzung-und-kooperationsvorhaben-fur-die-interdisziplinare-kulturarbeit-im-kontext-der-gesamtgesellschaftlichen-entwicklung-von-kunst-kultur.md",
+              "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
+              "children": [
+                {
+                  "title": "Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesell- schaftlichen Entwicklung von Kunst & Kultur ",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/Wissenstransfer, Vernetzung und Kooperationsvorhaben für die inklusive & interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur /wissenstransfer-vernetzung-und-kooperationsvorhaben-fur-die-interdisziplinare-kulturarbeit-im-kontext-der-gesamtgesellschaftlichen-entwicklung-von-kunst-kultur.md"
+                }
+              ]
+            },
+            {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen & Institutionen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen.",
               "children": [
@@ -260,6 +271,11 @@
             {
               "title": "Netzwerk- & Öffentlichkeitsarbeit",
               "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md"
+            },
+            {
+              "title": "Grenzen sind relativ - Social Media Channel",
+              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel.md",
+              "description": "Die neue interdisziplinäre Media-Plattform startet im September 2021!"
             },
             {
               "title": "Vermittlungsbörse",
