@@ -8,6 +8,7 @@
       >
         <TopNavLink
           :to="getNearestURL(level2)"
+          :level="2"
           style="/* min-width: 20rem */"
           class="p-4 font-normal text-gray-700 flex flex-col rounded-l level2 lg:min-w-20"
           :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
@@ -35,6 +36,7 @@
         >
           <TopNavLink
             :to="getNearestURL(level3)"
+            :level="3"
             class="p-4 flex flex-col text-sm"
             style="min-width: 20rem"
           >

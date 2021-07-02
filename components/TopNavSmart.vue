@@ -1,24 +1,83 @@
 <template>
   <nav
-    class="nav-main md:flex md:flex-wrap bg-white border-primary-200 fixed w-full z-50"
+    class="
+      nav-main
+      md:flex md:flex-wrap
+      bg-white
+      border-primary-200
+      fixed
+      w-full
+      z-50
+    "
     role="navigation"
     aria-label="Hauptnavigation"
   >
     <div
-      class="w-full border-b border-primary-200 p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
+      class="
+        w-full
+        border-b border-primary-200
+        p-4
+        md:h-auto
+        overflow-y-scroll
+        md:overflow-y-visible
+      "
       :class="isOpen && 'h-screen'"
     >
       <div
-        class="container px-4 lg:px-8 mx-auto flex flex-col md:flex-row items-center relative h-full"
+        class="
+          container
+          px-4
+          lg:px-8
+          mx-auto
+          flex flex-col
+          md:flex-row
+          items-center
+          relative
+          h-full
+        "
       >
-        <div class="flex fixed bg-white z-10 top-0 left-0 px-4 py-4 md:p-0 border-b md:border-0 md:static w-full md:w-auto items-center justify-center">
-          <nuxt-link to="/" class="flex items-center self-center h-full lg:w-32" aria-label="Startseite">
+        <div
+          class="
+            flex
+            fixed
+            bg-white
+            z-10
+            top-0
+            left-0
+            px-4
+            py-4
+            md:p-0
+            border-b
+            md:border-0 md:static
+            w-full
+            md:w-auto
+            items-center
+            justify-center
+          "
+        >
+          <nuxt-link
+            to="/"
+            class="flex items-center self-center h-full lg:w-32"
+            aria-label="Startseite"
+          >
             <Logo
               class="flex flex-shrink-0 flex-grow-0 text-white mr-2 lg:mr-6"
               alt="Grenzen sind relativ e.V."
             />
           </nuxt-link>
-          <social-icons class="absolute md:hidden right-0 flex justify-end items-center p-4 text-gray-700" aria-hidden="true" />
+          <social-icons
+            class="
+              absolute
+              md:hidden
+              right-0
+              flex
+              justify-end
+              items-center
+              p-4
+              text-gray-700
+            "
+            aria-hidden="true"
+          />
           <button
             class="flex appearance-none md:hidden absolute left-0 p-4"
             @click="isOpen = !isOpen"
@@ -58,8 +117,18 @@
           >
             <TopNavLink
               :to="getNearestURL(level1)"
-              class="level1 font-medium tracking-wide hover:text-primary-900 flex py-2 md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0 relative"
+              class="
+                level1
+                font-medium
+                tracking-wide
+                hover:text-primary-900
+                flex
+                py-2
+                md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0
+                relative
+              "
               :class="activeMain === level1.title && 'font-bold'"
+              :level="1"
               role="menuitem"
               @mouseenter.native="setCurrentIndex(index1)"
             >
@@ -75,20 +144,28 @@
               <li v-for="level2 in level1.children" :key="level2.title">
                 <TopNavLink
                   :to="getNearestURL(level2)"
+                  :level="2"
                   class="text-sm flex px-4 py-1"
                 >
                   {{ level2.title }}
                 </TopNavLink>
-                <ul v-if="level2.children && level2.children.length > 0" class="px-6 pb-2">
+                <ul
+                  v-if="level2.children && level2.children.length > 0"
+                  class="px-6 pb-2"
+                >
                   <li v-for="level3 in level2.children" :key="level3.title">
-                    <TopNavLink :to="getNearestURL(level3)" class="text-sm text-primary-700 flex flex-col py-1">
+                    <TopNavLink
+                      :to="getNearestURL(level3)"
+                      :level="3"
+                      class="text-sm text-primary-700 flex flex-col py-1"
+                    >
                       <div class="flex">
                         <arrow-right class="h-4 w-4 mr-1 flex-shrink-0" />
                         {{ level3.title }}
                       </div>
                       <!-- <ul v-if="level3 && level3.children && level3.children.length > 0" class="px-6 pb-2">
                         <li v-for="level4 in level3.children" :key="level4.title">
-                          <TopNavLink :to="getNearestURL(level4)" class="text-sm text-primary-700 flex py-1">
+                          <TopNavLink :to="getNearestURL(level4)" :level="4" class="text-sm text-primary-700 flex py-1">
                             <arrow-return class="h-2 w-2 mr-2 flex-shrink-0" />
                             {{ level4.title }}
                           </TopNavLink>
@@ -109,7 +186,17 @@
             </transition>
           </li>
         </ul>
-        <social-icons class="sr-only lg:not-sr-only flex justify-end items-center w-32 text-gray-700" />
+        <social-icons
+          class="
+            sr-only
+            lg:not-sr-only
+            flex
+            justify-end
+            items-center
+            w-32
+            text-gray-700
+          "
+        />
       </div>
     </div>
   </nav>

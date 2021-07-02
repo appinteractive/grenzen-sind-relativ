@@ -4,13 +4,18 @@ const { createThumbnails } = require('../lib/thumbs')
 async function visitor(node) {
   var url = node.url
   if (url) {
-    const {
-      ratio,
-      base64,
-      srcsetString
-    } = await createThumbnails(url)
-    node.type = 'html'
-    node.value = `<responsive-image src="${url}" ratio="${ratio}" placeholder="${base64}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
+    try {
+      const {
+        ratio,
+        base64,
+        srcsetString
+      } = await createThumbnails(url)
+
+      node.type = 'html'
+      node.value = `<responsive-image src="${url}" ratio="${ratio}" placeholder="${base64}" srcset="${srcsetString}" title="${node.title}" alt="${node.alt}"></responsive-image>`
+    } catch {
+      console.log(`Skipped Image ${url}`)
+    }
   } else {
     console.log('URL IS NO IMAGE', url)
   }
