@@ -5,6 +5,7 @@
     class="flex cursor-pointer"
     tag="div"
     :to="to"
+    :custom="true"
   >
     <a
       role="link"

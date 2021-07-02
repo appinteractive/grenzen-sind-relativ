@@ -54,7 +54,7 @@ export default {
     const lastCrumb = breadCrumbs[breadCrumbs.length - off]
     const subMenu = lastCrumb ? lastCrumb.siblings : []
     const currentTitle = lastCrumb ? lastCrumb.title : null
-    const widePage = !!page.wide
+    const widePage = !!page?.wide
 
     const { processSlideshow, processVideoGallery } = require('~/lib/processing').default
     const processSlideshows = []
