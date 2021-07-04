@@ -13,11 +13,11 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 
 Wir wollen nun unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team) erweitern und suchen 3 Menschen für folgende 3 Arbeitsbereiche/Stellen:
 
-**1.) Projekt- & Redaktionsleitung für unseren neuen “Grenzen sind relativ e.V.” Social Media Channel, Marketing, PR- & Öffentlichkeitsarbeit, Promotion, Akquise & Booking, Spenden-Kampagnen & Crowdfunding-Aktionen** (_30 Wochenstunden, ab Juli 2021)_
+**1.) PR- & Öffentlichkeitsarbeit, Marketing, Redaktionsleitung für unseren neuen “Grenzen sind relativ - Social Media Channel", Akquise & Booking, Promotion, Spenden-Kampagnen & Crowdfunding-Aktionen** (_30 Wochenstunden, ab Juli 2021)_
 
-* Neuer GSR e.V. Social Media Channel (Strat. Konzeption, redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, usw.)
 * Marketing, PR-, Öffentlichkeits- & Netzwerkarbeit (Erstellung Marketing-Konzept, operative Umsetzung, Kommunikations- & Transmitterprozesse, qualitative & quantitative Mehrwerte schaffen, usw.)
 * Pressearbeit & Promotion (Institution GSR, MGB, MG, Projekte, Events)
+* Neuer GSR e.V. Social Media Channel (Strat. Konzeption, redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, usw.)
 * Akquise & Booking [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) & [Workshops/Seminare/Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
 * Spenden-Kampagnen & Crowdfunding-Aktionen
 
