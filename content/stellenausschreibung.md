@@ -20,7 +20,7 @@ Wir wollen nun unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindr
 * Akquise & Booking [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) sowie Bands & Dozenten wie [Mischa Gohlke Band](https://mischagohlkeband.de/)
 * Spenden-Kampagnen & Crowdfunding-Aktionen 
 
-**2.) Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab Juli/August 2021)_
+**2.) Mediengestaltung/Design: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab Juli/August 2021)_
 
 * Außenauftritt Institution Grenzen sind relativ e.V.
 * Außenauftritt Projekte 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) Kampagne 2. Inklusions- & Friedenssong, etc.
