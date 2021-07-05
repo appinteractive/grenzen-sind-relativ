@@ -11,23 +11,16 @@ alias: ''
 
 Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
-Wir wollen nun unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team) erweitern und suchen 3 Menschen für folgende 3 Arbeitsbereiche/Stellen:
+Wir wollen nun unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team) erweitern und suchen 2 Menschen für folgende 2 Arbeitsbereiche/Stellen:
 
-**1.) PR- & Öffentlichkeitsarbeit, Marketing, Redaktionsleitung für unseren neuen “Grenzen sind relativ - Social Media Channel", Akquise & Booking, Promotion, Spenden-Kampagnen & Crowdfunding-Aktionen** (_30 Wochenstunden, ab Juli 2021)_
+**1.) PR- & Öffentlichkeitsarbeit, Redaktionsleitung für unseren neuen “Grenzen sind relativ - Social Media Channel", Akquise & Booking GSR e.V. Veranstaltungsformate, Spenden-Kampagnen & Crowdfunding-Aktionen** (_30 Wochenstunden, ab Juli/August 2021)_
 
-* Marketing, PR-, Öffentlichkeits- & Netzwerkarbeit (Erstellung Marketing-Konzept, operative Umsetzung, Kommunikations- & Transmitterprozesse, qualitative & quantitative Mehrwerte schaffen, usw.)
-* Pressearbeit & Promotion (Institution GSR, MGB, MG, Projekte, Events)
-* Neuer GSR e.V. Social Media Channel (Strat. Konzeption, redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, usw.)
-* Akquise & Booking [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) & [Workshops/Seminare/Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
-* Spenden-Kampagnen & Crowdfunding-Aktionen
+* PR- & Öffentlichkeitsarbeit (Erstellung strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> Institution GSR e.V. & projektbezogen)
+* Redaktionsleitung für unseren neuen "Grenzen sind relativ - Social Media Channel" (Strat. Konzeption, redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, usw.)
+* Akquise & Booking [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) sowie Bands & Dozenten wie [Mischa Gohlke Band](https://mischagohlkeband.de/)
+* Spenden-Kampagnen & Crowdfunding-Aktionen 
 
-**2.) Filmproduktion: Regie, Drehbuch, Kamera & Postproduktion** _(20 Wochenstunden, ab Juli 2021)_
-
-* Musikvideo 2. Inklusions- & Friedenskampagnensong
-* Content für den neuen GSR e.V. Social Media-Channel (Social Media Clips, interaktive Formate, “Der Behinderte der Woche”, Talk- und Musikshow, etc.)
-* Teaser & Dokumentationen für Projekte wie 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) Grenzen sind relativ Festivals, etc.
-
-**3.) Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab Juli/August 2021)_
+**2.) Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab Juli/August 2021)_
 
 * Außenauftritt Institution Grenzen sind relativ e.V.
 * Außenauftritt Projekte 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) Kampagne 2. Inklusions- & Friedenssong, etc.
