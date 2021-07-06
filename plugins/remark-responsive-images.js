@@ -31,7 +31,7 @@ async function transformer(tree, file, done) {
 }
 
 function responsiveImages() {
-  console.log('THUMBNAILS...')
+  // console.log('THUMBNAILS...')
   return transformer
 }
 
