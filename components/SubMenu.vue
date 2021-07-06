@@ -1,7 +1,7 @@
 <template>
-  <aside class="lg:w-56 lg:fixed h-full border mb-12 p-6 lg:p-0 bg-primary-100 lg:bg-transparent lg:border-transparent rounded">
+  <aside class="lg:w-56 lg:absolute h-full border mb-12 p-6 lg:p-0 bg-primary-100 lg:bg-transparent lg:border-transparent rounded">
     <nav
-      class="-ml-1"
+      class="-ml-1 lg:sticky top-32 pb-12"
       aria-label="Unternavigation"
       role="menu"
     >
