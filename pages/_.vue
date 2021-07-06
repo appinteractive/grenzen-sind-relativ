@@ -1,7 +1,7 @@
 <template>
-  <div class="container mx-auto px-4 md:px-8 pt-6 \\bg-white \\lg:border \\border-b-0 \\border-t-0">
+  <div class="container mx-auto px-4 md:px-8 pt-6">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
-    <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
+    <div class="relative flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
       <article
         tabindex="-1"
         class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16 outline-none"
@@ -47,6 +47,8 @@ export default {
       throw error({ statusCode: 404, message: 'Page not found' })
     }
 
+    const mainNav = store.getters['navigation/mainNav']
+
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
     const crumbAnomaly =
       breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
@@ -56,9 +58,10 @@ export default {
     const currentTitle = lastCrumb ? lastCrumb.title : null
     const widePage = !!page?.wide
 
-    const { processSlideshow, processVideoGallery } = require('~/lib/processing').default
+    const { processSlideshow, processVideoGallery, processTeam } = require('~/lib/processing').default
     const processSlideshows = []
     const processVideoGalleries = []
+    const processTeamComponents = []
     page.body.children.forEach((child, i) => {
       if (child.tag === 'slideshow') {
         processSlideshows.push(new Promise((resolve) => {
@@ -68,9 +71,13 @@ export default {
         processVideoGalleries.push(new Promise((resolve) => {
           resolve(processVideoGallery(child.props.name, child.props))
         }))
+      } else if (child.tag === 'team') {
+        processTeamComponents.push(new Promise((resolve) => {
+          resolve(processTeam(child.props, mainNav, $content))
+        }))
       }
     })
-    await Promise.all(processSlideshows, processVideoGalleries)
+    await Promise.all(processSlideshows, processVideoGalleries, processTeamComponents)
 
     return { page, breadCrumbs, subMenu, currentTitle, widePage }
   },

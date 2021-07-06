@@ -18,7 +18,57 @@
         },
         {
           "title": "Das Team",
-          "page": "content/ueber-uns/das-team.md"
+          "page": "content/ueber-uns/das-team.md",
+          "children": [
+            {
+              "title": "Mischa Gohlke",
+              "page": "content/ueber-uns/team/mischa-gohlke.md"
+            },
+            {
+              "title": "Barbara Wetzer",
+              "page": "content/ueber-uns/team/barbara-wetzer.md"
+            },
+            {
+              "title": "Fabia Mekus",
+              "page": "content/ueber-uns/team/fabia-mekus.md"
+            },
+            {
+              "title": "Andreas 'Rudi' Dutschke",
+              "page": "content/ueber-uns/team/andreas-rudi-dutschke.md"
+            },
+            {
+              "title": "Fabian Köhler",
+              "page": "content/ueber-uns/team/fabian-koehler.md"
+            },
+            {
+              "title": "Markus Riemann",
+              "page": "content/ueber-uns/team/markus-riemann.md"
+            },
+            {
+              "title": "Jan Clasen",
+              "page": "content/ueber-uns/team/jan-clasen.md"
+            },
+            {
+              "title": "Jason Foley",
+              "page": "content/ueber-uns/team/jason-foley.md"
+            },
+            {
+              "title": "Raul Krauthausen",
+              "page": "content/ueber-uns/team/raul-krauthausen.md"
+            },
+            {
+              "title": "Inés Zahmoul",
+              "page": "content/ueber-uns/team/ines-zahmoul.md"
+            },
+            {
+              "title": "Anja Teubert",
+              "page": "content/ueber-uns/team/anja-teubert.md"
+            },
+            {
+              "title": "Rolf Emmerich",
+              "page": "content/ueber-uns/team/rolf-emmerich.md"
+            }
+          ]
         },
         {
           "title": "Identität & Positionierung",
