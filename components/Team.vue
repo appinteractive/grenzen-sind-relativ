@@ -1,21 +1,43 @@
 <template>
   <div class="pt-6 pb-12">
     <div class="space-y-12 lg:grid lg:gap-8 lg:space-y-0">
-      <div class="space-y-12 sm:divide-y sm:divide-gray-200 sm:space-y-0 sm:-mt-8 lg:gap-x-8 lg:space-y-0">
-        <div v-for="person in items" :key="person.name" class="sm:py-8">
+      <div
+        :key="k"
+        class="
+          space-y-6
+          sm:space-y-0 sm:-mt-8
+          lg:gap-x-8 lg:space-y-0
+          lg:grid grid-cols-2
+        "
+      >
+        <div v-for="person in items" :key="person.name">
           <router-link :to="person.path" class="!no-underline">
-            <div class="space-y-4 sm:grid sm:grid-cols-3 sm:items-start sm:gap-6 sm:space-y-0 group px-4 md:px-0">
+            <div
+              class="
+                space-y-4
+                sm:grid sm:grid-cols-3 sm:items-start sm:gap-6 sm:space-y-0
+                group
+                px-4
+                md:px-0
+              "
+            >
               <div class="aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4">
-                <img class="object-cover rounded shadow-md" :src="person.teaser" :alt="person.title" />
+                <img
+                  class="object-cover rounded shadow-md"
+                  :src="person.teaser"
+                  :alt="person.title"
+                />
               </div>
               <div class="sm:col-span-2">
                 <div class="space-y-4">
-                  <div class="text-lg leading-6 font-medium space-y-1">
-                    <h3 class="group-hover:!underline">{{ person.title }}</h3>
+                  <div>
+                    <h3 class="group-hover:!underline !leading-tight">{{ person.title }}</h3>
                     <!-- <p class="text-indigo-600">{{ person.role }}</p> -->
                   </div>
                   <div class="text-lg">
-                    <p class="text-gray-500">{{ person.description }}</p>
+                    <p class="text-gray-500 line-clamp-3 text-base font-normal leading-snug">
+                      {{ person.description }}
+                    </p>
                   </div>
                   <!-- <div class="flex space-x-5">
                     <div>
@@ -46,9 +68,31 @@
 </template>
 
 <script>
+function makeid(length = 8) {
+  let result = ''
+  const characters =
+    'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
+  const charactersLength = characters.length
+  for (var i = 0; i < length; i++) {
+    result += characters.charAt(Math.floor(Math.random() * charactersLength))
+  }
+  return result
+}
+
 export default {
   props: {
     people: { type: [Array, String], default: () => [] },
+  },
+  data: () => ({
+    k: makeid(),
+  }),
+  watch: {
+    people: {
+      immediate: true,
+      handler(val) {
+        console.log('people', val)
+      }
+    }
   },
   computed: {
     items() {
@@ -56,7 +100,11 @@ export default {
         ? this.people
         : JSON.parse(this.people)
       return people
-    }
-  }
+    },
+  },
+  mounted() {
+    this.k = makeid()
+    console.log('TEAM?', this.items)
+  },
 }
 </script>

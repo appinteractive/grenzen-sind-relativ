@@ -18,55 +18,80 @@
         },
         {
           "title": "Das Team",
-          "page": "content/ueber-uns/das-team.md",
+          "page": "content/ueber-uns/das-team/das-team.md",
           "children": [
             {
-              "title": "Mischa Gohlke",
-              "page": "content/ueber-uns/team/mischa-gohlke.md"
+              "title": "Aktionsbüro",
+              "children": [
+                {
+                  "title": "Mischa Gohlke",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/mischa-gohlke.md"
+                },
+                {
+                  "title": "Fabia Mekus",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/fabia-mekus.md"
+                }
+              ]
             },
             {
-              "title": "Barbara Wetzer",
-              "page": "content/ueber-uns/team/barbara-wetzer.md"
+              "title": "Filmproduktion",
+              "children": [
+                {
+                  "title": "Fabian Köhler",
+                  "page": "content/ueber-uns/das-team/filmproduktion/fabian-koehler.md"
+                },
+                {
+                  "title": "Andreas 'Rudi' Dutschke",
+                  "page": "content/ueber-uns/das-team/filmproduktion/andreas-rudi-dutschke.md"
+                }
+              ]
             },
             {
-              "title": "Fabia Mekus",
-              "page": "content/ueber-uns/team/fabia-mekus.md"
+              "title": "Vorstand",
+              "children": [
+                {
+                  "title": "Markus Riemann",
+                  "page": "content/ueber-uns/das-team/vorstand/markus-riemann.md"
+                },
+                {
+                  "title": "Jan Clasen",
+                  "page": "content/ueber-uns/das-team/vorstand/jan-clasen.md"
+                },
+                {
+                  "title": "Jason Foley",
+                  "page": "content/ueber-uns/das-team/vorstand/jason-foley.md"
+                }
+              ]
             },
             {
-              "title": "Andreas 'Rudi' Dutschke",
-              "page": "content/ueber-uns/team/andreas-rudi-dutschke.md"
+              "title": "Beirat",
+              "children": [
+                {
+                  "title": "Raul Krauthausen",
+                  "page": "content/ueber-uns/das-team/beirat/raul-krauthausen.md"
+                },
+                {
+                  "title": "Rolf Emmerich",
+                  "page": "content/ueber-uns/das-team/beirat/rolf-emmerich.md"
+                },
+                {
+                  "title": "Inés Zahmoul",
+                  "page": "content/ueber-uns/das-team/beirat/ines-zahmoul.md"
+                },
+                {
+                  "title": "Anja Teubert",
+                  "page": "content/ueber-uns/das-team/beirat/anja-teubert.md"
+                }
+              ]
             },
             {
-              "title": "Fabian Köhler",
-              "page": "content/ueber-uns/team/fabian-koehler.md"
-            },
-            {
-              "title": "Markus Riemann",
-              "page": "content/ueber-uns/team/markus-riemann.md"
-            },
-            {
-              "title": "Jan Clasen",
-              "page": "content/ueber-uns/team/jan-clasen.md"
-            },
-            {
-              "title": "Jason Foley",
-              "page": "content/ueber-uns/team/jason-foley.md"
-            },
-            {
-              "title": "Raul Krauthausen",
-              "page": "content/ueber-uns/team/raul-krauthausen.md"
-            },
-            {
-              "title": "Inés Zahmoul",
-              "page": "content/ueber-uns/team/ines-zahmoul.md"
-            },
-            {
-              "title": "Anja Teubert",
-              "page": "content/ueber-uns/team/anja-teubert.md"
-            },
-            {
-              "title": "Rolf Emmerich",
-              "page": "content/ueber-uns/team/rolf-emmerich.md"
+              "title": "Streetteam",
+              "children": [
+                {
+                  "title": "Barbara Wetzer",
+                  "page": "content/ueber-uns/das-team/streetteam/barbara-wetzer.md"
+                }
+              ]
             }
           ]
         },
