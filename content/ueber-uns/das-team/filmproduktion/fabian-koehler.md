@@ -1,13 +1,11 @@
 ---
-teaser: '/media/2021/05/foto-fabian-kohler.jpeg'
+teaser: "/media/2021/05/foto-fabian-kohler.jpeg"
 title: Fabian Köhler
-description: 'Filmproduktion (Regie, Kamera & Postproduktion)'
+description: Regie, Kamera & Postproduktion
 alias: ''
 wide: false
 
 ---
-
-
 ![Fabian Köhler](/media/2021/05/foto-fabian-kohler.jpeg "Fabian Köhler")
 
 **Filmproduktion (Regie, Kamera & Postproduktion): Fabian Köhler**
