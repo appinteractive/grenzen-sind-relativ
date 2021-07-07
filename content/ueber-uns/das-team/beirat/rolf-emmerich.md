@@ -1,13 +1,11 @@
 ---
-teaser: '/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg'
+teaser: "/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg"
 title: Rolf Emmerich
-description: 'Rolf Emmerich – Kulturmanager, Festivalleiter Sommerblut'
+description: 'Kulturmanager, Festivalleiter Sommerblut '
 alias: ''
 wide: false
 
 ---
-
-
 ![Rolf Emmerich](/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg "Rolf Emmerich") **Rolf Emmerich** _(Kulturmanager, Festivalleiter Sommerblut)_
 
 Schon immer war es Rolf Emmerichs Lebensmotto, aktiv und praktisch, mit Herz und Verstand Projekte gegen Ausgrenzung, gegen Monokulturen, für Inklusion und Vielfalt anzustoßen. Sein wichtigstes, mittlerweile 17 Jahre altes „Kind“ ist ebenfalls aus diesem Lebensmotto heraus geboren worden: 2002 hat Rolf in Köln mit „Sommerblut“ das Festival für „Multipolarkultur“ gegründet.

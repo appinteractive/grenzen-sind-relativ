@@ -1,13 +1,12 @@
 ---
-teaser: '/media/2019/04/Ines-Zahmoul-Foto.jpeg'
+teaser: "/media/2019/04/Ines-Zahmoul-Foto.jpeg"
 title: Inés Zahmoul
-description: 'Inés Zahmoul – Coach, Trainer, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher Mensch'
+description: Coach, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher
+  Mensch
 alias: ''
 wide: false
 
 ---
-
-
 ![Inés Zahmoul](/media/2019/04/Ines-Zahmoul-Foto.jpeg "Inés Zahmoul") **Inés Zahmoul** _(Coach, Trainer, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher Mensch)_
 
 Als Voice Artist Coach ist Inés Zahmoul national und international in den Bereichen Sprechstimme (Bühne, Kamera, öffentliche Reden) und Stimmbildung, Gesang & Körpersprache (nonverbale Kommunikation und Mikroexpressionen) erfolgreich tätig. Inés Zahmoul gehört zu den Experten, wenn es um die Verbindung von Körper, Sprech- und Gesangsstimme geht. Sie trainiert Schauspieler, Sänger, Musiker, Beatboxer, Sprecher, Coaches, Regisseure und Führungskräfte. Außerdem bereitet Inés Zahmoul angehende Schauspielstudenten für Vorsprechen vor. Seit 2010 ist sie als Gesangsdozentin an der Schauspielfabrik Berlin, seit 2018 als Hochschuldozentin an der DMA-medienakademie für die Module Stimme und Sprache, Darstellerische Grundlagen und Studioinszenierung und seit 2015 bei Vogdt Training national als Trainerin für Stimme und Körpersprache tätig.
