@@ -1,13 +1,11 @@
 ---
-teaser: '/media/2020/06/mischa-profil.jpg'
+teaser: "/media/2020/06/mischa-profil.jpg"
 title: Mischa Gohlke
-description: 'Kultur- & Medienmanager, Dozent, Musiker, Autor, Speaker, Inklusionsbotschafter, Aktivist und vor allem Mensch'
+description: 'Initiator, Leitung, Kultur- & Medienmanagement und strategische Konzeptentwicklung '
 alias: ''
 wide: false
 
 ---
-
-
 ![Mischa Gohlke](/media/2020/06/mischa-profil.jpg "Mischa Gohlke") **Initiator & Leitung: Mischa Gohlke** _(Kultur- & Medienmanager, Dozent, Musiker, Autor, Speaker, Inklusionsbotschafter, Aktivist und vor allem Mensch)_
 
 Mit einer an Taubheit grenzenden Hörschädigung hat Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps das Abitur auf der Regelschule gemacht und ist den Weg als Profimusiker eingeschlagen. Parallel zum Studium „Kultur- und Medienmanagement“ an der „Hochschule für Musik und Theater Hamburg“ gründete Mischa im Jahr 2006 die Event- und Projektmanagementagentur „migo connections“. Allein 2010 wurden über 100 Veranstaltungen, Festivals und Konzerte im norddeutschen Raum realisiert. Da die Agenturtätigkeiten für Mischa zu kommerziell und sinnentfremdet wurden, initiierte er 2011 die deutschlandweit einmalige Initiative „Grenzen sind relativ“, welche seit September 2016 als gemeinnütziger Verein anerkannt ist. Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Darüber hinaus ist Mischa als Speaker, Dozent, Autor sowie als Aktivist, u.a. in der Friedensbewegung, europaweit unterwegs.
