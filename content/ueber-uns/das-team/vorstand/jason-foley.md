@@ -1,8 +1,7 @@
 ---
 teaser: "/media/2014/07/Jason-Foley.jpg"
 title: Jason Foley
-description: Schriftführer, Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch
-  und Sozialpädagogik
+description: Schriftführer, Musiker, Dipl. Pädagoge und Berufsschullehrer
 alias: ''
 wide: false
 
