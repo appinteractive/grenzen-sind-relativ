@@ -1,8 +1,8 @@
 ---
 teaser: "/media/2014/07/Portraitfoto-Teubert.jpg"
 title: Anja Teubert
-description: 'Anja Teubert – Mensch, Frau, Mutter, Professorin, Studiengangsleiterin
-  Soziale Arbeit '
+description: 'Mensch, Frau, Mutter, Professorin, Freundin, Studiengangsleiterin Soziale
+  Arbeit '
 alias: ''
 wide: false
 
