@@ -1,13 +1,12 @@
 ---
-teaser: '/media/2014/07/Jason-Foley.jpg'
+teaser: "/media/2014/07/Jason-Foley.jpg"
 title: Jason Foley
-description: 'Schriftführer: Jason Foley – Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch und Sozialpädagogik'
+description: Schriftführer, Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch
+  und Sozialpädagogik
 alias: ''
 wide: false
 
 ---
-
-
 ![Jason Foley](/media/2014/07/Jason-Foley.jpg "Jason Foley") **Schriftführer: Jason Foley** _(Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch und Sozialpädagogik)_
 
 Lange Zeit lebte Jason ausschließlich von und für die Musik. Er tourte über 15 Jahre lang als Musiker-Vagabund durch Deutschland und Europa und spielte auf kleinen und größeren Bühnen. In dieser Phase lernte er unterschiedlichste Menschen, Haltungen, Lebensweisen und Kulturen kennen. Es waren vor allem diese Erfahrungen, die einen großen Einfluss auf seine inklusive Haltung von heute ausübten. Auf der Suche nach neuen Herausforderungen entschloss er sich, pädagogisch zu arbeiten. Immer noch als Musiker aktiv arbeitet er heute auch als Lehrer. Hierbei ist Inklusion nicht nur kennzeichnend für seine Haltung, sondern auch ein zentraler Baustein seiner Pädagogik – daher ein zentrales Paradigma seiner täglichen Arbeit und für ihn unerlässlich, um den Menschen an sich und die Gruppe als soziales Gefüge ganzheitlich abzuholen und multiplikatorische Lernprozesse in Gang zu setzen.
