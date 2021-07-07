@@ -11,7 +11,7 @@ alias: ''
 
 Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
-Wir wollen nun unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team) erweitern und suchen 2 Menschen für folgende 2 Arbeitsbereiche/Stellen:
+Wir wollen nun unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und suchen 2 Menschen für folgende 2 Arbeitsbereiche/Stellen:
 
 **1.) PR- & Öffentlichkeitsarbeit, Redaktionsleitung für unseren neuen “Grenzen sind relativ - Social Media Channel", Akquise & Booking GSR e.V. Veranstaltungsformate, Spenden-Kampagnen & Crowdfunding-Aktionen** (_30 Wochenstunden, ab Juli/August 2021)_
 
