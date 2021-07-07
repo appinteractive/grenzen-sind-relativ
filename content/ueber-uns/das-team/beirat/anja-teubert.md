@@ -1,13 +1,12 @@
 ---
-teaser: '/media/2014/07/Portraitfoto-Teubert.jpg'
+teaser: "/media/2014/07/Portraitfoto-Teubert.jpg"
 title: Anja Teubert
-description: 'Anja Teubert – Mensch, Frau, Mutter, Prof, Freundin, Mitglied im wissenschaftlichen Beirat eines Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach)'
+description: 'Anja Teubert – Mensch, Frau, Mutter, Professorin, Studiengangsleiterin
+  Soziale Arbeit '
 alias: ''
 wide: false
 
 ---
-
-
 ![Anja Teubert](/media/2014/07/Portraitfoto-Teubert.jpg "Anja Teubert") **Anja Teubert** _(Mensch, Frau, Mutter, Prof, Freundin, Mitglied im wissenschaftlichen Beirat eines Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach))_
 
 Anja hat trotz oder wegen ihrer diversen – rechtlich nicht anerkannten – Handicaps Soziale Arbeit studiert, promoviert und seit 2013 eine Professur für Sozialraumorientierte Soziale Arbeit an der Dualen Hochschule Baden-Württemberg in Villingen-Schwenningen. Nach mehr als zwanzig Jahren praktischer Sozialer Arbeit erarbeitet sie nun mit den Studierenden an der Entwicklung einer professionellen Haltung, damit diese unter anderem im leider noch vielerorts versäulten Hilfesystem, erreichen, dass der Mensch und nicht seine / ihre Defizite im Fokus stehen.
