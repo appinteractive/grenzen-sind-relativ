@@ -20,7 +20,7 @@ Im Zeitraum September bis November 2021 werden wir 5 Erlebnistage in 5 verschied
 
 Die Erlebnistage umfassen unterschiedliche Workshopformate wie zum Beispiel den Musik-Orient(ierung), Bandtraining, Rhythm´n´Groove u.v.m.. Die Workshops werden von dem hörgeschädigten Profimusiker [Mischa Gohlke](https://mischagohlkeband.de/) und 4 weiteren erfahrenen Musiker*innen geleitet und inhaltlich durchgeführt. 
 
-Jeder Erlebnistag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmer/innen zusammen mit den Dozent/innen und weiteren künstlerischen Acts die Bühne rocken werden.
+Jeder Erlebnistag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmenden zusammen mit den Dozent*innen und weiteren künstlerischen Acts die Bühne rocken werden.
 
 Das Projektformat bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikator*innen und weiterführende Folgeprozesse auf den Weg gebracht werden.
 
