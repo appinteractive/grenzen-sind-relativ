@@ -10,4 +10,4 @@ alias: ''
 ---
 ![](/media/2021/08/cecilia-martin.JPG)
 
-**Cecilia Inés Martin - PR- & Öffentlichkeitsarbeit, Redaktion Social Media, Booking & Koordination Veranstaltungen**
+**PR- & Öffentlichkeitsarbeit, Redaktion Social Media, Booking & Koordination Veranstaltungen: Cecilia Inés Martin**
