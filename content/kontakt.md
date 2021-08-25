@@ -12,6 +12,6 @@ teaser: "/media/2020/10/social-banner-2020-5.jpg"
 
 c/o Mischa Gohlke  
 Wrangelstrasse 103  
-20235 Hamburg
+20253 Hamburg
 
 E-Mail: mail@grenzensindrelativ.de
