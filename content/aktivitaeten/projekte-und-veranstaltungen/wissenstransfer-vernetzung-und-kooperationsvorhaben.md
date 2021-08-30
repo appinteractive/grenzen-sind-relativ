@@ -5,7 +5,7 @@ title: 'Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen 
 description: ''
 wide: false
 gallery: []
-alias: ''
+alias: "/interdisziplinaere-kulturarbeit"
 
 ---
 # Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur (AT)
