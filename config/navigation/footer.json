@@ -27,10 +27,6 @@
         {
           "title": "Spenden",
           "page": "content/spenden.md"
-        },
-        {
-          "title": "Stellenausschreibung",
-          "page": "content/stellenausschreibung.md"
         }
       ]
     }
