@@ -16,7 +16,7 @@ wide: false
 
 Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel ! Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
 
-Im Zeitraum Oktober 2021 bis Mai 2022 werden wir 5 Erlebnistage in 5 verschiedenen Veranstaltungsorten im Großraum Hamburg zum Leben bringen. Eine zusätzliche, übergreifende Abschluss- und Netzwerkveranstaltung am Ende der Veranstaltungsreihe bringt alle Beteiligten zusammen. Das Ganze wird von einem Filmteam begleitet, welches einen Dokumentarfilm über das Projekt machen wird.
+Im Zeitraum Oktober 2021 bis Mai 2022 werden wir 5 Erlebnistage in 5 verschiedenen Veranstaltungsorten im Großraum Hamburg zum Leben bringen. Eine zusätzliche, übergreifende Abschluss- und Netzwerkveranstaltung am Ende der Veranstaltungsreihe bringt alle Beteiligten zusammen. Das Ganze wird von einem Filmteam begleitet, das einen Dokumentarfilm über das Projekt machen wird.
 
 Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel den Musik-Orient(ierung), Bandtraining, Rhythm´n´Groove, Chor, u.v.m.. Die Workshops werden von dem hörgeschädigten Profimusiker [Mischa Gohlke](https://mischagohlkeband.de/) und 4 weiteren erfahrenen Musiker*innen geleitet und inhaltlich durchgeführt.
 
