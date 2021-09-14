@@ -8,7 +8,9 @@ gallery: []
 alias: "/interdisziplinaere-kulturarbeit"
 
 ---
-# Wissenstransfer, Vernetzung und Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur (AT)
+# Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur 
+
+## Wissenstransfer, Vernetzung und Kooperationsvorhaben 
 
 Der Begriff “Kultur” umfasst so Vieles: “Kultur” findet mitten in der Gesellschaft statt und steht in direktem Bezug zu aktuellen Diskursen und Tendenzen. Die Auseinandersetzung mit der interdisziplinären Kulturarbeit ist deshalb ein wunderbarer Transmitter, um sich komplexen (neuen) Thematiken zu nähern, den Dialog, Erfahrungsaustausch und Perspektivwechsel zu fördern und diese Prozesse in die institutionelle und projektbezogene Arbeit einfließen zu lassen. Durch die Verbindung und den Austausch von unterschiedlichen Akteur_innen und Expert_innen aus der Kulturszene, können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
