@@ -8,9 +8,9 @@ gallery: []
 alias: "/interdisziplinaere-kulturarbeit"
 
 ---
-# Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur 
+# Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
 
-## Wissenstransfer, Vernetzung und Kooperationsvorhaben 
+## Wissenstransfer, Vernetzung und Kooperationsvorhaben
 
 Der Begriff “Kultur” umfasst so Vieles: “Kultur” findet mitten in der Gesellschaft statt und steht in direktem Bezug zu aktuellen Diskursen und Tendenzen. Die Auseinandersetzung mit der interdisziplinären Kulturarbeit ist deshalb ein wunderbarer Transmitter, um sich komplexen (neuen) Thematiken zu nähern, den Dialog, Erfahrungsaustausch und Perspektivwechsel zu fördern und diese Prozesse in die institutionelle und projektbezogene Arbeit einfließen zu lassen. Durch die Verbindung und den Austausch von unterschiedlichen Akteur_innen und Expert_innen aus der Kulturszene, können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
@@ -38,7 +38,7 @@ Im Fokus des Projekts steht die Etablierung eines Netzwerkes von unterschiedlich
    Welche bildungspolitische Ziele impliziert die Forderung nach “kultureller Teilhabe”? Inwieweit besteht die Gefahr der Reduzierung auf soziale Aspekte kultureller Vorhaben und damit einer Instrumentalisierung der Kunst für politische Ziele? Hält die kulturelle Bildung als Kompensationsmittel des Sozialstaatsabbaus, Verwertungslogik in der neoliberalen Struktur her?
 7. **Kulturarbeit im neoliberalen Zeitalter:**
 
-   Welche Dynamiken werden durch die zunehmende Intervention neoliberaler Eliten aus Wirtschaft und Politik im kulturellen Sektor ausgelöst? Kann von einer Vereinnahmung und Instrumentalisierung künstlerischer Vorhaben durch Akteure aus Politik, Wirtschaft und NGOs werden? Wird Kultur mehr und mehr zu Marketing für ein separatives Selbst- und Weltbild? In welchem Spektrum bewegen sich Kulturschaffende? Welche Rolle spielen die Medien? Was bedeuten diese Dynamiken für die freie Kunst und Kultur und wie schlägt sich dies in der Praxis nieder? (Kampagnen, PR, Meinungsmache, Expert*innentum, Verwaltungskultur etc.)?
+   Welche Dynamiken werden durch die zunehmende Intervention neoliberaler Eliten aus Wirtschaft und Politik im kulturellen Sektor ausgelöst? Kann von einer Vereinnahmung und Instrumentalisierung künstlerischer Vorhaben durch Akteur*innen aus Politik, Wirtschaft und NGOs gesprochen werden? Wird Kultur mehr und mehr zu Marketing für ein separatives Selbst- und Weltbild? In welchen Frames, Narrativen und generellen Rahmenbedingungen bewegen sich Künstler*innen und Kulturschaffende? Welche Rolle spielen die Medien bzw. die medialen Realitäten? Was bedeuten diese Dynamiken für die freie Kunst und Kultur und wie schlägt sich dies in der Praxis nieder? (Kampagnen, PR, Meinungsmache, Cancel Culture, Identitätspolitik, Expert*innentum, Verwaltungskultur etc.)?
 8. **Interdisziplinäre Kulturarbeit - Analyse und Aktion:**
 
    Was braucht Kunst und Kultur angesichts der aktuellen gesamtgesellschaftlichen Entwicklung von Kunst und Kultur? Welche zielführenden Strukturen, Konzepte und Formate können gemeinsam entwickelt werden? Wie wollen wir zusammenarbeiten, was wollen wir entwickeln?
