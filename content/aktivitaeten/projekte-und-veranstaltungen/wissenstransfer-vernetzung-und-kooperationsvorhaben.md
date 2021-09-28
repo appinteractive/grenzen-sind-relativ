@@ -45,7 +45,7 @@ Im Fokus des Projekts steht die Etablierung eines Netzwerkes von unterschiedlich
 
    Was braucht Kunst und Kultur angesichts der aktuellen gesamtgesellschaftlichen Entwicklung von Kunst und Kultur? Welche zielführenden Strukturen, Konzepte und Formate können gemeinsam entwickelt werden? Wie wollen wir zusammenarbeiten, was wollen wir entwickeln?
 
-Weitere Informationen rund um das Projekt, die konkreten Daten sowie die teilnehmenden Akteur*innen folgen in Kürze!
+Weitere Informationen rund um das Projekt folgen in Kürze!
 
 Bei Fragen wende dich gerne an produktion@grenzensindrelativ.de
 
