@@ -10,7 +10,7 @@ alias: "/interdisziplinaere-kulturarbeit"
 ---
 # Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
 
-## Wissenstransfer, Vernetzung und Kooperationsvorhaben von/mit [Sommerblut Festival](https://www.sommerblut.de/), [ALIVE!Kultur e.V.](https://www.alivekultur.de/), [Handiclapped e.V.](https://handiclapped-berlin.de/), [HalloHallo e.V.](https://hallohallohallo.org/de/verein) und [Grenzen sind relativ e.V. ](https://www.grenzensindrelativ.de)
+## Wissenstransfer, Vernetzung und Kooperationsvorhaben von/mit [Sommerblut Festival](https://www.sommerblut.de/), [ALIVE!Kultur e.V.](https://www.alivekultur.de/), [Handiclapped e.V.](https://handiclapped-berlin.de/), [HalloHallo e.V.](https://hallohallohallo.org/de/verein), [Grenzen sind relativ e.V.](https://www.grenzensindrelativ.de) & Jens Klopp im Auftrag der KMM Hamburg
 
 Der Begriff “Kultur” umfasst so Vieles: “Kultur” findet mitten in der Gesellschaft statt und steht in direktem Bezug zu aktuellen Diskursen und Tendenzen. Die Auseinandersetzung mit der interdisziplinären Kulturarbeit ist deshalb ein wunderbarer Transmitter, um sich komplexen (neuen) Thematiken zu nähern, den Dialog, Erfahrungsaustausch und Perspektivwechsel zu fördern und diese Prozesse in die institutionelle und projektbezogene Arbeit einfließen zu lassen. Durch die Verbindung und den Austausch von unterschiedlichen Akteur:innen und Expert:innen aus der Kulturszene, können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
