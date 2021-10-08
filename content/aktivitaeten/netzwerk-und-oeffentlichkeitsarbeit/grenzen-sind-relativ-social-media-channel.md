@@ -32,3 +32,5 @@ Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der D
 Weitere Informationen folgen ... :)
 
 Für die großzügige Unterstützung geht unser Dank an die "KULTUR.GEMEINSCHAFTEN".
+
+![](/media/2021/10/gsr-social-media-channel_forderlogos-kompakt.jpg)
