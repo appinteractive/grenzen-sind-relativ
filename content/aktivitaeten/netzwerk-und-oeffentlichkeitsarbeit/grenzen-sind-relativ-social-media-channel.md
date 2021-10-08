@@ -9,7 +9,7 @@ alias: ''
 ---
 # Grenzen sind relativ - Social Media Channel
 
-Im September 2021 werden wir mit unserem neuen "Grenzen sind relativ - Social Media Channel" starten.
+Im November 2021 werden wir mit unserem neuen "Grenzen sind relativ - Social Media Channel" starten.
 
 Diesbezüglich werden wir umfangreichen interdisziplinären Content (Filme, Fotos, Designs & Texte) produzieren und über unsere Kanäle (facebook, twitter, instagram, youtube, Webseiten, usw.) weitreichend verbreiten.
 
