@@ -1,7 +1,7 @@
 ---
 teaser: ''
 title: Thorsten Hesse
-description: Marketing, Projektentwicklung, Projektmanagement & Fundraising
+description: 'Social Business, Marketing und Projektentwicklung '
 wide: false
 gallery: []
 alias: ''
