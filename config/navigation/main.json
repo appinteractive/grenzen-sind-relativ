@@ -91,7 +91,8 @@
                   "title": "Barbara Wetzer",
                   "page": "content/ueber-uns/das-team/streetteam/barbara-wetzer.md"
                 }
-              ]
+              ],
+              "disabled": true
             }
           ]
         },
