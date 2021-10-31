@@ -13,11 +13,11 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 
 Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 1 Menschen für folgende Stelle:
 
-**1.) PR- & Öffentlichkeitsarbeit, Redaktionsleitung für unseren neuen “Grenzen sind relativ - Social Media Channel", Akquise & Booking GSR e.V. Veranstaltungsformate, Spenden-Kampagnen & Crowdfunding-Aktionen** (25-_30 Wochenstunden, ab September 2021)_
+**1.) PR- & Öffentlichkeitsarbeit, Redaktionsleitung für unseren neuen “Grenzen sind relativ - Social Media Channel", Veranstaltungsmanagement, Akquise & Booking GSR e.V. Veranstaltungsformate, Spenden-Kampagnen & Crowdfunding-Aktionen** (25-_30 Wochenstunden, ab November 2021)_
 
-* PR- & Öffentlichkeitsarbeit (Strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> Institution GSR e.V. & projektbezogen)
-* Redaktionsleitung für unseren neuen "Grenzen sind relativ - Social Media Channel" (Strat. Konzeption, operative Umsetzung, redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, usw.)
-* Akquise & Booking [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) sowie Bands & Dozenten wie [Mischa Gohlke Band](https://mischagohlkeband.de/), etc.
+* PR- & Öffentlichkeitsarbeit (Strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> GSR e.V. Institution, Projekte, Veranstaltungen & Kampagnen)
+* Redaktionsleitung für unseren neuen "Grenzen sind relativ - Social Media Channel" (Redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, usw.)
+* Veranstaltungsmanagement & Akquise [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) sowie Booking Bands & Dozenten wie [Mischa Gohlke Band](https://mischagohlkeband.de/), etc.
 * Spenden-Kampagnen & Crowdfunding-Aktionen
 
 **Voraussetzungen, Sinnhaftigkeit & Identität:**
