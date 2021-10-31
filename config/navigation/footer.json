@@ -21,6 +21,12 @@
       "title": "Grenzen sind relativ e.V.",
       "children": [
         {
+          "title": "Stellenausschreibung",
+          "external": false,
+          "disabled": false,
+          "showInMainNavigation": false
+        },
+        {
           "title": "Mitmachen",
           "page": "content/mitmachen.md"
         },
