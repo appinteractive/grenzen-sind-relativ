@@ -221,6 +221,21 @@
                 {
                   "title": "Allgemeine Infos",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md"
+                },
+                {
+                  "title": "Dozenten-Team & Workshops",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Veranstaltungstermine",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Dokumentation",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dokumentation.md",
+                  "disabled": true
                 }
               ],
               "external": false,

@@ -1,12 +1,12 @@
 ---
 teaser: ''
-title: Veranstaltungstermine
+title: Dokumentation
 description: ''
 wide: false
 gallery: []
 alias: ''
 
 ---
-# Veranstaltungstermine
+# Dokumentation
 
 > dummy content
