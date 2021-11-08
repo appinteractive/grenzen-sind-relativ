@@ -14,9 +14,13 @@ alias: "/interdisziplinaere-kulturarbeit"
 
 Der Begriff “Kultur” umfasst so Vieles: “Kultur” findet mitten in der Gesellschaft statt und steht in direktem Bezug zu aktuellen Diskursen und Tendenzen. Die Auseinandersetzung mit der interdisziplinären Kulturarbeit ist deshalb ein wunderbarer Transmitter, um sich komplexen (neuen) Thematiken zu nähern, den Dialog, Erfahrungsaustausch und Perspektivwechsel zu fördern und diese Prozesse in die institutionelle und projektbezogene Arbeit einfließen zu lassen. Durch die Verbindung und den Austausch von unterschiedlichen Akteur:innen und Expert:innen aus der Kulturszene, können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
-Das Projekt “Wissenstransfer, Vernetzung und Kooperationsvorhaben für die inklusive & interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur” setzt sich aus den Modulen Vernetzungsphase, Wissenstransfer und Konzeptarbeit, Erarbeitung Toolboxes/Handouts/Projekt- & Veranstaltungskonzepte, Produktion und Veröffentlichung einer Talk- & Kulturshow sowie dem Zusammentragen der Projektergebnisse & dem offiziellen Projektabschluss im Dezember 2021 zusammen.
+Das Projekt "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur Wissenstransfer, Vernetzung und Kooperationsvorhaben" setzt sich aus den Modulen Vernetzungsphase, Wissenstransfer und Konzeptarbeit, Erarbeitung eines Handouts sowie der Produktion und Veröffentlichung einer Filmreihe zusammen.
 
-Im Fokus des Projekts steht die Etablierung eines Netzwerkes von unterschiedlichsten Menschen und Institutionen, dass “Kultur” ganzheitlich begreift und sich kritisch mit Entwicklungen und Tendenzen innerhalb der Kulturarbeit auseinandersetzt. Zentrale Intention ist dabei, gemeinsam aktiv zu werden und neuartige Konzepte und Ideen für eine interdisziplinäre Kulturarbeit zu entwickeln.
+Im Fokus des Projekts steht die Etablierung eines Netzwerkes von unterschiedlichsten Menschen und Institutionen, dass “Kultur” ganzheitlich begreift und sich kritisch mit Entwicklungen und Tendenzen innerhalb der Kulturarbeit auseinandersetzt. Zentrale Intention ist dabei, in einen gemeinsamen Austausch zu treten, gemeinsam aktiv zu werden und neuartige Konzepte und Ideen für eine interdisziplinäre Kulturarbeit zu entwickeln.
+
+In regelmäßigen digitalen und analogen Treffen stellen sich die teilnehmenden Institutionen gegenseitig ihre Arbeit vor: Wie arbeiten die einzelnen Institutionen und wie haben sie sich von Beginn an entwickelt? Wo kann voneinander gelernt, wo an bereits bestehende Erfahrungswerte angeknüpft werden? Wie können Ressourcen geteilt werden? Mit welchen Herausforderungen sind die Kulturakteur*innen konfrontiert? An welchen Punkten werden Entwicklungspotenziale erkennbar?
+
+Im gemeinsamen Dialog setzen wir uns darüber hinaus unter anderem mit folgenden Themen auseinander:
 
 1. **Die Rolle der Kultur in der Gesamtgesellschaft:**
 
