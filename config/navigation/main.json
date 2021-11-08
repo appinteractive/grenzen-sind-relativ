@@ -30,6 +30,21 @@
                 {
                   "title": "Fabia Mekus",
                   "page": "content/ueber-uns/das-team/aktionsbuero/fabia-mekus.md"
+                },
+                {
+                  "title": "Cecilia Inés Martin",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/cecilia-ines-martin.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Grzegorz Leoniec",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/grzegorz-leoniec.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Thorsten Hesse",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/thorsten-hesse.md",
+                  "disabled": true
                 }
               ]
             },
@@ -43,6 +58,21 @@
                 {
                   "title": "Andreas 'Rudi' Dutschke",
                   "page": "content/ueber-uns/das-team/filmproduktion/andreas-rudi-dutschke.md"
+                },
+                {
+                  "title": "Björn Lingner",
+                  "page": "content/ueber-uns/das-team/filmproduktion/bjoern-lingner.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Hervé Dieu",
+                  "page": "content/ueber-uns/das-team/filmproduktion/herve-dieu.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Jannis Raasch",
+                  "page": "content/ueber-uns/das-team/filmproduktion/jannis-raasch.md",
+                  "disabled": true
                 }
               ]
             },
@@ -81,6 +111,11 @@
                 {
                   "title": "Anja Teubert",
                   "page": "content/ueber-uns/das-team/beirat/anja-teubert.md"
+                },
+                {
+                  "title": "Hörbie Schmidt",
+                  "page": "content/ueber-uns/das-team/beirat/hoerbie-schmidt.md",
+                  "disabled": true
                 }
               ]
             },
