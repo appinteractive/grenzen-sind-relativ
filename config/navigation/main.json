@@ -97,6 +97,48 @@
           ]
         },
         {
+          "title": "Audiovisuelle Impressionen & Medienberichte",
+          "page": null,
+          "children": [
+            {
+              "title": "Videos",
+              "page": "content/media/videos.md"
+            },
+            {
+              "title": "Fotogalerien",
+              "page": "content/media/fotogalerien.md"
+            },
+            {
+              "title": "Pressespiegel",
+              "children": [
+
+              ],
+              "page": "content/media/pressespiegel-kompakt.md"
+            },
+            {
+              "title": "Blog",
+              "children": [
+                {
+                  "title": "Grenzen sind relativ – Musik, Hören und Inklusion ",
+                  "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md"
+                },
+                {
+                  "title": "Auf in eine neue Beziehungskultur!",
+                  "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Zitate",
+          "page": "content/ueber-uns/zitate.md"
+        },
+        {
+          "title": "Kontakt",
+          "page": "content/kontakt.md"
+        },
+        {
           "title": "Identität & Positionierung",
           "page": "content/ueber-uns/identitat-positionierung.md",
           "disabled": true
@@ -372,48 +414,9 @@
       "showInMainNavigation": true
     },
     {
-      "title": "Media",
-      "page": null,
-      "children": [
-        {
-          "title": "Videos",
-          "page": "content/media/videos.md"
-        },
-        {
-          "title": "Fotogalerien",
-          "page": "content/media/fotogalerien.md"
-        },
-        {
-          "title": "Pressespiegel",
-          "children": [
-
-          ],
-          "page": "content/media/pressespiegel-kompakt.md"
-        },
-        {
-          "title": "GSR e.V. Channel",
-          "page": "content/media/gsr-ev-channel.md",
-          "disabled": true
-        },
-        {
-          "title": "Blog",
-          "children": [
-            {
-              "title": "Grenzen sind relativ – Musik, Hören und Inklusion ",
-              "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md"
-            },
-            {
-              "title": "Auf in eine neue Beziehungskultur!",
-              "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md"
-            }
-          ]
-        },
-        {
-          "title": "Zitate",
-          "page": "content/ueber-uns/zitate.md"
-        }
-      ],
-      "showInMainNavigation": true
+      "title": "Media Channel",
+      "page": "content/media/media-channel.md",
+      "disabled": true
     },
     {
       "title": "Mitmachen",
@@ -422,10 +425,6 @@
     {
       "title": "Spenden",
       "page": "content/spenden.md"
-    },
-    {
-      "title": "Kontakt",
-      "page": "content/kontakt.md"
     }
   ]
 }
