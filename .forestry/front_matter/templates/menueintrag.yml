@@ -20,7 +20,7 @@ fields:
     options: []
     source:
       type: pages
-      section: inahlt
+      section: seiten
       file: 
       path: 
   label: Seite
