@@ -11,13 +11,22 @@ alias: ''
 
 Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
-Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 1 Menschen für folgende Stelle:
+Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 2 Menschen für folgende Stellen:
 
-**1.) PR- & Öffentlichkeitsarbeit, Redaktionsleitung für unseren neuen “Grenzen sind relativ - Social Media Channel", Veranstaltungsmanagement, Akquise & Booking GSR e.V. Veranstaltungsformate, Spenden-Kampagnen & Crowdfunding-Aktionen** (25-_30 Wochenstunden, ab November 2021)_
+**1.) Veranstaltungsmanagement, Akquise & Booking GSR e.V. Veranstaltungsformate, PR- & Öffentlichkeitsarbeit** _(ab Dez. 2021: 15/20 Wochenstunden, ab April 2022 verbunden mit einer Aktion Mensch Förderung 30/35 Wochenstunden)_
 
-* PR- & Öffentlichkeitsarbeit (Strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> GSR e.V. Institution, Projekte, Veranstaltungen & Kampagnen)
-* Redaktionsleitung für unseren neuen "Grenzen sind relativ - Social Media Channel" (Redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, usw.)
-* Veranstaltungsmanagement & Akquise [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) sowie Booking Bands & Dozenten wie [Mischa Gohlke Band](https://mischagohlkeband.de/), etc.
+* Veranstaltungsmanagement [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) (Akquise, strat. Konzeption, Bau Grundgerüst, operative Umsetzung, Booking Rahmenprogramm, PR, Promo, etc.)
+
+
+* “GSR Agentur”: Booking Bands & Dozent*innen wie[ Mischa Gohlke Band](https://mischagohlkeband.de/)
+* PR- & Öffentlichkeitsarbeit (Print, Radio, TV, Netzwerkarbeit, etc. - Strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> GSR e.V. Institution, Projekte, Veranstaltungen & Kampagnen)
+
+**2.) Campaign, Online-Marketing, Redaktion GSR Social Media Channel** _(ab Dez. 2021: 10 Wochenstunden, ggfs. ab April 2022 verbunden mit einer Aktion Mensch Förderung 20/25 Wochenstunden)_
+
+* Redaktionsleitung für unseren neuen "[Grenzen sind relativ - Social Media Channel](https://www.grenzensindrelativ.de/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel)" (Redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, Reichweite regenerieren, Multiplikatoren, Synergien, Netzwerkarbeit, usw.)
+
+
+* Campaign (z.B. für Kampagnen wie [“2. Inklusions- & Friedenssong”](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong) - strat. Konzeption, Durchführung, etc.)
 * Spenden-Kampagnen & Crowdfunding-Aktionen
 
 **Voraussetzungen, Sinnhaftigkeit & Identität:**
@@ -31,6 +40,13 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 * Lust beim gesamtgesellschaftlichen Wandel bzw. bei der (R)evolution mitzugestalten
 * Sich zu 100 Prozent mit „Grenzen sind relativ e.V.“ identifizieren zu können, loyal zu sein, es zu LEBEN und einfach richtig Bock auf die Zusammenarbeit & Tätigkeiten zu haben. Beruf(ungen)! :)
 
-**Bei Interesse melde Dich bitte per E-Mail:**
+**Was dich bei Grenzen sind relativ e.V. erwartet:**
 
-**mischa.gohlke@grenzensindrelativ.de**
+* Flexible Arbeitszeiten
+* Flache Hierarchien
+* Mitgestaltungsmöglichkeiten
+* Offene und transparente Kommunikation
+* Faires Gehalt und Honorar
+* Nette Kolleg*innen :-)
+
+**Bei Interesse melde Dich bitte per E-Mail:** [**mischa.gohlke@grenzensindrelativ.de**](mailto:mischa.gohlke@grenzensindrelativ.de)
