@@ -271,12 +271,22 @@
             },
             {
               "title": "Interdisziplinäre Kulturarbeit",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/wissenstransfer-vernetzung-und-kooperationsvorhaben.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
               "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
               "children": [
                 {
                   "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/wissenstransfer-vernetzung-und-kooperationsvorhaben.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md"
+                },
+                {
+                  "title": "PDF Projektergebnisse & weitere VÖ",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/pdf-projektergebnisse-and-weitere-v-oe.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Filmproduktionen “Kultur von allen”",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md",
+                  "disabled": true
                 }
               ]
             },
