@@ -11,7 +11,7 @@ alias: ''
 
 Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
-Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 2 Menschen für folgende Stellen:
+Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 3 Menschen für folgende Stellen:
 
 **1.) Veranstaltungsmanagement, Akquise & Booking GSR e.V. Veranstaltungsformate, PR- & Öffentlichkeitsarbeit** _(ab April 2022 30/35 Wochenstunden)_
 
@@ -19,11 +19,17 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 * “GSR Agentur”: Booking Bands & Dozent*innen wie[ Mischa Gohlke Band](https://mischagohlkeband.de/)
 * PR- & Öffentlichkeitsarbeit (Print, Radio, TV, Netzwerkarbeit, etc. - Strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> GSR e.V. Institution, Projekte, Veranstaltungen & Kampagnen)
 
-**2.) Campaign, Online-Marketing, Redaktion GSR Social Media Channel** _(ab Jan. 2022: 10 Wochenstunden, ggfs. ab April 2022 20/25 Wochenstunden)_
+**2.) Campaign, Online-Marketing, Redaktion GSR Social Media Channel** _(ab Januar 2022: 10 Wochenstunden, ggfs. ab April 2022 20/25 Wochenstunden)_
 
 * Redaktionsleitung für unseren neuen "[Grenzen sind relativ - Social Media Channel](https://www.grenzensindrelativ.de/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel)" (Redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, Reichweite regenerieren, Multiplikatoren, Synergien, Netzwerkarbeit, usw.)
 * Campaign (z.B. für Kampagnen wie [“2. Inklusions- & Friedenssong”](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong) - strat. Konzeption, Durchführung, etc.)
 * Spenden-Kampagnen & Crowdfunding-Aktionen
+
+3\.) **Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab Januar 2022)_
+
+* Außenauftritt Institution Grenzen sind relativ e.V.
+* Außenauftritt Projekte 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) Kampagne 2. Inklusions- & Friedenssong, etc.
+* Content für den neuen GSR e.V. Social Media-Channel
 
 **Voraussetzungen, Sinnhaftigkeit & Identität:**
 
