@@ -13,14 +13,14 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 
 Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 3 Menschen für folgende Stellen:
 
-**1.) Veranstaltungsmanagement, Akquise & Booking GSR e.V. Veranstaltungsformate, PR- & Öffentlichkeitsarbeit** _(ab April 2022 30/35 Wochenstunden)_
+**1.) Veranstaltungsmanagement, Produktionleitung, Akquise & Booking GSR e.V. Veranstaltungsformate** _(ab April 2022 32 Wochenstunden)_
 
-* Veranstaltungsmanagement [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) (Akquise, strat. Konzeption, Bau Grundgerüst, operative Umsetzung, Booking Rahmenprogramm, PR, Promo, etc.)
+* Veranstaltungsmanagement & Produktionsleitung [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) (Akquise, strat. Konzeption, Bau Grundgerüst, operative Umsetzung, Booking Rahmenprogramm, Promotion, etc.)
 * “GSR Agentur”: Booking Bands & Dozent*innen wie[ Mischa Gohlke Band](https://mischagohlkeband.de/)
+
+**2.) PR- & Öffentlichkeitsarbeit, Redaktion GSR Social Media Channel & Campaign** _(ab Februar 2022: 10 Wochenstunden, ab April 2022 20 Wochenstunden)_
+
 * PR- & Öffentlichkeitsarbeit (Print, Radio, TV, Netzwerkarbeit, etc. - Strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> GSR e.V. Institution, Projekte, Veranstaltungen & Kampagnen)
-
-**2.) Campaign, Online-Marketing, Redaktion GSR Social Media Channel** _(ab Januar 2022: 10 Wochenstunden, ggfs. ab April 2022 20/25 Wochenstunden)_
-
 * Redaktionsleitung für unseren neuen "[Grenzen sind relativ - Social Media Channel](https://www.grenzensindrelativ.de/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel)" (Redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, Reichweite regenerieren, Multiplikatoren, Synergien, Netzwerkarbeit, usw.)
 * Campaign (z.B. für Kampagnen wie [“2. Inklusions- & Friedenssong”](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong) - strat. Konzeption, Durchführung, etc.)
 * Spenden-Kampagnen & Crowdfunding-Aktionen
