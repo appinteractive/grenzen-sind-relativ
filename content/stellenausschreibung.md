@@ -25,9 +25,9 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 * Campaign (z.B. für Kampagnen wie [“2. Inklusions- & Friedenssong”](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong) - strat. Konzeption, Durchführung, etc.)
 * Spenden-Kampagnen & Crowdfunding-Aktionen
 
-3\.) **Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab Januar 2022)_
+3\.) **Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab sofort)_
 
-* Außenauftritt Institution Grenzen sind relativ e.V.
+* Word-Bild-Marke & neuer Außenauftritt Institution Grenzen sind relativ e.V.
 * Außenauftritt Projekte 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) Kampagne 2. Inklusions- & Friedenssong, etc.
 * Content für den neuen GSR e.V. Social Media-Channel
 
