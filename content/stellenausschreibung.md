@@ -15,8 +15,8 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 
 **1.) Veranstaltungsmanagement, Produktionsleitung, Akquise & Booking GSR e.V. Veranstaltungsformate** _(ab April 2022 32 Wochenstunden)_
 
-* Veranstaltungsmanagement & Produktionsleitung [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) (Akquise, strat. Konzeption, Bau Grundgerüst, operative Umsetzung, Booking Rahmenprogramm, Promotion, etc.)
-* “GSR Agentur”: Booking Bands & Dozent*innen wie[ Mischa Gohlke Band](https://mischagohlkeband.de/)
+* Veranstaltungsmanagement & Produktionsleitung [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event), [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos), etc. (strat. Konzeption, operative Umsetzung, Booking Rahmenprogramm, Promotion, etc.)
+* “GSR Agentur”: Akquise & Booking Bands & Dozent*innen wie[ Mischa Gohlke Band](https://mischagohlkeband.de/)
 
 **2.) PR- & Öffentlichkeitsarbeit, Redaktion GSR Social Media Channel & Campaign** _(ab April 2022, 15-20 Wochenstunden)_
 
