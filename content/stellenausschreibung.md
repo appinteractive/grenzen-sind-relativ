@@ -28,8 +28,8 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 3\.) **Mediengestaltung/Designs: Logos, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(projektbezogen, ab sofort)_
 
 * Word-Bild-Marke & neuer Außenauftritt Institution Grenzen sind relativ e.V.
-* Außenauftritt Projekte 1) Erlebnistage Inklusion durch Musik, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) Kampagne 2. Inklusions- & Friedenssong, etc.
-* Content für den neuen GSR e.V. Social Media-Channel
+* Außenauftritt Projekte 1) Celebrate the music, 2) Wissenstransfer, Vernetzung & Kooperationsvorhaben für die interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur, 3) GSR Social Media Channel, 4) Kampagne 2. Inklusions- & Friedenssong, etc.
+* Content für den neuen GSR Social Media Channel
 
 **Voraussetzungen, Sinnhaftigkeit & Identität:**
 
