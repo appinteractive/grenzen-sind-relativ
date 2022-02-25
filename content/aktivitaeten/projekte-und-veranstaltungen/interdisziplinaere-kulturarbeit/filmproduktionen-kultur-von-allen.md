@@ -7,4 +7,4 @@ wide: false
 ---
 # Filmreihe #diskurskultur
 
-> dummy content
+## Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
