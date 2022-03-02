@@ -74,7 +74,7 @@ export default {
 
 <style lang="postcss">
 .prose .slideshow .swiper-slide {
-  @apply bg-white border !important;
+  @apply min-h-full bg-white border !important;
 }
 .prose .slideshow .swiper-slide img {
   @apply p-0 m-0 !important;
