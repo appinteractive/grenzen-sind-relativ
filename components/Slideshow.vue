@@ -73,8 +73,11 @@ export default {
 </script>
 
 <style lang="postcss">
+.prose .slideshow {
+  @apply lg:px-12 !important;
+}
 .prose .slideshow .swiper-slide {
-  @apply min-h-full bg-white border !important;
+  @apply min-h-full bg-white border overflow-hidden !important;
 }
 .prose .slideshow .swiper-slide img {
   @apply p-0 m-0 !important;
@@ -94,12 +97,12 @@ export default {
 }
 .prose .slideshow .swiper-button-prev,
 .prose .slideshow .swiper-button-next {
-  @apply h-full p-0 m-0 top-0 px-6 from-gray-100 z-10 text-blue-700 opacity-100 font-bold !important;
+  @apply h-full p-0 m-0 top-0 px-10 from-gray-100 via-gray-100 z-10 text-blue-700 opacity-100 font-bold !important;
 }
 .prose .slideshow .swiper-button-prev {
-  @apply -ml-3 bg-gradient-to-r !important;
+  @apply -ml-3 pl-5 bg-gradient-to-r !important;
 }
 .prose .slideshow .swiper-button-next {
-  @apply -mr-3 bg-gradient-to-l !important;
+  @apply -mr-3 pr-5 bg-gradient-to-l !important;
 }
 </style>

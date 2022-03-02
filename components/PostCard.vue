@@ -11,7 +11,7 @@
         :alt="title"
       />
     </div>
-    <div style="max-height: 200px" class="p-2 pb-8 overflow-hidden">
+    <div class="p-2 pb-8 overflow-hidden !max-h-[50vw] sm:!max-h-[200px]">
       <h3
         class="font-medium tracking-tight group-hover:underline pb-2 text-gray-800"
         v-html="title"
