@@ -4,6 +4,7 @@ title: Rolf Emmerich
 description: Kulturmanager, Festivalleiter Sommerblut - Festival der Multipolarkultur
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Rolf Emmerich](/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg "Rolf Emmerich") **Rolf Emmerich** _(Kulturmanager, Festivalleiter Sommerblut)_

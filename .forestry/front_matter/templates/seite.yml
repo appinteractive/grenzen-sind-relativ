@@ -31,6 +31,12 @@ fields:
     required: false
   label: Alias
   description: Alte URL (optional)
+- name: accessible
+  type: text
+  config:
+    required: false
+  label: Leichte Sprache
+  description: (optional)
 pages:
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md

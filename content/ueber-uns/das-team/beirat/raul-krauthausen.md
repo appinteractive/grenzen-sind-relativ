@@ -4,6 +4,7 @@ title: Raul Krauthausen
 description: Aktivist, Speaker, Moderator, Berater, Autor
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Raul Krauthausen](/media/2014/07/15019310509_7813e888fe_n.jpg "Raul Krauthausen") **Raul Krauthausen** _(Aktivist, Speaker, Moderator, Berater, Autor)_

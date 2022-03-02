@@ -6,6 +6,7 @@ description: Im Geiste unseres Mottos „Grenzen sind relativ“ bringen wir ver
   Performance, Video-Kunst, Kunstausstellung, interaktive Erlebniswelten, Network-Area
   und DJs finden hier eine gemeinsame Spielwiese.
 teaser: "/media/2020/09/gsr-festival-beitragsbild.jpg"
+accessible: "/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals"
 
 ---
 # Grenzen sind relativ Festivals

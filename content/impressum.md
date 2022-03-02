@@ -2,6 +2,7 @@
 title: Impressum
 description: 
 alias: "/impressum.html"
+accessible: false
 
 ---
 # Impressum

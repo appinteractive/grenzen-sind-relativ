@@ -1,6 +1,7 @@
 ---
 title: Fotogalerien
 description: Fotogalerien unserer Feranstaltungen
+accessible: false
 
 ---
 # Fotogalerien

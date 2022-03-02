@@ -5,6 +5,7 @@ description: ''
 gallery: []
 alias: ''
 wide: false
+accessible: false
 
 ---
 # Identität & Positionierung:

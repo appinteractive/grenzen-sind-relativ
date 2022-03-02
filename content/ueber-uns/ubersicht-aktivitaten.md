@@ -5,6 +5,7 @@ teaser: ''
 gallery: []
 alias: ''
 wide: false
+accessible: false
 
 ---
 # Übersicht Aktivitäten:

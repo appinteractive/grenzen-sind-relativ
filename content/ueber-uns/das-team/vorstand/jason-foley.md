@@ -4,6 +4,7 @@ title: Jason Foley
 description: Schriftführer, Musiker, Dipl. Pädagoge und Berufsschullehrer
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Jason Foley](/media/2014/07/Jason-Foley.jpg "Jason Foley") **Schriftführer: Jason Foley** _(Musiker, Dipl. Pädagoge und Berufsschullehrer für Deutsch und Sozialpädagogik)_

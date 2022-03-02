@@ -4,6 +4,7 @@ title: Andreas 'Rudi' Dutschke
 description: Autor & Redakteur
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Andreas 'Rudi' Dutschke](/media/2021/05/rudi-duttschke-002.jpg "Andreas 'Rudi' Dutschke") **Filmproduktion (Autor & Redakteur): Andreas "Rudi" Dutschke:**

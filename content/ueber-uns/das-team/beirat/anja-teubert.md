@@ -5,6 +5,7 @@ description: 'Mensch, Frau, Mutter, Professorin, Freundin, Studiengangsleiterin 
   Arbeit '
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Anja Teubert](/media/2014/07/Portraitfoto-Teubert.jpg "Anja Teubert") **Anja Teubert** _(Mensch, Frau, Mutter, Prof, Freundin, Mitglied im wissenschaftlichen Beirat eines Bundesmodellprojekts zur Prävention von sexualisierter Gewalt gegen Kinder mit Beeinträchtigung (BeSt) und Studiengangsleiterin der Studienrichtung Soziale Arbeit mit Menschen mit Behinderung (blöde alte Bezeichnung…wir arbeiten daran, diese zu ändern…ist nicht so einfach))_

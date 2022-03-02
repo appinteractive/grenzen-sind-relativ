@@ -4,6 +4,7 @@ title: Barbara Wetzer
 description: Booking, Veranstaltungsmanagement und Netzwerkarbeit
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Barbara Wetzer](/media/2020/06/Barb-Bwerbfoto1.jpg "Barbara Wetzer") **Booking, Veranstaltungsmanagement und Netzwerkarbeit: Barbara Wetzer**

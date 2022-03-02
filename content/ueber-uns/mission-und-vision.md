@@ -4,6 +4,7 @@ description: Zu Zeiten der individuellen und gesellschaftlichen Spaltung brauche
   wir Inklusion statt Separation, Kooperation statt Konkurrenz und gelebten Frieden
   für alle Menschen auf diesem Planeten. Letztlich geht  es um unser Bewusstsein.
 alias: "/ueber-uns/herleitung.html"
+accessible: false
 
 ---
 # Eine neue Beziehungskultur

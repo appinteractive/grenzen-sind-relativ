@@ -8,6 +8,7 @@ description: Hier können die TeilnehmerInnen ERFAHREN, was Inklusion beinhalten
   und das Gemeinschaftsgefühl zu stärken.
 teaser: "/media/2020/09/aktionstage-inklusion-beitragsbild.jpg"
 alias: "/aktionstage-inklusion/allgemeine-informationen-aktionstage.html"
+accessible: false
 
 ---
 # Aktionstage Inklusion / Frieden / Kultur

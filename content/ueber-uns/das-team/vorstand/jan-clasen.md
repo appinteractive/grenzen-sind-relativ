@@ -4,6 +4,7 @@ title: Jan Clasen
 description: '2. Vorsitzender, Projektleiter, Produzent, Kulturmanager und Veranstalter '
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Jan Clasen](/media/2014/07/IMG_2279.jpeg "Jan Clasen")

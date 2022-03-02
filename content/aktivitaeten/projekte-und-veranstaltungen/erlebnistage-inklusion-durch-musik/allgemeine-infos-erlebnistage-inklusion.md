@@ -8,6 +8,7 @@ teaser: "/media/2020/10/danke-schreiben-schule.jpg"
 gallery: []
 alias: ''
 wide: false
+accessible: false
 
 ---
 # CELEBRATE THE MUSIC

@@ -4,6 +4,7 @@ title: Markus Riemann
 description: 1. Vorsitzender, Kulturmanager, Moderator und Klubbetreiber
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Markus Riemann](/media/2016/07/markus-riemann-foto.1024x1024.jpg "Markus Riemann") **1. Vorsitzender: Markus Riemann** _(Kulturwissenschaftler, Kulturmanager, Moderator, Musiker, Klubbetreiber)_

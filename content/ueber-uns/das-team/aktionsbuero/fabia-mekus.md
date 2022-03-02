@@ -3,6 +3,7 @@ teaser: '/media/2021/06/fabia-mekus.jpg'
 title: 'Fabia Mekus'
 description: 'Kulturmanagement, Projekt- & Produktionsleitung und Fundraising'
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 

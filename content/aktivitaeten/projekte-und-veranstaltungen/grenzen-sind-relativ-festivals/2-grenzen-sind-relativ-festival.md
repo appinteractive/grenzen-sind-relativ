@@ -2,6 +2,7 @@
 title: 2. Grenzen sind relativ Festival 2018
 description: "Es ist ein wunderbares „2. Grenzen sind relativ Festival“ mit vielen open minded Menschen und good vibes in der „Fabrik Hamburg Altona“ gewesen!"
 teaser: "/media/2018/09/FB_Header_GSR_Final.jpg"
+accessible: "/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals"
 
 ---
 # 2. Grenzen sind relativ Festival

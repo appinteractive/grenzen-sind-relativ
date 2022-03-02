@@ -1,6 +1,7 @@
 ---
 title: 1. Grenzen sind relativ Festival 2017
 description: Grenzen sind relativ Festival am 23.09.2017 in der Fabrik Hamburg Altona
+accessible: "/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals"
 
 ---
 # 1. Grenzen sind relativ Festival

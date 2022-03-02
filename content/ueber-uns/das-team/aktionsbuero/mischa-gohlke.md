@@ -4,6 +4,7 @@ title: Mischa Gohlke
 description: 'Initiator, Leitung, Kultur- & Medienmanagement und strategische Konzeptentwicklung '
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Mischa Gohlke](/media/2020/06/mischa-profil.jpg "Mischa Gohlke") **Initiator, Leitung, Kultur- & Medienmanagement und strategische Konzeptentwicklung: Mischa Gohlke**

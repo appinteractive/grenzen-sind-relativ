@@ -14,6 +14,7 @@ gallery:
 - "/media/2020/09/mhg_kn_2011_11_10.jpg"
 - "/media/2020/09/anderssein-vereint_life-insight_06-0715_02.jpg"
 - "/media/2020/09/anderssein-vereint_life-insight_06-0715_01.jpg"
+accessible: false
 
 ---
 # Print & Online

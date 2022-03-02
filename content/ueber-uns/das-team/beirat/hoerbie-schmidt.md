@@ -5,6 +5,7 @@ description: Musikschulleiter, Musiker, Dozent, Diplom-Sozialpädagoge
 wide: false
 gallery: []
 alias: ''
+accessible: /ueber-uns/das-team/alle
 
 ---
 

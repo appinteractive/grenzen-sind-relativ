@@ -1,6 +1,7 @@
 ---
 title: Media Channel
 description: 
+accessible: false
 ---
 
 

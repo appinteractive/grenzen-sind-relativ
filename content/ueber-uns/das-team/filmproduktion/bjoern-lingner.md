@@ -5,6 +5,7 @@ description: Regie
 wide: false
 gallery: []
 alias: ''
+accessible: /ueber-uns/das-team/alle
 
 ---
 

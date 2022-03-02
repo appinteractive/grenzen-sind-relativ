@@ -5,6 +5,7 @@ description: Coach, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlich
   Mensch
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Inés Zahmoul](/media/2019/04/Ines-Zahmoul-Foto.jpeg "Inés Zahmoul") **Inés Zahmoul** _(Coach, Trainer, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher Mensch)_

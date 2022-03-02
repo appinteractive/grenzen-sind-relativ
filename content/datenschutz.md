@@ -1,6 +1,7 @@
 ---
 title: Datenschutz
 description: Datenschutz
+accessible: false
 
 ---
 # Datenschutz

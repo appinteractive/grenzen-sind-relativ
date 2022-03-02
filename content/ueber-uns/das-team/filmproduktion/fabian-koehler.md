@@ -4,6 +4,7 @@ title: Fabian Köhler
 description: Regie, Kamera & Postproduktion
 alias: ''
 wide: false
+accessible: /ueber-uns/das-team/alle
 
 ---
 ![Fabian Köhler](/media/2021/05/foto-fabian-kohler.jpeg "Fabian Köhler")
