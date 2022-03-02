@@ -9,14 +9,19 @@
         <TopNavLink
           :to="getNearestURL(level2)"
           :level="2"
-          style="/* min-width: 20rem */"
-          class="p-4 font-normal text-gray-700 flex flex-col rounded-l level2 lg:min-w-20"
+          class="
+            p-4
+            font-normal
+            text-gray-700
+            flex flex-col
+            rounded-l
+            level2
+            lg:min-w-20
+          "
           :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
           @mouseenter.native="setLevel2($event, index2)"
         >
-          <span class="group-hover:underline">{{
-            level2.title
-          }}</span>
+          <span class="group-hover:underline">{{ level2.title }}</span>
           <!-- <p v-if="level2.description" class="text-xs text-gray-700">
             {{ level2.description }}
           </p> -->
@@ -27,13 +32,12 @@
       <ul
         v-for="(level2, index2) in navigation.children"
         :key="level2.title"
-        :class="currentIndex2 !== index2 && 'overflow-hidden h-0'"
+        :ref="`l-${index2}`"
+        :class="currentIndex2 !== index2 && 'opacity-0 absolute pointer-events-none'"
+        :style="h ? `height: ${h}px` : ''"
+        :aria-hidden="currentIndex2 !== index2"
       >
-        <li
-          class="group"
-          v-for="level3 in level2.children"
-          :key="level3.title"
-        >
+        <li class="group" v-for="level3 in level2.children" :key="level3.title">
           <TopNavLink
             :to="getNearestURL(level3)"
             :level="3"
@@ -43,7 +47,10 @@
             <strong class="font-semibold group-hover:underline">{{
               level3.title
             }}</strong>
-            <p v-if="level3.description" class="text-xs text-gray-700 font-normal pt-1">
+            <p
+              v-if="level3.description"
+              class="text-xs text-gray-700 font-normal pt-1"
+            >
               {{ level3.description }}
             </p>
           </TopNavLink>
@@ -62,12 +69,24 @@ export default {
   },
   data: () => ({
     currentIndex2: 0,
+    h: 0,
   }),
+  mounted() {
+    // get min height for level 2 > 3 menu items
+    let max = 0;
+    Object.keys(this.$refs).forEach((key) => {
+      const h = this.$refs[key][0].offsetHeight;
+      if (h > max) {
+        max = h;
+      }
+    })
+    this.h = max;
+  },
   methods: {
     setLevel2(event, index2) {
       this.currentIndex2 = index2
     },
-    getNearestURL: helpers.getNearestURL
+    getNearestURL: helpers.getNearestURL,
   },
 }
 </script>
@@ -77,4 +96,3 @@ export default {
   @apply text-gray-800 font-semibold;
 }
 </style>
-
