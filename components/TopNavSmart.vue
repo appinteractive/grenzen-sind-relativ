@@ -231,8 +231,12 @@ export default {
     },
   },
   mounted() {
+    let lastW = window.innerWidth
     this.listener = window.addEventListener('resize', () => {
-      this.isOpen = false
+      if (window.innerWidth !== lastW) {
+        lastW = window.innerWidth
+        this.isOpen = false
+      }
     })
   },
   beforeDestroy() {
