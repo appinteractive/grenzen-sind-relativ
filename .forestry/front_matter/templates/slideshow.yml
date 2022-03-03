@@ -36,10 +36,11 @@ fields:
       options: []
       source:
         type: pages
-        section: inahlt
-        file: 
-        path: 
+        section: seiten
+        file:
+        path:
     label: Seite
+    description: Link zur gewünschten Seite
   - name: title
     type: text
     config:
@@ -56,8 +57,8 @@ fields:
       maxSize: 64
     label: Bild
   config:
-    min: 
-    max: 
+    min:
+    max:
     labelField: title
   label: Slides
 pages:
