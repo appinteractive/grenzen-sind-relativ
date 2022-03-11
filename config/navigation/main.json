@@ -283,6 +283,10 @@
           "showInMainNavigation": true,
           "description": "Wir bringen verschiedenste Akteure zusammen und setzen uns für eine inklusive, integrale und friedliche Gesellschaft ein.",
           "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md"
+        },
+        {
+          "title": "GSR Media Channel",
+          "disabled": true
         }
       ],
       "showInMainNavigation": true
@@ -475,11 +479,6 @@
     {
       "title": "Spenden",
       "page": "content/spenden.md"
-    },
-    {
-      "title": "Media Channel",
-      "page": "content/media/media-channel.md",
-      "disabled": true
     }
   ]
 }
