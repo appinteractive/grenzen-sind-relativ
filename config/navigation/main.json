@@ -1,187 +1,6 @@
 {
   "menu": [
     {
-      "title": "Über uns",
-      "children": [
-        {
-          "title": "Mission & Vision",
-          "page": "content/ueber-uns/mission-und-vision.md"
-        },
-        {
-          "title": "Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden",
-          "page": "content/ueber-uns/info.md"
-        },
-        {
-          "title": "Übersicht Aktivitäten",
-          "page": "content/ueber-uns/ubersicht-aktivitaten.md",
-          "disabled": true
-        },
-        {
-          "title": "Das Team",
-          "page": "content/ueber-uns/das-team/alle.md",
-          "children": [
-            {
-              "title": "Aktionsbüro",
-              "children": [
-                {
-                  "title": "Mischa Gohlke",
-                  "page": "content/ueber-uns/das-team/aktionsbuero/mischa-gohlke.md"
-                },
-                {
-                  "title": "Fabia Mekus",
-                  "page": "content/ueber-uns/das-team/aktionsbuero/fabia-mekus.md"
-                },
-                {
-                  "title": "Grzegorz Leoniec",
-                  "page": "content/ueber-uns/das-team/aktionsbuero/grzegorz-leoniec.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Thorsten Hesse",
-                  "page": "content/ueber-uns/das-team/aktionsbuero/thorsten-hesse.md",
-                  "disabled": true
-                }
-              ]
-            },
-            {
-              "title": "Filmproduktion",
-              "children": [
-                {
-                  "title": "Fabian Köhler",
-                  "page": "content/ueber-uns/das-team/filmproduktion/fabian-koehler.md"
-                },
-                {
-                  "title": "Andreas 'Rudi' Dutschke",
-                  "page": "content/ueber-uns/das-team/filmproduktion/andreas-rudi-dutschke.md"
-                },
-                {
-                  "title": "Björn Lingner",
-                  "page": "content/ueber-uns/das-team/filmproduktion/bjoern-lingner.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Hervé Dieu",
-                  "page": "content/ueber-uns/das-team/filmproduktion/herve-dieu.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Jannis Raasch",
-                  "page": "content/ueber-uns/das-team/filmproduktion/jannis-raasch.md",
-                  "disabled": true
-                }
-              ]
-            },
-            {
-              "title": "Vorstand",
-              "children": [
-                {
-                  "title": "Markus Riemann",
-                  "page": "content/ueber-uns/das-team/vorstand/markus-riemann.md"
-                },
-                {
-                  "title": "Jan Clasen",
-                  "page": "content/ueber-uns/das-team/vorstand/jan-clasen.md"
-                },
-                {
-                  "title": "Jason Foley",
-                  "page": "content/ueber-uns/das-team/vorstand/jason-foley.md"
-                }
-              ]
-            },
-            {
-              "title": "Beirat",
-              "children": [
-                {
-                  "title": "Raul Krauthausen",
-                  "page": "content/ueber-uns/das-team/beirat/raul-krauthausen.md"
-                },
-                {
-                  "title": "Rolf Emmerich",
-                  "page": "content/ueber-uns/das-team/beirat/rolf-emmerich.md"
-                },
-                {
-                  "title": "Inés Zahmoul",
-                  "page": "content/ueber-uns/das-team/beirat/ines-zahmoul.md"
-                },
-                {
-                  "title": "Anja Teubert",
-                  "page": "content/ueber-uns/das-team/beirat/anja-teubert.md"
-                },
-                {
-                  "title": "Hörbie Schmidt",
-                  "page": "content/ueber-uns/das-team/beirat/hoerbie-schmidt.md",
-                  "disabled": true
-                }
-              ]
-            },
-            {
-              "title": "Streetteam",
-              "children": [
-                {
-                  "title": "Barbara Wetzer",
-                  "page": "content/ueber-uns/das-team/streetteam/barbara-wetzer.md"
-                }
-              ],
-              "disabled": true
-            }
-          ]
-        },
-        {
-          "title": "Audiovisuelle Impressionen & Medienberichte",
-          "page": null,
-          "children": [
-            {
-              "title": "Videos",
-              "page": "content/media/videos.md"
-            },
-            {
-              "title": "Fotogalerien",
-              "page": "content/media/fotogalerien.md"
-            },
-            {
-              "title": "Pressespiegel",
-              "children": [
-
-              ],
-              "page": "content/media/pressespiegel-kompakt.md"
-            },
-            {
-              "title": "Blog",
-              "children": [
-                {
-                  "title": "Grenzen sind relativ – Musik, Hören und Inklusion ",
-                  "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md"
-                },
-                {
-                  "title": "Auf in eine neue Beziehungskultur!",
-                  "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Zitate",
-          "page": "content/ueber-uns/zitate.md"
-        },
-        {
-          "title": "Kontakt",
-          "page": "content/kontakt.md"
-        },
-        {
-          "title": "Identität & Positionierung",
-          "page": "content/ueber-uns/identitat-positionierung.md",
-          "disabled": true
-        },
-        {
-          "title": "Manifest ",
-          "page": "content/ueber-uns/manifest.md",
-          "disabled": true
-        }
-      ],
-      "showInMainNavigation": true
-    },
-    {
       "title": "Aktivitäten",
       "children": [
         {
@@ -279,7 +98,7 @@
                   "disabled": true
                 },
                 {
-                  "title": "Filmproduktionen “Kultur von allen”",
+                  "title": "Filmreihe #diskurskultur ",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md",
                   "disabled": true
                 }
@@ -469,17 +288,198 @@
       "showInMainNavigation": true
     },
     {
-      "title": "Media Channel",
-      "page": "content/media/media-channel.md",
-      "disabled": true
-    },
-    {
       "title": "Mitmachen",
       "page": "content/mitmachen.md"
     },
     {
+      "title": "Über uns",
+      "children": [
+        {
+          "title": "Mission & Vision",
+          "page": "content/ueber-uns/mission-und-vision.md"
+        },
+        {
+          "title": "Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden",
+          "page": "content/ueber-uns/info.md"
+        },
+        {
+          "title": "Übersicht Aktivitäten",
+          "page": "content/ueber-uns/ubersicht-aktivitaten.md",
+          "disabled": true
+        },
+        {
+          "title": "Das Team",
+          "page": "content/ueber-uns/das-team/alle.md",
+          "children": [
+            {
+              "title": "Aktionsbüro",
+              "children": [
+                {
+                  "title": "Mischa Gohlke",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/mischa-gohlke.md"
+                },
+                {
+                  "title": "Fabia Mekus",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/fabia-mekus.md"
+                },
+                {
+                  "title": "Grzegorz Leoniec",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/grzegorz-leoniec.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Thorsten Hesse",
+                  "page": "content/ueber-uns/das-team/aktionsbuero/thorsten-hesse.md",
+                  "disabled": true
+                }
+              ]
+            },
+            {
+              "title": "Filmproduktion",
+              "children": [
+                {
+                  "title": "Fabian Köhler",
+                  "page": "content/ueber-uns/das-team/filmproduktion/fabian-koehler.md"
+                },
+                {
+                  "title": "Andreas 'Rudi' Dutschke",
+                  "page": "content/ueber-uns/das-team/filmproduktion/andreas-rudi-dutschke.md"
+                },
+                {
+                  "title": "Björn Lingner",
+                  "page": "content/ueber-uns/das-team/filmproduktion/bjoern-lingner.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Hervé Dieu",
+                  "page": "content/ueber-uns/das-team/filmproduktion/herve-dieu.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Jannis Raasch",
+                  "page": "content/ueber-uns/das-team/filmproduktion/jannis-raasch.md",
+                  "disabled": true
+                }
+              ]
+            },
+            {
+              "title": "Vorstand",
+              "children": [
+                {
+                  "title": "Markus Riemann",
+                  "page": "content/ueber-uns/das-team/vorstand/markus-riemann.md"
+                },
+                {
+                  "title": "Jan Clasen",
+                  "page": "content/ueber-uns/das-team/vorstand/jan-clasen.md"
+                },
+                {
+                  "title": "Jason Foley",
+                  "page": "content/ueber-uns/das-team/vorstand/jason-foley.md"
+                }
+              ]
+            },
+            {
+              "title": "Beirat",
+              "children": [
+                {
+                  "title": "Raul Krauthausen",
+                  "page": "content/ueber-uns/das-team/beirat/raul-krauthausen.md"
+                },
+                {
+                  "title": "Rolf Emmerich",
+                  "page": "content/ueber-uns/das-team/beirat/rolf-emmerich.md"
+                },
+                {
+                  "title": "Inés Zahmoul",
+                  "page": "content/ueber-uns/das-team/beirat/ines-zahmoul.md"
+                },
+                {
+                  "title": "Anja Teubert",
+                  "page": "content/ueber-uns/das-team/beirat/anja-teubert.md"
+                },
+                {
+                  "title": "Hörbie Schmidt",
+                  "page": "content/ueber-uns/das-team/beirat/hoerbie-schmidt.md",
+                  "disabled": true
+                }
+              ]
+            },
+            {
+              "title": "Streetteam",
+              "children": [
+                {
+                  "title": "Barbara Wetzer",
+                  "page": "content/ueber-uns/das-team/streetteam/barbara-wetzer.md"
+                }
+              ],
+              "disabled": true
+            }
+          ]
+        },
+        {
+          "title": "Audiovisuelle Impressionen & Medienberichte",
+          "page": null,
+          "children": [
+            {
+              "title": "Videos",
+              "page": "content/media/videos.md"
+            },
+            {
+              "title": "Fotogalerien",
+              "page": "content/media/fotogalerien.md"
+            },
+            {
+              "title": "Pressespiegel",
+              "children": [
+
+              ],
+              "page": "content/media/pressespiegel-kompakt.md"
+            },
+            {
+              "title": "Blog",
+              "children": [
+                {
+                  "title": "Grenzen sind relativ – Musik, Hören und Inklusion ",
+                  "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md"
+                },
+                {
+                  "title": "Auf in eine neue Beziehungskultur!",
+                  "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Zitate",
+          "page": "content/ueber-uns/zitate.md"
+        },
+        {
+          "title": "Kontakt",
+          "page": "content/kontakt.md"
+        },
+        {
+          "title": "Identität & Positionierung",
+          "page": "content/ueber-uns/identitat-positionierung.md",
+          "disabled": true
+        },
+        {
+          "title": "Manifest ",
+          "page": "content/ueber-uns/manifest.md",
+          "disabled": true
+        }
+      ],
+      "showInMainNavigation": true
+    },
+    {
       "title": "Spenden",
       "page": "content/spenden.md"
+    },
+    {
+      "title": "Media Channel",
+      "page": "content/media/media-channel.md",
+      "disabled": true
     }
   ]
 }

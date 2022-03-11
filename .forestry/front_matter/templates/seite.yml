@@ -36,7 +36,7 @@ fields:
   config:
     required: false
   label: Leichte Sprache
-  description: (optional)
+  description: "(optional)"
 pages:
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md
