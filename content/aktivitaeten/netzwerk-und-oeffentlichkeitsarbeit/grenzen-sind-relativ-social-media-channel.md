@@ -5,11 +5,12 @@ description: ''
 wide: false
 gallery: []
 alias: ''
+accessible: ''
 
 ---
 # Grenzen sind relativ - Social Media Channel
 
-Im November 2021 werden wir mit unserem neuen "Grenzen sind relativ - Social Media Channel" starten.
+Im März 2022 werden wir mit unserem neuen "Grenzen sind relativ - Social Media Channel" starten.
 
 Diesbezüglich werden wir umfangreichen interdisziplinären Content (Filme, Fotos, Designs & Texte) produzieren und über unsere Kanäle (facebook, twitter, instagram, youtube, Webseiten, usw.) weitreichend verbreiten.
 
