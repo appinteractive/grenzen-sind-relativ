@@ -20,4 +20,5 @@ fields:
     labelField: title
   label: Videos
 pages:
+- config/video-galleries/media-diskurskultur.json
 - config/video-galleries/startseite-video-galerie.json
