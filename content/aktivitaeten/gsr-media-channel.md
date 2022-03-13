@@ -12,19 +12,19 @@ accessible: ''
 
 Willkommen auf unserer neuen interdisziplinären Medien-Plattform! Wir wollen Brücken bauen und verschiedenste theoretische & praktische Themenbereiche – die zumeist separat betrachtet werden – mehr zusammenbringen. So let´s start!
 
-## #diskurskultur
+### #diskurskultur
 
 Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein) ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.
 
 <video-gallery name="media-diskurskultur"></video-galerie>
 
-## Audiovisuelle Impressionen & Medienberichte "Grenzen sind relativ e.V."
+### Audiovisuelle Impressionen & Medienberichte "Grenzen sind relativ e.V."
 
 TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein vereint - Inklusionssong für Deutschland", etc.
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
 
-## Selbstverständnis 
+### Selbstverständnis
 
 Ziel ist es, die digitalen Möglichkeiten der Kulturkommunikation und Kulturvermittlung zu nutzen, um:
 
