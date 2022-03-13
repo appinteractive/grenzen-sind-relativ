@@ -24,7 +24,7 @@ TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein 
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
 
-## Selbstverständnis - GSR Media Channel
+## Selbstverständnis 
 
 Ziel ist es, die digitalen Möglichkeiten der Kulturkommunikation und Kulturvermittlung zu nutzen, um:
 
