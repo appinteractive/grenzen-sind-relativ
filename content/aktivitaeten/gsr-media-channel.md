@@ -1,7 +1,7 @@
 ---
 teaser: ''
 title: GSR Media Channel
-description: ''
+description: Die neue interdisziplinäre Medien-Plattform
 wide: false
 gallery: []
 alias: ''
