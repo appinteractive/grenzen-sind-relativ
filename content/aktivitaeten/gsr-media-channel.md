@@ -18,7 +18,7 @@ Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der ges
 
 <video-gallery name="media-diskurskultur"></video-galerie>
 
-## Audiovisuelle Impressionen & Medienberichte Grenzen sind relativ e.V.
+## Audiovisuelle Impressionen & Medienberichte "Grenzen sind relativ e.V."
 
 TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein vereint - Inklusionssong für Deutschland", etc.
 
