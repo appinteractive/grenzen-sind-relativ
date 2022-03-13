@@ -15,4 +15,6 @@ Im Rahmen des Projektes "Interdisziplinäre Kulturarbeit im Kontext der gesamtge
 
 TV-Berichte, Aftermovies Grenzen sind relativ Festival, Musikvideo "AndersSein vereint - Inklusionssong für Deutschland", etc.
 
+<video-gallery name="startseite-video-galerie"></video-galerie>
+
 ## Mischa´s Blog
