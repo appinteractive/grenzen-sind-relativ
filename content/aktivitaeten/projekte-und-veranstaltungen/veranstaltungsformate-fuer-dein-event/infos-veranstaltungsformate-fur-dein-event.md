@@ -14,7 +14,7 @@ accessible: ''
 ---
 # Mach Deine Veranstaltung mit uns!
 
-Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein, Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine stellen? Diesbezüglich haben wir einige Muster-Veranstaltungsformate - von klein bis groß - entwickelt, die umgesetzt werden wollen:
+Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein, Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine stellen? Diesbezüglich haben wir einige Muster-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen umsetzen: 
 
 1. [Support Inklusion - Support mal anders!](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion)
 2. [Spektralkombüse von/mit Kassandra Wedel (Tanz), Martin Fromme (Kabarett) und der Mischa Gohlke Band (Musik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
