@@ -286,7 +286,8 @@
         },
         {
           "title": "GSR Media Channel",
-          "disabled": true
+          "disabled": false,
+          "page": "content/aktivitaeten/gsr-media-channel.md"
         }
       ],
       "showInMainNavigation": true
