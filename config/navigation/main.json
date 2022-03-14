@@ -289,7 +289,10 @@
         {
           "title": "GSR Media Channel",
           "disabled": false,
-          "page": "content/aktivitaeten/gsr-media-channel.md"
+          "page": "content/aktivitaeten/gsr-media-channel.md",
+          "children": [
+
+          ]
         }
       ],
       "showInMainNavigation": true
