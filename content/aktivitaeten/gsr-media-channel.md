@@ -10,7 +10,7 @@ accessible: ''
 ---
 # GSR Media Channel
 
-Willkommen auf unserer neuen interdisziplinären Medien-Plattform! Wir wollen Brücken bauen und verschiedenste theoretische & praktische Themenbereiche – die zumeist separat betrachtet werden – mehr zusammenbringen. So let´s start!
+Willkommen auf unserer neuen interdisziplinären Medien-Plattform! 
 
 ### #diskurskultur
 
