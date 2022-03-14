@@ -47,17 +47,31 @@ export default {
         content: settings.keywords,
       },
       {
-        hid: 'msapplication-TileImage',
-        name: 'msapplication-TileImage',
-        content: '/ms-icon-144x144.png',
+        hid: 'apple-mobile-web-app-title',
+        name: 'apple-mobile-web-app-title',
+        content: 'Grenzen sind Relativ e.V.',
+      },
+      {
+        hid: 'application-name',
+        name: 'application-name',
+        content: 'Grenzen sind Relativ e.V.',
+      },
+      {
+        hid: 'msapplication-TileColor',
+        name: 'msapplication-TileColor',
+        content: '#ffffff',
+      },
+      {
+        hid: 'theme-color',
+        name: 'theme-color',
+        content: '#ffffff',
       },
     ],
     link: [
       {
-        rel: 'icon',
-        type: 'image/png',
-        sizes: '96x96',
-        href: '/favicon-96x96.png',
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/apple-touch-icon.png',
       },
       {
         rel: 'icon',
@@ -71,11 +85,19 @@ export default {
         sizes: '16x16',
         href: '/favicon-16x16.png',
       },
+      {
+        rel: 'manifest',
+        href: '/site.webmanifest',
+      },
+      {
+        rel: 'mask-icon',
+        href: '/safari-pinned-tab.svg',
+        color: '#5bbad5',
+      },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500;1,600;1,700&family=Fira+Sans:wght@700;800;900&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500;1,600;1,700&family=Fira+Sans:wght@700;800;900&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap',
       },
     ],
   },
@@ -144,8 +166,8 @@ export default {
     },
     postcss: {
       plugins: {
-        'tailwindcss': {},
-        'autoprefixer': {},
+        tailwindcss: {},
+        autoprefixer: {},
       },
     },
     extend: (config) => {
