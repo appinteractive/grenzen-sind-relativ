@@ -41,5 +41,3 @@ Musik, Kunst, Kultur und Sprache sind wunderbare Transmitter, um sich komplexen 
 Wir wollen aus unseren Filterblasen rauskommen und können alle von- und miteinander lernen. Dazu können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
 Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der Dialektik - Inklusion statt Separation, Kooperation statt Konkurrenz und gelebten Frieden für alle Menschen auf diesem Planeten.
-
-## 
