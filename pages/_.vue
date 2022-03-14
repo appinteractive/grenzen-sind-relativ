@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto px-4 md:px-8 pt-6">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
-    <div class="relative flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
+    <div class="flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
       <article
         tabindex="-1"
         class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16 outline-none"

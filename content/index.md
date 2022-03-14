@@ -12,18 +12,14 @@ seite:
 
 ---
 
-<div class="md:text-center">
+<teaser>
 
-  # Grenzen sind relativ e.V.
+## Aktionsbüro für Kultur, Kunst & Kollaboration</h2>
 
-  ## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
+Mit Veranstaltungen, Musikvideos, Musikunterricht, Öffentlichkeitsarbeit & Bewusstseinsbildung vernetzen wir Menschen und setzen uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
-  Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein.
+</teaser>
 
-  > Hebt man den Blick, so sieht man keine Grenzen.
-  >> Aus Japan
-
-</div>
 
 <slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
