@@ -5,6 +5,6 @@ description: ''
 wide: false
 
 ---
-# Filmreihe #diskurskultur
+# #diskurskultur 
 
 ## Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur
