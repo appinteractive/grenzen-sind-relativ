@@ -66,7 +66,7 @@ export default {
   },
   computed: {
     src() {
-      return `https://www.youtube.com/embed/${this.id}?feature=oembed&autoplay=1&rel=0`
+      return `https://www.youtube-nocookie.com/embed/${this.id}?feature=oembed&autoplay=1&rel=0`
     },
     style() {
       const styles = [
