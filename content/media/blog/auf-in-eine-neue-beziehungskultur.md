@@ -1,8 +1,12 @@
 ---
 title: Auf in eine neue Beziehungskultur!
 description: ''
-alias: /2016/12/03/auf-in-eine-neue-beziehungskultur.html
-accessible: false
+alias: "/2016/12/03/auf-in-eine-neue-beziehungskultur.html"
+accessible: ''
+teaser: "/media/2020/09/0-prio-friedensbrucke.jpg"
+wide: false
+gallery: []
+
 ---
 # Auf in eine neue Beziehungskultur!
 
