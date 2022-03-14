@@ -2,64 +2,10 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
-      "title": "Grenzen sind relativ Festivals",
+      "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
+      "title": "“Grenzen sind relativ – Musik, Hören und Inklusion“ (von Mischa Gohlke)",
       "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md",
-      "title": "AndersSein vereint",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
-      "title": "Mach deine Veranstaltung mit uns!",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong.md",
-      "title": "Kampagne 2. Inklusions- & Friedenssong",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
-      "title": "Erlebnistage Inklusion durch Musik",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
-      "title": "Musikunterricht für Hörgeschädigte",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md",
-      "title": "Workshops, Seminare & Vorträge",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
-      "title": "Workshops, Talk & Konzert von/mit der Mischa Gohlke Band",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md",
-      "title": "Vermittlungsbörse",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
-      "title": "Kooperationsprojekte",
-      "subtitle": "",
-      "image": ""
+      "image": "/media/2020/09/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
     }
   ],
   "autoplay": false,
