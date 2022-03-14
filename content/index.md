@@ -27,4 +27,4 @@ seite:
 
 <slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
-<video-gallery name="startseite-video-galerie"></video-galerie>
+<video-gallery name="startseite-video-galerie"></video-gallery>
