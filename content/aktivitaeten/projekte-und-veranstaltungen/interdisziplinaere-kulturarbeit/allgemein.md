@@ -47,7 +47,11 @@ Im gemeinsamen Dialog setzen wir uns darüber hinaus unter anderem mit folgenden
 
    Was braucht Kunst und Kultur angesichts der aktuellen gesamtgesellschaftlichen Entwicklung von Kunst und Kultur? Welche zielführenden Strukturen, Konzepte und Formate können gemeinsam entwickelt werden? Wie wollen wir zusammenarbeiten, was wollen wir entwickeln?
 
-Um die Projektergebnisse öffentlich zugänglich zu machen, werden wir im Zeitraum Ende 2021 / Anfang 2022 eine FIlmreihe veröffentlichen, in der unterschiedliche Akteur*innen aus dem Projekt sowie weitere Expert*innen aus der Kulturlandschaft zu Wort kommen. Darüber hinaus wird ein Handout veröffentlicht, in dem unterschiedliche Artikel, Protokolle u.Ä. der Teilnehmenden Personen und Institutionen zusammengetragen werden. Themen des Handouts sind dabei bspw. Analysen derzeitiger Dynamiken in Kunst und Kultur sowie darauf aufbauende Visionen für die Kulturarbeit und neuartige Veranstaltungsformate.
+Um die Projektergebnisse öffentlich zugänglich zu machen, haben wir die 7teilige Filmreihe #diskurskultur veröffentlicht, in der unterschiedliche Akteur:innen aus dem Projekt sowie weitere Expert:innen aus der Kulturlandschaft zu Wort kommen.
+
+<video-gallery name="media-diskurskultur"></video-galerie>
+
+ Darüber hinaus wird ein Handout veröffentlicht, in dem unterschiedliche Artikel, Protokolle u.Ä. der Teilnehmenden Personen und Institutionen zusammengetragen werden. Themen des Handouts sind dabei bspw. Analysen derzeitiger Dynamiken in Kunst und Kultur sowie darauf aufbauende Visionen für die Kulturarbeit und neuartige Veranstaltungsformate.
 
 Bei Fragen wende dich gerne an produktion@grenzensindrelativ.de
 
