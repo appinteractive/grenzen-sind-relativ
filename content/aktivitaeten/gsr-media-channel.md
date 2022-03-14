@@ -24,6 +24,10 @@ TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein 
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
 
+### Blog
+
+<slideshow class="wide" name="media-blog"></slideshow>
+
 ### Selbstverständnis
 
 Ziel ist es, die digitalen Möglichkeiten der Kulturkommunikation und Kulturvermittlung zu nutzen, um:
