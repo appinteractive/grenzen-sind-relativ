@@ -1,59 +1,18 @@
 <template>
   <nav
-    class="
-      nav-main
-      md:flex md:flex-wrap
-      bg-white
-      border-primary-200
-      fixed
-      w-full
-      z-50
-    "
+    class="nav-main md:flex md:flex-wrap bg-white border-primary-200 fixed w-full z-50"
     role="navigation"
     aria-label="Hauptnavigation"
   >
     <div
-      class="
-        w-full
-        border-b border-primary-200
-        p-4
-        md:h-auto
-        overflow-y-scroll
-        md:overflow-y-visible
-      "
+      class="w-full border-b border-primary-200 p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
       :class="isOpen && 'h-screen'"
     >
       <div
-        class="
-          container
-          px-4
-          lg:px-8
-          mx-auto
-          flex flex-col
-          md:flex-row
-          items-center
-          relative
-          h-full
-        "
+        class="container px-4 lg:px-8 mx-auto flex flex-col md:flex-row items-center relative h-full"
       >
         <div
-          class="
-            flex
-            fixed
-            bg-white
-            z-10
-            top-0
-            left-0
-            px-4
-            py-4
-            md:p-0
-            border-b
-            md:border-0 md:static
-            w-full
-            md:w-auto
-            items-center
-            justify-center
-          "
+          class="flex fixed bg-white z-10 top-0 left-0 px-4 py-4 md:p-0 border-b md:border-0 md:static w-full md:w-auto items-center justify-center"
         >
           <nuxt-link
             to="/"
@@ -66,16 +25,7 @@
             />
           </nuxt-link>
           <social-icons
-            class="
-              absolute
-              md:hidden
-              right-0
-              flex
-              justify-end
-              items-center
-              p-4
-              text-gray-700
-            "
+            class="absolute md:hidden right-0 flex justify-end items-center p-4 text-gray-700"
             aria-hidden="true"
           />
           <button
@@ -103,67 +53,55 @@
           </button>
         </div>
         <ul
-          class="mt-12 md:mt-0 pt-1 pr-10 flex-grow justify-end items-center"
+          class="mt-12 md:mt-0 pt-1 !pr-8 flex-grow justify-end items-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
           aria-label="Seiten"
           role="menubar"
           :class="!isOpen ? 'sr-only md:not-sr-only flex' : 'pt-12 pb-24 px-8'"
         >
-          <li
-            class="relative"
-            v-for="(level1, index1) in navigation"
-            :key="level1.title"
-          >
-            <TopNavLink
-              :to="getNearestURL(level1)"
-              class="
-                level1
-                font-medium
-                tracking-wide
-                hover:text-primary-900
-                flex
-                py-2
-                md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0
-                relative
-              "
-              :class="activeMain === level1.title && 'font-bold'"
-              :level="1"
-              role="menuitem"
-              @mouseenter.native="setCurrentIndex(index1)"
-            >
-              {{ level1.title }}
-              <top-nav-arrow
-                v-if="index1 === currentIndex && hasLevel2(level1)"
-              />
-            </TopNavLink>
-            <ul
-              class="md:sr-only w-full pb-4 flex flex-col"
-              v-if="level1.children && level1.children.length > 0"
-            >
-              <li v-for="level2 in level1.children" :key="level2.title">
-                <TopNavLink
-                  :to="getNearestURL(level2)"
-                  :level="2"
-                  class="text-sm flex px-4 py-1"
-                >
-                  {{ level2.title }}
-                </TopNavLink>
-                <ul
-                  v-if="level2.children && level2.children.length > 0"
-                  class="px-6 pb-2"
-                >
-                  <li v-for="level3 in level2.children" :key="level3.title">
-                    <TopNavLink
-                      :to="getNearestURL(level3)"
-                      :level="3"
-                      class="text-sm text-primary-700 flex flex-col py-1"
-                    >
-                      <div class="flex">
-                        <arrow-right class="h-4 w-4 mr-1 flex-shrink-0" />
-                        {{ level3.title }}
-                      </div>
-                      <!-- <ul v-if="level3 && level3.children && level3.children.length > 0" class="px-6 pb-2">
+          <template v-for="(level1, index1) in navigation">
+            <li class="relative" v-if="!level1.button" :key="level1.title">
+              <TopNavLink
+                :to="getNearestURL(level1)"
+                class="level1 font-medium tracking-wide hover:text-primary-900 flex py-2 md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0 relative"
+                :class="activeMain === level1.title && 'font-bold'"
+                :level="1"
+                role="menuitem"
+                @mouseenter.native="setCurrentIndex(index1)"
+              >
+                {{ level1.title }}
+                <top-nav-arrow
+                  v-if="index1 === currentIndex && hasLevel2(level1)"
+                />
+              </TopNavLink>
+              <ul
+                class="md:sr-only w-full pb-4 flex flex-col"
+                v-if="level1.children && level1.children.length > 0"
+              >
+                <li v-for="level2 in level1.children" :key="level2.title">
+                  <TopNavLink
+                    :to="getNearestURL(level2)"
+                    :level="2"
+                    class="text-sm flex px-4 py-1"
+                  >
+                    {{ level2.title }}
+                  </TopNavLink>
+                  <ul
+                    v-if="level2.children && level2.children.length > 0"
+                    class="px-6 pb-2"
+                  >
+                    <li v-for="level3 in level2.children" :key="level3.title">
+                      <TopNavLink
+                        :to="getNearestURL(level3)"
+                        :level="3"
+                        class="text-sm text-primary-700 flex flex-col py-1"
+                      >
+                        <div class="flex">
+                          <arrow-right class="h-4 w-4 mr-1 flex-shrink-0" />
+                          {{ level3.title }}
+                        </div>
+                        <!-- <ul v-if="level3 && level3.children && level3.children.length > 0" class="px-6 pb-2">
                         <li v-for="level4 in level3.children" :key="level4.title">
                           <TopNavLink :to="getNearestURL(level4)" :level="4" class="text-sm text-primary-700 flex py-1">
                             <arrow-return class="h-2 w-2 mr-2 flex-shrink-0" />
@@ -171,32 +109,46 @@
                           </TopNavLink>
                         </li>
                       </ul> -->
-                    </TopNavLink>
-                  </li>
-                </ul>
-              </li>
-            </ul>
-            <transition name="fade-menu">
-              <div v-if="currentIndex === index1" aria-hidden="true">
-                <component
-                  :is="navComp(navigation[index1])"
-                  :navigation="navigation[index1]"
-                />
-              </div>
-            </transition>
-          </li>
+                      </TopNavLink>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+              <transition name="fade-menu">
+                <div v-if="currentIndex === index1" aria-hidden="true">
+                  <component
+                    :is="navComp(navigation[index1])"
+                    :navigation="navigation[index1]"
+                  />
+                </div>
+              </transition>
+            </li>
+          </template>
         </ul>
         <social-icons
-          class="
-            sr-only
-            lg:not-sr-only
-            flex
-            justify-end
-            items-center
-            w-32
-            text-gray-700
-          "
+          class="sr-only lg:not-sr-only flex justify-end items-center w-38 text-gray-700"
         />
+        <ul
+          class="!ml-8 justify-end items-center"
+          @mouseleave="closeDelayed"
+          mouseenter="clearDelay"
+          aria-label="Seiten"
+          role="menubar"
+          :class="!isOpen ? 'sr-only md:not-sr-only flex' : 'pt-12 pb-24 px-8'"
+        >
+          <template v-for="level1 in navigation">
+            <li class="relative" v-if="level1.button" :key="level1.title">
+              <NuxtLink
+                :to="getNearestURL(level1)"
+                class="level1 font-medium tracking-wide bg-blue-600 text-white !font-bold rounded flex px-4 py-2.5 relative"
+                :class="activeMain === level1.title && 'font-bold'"
+                role="menuitem"
+              >
+                {{ level1.title }}
+              </NuxtLink>
+            </li>
+          </template>
+        </ul>
       </div>
     </div>
   </nav>
