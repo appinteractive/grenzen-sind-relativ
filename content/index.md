@@ -14,9 +14,16 @@ seite:
 
 <div class="md:text-center">
 
-  # Grenzen sind relativ e.V.
 
+  <div class="hidden">
+  
+  # Grenzen sind relativ e.V.
   ## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
+  
+  </div>
+
+  <img src="/svg/GSR_Logo.svg" alt="Grenzen sind relativ e.V." class="h-32 mx-auto" />
+
 
   Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
