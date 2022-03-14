@@ -156,13 +156,13 @@ export default {
   @apply text-primary-700;
 }
 .prose h1 {
-  @apply font-bold text-4xl text-primary-700;
+  @apply text-4xl text-primary-700;
 }
 .prose h2 {
-  @apply font-serif italic font-bold text-primary-600;
+  @apply text-primary-600;
 }
 .prose h1 + h2 {
-  @apply -mt-2;
+  @apply -mt-6;
 }
 .prose h1 + .swiper-outer,
 .prose h2 + .swiper-outer,
@@ -180,7 +180,7 @@ export default {
 }
 
 .prose figure {
-  @apply mt-10 mb-2;
+  @apply mt-10 mb-2 rounded-lg overflow-hidden shadow;
 }
 
 @screen lg {

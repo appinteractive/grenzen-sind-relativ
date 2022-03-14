@@ -14,7 +14,7 @@ export default {
       },
       fontFamily: {
         sans: [
-          'Signika',
+          'Noto Sans',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',
@@ -66,6 +66,43 @@ export default {
       },
       spacing: {
         '16/9': '56.25%',
+      },
+      typography: {
+        DEFAULT: {
+          css: {
+            fontFamily: 'Noto Sans',
+            fontStyle: 'normal',
+            lineHeight: '1.4',
+            h1: {
+              fontFamily: 'Fira Sans',
+              fontWeight: '900',
+              fontStyle: 'normal',
+              lineHeight: '1.1',
+              letterSpacing: '0.025em',
+            },
+            h2: {
+              fontFamily: 'Fira Sans',
+              fontWeight: '700',
+              fontStyle: 'normal',
+              lineHeight: '1.1',
+              letterSpacing: '0.025em',
+            },
+            h3: {
+              fontFamily: 'Fira Sans',
+              fontWeight: '700',
+              fontStyle: 'normal',
+              lineHeight: '1.1',
+              letterSpacing: '0.025em',
+            },
+            h4: {
+              fontFamily: 'Fira Sans',
+              fontWeight: '700',
+              fontStyle: 'normal',
+              lineHeight: '1.1',
+              letterSpacing: '0.025em',
+            },
+          },
+        },
       },
     },
   },

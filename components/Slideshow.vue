@@ -77,7 +77,7 @@ export default {
   @apply lg:px-12 !important;
 }
 .prose .slideshow .swiper-slide {
-  @apply min-h-full bg-white border overflow-hidden !important;
+  @apply min-h-full bg-white shadow rounded-lg overflow-hidden !important;
 }
 .prose .slideshow .swiper-slide img {
   @apply p-0 m-0 !important;

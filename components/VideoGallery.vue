@@ -13,7 +13,7 @@
       <div
         v-for="(vid, i) of vids"
         :key="vid.videoId"
-        class="flex-1 relative pb-16/9 bg-black bg-center bg-cover cursor-pointer"
+        class="flex-1 relative pb-16/9 bg-black bg-center bg-cover cursor-pointer rounded overflow-hidden shadow-lg"
         :class="[
           current === i && 'opacity-100',
           current !== i && 'opacity-50 hover:opacity-100',

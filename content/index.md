@@ -11,9 +11,6 @@ seite:
 - template: slideshow
 
 ---
-![Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden](/media/2020/10/social-banner-2020-5.jpg)
-
----
 
 <div class="md:text-center">
 

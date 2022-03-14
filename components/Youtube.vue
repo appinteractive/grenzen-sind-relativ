@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative w-full pb-16/9 bg-black bg-center"
+    class="relative w-full pb-16/9 bg-black bg-center overflow-hidden rounded-lg shadow"
     :style="style"
     v-observe-visibility="!visible && visibilityChanged"
     aria-label="Video abspielen"
