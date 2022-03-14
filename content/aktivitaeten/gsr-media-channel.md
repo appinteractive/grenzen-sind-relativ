@@ -18,15 +18,19 @@ Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der ges
 
 <video-gallery name="media-diskurskultur"></video-galerie>
 
+### Blog
+
+<slideshow class="wide" name="media-blog"></slideshow>
+
 ### Audiovisuelle Impressionen  "Grenzen sind relativ e.V."
 
 TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein vereint - Inklusionssong für Deutschland", etc.
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
 
-### Blog
+### Aktivitäten "Grenzen sind relativ e.V."
 
-<slideshow class="wide" name="media-blog"></slideshow>
+<slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
 ### Selbstverständnis
 
