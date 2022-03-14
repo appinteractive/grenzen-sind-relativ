@@ -261,13 +261,15 @@
           "title": "Netzwerk- & Öffentlichkeitsarbeit",
           "children": [
             {
-              "title": "Netzwerk- & Öffentlichkeitsarbeit",
-              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md"
+              "title": "Öffentlichkeitsarbeit & Bewusstseinsbildung",
+              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md",
+              "description": "Interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Frieden, Dialog & Miteinander, integrales Bewusstsein"
             },
             {
               "title": "Grenzen sind relativ - Social Media Channel",
               "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel.md",
-              "description": "Die neue interdisziplinäre Media-Plattform startet im November 2021!"
+              "description": "Die neue interdisziplinäre Media-Plattform startet im März 2022!",
+              "disabled": true
             },
             {
               "title": "Vermittlungsbörse",
@@ -286,7 +288,8 @@
         },
         {
           "title": "GSR Media Channel",
-          "disabled": true
+          "disabled": false,
+          "page": "content/aktivitaeten/gsr-media-channel.md"
         }
       ],
       "showInMainNavigation": true

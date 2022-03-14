@@ -38,6 +38,7 @@ fields:
   label: Leichte Sprache
   description: "(optional)"
 pages:
+- content/aktivitaeten/gsr-media-channel.md
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md
 - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md
