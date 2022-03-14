@@ -93,13 +93,13 @@
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md"
                 },
                 {
-                  "title": "PDF Projektergebnisse & weitere VÖ",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/pdf-projektergebnisse-and-weitere-v-oe.md",
-                  "disabled": true
+                  "title": "#diskurskultur - die 7teilige Filmreihe",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md",
+                  "disabled": false
                 },
                 {
-                  "title": "Filmreihe #diskurskultur ",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md",
+                  "title": "PDF Projektergebnisse & weitere VÖ",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/pdf-projektergebnisse-and-weitere-v-oe.md",
                   "disabled": true
                 }
               ]
@@ -290,6 +290,7 @@
           "title": "GSR Media Channel",
           "disabled": false,
           "page": "content/aktivitaeten/gsr-media-channel.md",
+          "description": "Willkommen auf unserer neuen interdisziplinären Medien-Plattform!",
           "children": [
             {
               "title": "GSR Media Channel",

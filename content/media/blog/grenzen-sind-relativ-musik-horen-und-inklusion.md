@@ -1,11 +1,15 @@
 ---
 title: "“Grenzen sind relativ – Musik, Hören und Inklusion“ "
-description: ''
+description: 'Mit 15/16 habe ich den Blues-Rock Gitarristen Stevie Ray Vaughan gehört,
+  spürte sofort eine tiefe Verbindung zu seiner Musik und musste einfach anfangen,
+  Gitarre zu spielen. Dass ich offiziell von Geburt an Taubheit grenzend hörgeschädigt
+  bin, spielte dabei keine große Rolle. Musik hat in mir Leidenschaft, Begeisterung
+  und Liebe erweckt. '
 alias: "/2015/04/13/grenzen-sind-relativ-musik-und-hoeren.html"
-teaser: ''
+teaser: "/media/2020/09/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
 wide: false
 gallery: []
-accessible: false
+accessible: ''
 
 ---
 # “Grenzen sind relativ – Musik, Hören und Inklusion“ (von Mischa Gohlke)

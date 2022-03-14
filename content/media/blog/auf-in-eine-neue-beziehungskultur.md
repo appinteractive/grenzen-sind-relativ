@@ -1,8 +1,16 @@
 ---
 title: Auf in eine neue Beziehungskultur!
-description: ''
-alias: /2016/12/03/auf-in-eine-neue-beziehungskultur.html
-accessible: false
+description: 'Für viele Menschen ist Inklusion immer noch ein Fremdwort, mit dem sie
+  wenig anzufangen wissen. Zumeist wird Inklusion auf die „Integration“ von Menschen
+  mit Behinderung reduziert. Selbst viele Akteure aus der Behindertenszene diskutieren
+  den Begriff recht oberflächlich und separierend, von den Vertretern aus Wirtschaft
+  und Politik ganz abgesehen, die hier überwiegend ihr ganz eigenes Süppchen kochen. '
+alias: "/2016/12/03/auf-in-eine-neue-beziehungskultur.html"
+accessible: ''
+teaser: "/media/2020/09/0-prio-friedensbrucke.jpg"
+wide: false
+gallery: []
+
 ---
 # Auf in eine neue Beziehungskultur!
 

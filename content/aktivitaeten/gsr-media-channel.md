@@ -10,19 +10,27 @@ accessible: ''
 ---
 # GSR Media Channel
 
-Willkommen auf unserer neuen interdisziplinären Medien-Plattform! Wir wollen Brücken bauen und verschiedenste theoretische & praktische Themenbereiche – die zumeist separat betrachtet werden – mehr zusammenbringen. So let´s start!
+Willkommen auf unserer neuen interdisziplinären Medien-Plattform!
 
-### #diskurskultur
+## #diskurskultur
 
 Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein) ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.
 
 <video-gallery name="media-diskurskultur"></video-gallery>
 
-### Audiovisuelle Impressionen & Medienberichte "Grenzen sind relativ e.V."
+## Blog
+
+<slideshow class="wide" name="media-blog"></slideshow>
+
+## Audiovisuelle Impressionen  "Grenzen sind relativ e.V."
 
 TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein vereint - Inklusionssong für Deutschland", etc.
 
 <video-gallery name="startseite-video-galerie"></video-gallery>
+
+## Aktivitäten "Grenzen sind relativ e.V."
+
+<slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
 ### Selbstverständnis
 

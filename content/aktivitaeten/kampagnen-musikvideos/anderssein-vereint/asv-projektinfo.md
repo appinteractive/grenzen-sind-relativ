@@ -9,13 +9,14 @@ teaser: "/media/2020/09/asv-beitragsbild.jpg"
 gallery: []
 alias: "/anderssein-vereint-2/inklusionssong-fuer-deutschland.html"
 wide: false
+accessible: ''
 
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
 
 ![](/media/2020/10/online-plakat-anderssein-vereint.jpg)**AndersSein vereint** – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein!
 
-In der aufwendigen wie mitreissenden Musikvideoproduktion singen, grooven, rappen und gebärden die **mehr als 80 Protagonisten** von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
+In der aufwendigen wie mitreissenden [Musikvideoproduktion](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos) singen, grooven, rappen und gebärden die **mehr als 80 Protagonisten** von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
 
 Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusammen mit dem Produzenten Jan Philipp Kelber (Ina Müller, Christina Stürmer, usw.) einen eingängigen Crossover Sound kreiert, der mit den Stimmen von Orange Blue Sänger Volkan Baydar, Bluesröhre Jessy Martens, Rolli Rapper Graf Fidi und Marie Garroths sanfsten Soul bereichert wird.
 
