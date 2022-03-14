@@ -21,7 +21,8 @@ export default {
   props: {
     teasers: { type: Boolean, default: false },
     autoplay: { type: Boolean, default: false },
-    delay: { type: Number, default: 3000 }
+    delay: { type: Number, default: 3000 },
+    max: { type: Number, default: 3 }
   },
   data() {
     return {
@@ -40,7 +41,7 @@ export default {
           // 640: { slidesPerView: this.teasers ? 1 : 1 },
           768: { slidesPerView: this.teasers ? 2 : 1 },
           // 1024: { slidesPerView: this.teasers ? 2 : 1 },
-          1280: { slidesPerView: this.teasers ? 3 : 1 },
+          1280: { slidesPerView: this.teasers ? this.max : 1 },
         },
         autoplay: (this.autoplay && !this.teasers) ? {
           delay: this.delay,

@@ -12,6 +12,7 @@ export default {
     autoplay: { type: Boolean, default: true },
     delay: { type: Number, default: 3000 },
     teasers: { type: Boolean, default: false },
+    max: { type: Number, default: 3 },
   },
   data: () => ({
     ready: false,
@@ -61,6 +62,7 @@ export default {
               autoplay: this.autoplay,
               delay: this.delay,
               teasers: this.teasers,
+              max: this.max,
             },
           },
           slides
@@ -73,7 +75,7 @@ export default {
 </script>
 
 <style lang="postcss">
-.prose .slideshow {
+.prose .slideshow.wide {
   @apply lg:px-12 !important;
 }
 .prose .slideshow .swiper-slide {

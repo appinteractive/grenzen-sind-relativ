@@ -20,7 +20,7 @@ Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der ges
 
 ## Blog
 
-<slideshow class="wide" name="media-blog"></slideshow>
+<slideshow :max="2" name="media-blog"></slideshow>
 
 ## Audiovisuelle Impressionen  "Grenzen sind relativ e.V."
 
@@ -30,7 +30,7 @@ TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein 
 
 ## Aktivitäten "Grenzen sind relativ e.V."
 
-<slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
+<slideshow :max="2" name="startseite-aktivitaeten"></slideshow>
 
 ### Selbstverständnis
 
