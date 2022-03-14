@@ -289,7 +289,15 @@
         {
           "title": "GSR Media Channel",
           "disabled": false,
-          "page": "content/aktivitaeten/gsr-media-channel.md"
+          "page": "content/aktivitaeten/gsr-media-channel.md",
+          "children": [
+            {
+              "title": "GSR Media Channel",
+              "description": "Wir wollen Brücken bauen und verschiedenste theoretische & praktische Themenbereiche – die zumeist separat betrachtet werden – mehr zusammenbringen.",
+              "page": "content/aktivitaeten/gsr-media-channel.md",
+              "disabled": false
+            }
+          ]
         }
       ],
       "showInMainNavigation": true
@@ -481,6 +489,7 @@
     },
     {
       "title": "Spenden",
+      "button": true,
       "page": "content/spenden.md"
     }
   ]

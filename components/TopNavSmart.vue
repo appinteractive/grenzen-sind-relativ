@@ -103,7 +103,7 @@
           </button>
         </div>
         <ul
-          class="mt-12 md:mt-0 pt-1 flex-grow justify-center"
+          class="mt-12 md:mt-0 pt-1 pr-10 flex-grow justify-end items-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
           aria-label="Seiten"
