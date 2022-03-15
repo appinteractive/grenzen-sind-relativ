@@ -47,7 +47,7 @@ Im gemeinsamen Dialog setzen wir uns darüber hinaus unter anderem mit folgenden
 
    Was braucht Kunst und Kultur angesichts der aktuellen gesamtgesellschaftlichen Entwicklung von Kunst und Kultur? Welche zielführenden Strukturen, Konzepte und Formate können gemeinsam entwickelt werden? Wie wollen wir zusammenarbeiten, was wollen wir entwickeln?
 
-Um die Projektergebnisse öffentlich zugänglich zu machen, haben wir die 7teilige Filmreihe #diskurskultur veröffentlicht, in der unterschiedliche Akteur:innen aus dem Projekt sowie weitere Expert:innen aus der Kulturlandschaft zu Wort kommen.
+Um die Projektergebnisse öffentlich zugänglich zu machen, haben wir die 7teilige Filmreihe #diskurskultur veröffentlicht, in der die Akteur:innen aus dem Projekt zu Wort kommen.
 
 <video-gallery name="media-diskurskultur"></video-gallery>
 
