@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2020/10/social-banner-2020-5.jpg"
+teaser: "/media/2020/10/est-asv.jpg"
 title: 'Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung
   von Kunst & Kultur '
 description: Das Projekt "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen
