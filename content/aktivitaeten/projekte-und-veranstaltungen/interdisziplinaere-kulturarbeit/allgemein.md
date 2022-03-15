@@ -2,7 +2,11 @@
 teaser: "/media/2020/10/social-banner-2020-5.jpg"
 title: 'Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung
   von Kunst & Kultur '
-description: ''
+description: Das Projekt "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen
+  Entwicklung von Kunst & Kultur Wissenstransfer, Vernetzung und Kooperationsvorhaben"
+  setzt sich aus den Modulen Vernetzungsphase, Wissenstransfer und Konzeptarbeit,
+  Erarbeitung eines Handouts sowie der Produktion und Veröffentlichung einer Filmreihe
+  zusammen.
 wide: false
 gallery: []
 alias: "/interdisziplinaere-kulturarbeit"
