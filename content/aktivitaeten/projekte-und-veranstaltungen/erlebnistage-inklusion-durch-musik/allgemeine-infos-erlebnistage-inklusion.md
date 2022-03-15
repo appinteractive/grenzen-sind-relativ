@@ -45,3 +45,5 @@ Bei Fragen wende dich gerne an produktion@grenzensindrelativ.de
 
 **Gefördert durch**  
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
+
+![](/media/2022/03/stiftung_hw_logo_rgb_inumlauf.JPG)
