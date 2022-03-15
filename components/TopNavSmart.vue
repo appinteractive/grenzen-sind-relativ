@@ -12,11 +12,11 @@
         class="container px-4 lg:px-8 mx-auto flex flex-col md:flex-row items-center relative h-full"
       >
         <div
-          class="flex fixed bg-white z-10 top-0 left-0 px-4 py-4 md:p-0 border-b md:border-0 md:static w-full md:w-auto items-center justify-center"
+          class="flex fixed bg-white z-10 top-0 left-0 px-4 py-4 md:p-0 border-b md:border-0 md:static w-full md:w-auto items-center md:justify-center"
         >
           <nuxt-link
             to="/"
-            class="flex items-center self-center h-full lg:w-32"
+            class="flex items-start self-start h-full w-32"
             aria-label="Startseite"
           >
             <Logo
@@ -29,7 +29,7 @@
             aria-hidden="true"
           />
           <button
-            class="flex appearance-none md:hidden absolute left-0 p-4"
+            class="flex appearance-none md:hidden absolute right-0 p-4"
             @click="isOpen = !isOpen"
             aria-label="Navigation öffnen"
           >
