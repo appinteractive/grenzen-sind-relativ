@@ -23,7 +23,7 @@ seite:
 
 <img src="/svg/GSR_Logo.svg" alt="Grenzen sind relativ e.V." class="h-32 mx-auto" />
 
-Mit Projekten, Veranstaltungen und Kampagnen, Musikunterricht, Bandcamps, Workshops, Beratung/Coaching und Öffentlichkeitsarbeit & Bewusstseinsbildung bringen wir Menschen verschiedenster Backgrounds zusammen und setzen uns für eine inklusive, integrale und friedliche Gesellschaft ein.
+Mit Projekten, Veranstaltungen und Kampagnen, Musikunterricht, Bandcamps, Workshops, Beratung und Öffentlichkeitsarbeit & Bewusstseinsbildung bringen wir Menschen verschiedenster Backgrounds zusammen und setzen uns für eine inklusive, integrale und friedliche Gesellschaft ein.
 
 > Hebt man den Blick, so sieht man keine Grenzen.
 >
