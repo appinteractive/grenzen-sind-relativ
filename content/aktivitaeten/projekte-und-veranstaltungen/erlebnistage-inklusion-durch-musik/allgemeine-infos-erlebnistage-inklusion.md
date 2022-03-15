@@ -21,7 +21,7 @@ Im Zeitraum Mai bis September 2022 werden wir 5 Veranstaltungen in 5 verschieden
 
 Veranstaltungstermine:
 
-Do. 05.05.2022: Bildungshaus Eimsbüttel
+Do. 05.05.2022: Grundschule Bindfeldweg
 
 Fr. 06.05.2022: ReBBZ Eimsbüttel
 
