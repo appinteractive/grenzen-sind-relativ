@@ -1,5 +1,5 @@
 <template>
-  <footer class="w-full bg-primary-700 text-primary-200 bottom-0">
+  <footer class="w-full bg-[#193861] text-gray-100 bottom-0">
     <div class="container m-auto px-4 md:px-8 py-10 pb-16 lg:pb-10">
       <div class="grid lg:grid-cols-3">
         <div
@@ -7,14 +7,14 @@
           :key="col.title"
           class="flex flex-col pb-8"
         >
-          <h3 class="text-xs uppercase text-primary-200 font-bold pb-3">
+          <h3 class="text-xs uppercase text-gray-100 font-bold pb-3">
             {{ col.title }}
           </h3>
           <div>
             <div
               v-for="row in col.children"
               :key="row.title"
-              class="flex flex-col pb-1 text-primary-300"
+              class="flex flex-col pb-1 text-gray-200"
             >
               <nuxt-link
                 v-if="row.url"
@@ -27,7 +27,7 @@
           </div>
         </div>
         <div class="flex flex-col pb-8">
-          <h3 class="text-xs uppercase text-primary-200 font-bold pb-3">
+          <h3 class="text-xs uppercase text-gray-100 font-bold pb-3">
             Anmeldung zum Newsletter
           </h3>
           <form
@@ -35,7 +35,7 @@
             class="flex flex-col"
             @submit.prevent="subscribe"
           >
-            <p class="text-primary-300 text-sm">
+            <p class="text-gray-200 text-sm">
               Melde dich hier zu unserem Newsletter an, um über aktuelle Events
               und Projekte auf dem laufenden zu bleiben.
             </p>
@@ -49,7 +49,7 @@
                 mt-3
                 py-3
                 px-4
-                bg-primary-400
+                bg-[#4F96D9]
                 text-primary-900
                 placeholder-black
                 focus:bg-primary-200
@@ -62,7 +62,7 @@
               type="submit"
               class="
                 rounded
-                bg-primary-900
+                bg-[#020808]
                 mt-2
                 py-3
                 px-4

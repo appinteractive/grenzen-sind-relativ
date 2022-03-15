@@ -41,7 +41,7 @@
                     <div class="text-lg">
                       <p
                         class="
-                          text-gray-500
+                          text-gray-800
                           line-clamp-3
                           text-base
                           font-normal

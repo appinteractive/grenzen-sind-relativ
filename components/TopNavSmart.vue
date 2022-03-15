@@ -25,7 +25,7 @@
             />
           </nuxt-link>
           <social-icons
-            class="absolute md:hidden right-0 flex justify-end items-center p-4 text-gray-700"
+            class="absolute hidden md:hidden right-0 flex justify-end items-center p-4 text-gray-900"
             aria-hidden="true"
           />
           <button
@@ -126,7 +126,7 @@
           </template>
         </ul>
         <social-icons
-          class="sr-only lg:not-sr-only flex justify-end items-center w-38 text-gray-700"
+          class="sr-only lg:not-sr-only flex justify-end items-center w-38 text-gray-800"
         />
         <ul
           class="!ml-8 justify-end items-center"
@@ -140,7 +140,7 @@
             <li class="relative" v-if="level1.button" :key="level1.title">
               <NuxtLink
                 :to="getNearestURL(level1)"
-                class="level1 font-medium tracking-wide bg-[#4F96D9] !text-white !font-bold rounded flex px-4 py-2.5 relative"
+                class="level1 font-medium tracking-wide bg-[#4072B2] !text-white !font-bold rounded flex px-4 py-2.5 relative"
                 role="menuitem"
               >
                 {{ level1.title }}

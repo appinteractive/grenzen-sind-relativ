@@ -5,7 +5,7 @@
       flex flex-col
       bg-gray-100
       w-screen
-      text-gray-700
+      text-gray-900
       antialiased
       leading-tight
     "
@@ -24,7 +24,7 @@
       <Nuxt class="!pt-32" />
     </main>
     <!-- <VueAnnouncer /> -->
-    <nav class="fixed right-0 top-[20rem] sm:top-[10rem]">
+    <nav class="fixed right-0 top-[20rem] sm:top-[10rem] z-50">
       <a
         :href="deepLink"
         class="

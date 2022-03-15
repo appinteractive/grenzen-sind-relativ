@@ -153,13 +153,13 @@ export default {
 
 <style lang="postcss">
 .prose {
-  @apply text-primary-700;
+  @apply text-gray-800;
 }
 .prose h1 {
-  @apply text-4xl text-primary-700;
+  @apply text-4xl text-gray-800;
 }
 .prose h2 {
-  @apply text-primary-600;
+  @apply text-gray-700;
 }
 .prose h1 + h2 {
   @apply -mt-6;

@@ -95,7 +95,7 @@ export default {
 }
 .prose .slideshow .swiper-button-prev.swiper-button-disabled,
 .prose .slideshow .swiper-button-next.swiper-button-disabled {
-  @apply text-gray-500 text-opacity-0 !important;
+  @apply text-gray-800 text-opacity-0 !important;
 }
 .prose .slideshow .swiper-button-prev,
 .prose .slideshow .swiper-button-next {

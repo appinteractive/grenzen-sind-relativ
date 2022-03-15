@@ -13,7 +13,7 @@
       :class="[
         isActive || isActiveDeep
           ? 'text-gray-900 font-semibold'
-          : 'text-gray-500 hover:text-primary-700',
+          : 'text-gray-900 hover:text-primary-700',
       ]"
       @click="navigate"
     >

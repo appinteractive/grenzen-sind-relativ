@@ -12,7 +12,7 @@
           class="
             p-4
             font-normal
-            text-gray-700
+            text-gray-800
             flex flex-col
             rounded-l
             level2
@@ -22,7 +22,7 @@
           @mouseenter.native="setLevel2($event, index2)"
         >
           <span class="group-hover:underline">{{ level2.title }}</span>
-          <!-- <p v-if="level2.description" class="text-xs text-gray-700">
+          <!-- <p v-if="level2.description" class="text-xs text-gray-800">
             {{ level2.description }}
           </p> -->
         </TopNavLink>
@@ -49,7 +49,7 @@
             }}</strong>
             <p
               v-if="level3.description"
-              class="text-xs text-gray-700 font-normal pt-1"
+              class="text-xs text-gray-800 font-normal pt-1"
             >
               {{ level3.description }}
             </p>
