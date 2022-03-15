@@ -51,7 +51,7 @@ Um die Projektergebnisse öffentlich zugänglich zu machen, haben wir die 7teili
 
 <video-gallery name="media-diskurskultur"></video-gallery>
 
-Darüber hinaus wird ein Handout veröffentlicht, in dem unterschiedliche Artikel, Protokolle u.Ä. der Teilnehmenden Personen und Institutionen zusammengetragen werden. Themen des Handouts sind dabei bspw. Analysen derzeitiger Dynamiken in Kunst und Kultur sowie darauf aufbauende Visionen für die Kulturarbeit und neuartige Veranstaltungsformate.
+Darüber hinaus wurde ein Handout erstellt, in dem unterschiedliche Artikel, Protokolle u.Ä. der Teilnehmenden Personen und Institutionen zusammengetragen werden. Themen des Handouts sind dabei bspw. Analysen derzeitiger Dynamiken in Kunst und Kultur sowie darauf aufbauende Visionen für die Kulturarbeit und neuartige Veranstaltungsformate.
 
 Bei Fragen wende dich gerne an produktion@grenzensindrelativ.de
 
