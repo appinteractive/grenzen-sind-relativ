@@ -27,7 +27,7 @@ Fr. 06.05.2022: ReBBZ Eimsbüttel
 
 Do. 12.05.2022: Nelson Mandela Schule
 
-So. 26.06.2022: Netzwerkveranstaltung im Rahmen der "Altonale"
+So. 19.06.2022: Netzwerkveranstaltung im Rahmen der "Altonale"
 
 Do. 07.07.2022: Staatliche Jugendmusikschule (Mittelweg)
 
