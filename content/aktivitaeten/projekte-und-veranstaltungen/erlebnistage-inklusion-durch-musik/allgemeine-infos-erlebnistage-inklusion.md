@@ -17,7 +17,7 @@ accessible: ''
 
 Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel ! Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
 
-Im Zeitraum Mai bis September 2022 werden wir 5 Veranstaltungen in 5 verschiedenen Institutionen im Großraum Hamburg zum Leben bringen. Eine zusätzliche, übergreifende Abschluss- und Netzwerkveranstaltung  bringt alle Beteiligten zusammen. Das Ganze wird von einem Filmteam begleitet, das einen Dokumentarfilm über das Projekt machen wird.
+Im Zeitraum Mai bis September 2022 werden wir 5 Veranstaltungen in 5 verschiedenen Institutionen im Großraum Hamburg zum Leben bringen. Eine zusätzliche, übergreifende Netzwerkveranstaltung bringt alle Beteiligten zusammen. Das Ganze wird von einem Filmteam begleitet, das einen Dokumentarfilm über das Projekt machen wird.
 
 Veranstaltungstermine:
 
