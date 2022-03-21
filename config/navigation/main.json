@@ -37,9 +37,9 @@
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md"
                 },
                 {
-                  "title": "Dozenten-Team & Workshops",
+                  "title": "Dozenten-Team ",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops.md",
-                  "disabled": true
+                  "disabled": false
                 },
                 {
                   "title": "Veranstaltungstermine",
