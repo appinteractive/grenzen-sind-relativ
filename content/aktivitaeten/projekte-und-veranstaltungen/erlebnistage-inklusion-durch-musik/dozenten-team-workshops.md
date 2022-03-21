@@ -8,7 +8,7 @@ alias: ''
 accessible: ''
 
 ---
-# Dozenten-Team 
+# Dozenten-Team
 
 **David Alleckna** (Bass, Bandtraining & Musik-Orient)
 
@@ -41,6 +41,8 @@ Nina lebt als Sängerin und Dozentin in Hamburg, Berlin, Zürich und Ägypten.
 **Mischa Gohlke** (Gitarre, Bandtraining & Musik-Orient)
 
 ![](/media/2020/06/mischa-profil.jpg)
+
+Mischa Gohlke ist Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Projektleiter von “Grenzen sind relativ e.V.”. Und vor allem Mensch.
 
 Mit einer an Taubheit grenzenden Hörschädigung ist Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps den Weg als Profimusiker eingeschlagen und hat damit das scheinbar Unmögliche möglich gemacht. Als glaubwürdiger Botschafter initiierte er 2016 den gemeinnützigen Verein “Grenzen sind relativ e.V.”, der sich mit verschiedensten Projekten, Veranstaltungen, Kampagnen, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen für eine inklusive, integrale und friedliche Gesellschaft einsetzt. Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Darüber hinaus ist Mischa als Speaker, Dozent, Autor und als Aktivist u.a. in der Friedensbewegung aktiv.
 
