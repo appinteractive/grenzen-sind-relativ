@@ -20,17 +20,15 @@ Mit einer an Taubheit grenzenden Hörschädigung ist Mischa „trotz“ oder/und
 
 > _Musik ist eine universelle Sprache, die fast alle Menschen berührt. Musik bedeutet, Gefühle zuzulassen, kreativ zu sein und mit anderen Menschen in Verbindung zu treten. Musik ist mehr als nur die Summe von wahrgenommenen Tönen, sondern Ausdruck der Persönlichkeit und eine Erweiterung des Lebens._
 
-### **David Alleckna** (Bass, Bandtraining & Musik-Orient)
+### **David Alleckna** (Bass, Multiinstrumentalist, Bandtraining & Musik-Orient)
 
 ![](/media/2022/03/david-alleckna-photo-by-daniela-mollenhoff-1.jpeg)
 
-* Multiinstrumentalist mit Schwerpunkt Bass
-* Produzent, Komponist, Studio- und Tourmusiker
-* Spielte in 16 Ländern
-* mit fast unzähligen sehr bekannten sowie sehr unbekannten Acts, u.a. Phil Collins, Udo Lindenberg, Sasha, Melanie C..
-* Als Studiomusiker zu hören und vielen Popproduktionen
-* als Komponist und Produzent viele Veröffentlichungen
-* mit Pop-, Soul-, Werbe- und Filmmusik
+David Alleckna ist Musiker, Komponist, Produzent, Kosmopolit.
+
+In Deutschland und Kanada zu Hause, arbeitete er musikalisch bereits in 16 Ländern und fühlt sich eigentlich auch überall dort daheim. Er produziert Pop-, Film- und Werbemusik und ist als Studio- und Tourmusiker mit unzähligen Acts unterwegs wie etwa Nena, Udo Lindenberg, Phil Collins und vielen, vielen anderen. David engagiert sich musikalisch in der Freien Kirche und mag Menschen – egal welchen Glaubens.
+
+> Musik als Ausdruck und Auslöser ehrlicher, spontaner Gefühle ist wichtiger denn je, um zu sich selbst zu finden, in einer Welt, die uns ständig lockt, unsere Aufmerksamkeit woanders hin zu lenken als zu uns selbst.
 
 ### **Nina Lorenz** (Gesang, Chor)
 
