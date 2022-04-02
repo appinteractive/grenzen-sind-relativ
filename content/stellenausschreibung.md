@@ -5,6 +5,7 @@ description: ''
 wide: false
 gallery: []
 alias: ''
+accessible: ''
 
 ---
 # **Stellenausschreibung “Grenzen sind relativ e.V.”**
@@ -13,12 +14,12 @@ Mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunt
 
 Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 3 Menschen für folgende Stellen:
 
-**1.) Veranstaltungsmanagement, Produktionsleitung, Akquise & Booking GSR e.V. Veranstaltungsformate** _(ab April 2022 32 Wochenstunden)_
+**1.) Veranstaltungsmanagement, Produktionsleitung, Akquise & Booking GSR e.V. Veranstaltungsformate** _(ab sofort, 32 Wochenstunden)_
 
 * Veranstaltungsmanagement & Produktionsleitung [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event), [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos), etc. (strat. Konzeption, operative Umsetzung, Booking Rahmenprogramm, Promotion, etc.)
 * “GSR Agentur”: Akquise & Booking Bands & Dozent*innen wie[ Mischa Gohlke Band](https://mischagohlkeband.de/)
 
-**2.) PR- & Öffentlichkeitsarbeit, Redaktion GSR Social Media Channel & Campaign** _(ab April 2022, 15-20 Wochenstunden)_
+**2.) PR- & Öffentlichkeitsarbeit, Redaktion GSR Social Media Channel & Campaign** _(ab sofort, 15-20 Wochenstunden)_
 
 * PR- & Öffentlichkeitsarbeit (Print, Radio, TV, Netzwerkarbeit, etc. - Strategische Konzeption, operative Umsetzung, qualitative & quantitative Mehrwerte schaffen, Kommunikations- & Transmitterprozesse, usw. --> GSR e.V. Institution, Projekte, Veranstaltungen & Kampagnen)
 * Redaktionsleitung für unseren neuen "[Grenzen sind relativ - Social Media Channel](https://www.grenzensindrelativ.de/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel)" (Redaktionelle Arbeit mit Filmen-Texten-Fotos-Designs, spannende Formate entwickeln, Reichweite regenerieren, Multiplikatoren, Synergien, Netzwerkarbeit, usw.)
