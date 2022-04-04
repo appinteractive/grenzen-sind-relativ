@@ -33,7 +33,11 @@ Do. 07.07.2022: Staatliche Jugendmusikschule (Mittelweg)
 
 So. 11.09.2022: Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“
 
-Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel den Musik-Orient(ierung), Bandtraining, Rhythm´n´Groove, Chor, u.v.m.. Die Workshops werden von dem hörgeschädigten Profimusiker [Mischa Gohlke](https://mischagohlkeband.de/) und 4 weiteren erfahrenen Musiker*innen geleitet und inhaltlich durchgeführt.
+Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel den Musik-Orient(ierung), Bandtraining, Rhythm´n´Groove, Chor und Tanz & Bewegung. 
+
+Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker*innen: David Alleckna, Jens Carstens, Mischa Gohlke, Lili Czuya, Nina Lorenz, Christian Nowak, Hörbie Schmidt und das Bodyrhythm-Team von Ben Schütz. Die Dozenten haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Selig, Helene Fischer, Stefan Raab, Aha, Rolf Zuckowski, Rosenstolz, und Nena zusammen gespielt.
+
+von dem hörgeschädigten Profimusiker [Mischa Gohlke](https://mischagohlkeband.de/) und 4 weiteren erfahrenen Musiker*innen geleitet und inhaltlich durchgeführt.
 
 Jeder Tag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmenden zusammen mit den Dozent*innen und weiteren künstlerischen Acts die Bühne rocken werden.
 
