@@ -13,7 +13,7 @@ accessible: false
 
 c/o Mischa Gohlke  
 Wrangelstrasse 103  
-20235 Hamburg
+20253 Hamburg
 
 E-Mail: mail@grenzensindrelativ.de
 
