@@ -1,10 +1,10 @@
 ---
-teaser: "/media/2020/10/social-banner-2020-5.jpg"
-title: "#diskurskultur - die 7teilige Filmreihe"
+teaser: '/teaser.png'
+title: '#diskurskultur - die 7teilige Filmreihe'
 description: ''
 wide: false
-
 ---
+
 # #diskurskultur - die 7teilige Filmreihe
 
 Im Rahmen unseres Projektes "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur" ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.

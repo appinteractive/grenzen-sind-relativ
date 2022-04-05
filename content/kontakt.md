@@ -1,11 +1,11 @@
 ---
 title: Kontakt
 description: ''
-alias: "/kontakt.html"
+alias: '/kontakt.html'
 wide: false
-teaser: "/media/2020/10/social-banner-2020-5.jpg"
-
+teaser: '/teaser.png'
 ---
+
 # Kontakt
 
 „Grenzen sind relativ e.V.“

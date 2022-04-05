@@ -1,13 +1,13 @@
 ---
-teaser: "/media/2020/10/social-banner-2020-5.jpg"
+teaser: '/teaser.png'
 title: Grenzen sind relativ - Social Media Channel
 description: ''
 wide: false
 gallery: []
 alias: ''
 accessible: ''
-
 ---
+
 # Grenzen sind relativ - Social Media Channel
 
 Im März 2022 werden wir mit unserem neuen "Grenzen sind relativ - Social Media Channel" starten.
