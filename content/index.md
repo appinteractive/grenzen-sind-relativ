@@ -1,10 +1,10 @@
 ---
 title: Grenzen sind relativ e.V.
-description: Aktionsbüro für eine multipolare Gesellschaftskultur Mit Projekten, Veranstaltungen,
-  Kampagnen, Musikunterricht, Workshops, Beratung und Öffentlichkeitsarbeit & Bewusstseinsbildung
-  bringen wir Menschen verschiedenster Backgrounds zusammen und setzen uns für interdisziplinäre
-  Kultur, gesamtgesellschaftliche Inklusion und gelebten Frieden für alle Menschen
-  auf diesem Planeten ein.
+description: Aktionsbüro für eine multipolare Gesellschaftskultur. Mit Projekten,
+  Veranstaltungen, Kampagnen, Musikunterricht, Workshops, Beratung und Öffentlichkeitsarbeit
+  & Bewusstseinsbildung bringen wir Menschen verschiedenster Backgrounds zusammen
+  und setzen uns für interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion und
+  gelebten Frieden für alle Menschen auf diesem Planeten ein.
 teaser: "/teaser.png"
 wide: true
 seite:
