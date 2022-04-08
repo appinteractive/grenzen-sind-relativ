@@ -1,7 +1,9 @@
 <template>
   <div class="container mx-auto px-4 md:px-8 pt-6">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
-    <div class="relative flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
+    <div
+      class="relative flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col"
+    >
       <article
         tabindex="-1"
         class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16 outline-none"
@@ -26,16 +28,9 @@
 </template>
 
 <script>
-
 export default {
   middleware: 'redirect',
-  async asyncData({
-    params,
-    $content,
-    store,
-    route,
-    error
-  }) {
+  async asyncData({ params, $content, store, route, error }) {
     const path = `/${params.pathMatch || 'index'}`
     const page = await $content(path)
       .fetch()
@@ -58,26 +53,37 @@ export default {
     const currentTitle = lastCrumb ? lastCrumb.title : null
     const widePage = !!page?.wide
 
-    const { processSlideshow, processVideoGallery, processTeam } = require('~/lib/processing').default
+    const { processSlideshow, processVideoGallery, processTeam } =
+      require('~/lib/processing').default
     const processSlideshows = []
     const processVideoGalleries = []
     const processTeamComponents = []
     page.body.children.forEach((child, i) => {
       if (child.tag === 'slideshow') {
-        processSlideshows.push(new Promise((resolve) => {
-          resolve(processSlideshow(child.props.name, child.props, $content))
-        }))
+        processSlideshows.push(
+          new Promise((resolve) => {
+            resolve(processSlideshow(child.props.name, child.props, $content))
+          })
+        )
       } else if (child.tag === 'video-gallery') {
-        processVideoGalleries.push(new Promise((resolve) => {
-          resolve(processVideoGallery(child.props.name, child.props))
-        }))
+        processVideoGalleries.push(
+          new Promise((resolve) => {
+            resolve(processVideoGallery(child.props.name, child.props))
+          })
+        )
       } else if (child.tag === 'team') {
-        processTeamComponents.push(new Promise((resolve) => {
-          resolve(processTeam(child.props, mainNav, $content))
-        }))
+        processTeamComponents.push(
+          new Promise((resolve) => {
+            resolve(processTeam(child.props, mainNav, $content))
+          })
+        )
       }
     })
-    await Promise.all(processSlideshows, processVideoGalleries, processTeamComponents)
+    await Promise.all(
+      processSlideshows,
+      processVideoGalleries,
+      processTeamComponents
+    )
 
     return { page, breadCrumbs, subMenu, currentTitle, widePage }
   },
@@ -102,13 +108,18 @@ export default {
 
     const fullURL = url + this.$route.fullPath
 
+    const description =
+      !this.page.description || this.page?.description?.trim() == ''
+        ? settings.description
+        : this.page.description
+
     return {
       title: title,
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: this.page.description || settings.description,
+          content: description,
         },
         // Open Graph
         { hid: 'og:url', property: 'og:url', content: fullURL },
@@ -116,7 +127,7 @@ export default {
         {
           hid: 'og:description',
           property: 'og:description',
-          content: this.page.description,
+          content: description,
         },
         {
           hid: 'og:image',
@@ -129,7 +140,7 @@ export default {
         {
           hid: 'twitter:description',
           name: 'twitter:description',
-          content: this.page.description,
+          content: description,
         },
       ].filter((item) => !!item.content),
     }
@@ -146,8 +157,8 @@ export default {
         classes.push('max-w-full md:max-w-2xl')
       }
       return classes.join(' ')
-    }
-  }
+    },
+  },
 }
 </script>
 
@@ -172,7 +183,7 @@ export default {
 
 .prose blockquote {
   @apply text-xl font-serif italic text-left pl-4 pr-2 border-none text-primary-600;
-  label: "Zitat";
+  label: 'Zitat';
 }
 .prose blockquote blockquote {
   @apply text-base -mt-6 text-right text-pink-800 not-italic;
