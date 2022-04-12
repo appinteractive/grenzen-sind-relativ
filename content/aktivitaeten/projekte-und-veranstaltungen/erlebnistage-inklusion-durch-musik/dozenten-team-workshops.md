@@ -10,21 +10,21 @@ accessible: ''
 ---
 # Dozenten-Team
 
-### **David Alleckna** (Bass, Multiinstrumentalist, Bandtraining & Musik-Orient)
+### **David Alleckna** (Bass, Multiinstrumentalist & Bandtraining)
 
 ![](/media/2022/03/david-alleckna-photo-by-daniela-mollenhoff-1.jpeg)
 
 David Alleckna ist Musiker, Komponist, Produzent, Kosmopolit.
 
-In Deutschland und Kanada zu Hause, arbeitete er musikalisch bereits in 16 Ländern und fühlt sich eigentlich auch überall dort daheim. 
+In Deutschland und Kanada zu Hause, arbeitete er musikalisch bereits in 16 Ländern und fühlt sich eigentlich auch überall dort daheim.
 
-Er produziert Pop-, Film- und Werbemusik und ist als Studio- und Tourmusiker mit unzähligen Acts unterwegs wie etwa Nena, Udo Lindenberg, Phil Collins und vielen, vielen anderen. 
+Er produziert Pop-, Film- und Werbemusik und ist als Studio- und Tourmusiker mit unzähligen Acts unterwegs wie etwa Nena, Udo Lindenberg, Phil Collins und vielen, vielen anderen.
 
 David engagiert sich musikalisch in der Freien Kirche und mag Menschen – egal welchen Glaubens.
 
 > Musik als Ausdruck und Auslöser ehrlicher, spontaner Gefühle ist wichtiger denn je, um zu sich selbst zu finden, in einer Welt, die uns ständig lockt, unsere Aufmerksamkeit woanders hin zu lenken als zu uns selbst.
 
-### **Jens Carstens** (Schlagzeug, Rhythm´n´Groove, Drum-Circle)
+### **Jens Carstens** (Schlagzeug, Rhythm´n´Groove & Drum-Circle)
 
 ![](/media/2022/04/jens-carstens.jpg)
 
@@ -36,7 +36,7 @@ Er komponiert und produziert Musik für unterschiedliche Künstler und gab 2015 
 
 > Musik ist für mich die wunderbarste Form sich auszudrücken und mit anderen Menschen zu kommunizieren. Musik schafft emotionale Brücken zwischen den Menschen. In der Musik finde ich den Schlüssel zu mir selbst und den Ausgleich den ich brauche.
 
-### **Nina Lorenz** (Gesang, Chor)
+### **Nina Lorenz** (Gesang & Chor)
 
 ![](/media/2022/03/nina-lorenz.jpeg)
 
@@ -50,15 +50,25 @@ Nina lebt als Sängerin und Dozentin in Hamburg, Berlin, Zürich und Ägypten.
 
 > _Kunst, Kultur und Musik sind ein Grundrecht des Menschen. In Kindern, Jugendlichen und Erwachsenen die Freude an der Musik zu wecken sehe ich als große Freude!_
 
-### **Mischa Gohlke** (Gitarre, Bandtraining & Musik-Orient)
+### **Ben Schütz** (Body Rhythm)
+
+![](/media/2022/04/ben-schutz_dsc_0929_valentin-jagodzinski_klein.jpeg)
+
+Ben ist Perkussionist, Musikpädagoge und Festivalproduzent. Er arbeitet weltweit als Workshop Leiter im Bereich Body Percussion und kooperiert mit dem Goethe-Institut, Universitäten und Festivals.
+
+Ben liebt die Verbindung von Rhythmus, Bewegung, Stimme und Gemeinschaft. Das zeigt sich in seinen Workshops und beim Body Rhythm Festival, das er ins Leben gerufen hat und das seit 2015 jährlich in Hamburg stattfindet.
+
+> Einige der glücklichsten Momente in meinem Leben habe ich in musikalischen Flows erlebt. Man spürt dabei die Kraft, die entstehen kann, wenn man gemeinsam in einer Gruppe musiziert, tanzt und singt. Ich wünsche mir, dass alle Menschen solche Momente tiefer Verbundenheit mit anderen erleben können, unabhängig von Herkunft, Hautfarbe, sexueller Orientierung, sozialem Milieu oder körperlicher Besonderheit. Das motiviert mich und treibt mich an.
+
+### **Mischa Gohlke** (Gitarre & Bandtraining)
 
 ![](/media/2020/06/mischa-profil.jpg)
 
 Mischa Gohlke ist Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Projektleiter von “Grenzen sind relativ e.V.”. Und vor allem Mensch.
 
-Mit einer an Taubheit grenzenden Hörschädigung ist Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps den Weg als Profimusiker eingeschlagen und hat damit das scheinbar Unmögliche möglich gemacht. 
+Mit einer an Taubheit grenzenden Hörschädigung ist Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps den Weg als Profimusiker eingeschlagen und hat damit das scheinbar Unmögliche möglich gemacht.
 
-Als glaubwürdiger Botschafter initiierte er 2016 den gemeinnützigen Verein “Grenzen sind relativ e.V.”, der sich mit verschiedensten Projekten, Veranstaltungen, Kampagnen, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen für eine inklusive, integrale und friedliche Gesellschaft einsetzt. 
+Als glaubwürdiger Botschafter initiierte er 2016 den gemeinnützigen Verein “Grenzen sind relativ e.V.”, der sich mit verschiedensten Projekten, Veranstaltungen, Kampagnen, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen für eine inklusive, integrale und friedliche Gesellschaft einsetzt.
 
 Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Darüber hinaus ist Mischa als Speaker, Dozent, Autor und als Aktivist u.a. in der Friedensbewegung aktiv.
 
