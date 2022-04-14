@@ -8,7 +8,7 @@ alias: ''
 accessible: ''
 
 ---
-# **“Celebrate the music - Come together!” // So. 19.06. “altonale 2022” - Platz der Republik**
+# **“Celebrate the music - Come together!” // So. 19.06. “altonale 2022”** 
 
 Eine Netzwerkveranstaltung von und mit der [Staatlichen Jugendmusikschule Hamburg](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/), der [Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/startseite/), der [Grundschule Bindfeldweg](https://grundschule-bindfeldweg.hamburg.de/), dem [Regionales Bildungs- und Beratungszentrum Eimsbüttel](https://rebbz-eimsbuettel.hamburg.de/), der [Inklusionsagentur Norderstedt](https://n-i-i-n.de/), [Grenzen sind relativ e.V.](https://www.grenzensindrelativ.de/) und der [altonale](www.altonale.de).
 
@@ -18,11 +18,11 @@ Datum: So. 19.06.2022
 
 Uhrzeit: 14.00 bis 16.30 Uhr
 
-Ort: Platz der Republik, Altona
+Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98)
 
 Eintritt frei
 
-Weitere Infos: [www.altonale.de](http://www.altonale.de) & [www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
+Weitere Infos: [www.altonale.de](http://www.altonale.de) 
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
