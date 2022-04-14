@@ -10,7 +10,7 @@ accessible: ''
 ---
 # **“Celebrate the music - Come together!” // So. 19.06. “altonale 2022” - Platz der Republik**
 
-_Eine Netzwerkveranstaltung von und mit der_ [_Staatlichen Jugendmusikschule Hamburg_](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/)_, der_ [_Nelson-Mandela-Schule_](https://www.nelson-mandela-schule-kirchdorf.de/startseite/)_, der_ [_Grundschule Bindfeldweg_](https://grundschule-bindfeldweg.hamburg.de/)_, dem_ [_Regionales Bildungs- und Beratungszentrum Eimsbüttel_](https://rebbz-eimsbuettel.hamburg.de/)_, der_ [_Inklusionsagentur Norderstedt_](https://n-i-i-n.de/)_,_ [_Grenzen sind relativ e.V._](https://www.grenzensindrelativ.de/) _und der_ [_altonale_](www.altonale.de)_._
+Eine Netzwerkveranstaltung von und mit der [Staatlichen Jugendmusikschule Hamburg](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/), der [Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/startseite/), der [Grundschule Bindfeldweg](https://grundschule-bindfeldweg.hamburg.de/), dem [Regionales Bildungs- und Beratungszentrum Eimsbüttel](https://rebbz-eimsbuettel.hamburg.de/), der [Inklusionsagentur Norderstedt](https://n-i-i-n.de/), [Grenzen sind relativ e.V.](https://www.grenzensindrelativ.de/) und der [altonale](www.altonale.de).
 
 **The Facts:**
 
@@ -24,7 +24,6 @@ Eintritt frei
 
 Weitere Infos: [www.altonale.de](http://www.altonale.de) & [www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
 
->   
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
 Musik verbindet! Und weil das so ist, schafft der Verein [Grenzen sind relativ e.V. ](https://www.grenzensindrelativ.de/)mit der Veranstaltungsreihe „[Celebrate the music“](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion) Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel!
@@ -33,7 +32,7 @@ Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
 
 Im Rahmen der Netzwerkveranstaltung “Celebrate the music - Come together!” kommen alle Mitwirkenden zusammen. Gemeinsam mit dem Publikum wird die Essenz der Musik gebührend zelebriert.
 
-Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen der Kooperationspartner:innen, wie dem Schüler:innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie der Dozent:innen-Band - bestehend aus [Mischa Gohlke ](https://mischagohlkeband.de/)(Gitarre), [David Alleckna](https://alleckna.de/) (Bass), [Jens Carstens](https://de.yamaha.com/de/artists/j/jens_carstens.html) und [Oded Kafri](https://odedkafri.com/ueber/) (Schlagzeug) sowie [Lili Czuya](http://www.move-groove.de/mg_liliczuja.html) und [Nina Lorenz](http://mao-hamburg.de/nina-maleika/) (Gesang), die schon mit Größen wie Phil Collins, Udo Lindenberg, Johannes Oerding, Selig, RAha, Rosenstolz und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
+Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen der Kooperationspartner:innen, wie dem Schüler:innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie der Dozent:innen-Band - bestehend aus [Mischa Gohlke ](https://mischagohlkeband.de/)(Gitarre), [David Alleckna](https://alleckna.de/) (Bass), [Jens Carstens](https://de.yamaha.com/de/artists/j/jens_carstens.html) und [Oded Kafri](https://odedkafri.com/ueber/) (Schlagzeug) sowie [Lili Czuya](http://www.move-groove.de/mg_liliczuja.html) und [Nina Lorenz](http://mao-hamburg.de/nina-maleika/) (Gesang), die schon mit Größen wie Phil Collins, Udo Lindenberg, Johannes Oerding, Roger Cicero, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
 
 > So let´s celebrate the music and come together!
 
