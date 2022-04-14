@@ -27,7 +27,7 @@ Fr. 06.05.2022: ReBBZ Eimsbüttel
 
 Do. 12.05.2022: Nelson Mandela Schule
 
-[So. 19.06.2022: Netzwerkveranstaltung "Celebrate the music - Come together!" im Rahmen der "Altonale"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine)
+[So. 19.06.2022: Netzwerkveranstaltung "Celebrate the music - Come together!" auf der "altonale" (Platz der Republik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine)
 
 Do. 07.07.2022: Staatliche Jugendmusikschule (Mittelweg)
 
