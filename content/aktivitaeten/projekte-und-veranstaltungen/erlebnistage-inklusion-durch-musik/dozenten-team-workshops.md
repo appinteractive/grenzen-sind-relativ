@@ -14,7 +14,7 @@ accessible: ''
 
 ![](/media/2022/04/jens-carstens.jpg)
 
-Jens Carstens spielte in den letzten 20 Jahren als fester Schlagzeuger für „Rosenstolz“ und „Helene Fischer“ auf zahlreichen Arena und Stadion Tournee Shows.
+[Jens Carstens](https://de.wikipedia.org/wiki/Jens_Carstens) spielte in den letzten 20 Jahren als fester Schlagzeuger für „Rosenstolz“ und „Helene Fischer“ auf zahlreichen Arena und Stadion Tournee Shows.
 
 Seit über 20 Jahre ist er der Schlagzeuger und musikalische Leiter von Heinz Rudolf Kunze. Im Studio spielte er u.a für Udo Lindenberg, Selig, Aha, Rolf Zuckowski, Rosenstolz, Patricia Kaas, Helene Fischer.
 
@@ -26,7 +26,7 @@ Er komponiert und produziert Musik für unterschiedliche Künstler und gab 2015 
 
 ![](/media/2022/03/david-alleckna-photo-by-daniela-mollenhoff-1.jpeg)
 
-David Alleckna ist Musiker, Komponist, Produzent, Kosmopolit.
+[David Alleckna](https://alleckna.de/) ist Musiker, Komponist, Produzent, Kosmopolit.
 
 In Deutschland und Kanada zu Hause, arbeitete er musikalisch bereits in 16 Ländern und fühlt sich eigentlich auch überall dort daheim.
 
@@ -38,7 +38,7 @@ David engagiert sich musikalisch in der Freien Kirche und mag Menschen – egal 
 
 ### **Lili Czuya** (Gesang & Chor)
 
-Die ausdrucksstarke Sängerin Lili Czuya mit dem charismatischen Timbre begeistert und berührt das Publikum mit authentischer Passion. Bereits in jungen Jahren sang sie auf den Bühnen der legendären Clubs auf St.Pauli und absolvierte national und international für hunderte Shows mit verschiedenen Künstlern.
+Die ausdrucksstarke Sängerin [Lili Czuya](www.lili-musik.de) mit dem charismatischen Timbre begeistert und berührt das Publikum mit authentischer Passion. Bereits in jungen Jahren sang sie auf den Bühnen der legendären Clubs auf St.Pauli und absolvierte national und international für hunderte Shows mit verschiedenen Künstlern.
 
 Besonders inspirierte sie die Zusammenarbeit mit dem unvergessenen ROGER CICERO, der sie auch als Vocal Coach nachhaltig prägte.
 
@@ -50,7 +50,7 @@ Aktuell ist Lili Czuya neben der HÖRBIE SCHMIDT BAND, der Party- und Galaband M
 
 ![](/media/2022/04/ben-schutz_dsc_0929_valentin-jagodzinski_klein.jpeg)
 
-Ben ist Perkussionist, Musikpädagoge und Festivalproduzent. Er arbeitet weltweit als Workshop Leiter im Bereich Body Percussion und kooperiert mit dem Goethe-Institut, Universitäten und Festivals.
+[Ben Schütz](https://www.bodyrhythm.de/team) ist Perkussionist, Musikpädagoge und Festivalproduzent. Er arbeitet weltweit als Workshop Leiter im Bereich Body Percussion und kooperiert mit dem Goethe-Institut, Universitäten und Festivals.
 
 Ben liebt die Verbindung von Rhythmus, Bewegung, Stimme und Gemeinschaft. Das zeigt sich in seinen Workshops und beim Body Rhythm Festival, das er ins Leben gerufen hat und das seit 2015 jährlich in Hamburg stattfindet.
 
@@ -60,7 +60,7 @@ Ben liebt die Verbindung von Rhythmus, Bewegung, Stimme und Gemeinschaft. Das ze
 
 ![](/media/2020/06/mischa-profil.jpg)
 
-Mischa Gohlke ist Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Projektleiter von “Grenzen sind relativ e.V.”. Und vor allem Mensch.
+[Mischa Gohlke](https://mischagohlkeband.de/) ist Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Projektleiter von “Grenzen sind relativ e.V.”. Und vor allem Mensch.
 
 Mit einer an Taubheit grenzenden Hörschädigung ist Mischa „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps den Weg als Profimusiker eingeschlagen und hat damit das scheinbar Unmögliche möglich gemacht.
 
