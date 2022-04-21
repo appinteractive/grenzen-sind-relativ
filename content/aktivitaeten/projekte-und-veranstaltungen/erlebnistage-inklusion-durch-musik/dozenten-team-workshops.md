@@ -44,7 +44,7 @@ Besonders inspirierte sie die Zusammenarbeit mit dem unvergessenen ROGER CICERO,
 
 Aktuell ist Lili Czuya neben der HÖRBIE SCHMIDT BAND, der Party- und Galaband MOOVE AND GROOVE BAND und ihrem Piano-Duo WHITE LEAVES auch für die JESSY MARTENS & BAND aktiv und supportet mit ihrer Stimme das Album „Tricky Thing“ sowie die WDR Live Produktion ROCKPALAST. 2020 wurde Lili Czuya mit dem DEUTSCHEN SINGER PREIS ausgezeichnet. Sie gewann den Deutschen Rock und Pop Preis als Beste Sängerin (Fremdkomposition) für die deutsche Neuinterpretation „Reisende Seele“ des Traditionals „Wayfaring Stranger“ (u.a. Johnny Cash) mit der Hörbie Schmidt Band.
 
-> Musik ist für mich Lebendigkeit, Inspiration, Kommunikation & Verarbeitung. Ob ich selbst Musik mache und andere Menschen in ihrer MMusik begleite oder sie an die Musik heranführe, jede dieser Reisen ist besonders und hält immer wieder kleine Wunder bereit.
+> Musik ist für mich Lebendigkeit, Inspiration, Kommunikation & Verarbeitung. Ob ich selbst Musik mache und andere Menschen in ihrer Musik begleite oder sie an die Musik heranführe, jede dieser Reisen ist besonders und hält immer wieder kleine Wunder bereit.
 
 ### **Ben Schütz** (Body Rhythm)
 
