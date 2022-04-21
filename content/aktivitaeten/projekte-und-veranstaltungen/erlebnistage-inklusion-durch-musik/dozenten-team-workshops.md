@@ -10,6 +10,18 @@ accessible: ''
 ---
 # Dozenten-Team
 
+### **Jens Carstens** (Schlagzeug, Rhythm´n´Groove & Drum-Circle)
+
+![](/media/2022/04/jens-carstens.jpg)
+
+Jens Carstens spielte in den letzten 20 Jahren als fester Schlagzeuger für „Rosenstolz“ und „Helene Fischer“ auf zahlreichen Arena und Stadion Tournee Shows.
+
+Seit über 20 Jahre ist er der Schlagzeuger und musikalische Leiter von Heinz Rudolf Kunze. Im Studio spielte er u.a für Udo Lindenberg, Selig, Aha, Rolf Zuckowski, Rosenstolz, Patricia Kaas, Helene Fischer.
+
+Er komponiert und produziert Musik für unterschiedliche Künstler und gab 2015 mit der Kinderbuchreihe Quentin Qualle sein Debüt als Kinderbuch-Autor.
+
+> Musik ist für mich die wunderbarste Form sich auszudrücken und mit anderen Menschen zu kommunizieren. Musik schafft emotionale Brücken zwischen den Menschen. In der Musik finde ich den Schlüssel zu mir selbst und den Ausgleich den ich brauche.
+
 ### **David Alleckna** (Bass, Multiinstrumentalist & Bandtraining)
 
 ![](/media/2022/03/david-alleckna-photo-by-daniela-mollenhoff-1.jpeg)
@@ -24,31 +36,15 @@ David engagiert sich musikalisch in der Freien Kirche und mag Menschen – egal 
 
 > Musik als Ausdruck und Auslöser ehrlicher, spontaner Gefühle ist wichtiger denn je, um zu sich selbst zu finden, in einer Welt, die uns ständig lockt, unsere Aufmerksamkeit woanders hin zu lenken als zu uns selbst.
 
-### **Jens Carstens** (Schlagzeug, Rhythm´n´Groove & Drum-Circle)
+### **Lili Czuya** (Gesang & Chor)
 
-![](/media/2022/04/jens-carstens.jpg)
+Die ausdrucksstarke Sängerin Lili Czuya mit dem charismatischen Timbre begeistert und berührt das Publikum mit authentischer Passion. Bereits in jungen Jahren sang sie auf den Bühnen der legendären Clubs auf St.Pauli und absolvierte national und international für hunderte Shows mit verschiedenen Künstlern.
 
-Jens Carstens spielte in den letzten 20 Jahren als fester Schlagzeuger für „Rosenstolz“ und „Helene Fischer“ auf zahlreichen Arena und Stadion Tournee Shows.
+Besonders inspirierte sie die Zusammenarbeit mit dem unvergessenen ROGER CICERO, der sie auch als Vocal Coach nachhaltig prägte.
 
-Seit über 20 Jahre ist er der Schlagzeuger und musikalische Leiter von Heinz Rudolf Kunze. Im Studio spielte er u.a für Udo Lindenberg, Selig, Aha, Rolf Zuckowski, Rosenstolz, Patricia Kaas, Helene Fischer.
+Aktuell ist Lili Czuya neben der HÖRBIE SCHMIDT BAND, der Party- und Galaband MOOVE AND GROOVE BAND und ihrem Piano-Duo WHITE LEAVES auch für die JESSY MARTENS & BAND aktiv und supportet mit ihrer Stimme das Album „Tricky Thing“ sowie die WDR Live Produktion ROCKPALAST. 2020 wurde Lili Czuya mit dem DEUTSCHEN SINGER PREIS ausgezeichnet. Sie gewann den Deutschen Rock und Pop Preis als Beste Sängerin (Fremdkomposition) für die deutsche Neuinterpretation „Reisende Seele“ des Traditionals „Wayfaring Stranger“ (u.a. Johnny Cash) mit der Hörbie Schmidt Band.
 
-Er komponiert und produziert Musik für unterschiedliche Künstler und gab 2015 mit der Kinderbuchreihe Quentin Qualle sein Debüt als Kinderbuch-Autor.
-
-> Musik ist für mich die wunderbarste Form sich auszudrücken und mit anderen Menschen zu kommunizieren. Musik schafft emotionale Brücken zwischen den Menschen. In der Musik finde ich den Schlüssel zu mir selbst und den Ausgleich den ich brauche.
-
-### **Nina Lorenz** (Gesang & Chor)
-
-![](/media/2022/03/nina-lorenz.jpeg)
-
-Sängerin. Moderatorin. Freigeist und Cosmopolitin. Friedensaktivistin.
-
-Als Sängerin bekannt aus ihrer Zusammenarbeit unter anderem mit Udo Lindenberg, Max Herre, Stefan Raab und Semino Rossi.
-
-Auf internationaler Konzert Tournee mit dem Film Orchester Babelsberg. Als Moderatorin stand sie für das internationale blue balls Festival in der Schweiz und die alljährlich stattfindenden Skate Aid Charity Galas auf der Bühne. Im TV moderierte sie z.B. den HANS, auch bekannt als Hamburger Musikpreis!
-
-Nina lebt als Sängerin und Dozentin in Hamburg, Berlin, Zürich und Ägypten.
-
-> _Kunst, Kultur und Musik sind ein Grundrecht des Menschen. In Kindern, Jugendlichen und Erwachsenen die Freude an der Musik zu wecken sehe ich als große Freude!_
+> Musik ist für mich Lebendigkeit, Inspiration, Kommunikation & Verarbeitung. Ob ich selbst Musik mache und andere Menschen in ihrer MMusik begleite oder sie an die Musik heranführe, jede dieser Reisen ist besonders und hält immer wieder kleine Wunder bereit.
 
 ### **Ben Schütz** (Body Rhythm)
 
@@ -73,3 +69,17 @@ Als glaubwürdiger Botschafter initiierte er 2016 den gemeinnützigen Verein “
 Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Darüber hinaus ist Mischa als Speaker, Dozent, Autor und als Aktivist u.a. in der Friedensbewegung aktiv.
 
 > _Musik ist eine universelle Sprache, die fast alle Menschen berührt. Musik bedeutet, Gefühle zuzulassen, kreativ zu sein und mit anderen Menschen in Verbindung zu treten. Musik ist mehr als nur die Summe von wahrgenommenen Tönen, sondern Ausdruck der Persönlichkeit und eine Erweiterung des Lebens._
+
+### **Nina Lorenz** (Gesang & Chor)
+
+![](/media/2022/03/nina-lorenz.jpeg)
+
+Sängerin. Moderatorin. Freigeist und Cosmopolitin. Friedensaktivistin.
+
+Als Sängerin bekannt aus ihrer Zusammenarbeit unter anderem mit Udo Lindenberg, Max Herre, Stefan Raab und Semino Rossi.
+
+Auf internationaler Konzert Tournee mit dem Film Orchester Babelsberg. Als Moderatorin stand sie für das internationale blue balls Festival in der Schweiz und die alljährlich stattfindenden Skate Aid Charity Galas auf der Bühne. Im TV moderierte sie z.B. den HANS, auch bekannt als Hamburger Musikpreis!
+
+Nina lebt als Sängerin und Dozentin in Hamburg, Berlin, Zürich und Ägypten.
+
+> _Kunst, Kultur und Musik sind ein Grundrecht des Menschen. In Kindern, Jugendlichen und Erwachsenen die Freude an der Musik zu wecken sehe ich als große Freude!_
