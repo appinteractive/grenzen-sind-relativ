@@ -70,16 +70,4 @@ Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals
 
 > _Musik ist eine universelle Sprache, die fast alle Menschen berührt. Musik bedeutet, Gefühle zuzulassen, kreativ zu sein und mit anderen Menschen in Verbindung zu treten. Musik ist mehr als nur die Summe von wahrgenommenen Tönen, sondern Ausdruck der Persönlichkeit und eine Erweiterung des Lebens._
 
-### **Nina Lorenz** (Gesang & Chor)
-
-![](/media/2022/03/nina-lorenz.jpeg)
-
-Sängerin. Moderatorin. Freigeist und Cosmopolitin. Friedensaktivistin.
-
-Als Sängerin bekannt aus ihrer Zusammenarbeit unter anderem mit Udo Lindenberg, Max Herre, Stefan Raab und Semino Rossi.
-
-Auf internationaler Konzert Tournee mit dem Film Orchester Babelsberg. Als Moderatorin stand sie für das internationale blue balls Festival in der Schweiz und die alljährlich stattfindenden Skate Aid Charity Galas auf der Bühne. Im TV moderierte sie z.B. den HANS, auch bekannt als Hamburger Musikpreis!
-
-Nina lebt als Sängerin und Dozentin in Hamburg, Berlin, Zürich und Ägypten.
-
-> _Kunst, Kultur und Musik sind ein Grundrecht des Menschen. In Kindern, Jugendlichen und Erwachsenen die Freude an der Musik zu wecken sehe ich als große Freude!_
+> 
