@@ -21,9 +21,9 @@ Im Zeitraum Mai bis September 2022 werden wir 5 Veranstaltungen in 5 verschieden
 
 Im Folgenden die Veranstaltungstermine:
 
-Do. 05.05.2022: Grundschule Bindfeldweg
+Do. 05.05.2022: ReBBZ Eimsbüttel 
 
-Fr. 06.05.2022: ReBBZ Eimsbüttel
+Fr. 06.05.2022: Grundschule Bindfeldweg
 
 Do. 12.05.2022: Nelson Mandela Schule
 
