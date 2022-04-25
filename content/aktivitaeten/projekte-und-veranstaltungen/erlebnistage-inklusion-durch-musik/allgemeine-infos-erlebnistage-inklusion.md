@@ -1,9 +1,9 @@
 ---
 title: Celebrate the music
-description: Das Projekt „Celebrate the music“ schafft Raum für Begegnung, Erfahrungsaustausch
-  und Perspektivwechsel für Menschen mit und ohne Beeinträchtigungen. Durch Musik-Workshops,
-  interaktive Begegnungen und Konzertveranstaltungen werden Impulse für eine “gelebte(re)
-  gesamtgesellschaftliche Inklusion” freigesetzt.
+description: Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen
+  Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel
+  ! Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
+  Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
 teaser: "/media/2020/10/danke-schreiben-schule.jpg"
 gallery: []
 alias: ''
