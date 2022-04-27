@@ -36,16 +36,6 @@ David engagiert sich musikalisch in der Freien Kirche und mag Menschen – egal 
 
 > Musik als Ausdruck und Auslöser ehrlicher, spontaner Gefühle ist wichtiger denn je, um zu sich selbst zu finden, in einer Welt, die uns ständig lockt, unsere Aufmerksamkeit woanders hin zu lenken als zu uns selbst.
 
-### **Lili Czuya** (Gesang & Chor)
-
-Die ausdrucksstarke Sängerin [Lili Czuya](www.lili-musik.de) mit dem charismatischen Timbre begeistert und berührt das Publikum mit authentischer Passion. Bereits in jungen Jahren sang sie auf den Bühnen der legendären Clubs auf St.Pauli und absolvierte national und international für hunderte Shows mit verschiedenen Künstlern.
-
-Besonders inspirierte sie die Zusammenarbeit mit dem unvergessenen ROGER CICERO, der sie auch als Vocal Coach nachhaltig prägte.
-
-Aktuell ist Lili Czuya neben der HÖRBIE SCHMIDT BAND, der Party- und Galaband MOOVE AND GROOVE BAND und ihrem Piano-Duo WHITE LEAVES auch für die JESSY MARTENS & BAND aktiv und supportet mit ihrer Stimme das Album „Tricky Thing“ sowie die WDR Live Produktion ROCKPALAST. 2020 wurde Lili Czuya mit dem DEUTSCHEN SINGER PREIS ausgezeichnet. Sie gewann den Deutschen Rock und Pop Preis als Beste Sängerin (Fremdkomposition) für die deutsche Neuinterpretation „Reisende Seele“ des Traditionals „Wayfaring Stranger“ (u.a. Johnny Cash) mit der Hörbie Schmidt Band.
-
-> Musik ist für mich Lebendigkeit, Inspiration, Kommunikation & Verarbeitung. Ob ich selbst Musik mache und andere Menschen in ihrer Musik begleite oder sie an die Musik heranführe, jede dieser Reisen ist besonders und hält immer wieder kleine Wunder bereit.
-
 ### **Ben Schütz** (Body Rhythm)
 
 ![](/media/2022/04/ben-schutz_dsc_0929_valentin-jagodzinski_klein.jpeg)
@@ -70,4 +60,12 @@ Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals
 
 > _Musik ist eine universelle Sprache, die fast alle Menschen berührt. Musik bedeutet, Gefühle zuzulassen, kreativ zu sein und mit anderen Menschen in Verbindung zu treten. Musik ist mehr als nur die Summe von wahrgenommenen Tönen, sondern Ausdruck der Persönlichkeit und eine Erweiterung des Lebens._
 
-> 
+### **Lili Czuya** (Gesang & Chor)
+
+Die ausdrucksstarke Sängerin [Lili Czuya](www.lili-musik.de) mit dem charismatischen Timbre begeistert und berührt das Publikum mit authentischer Passion. Bereits in jungen Jahren sang sie auf den Bühnen der legendären Clubs auf St.Pauli und absolvierte national und international für hunderte Shows mit verschiedenen Künstlern.
+
+Besonders inspirierte sie die Zusammenarbeit mit dem unvergessenen ROGER CICERO, der sie auch als Vocal Coach nachhaltig prägte.
+
+Aktuell ist Lili Czuya neben der HÖRBIE SCHMIDT BAND, der Party- und Galaband MOOVE AND GROOVE BAND und ihrem Piano-Duo WHITE LEAVES auch für die JESSY MARTENS & BAND aktiv und supportet mit ihrer Stimme das Album „Tricky Thing“ sowie die WDR Live Produktion ROCKPALAST. 2020 wurde Lili Czuya mit dem DEUTSCHEN SINGER PREIS ausgezeichnet. Sie gewann den Deutschen Rock und Pop Preis als Beste Sängerin (Fremdkomposition) für die deutsche Neuinterpretation „Reisende Seele“ des Traditionals „Wayfaring Stranger“ (u.a. Johnny Cash) mit der Hörbie Schmidt Band.
+
+> Musik ist für mich Lebendigkeit, Inspiration, Kommunikation & Verarbeitung. Ob ich selbst Musik mache und andere Menschen in ihrer Musik begleite oder sie an die Musik heranführe, jede dieser Reisen ist besonders und hält immer wieder kleine Wunder bereit.
