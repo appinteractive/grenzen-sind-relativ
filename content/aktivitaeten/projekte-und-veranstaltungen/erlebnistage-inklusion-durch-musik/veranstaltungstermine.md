@@ -32,7 +32,7 @@ Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
 
 Im Rahmen der Netzwerkveranstaltung “Celebrate the music - Come together!” kommen alle Mitwirkenden zusammen. Gemeinsam mit dem Publikum wird die Essenz der Musik gebührend zelebriert.
 
-Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen der Kooperationspartner:innen, wie dem Schüler:innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie der Dozent:innen-Band - bestehend aus [Mischa Gohlke ](https://mischagohlkeband.de/)(Gitarre), [David Alleckna](https://alleckna.de/) (Bass), [Jens Carstens](https://de.yamaha.com/de/artists/j/jens_carstens.html) und [Oded Kafri](https://odedkafri.com/ueber/) (Schlagzeug), die schon mit Größen wie Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
+Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen der Kooperationspartner:innen, wie dem Schüler:innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie der Dozent:innen-Band - bestehend aus [Mischa Gohlke ](https://mischagohlkeband.de/)(Gitarre), [David Alleckna](https://alleckna.de/) (Bass), [Jens Carstens](https://de.yamaha.com/de/artists/j/jens_carstens.html) und [Oded Kafri](https://odedkafri.com/ueber/) (Schlagzeug) und [Volkan Baydar](https://www.volkanbaydar.com/) (Gesang) die schon mit Größen wie Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
 
 > So let´s celebrate the music and come together!
 
