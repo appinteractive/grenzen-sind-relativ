@@ -81,6 +81,12 @@ Oded Kafri ist seit über einem Jahrzehnt in seiner „Drum The World“ -Initia
 
 ![](/media/2022/04/rico-bowen-_-mischa-gohlke-band-__-foto-by-jorp-lippmann.jpg)
 
+Multi-Talent Rico Bowen stellte begann seine Laufbahn als Musik in sehr jungen Alter. Bereits als Kind traf er sich mit der Supergruppe Earth Wind & Fire, durch seinen Vater, der als Taxifahrer die Künstler bei einer Fahrt nach einem ihrer Konzerte kennen lernte. 
+
+Durch dieses Treffen auf Augenhöhe und das Erleben der Schwingungen und Bewegungen, inspiriert es den jungen Rico Bowen, die Musik als seine Zukunft zu betrachten. Ein paar Jahre später Rico nahm die Gitarre und lernte viele Arten von Musik, von R & B, Jazz, Funk und Rock n Roll bis zu Country und Reggae. 
+
+Er besuchte die Schule der darstellende Künste und Musik in den USA und dort lernte Bowen die Arbeitsmoral und herzliche Leidenschaft, die er als Musiker benötigte. Ein Jahr später begann Bowen mit verschiedenen Band-Projekten, zusammen mit Größen wie Julian Lennon, Blondie, Dave Matthews Band, Madonna, Shakira und The Tom Tom Club.
+
 ### **Lili Czuya** (Stimme & Chor)
 
 ![](/media/2022/04/lili-czuya-beate-grams-1.JPG)
