@@ -77,6 +77,10 @@ Oded begann im Alter von 10 Jahren mit dem Schlagzeugspielen im Luftschutzbunker
 
 Oded Kafri ist seit über einem Jahrzehnt in seiner „Drum The World“ -Initiative unterwegs und hat starke Fanbasen in ganz Europa und Großbritannien. Oded Kafri hat drei Studioalben „Rhythm for Dancing Lessons Vol. 2“, „The Drum Machine Project“ und zuletzt mit seiner neuen Band in Hamburg die EP mit dem Titel „Drum The World“ veröffentlicht. Oded Kafri lebt derzeit in Hamburg Deutschland, wo er bereits durch regionale TV- und Presseberichte bekannt ist. Er wurde auch eingeladen einen „TEDx Talk“ zu geben, um seine inspirierende Geschichte zu erzählen und wurde 2016 für den „Kutiman-Mix Hamburg“ ausgewählt. Er ist signierter Künstler von Off Ya Tree Records und Broken Silence Distribution. Im Mai 2017 repräsentierte er die High-End Lautsprecher von Avantgarde Acoustic bei der High End Exhibition in München.
 
+### **Rico Bowen** (Bass, Gesang, Multiinstrumentalist)
+
+![](/media/2022/04/rico-bowen-_-mischa-gohlke-band-__-foto-by-jorp-lippmann.jpg)
+
 ### **Lili Czuya** (Stimme & Chor)
 
 ![](/media/2022/04/lili-czuya-beate-grams-1.JPG)
