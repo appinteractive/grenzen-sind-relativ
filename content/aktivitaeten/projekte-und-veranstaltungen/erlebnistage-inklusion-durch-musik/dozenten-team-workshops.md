@@ -36,6 +36,15 @@ David engagiert sich musikalisch in der Freien Kirche und mag Menschen – egal 
 
 > Musik als Ausdruck und Auslöser ehrlicher, spontaner Gefühle ist wichtiger denn je, um zu sich selbst zu finden, in einer Welt, die uns ständig lockt, unsere Aufmerksamkeit woanders hin zu lenken als zu uns selbst.
 
+### **Volkan Baydar** (Stimme & Chor)
+
+![](/media/2022/04/volkan-live-pressefoto-1.jpeg)  
+Dem 1971 in Hamburg als Sohn türkischer Eltern geborene [Volkan Baydar](https://www.volkanbaydar.com/) gelingt 2000 der Durchbruch mit Orange Blue: In Love With A Dream wird mit Platin ausgezeichnet, die Single She's Got That Light avanciert zum Riesenhit. Es folgt eine Echo Nominierung in der Kategorie Bester Newcomer und zahlreiche Auftritte. Die zweite Single Can Somebody Tell Me Who I Am wird Teil des Soundtracks zum Disney Filmhit Dinosaurier und mit dem Song The Sun On Your Face aus ihrem zweiten Album, untermalt das Duo den Hollywoodklassiker America's Sweethearts mit Julia Roberts und Catherine Zeta-Jones.
+
+Es folgen Produktionen und Kompositionen für diverse Projekte und TV Produktionen (z.B der Titelsong zu der ZDF Serie Dr. Klein: „Beautiful Day“, Komposition, Produktion, Gesang). Mit WHITE | WEISS veröffentlicht Baydar 2020 sein fünftes (Doppel-) Album mit Orange Blue, erstmals auch in deutscher Sprache. Die Single „Die Welt steht still“ wird auf einer der größten Bühne Europas im Rahmen der ZDF Silvestergala vor tausenden von Menschen performt. 
+
+Aktuell arbeitet Volkan Baydar an seinem neuen Album mit dem Arbeits-Titel „ZWEITAUSENDDREIUNDZWANIG-03-23“ Alle Songs werden nach traditioneller Art wieder selbst komponiert und produziert. Die erste Single- Auskopplung „Weihnachtszeit" ist für Oktober 2022 geplant
+
 ### **Ben Schütz** (Body Rhythm)
 
 ![](/media/2022/04/ben-schutz_dsc_0929_valentin-jagodzinski_klein.jpeg)
