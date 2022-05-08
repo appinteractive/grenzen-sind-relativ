@@ -17,7 +17,7 @@ accessible: ''
 
 Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel! 
 
-Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden an fünf Veranstaltungstagen im Zeitraum Mai bis September 2022 gemeinsam mit Institutionen aus Bildung, Kultur und Sozialem Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt:
+Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden an fünf Veranstaltungstagen gemeinsam mit Institutionen aus Bildung, Kultur und Sozialem Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt:
 
 Do. 05.05.2022: ReBBZ Eimsbüttel
 
