@@ -35,7 +35,7 @@ So. 11.09.2022: Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt 
 
 Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel Musik-Orient(ierung) & Bandtraining, Drumcircle & Rhythm´n´Groove, Stimme & Chor, Body Rhythm und Tanz & Bewegung.
 
-Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: David Alleckna, Jens Carstens, Mischa Gohlke, Lili Czuya, Oded Kafri, Rico Bowen, Christian Nowak, Hörbie Schmidt und das Body Rhythm Team um Ben Schütz. Die Dozent:innen haben bereits mit Größen wie Madonna, Shakira, Dave Matthews Band, Phil Collins, Julian Lennon, Udo Lindenberg, Selig, Roger Cicero, Helene Fischer, Aha, Rolf Zuckowski, Rosenstolz, Blondie und Nena zusammen gespielt.
+Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: David Alleckna, Jens Carstens, Mischa Gohlke, Lili Czuya, Oded Kafri, Rico Bowen, Volkan Baydar und das Body Rhythm Team um Ben Schütz. Die Dozent:innen haben bereits mit Größen wie Madonna, Shakira, Dave Matthews Band, Phil Collins, Julian Lennon, Udo Lindenberg, Selig, Roger Cicero, Helene Fischer, Aha, Rolf Zuckowski, Rosenstolz, Blondie und Nena zusammen gespielt.
 
 Jeder Tag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmenden zusammen mit den Dozent:innen und weiteren künstlerischen Acts die Bühne rocken werden.
 
