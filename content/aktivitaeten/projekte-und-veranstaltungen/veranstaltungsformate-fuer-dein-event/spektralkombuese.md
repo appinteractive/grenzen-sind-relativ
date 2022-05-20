@@ -14,6 +14,7 @@ teaser: "/media/2020/09/spektralkombuse-beitragsbild.png"
 gallery: []
 alias: "/veranstaltungen/spektralkombuese.html"
 wide: false
+accessible: ''
 
 ---
 # Spektralkombüse
@@ -25,6 +26,20 @@ wide: false
 Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kabarett? Eine Frage, die sich ab jetzt nicht mehr stellt. Jedenfalls dann nicht, wenn man sich auf Inklusion der kulturellen Art einlassen kann und die Spektralkombüse besucht, wo Tanz, Musik und Theater wie selbstverständlich an einem außergewöhnlichen Abend zu einer lebendigen Mischung miteinander verschmelzen. Die Idee der Inklusion wird so im besten wie doppelten Sinne transportiert. Von drei ganz unterschiedlichen Künstlern, die sich trotz ihrer jeweiligen Behinderung nicht davon abhalten lassen, es allen zu zeigen. Jedenfalls denjenigen, die sich nicht zwischen Tanztheater, Konzert oder Kabarett entscheiden wollen. Warum sollten Sie auch, wenn das ganze Spektrum liegt so nah.
 
 ***
+
+### **Mischa Gohlke Band**
+
+![Mischa Gohlke Band](/media/2018/11/MGB.jpeg "Mischa Gohlke Band")Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er – „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps – erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht. 
+
+In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach. 
+
+Komplettiert wird die Band durch den Bassisten [David Alleckna](https://alleckna.de/) _(Phil Collins, Udo Lindenberg, Inga Rumpf, Sasha, Nena)_, den Schlagzeuger [Jens Carstens](https://de.wikipedia.org/wiki/Jens_Carstens) _(Udo Lindenberg, Selig, Heinz Rudolf Kunze, Patricia Kaas, Helene Fischer)_ und [Volkan Baydar](https://www.volkanbaydar.com/) _(Orange Blue)_ am Gesang.
+
+Das Mischa Gohlke Band spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho (_ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Zeit, TAZ, MOPO, Hamburger Abendblatt, uvwm.)_. 
+
+Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt!
+
+→ Webseite: [www.mischagohlkeband.de](https://mischagohlkeband.de/)
 
 ### **Kassandra Wedel** ![Kassandra Wedel](/media/2015/11/kassandra-wedel.jpg "Kassandra Wedel")
 
@@ -43,14 +58,6 @@ Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Marti
 → Webseite: [https://www.martin-fromme.de](https://www.martin-fromme.de "https://www.martin-fromme.de")
 
 [https://youtu.be/JjdRzwKuqKQ](https://youtu.be/JjdRzwKuqKQ "https://youtu.be/JjdRzwKuqKQ")
-
-### **Mischa Gohlke Band**
-
-![Mischa Gohlke Band](/media/2018/11/MGB.jpeg "Mischa Gohlke Band")Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er – „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps – erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht. In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach. Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den gebürtigen Rheinländer und studierten Jazz-Schlagzeuger Alex Jezdinsky (Nils Frevert, Gisbert zu Knyphausen, Michel van Dyke). Das Power-Trio spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho. Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt!
-
-→ Webseite: [www.mischagohlkeband.de](https://mischagohlkeband.de/)
-
-[https://youtu.be/D2xro2s2Crs](https://youtu.be/D2xro2s2Crs "https://youtu.be/D2xro2s2Crs")
 
 **Moderation:**
 
