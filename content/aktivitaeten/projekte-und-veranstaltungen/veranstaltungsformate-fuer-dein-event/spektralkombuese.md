@@ -71,7 +71,7 @@ Die “Spektralkombüse”-Performance findet im Rahmen von Festivals, Stadtteil
 
 * Workshops & Seminare (Musik, Tanz, Theater, Inklusion, Kulturmanagement, usw.)
 * Interviews, Talkrunde und interaktive Gesprächsrunde
-* Zum großen Finale: Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei der Veranstaltung den Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) (ab Sept. 2020: “2. Inklusionssong”) auf der Bühne mitzusingen & zu performancen. Der Song wird im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band eingeprobt.
+* Zum großen Finale: Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei der Veranstaltung den Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) (ab Herbst 2022: “2. Inklusionssong”) auf der Bühne mitzusingen & zu performancen. Der Song wird im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band eingeprobt.
 * Network-Area: Hier könn(t)en sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN in einem Infotischbereich präsentieren und sich dabei kennenlernen, austauschen und vernetzen.
 * Interaktive Erlebniswelten/Aktionen: Es wird eine (kleine) Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden (z.B. Gebärdensprach-Barkeeper, Kleinkunst zum Mitmachen, künstlerische Präsentationen zu den Themen Inklusion, Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.)
 
