@@ -57,8 +57,6 @@ Besser Arm ab als arm dran, heißt das aktuelle Programm des Kabarettisten Marti
 
 → Webseite: [https://www.martin-fromme.de](https://www.martin-fromme.de "https://www.martin-fromme.de")
 
-[https://youtu.be/JjdRzwKuqKQ](https://youtu.be/JjdRzwKuqKQ "https://youtu.be/JjdRzwKuqKQ")
-
 **Moderation:**
 
 ![Markus Riemann](/media/2018/09/markus-riemann-foto.1024x1024.jpg "Markus Riemann")
