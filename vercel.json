@@ -15,7 +15,11 @@
       "source": "/ueber-uns",
       "destination": "https://www.grenzensindrelativ.de/ueber-uns/das-team/alle",
       "permanent": true
+    },
+    {
+      "source": "teaser.png",
+      "destination": "https://www.grenzensindrelativ.de/teaser.png",
+      "permanent": true
     }
   ]
-
 }

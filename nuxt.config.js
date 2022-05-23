@@ -77,13 +77,13 @@ export default {
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: '/favicon-32x32.png',
+        href: '/favicon-32x32.png?v=3',
       },
       {
         rel: 'icon',
         type: 'image/png',
         sizes: '16x16',
-        href: '/favicon-16x16.png',
+        href: '/favicon-16x16.png?v=3',
       },
       {
         rel: 'manifest',
@@ -94,7 +94,7 @@ export default {
         href: '/safari-pinned-tab.svg',
         color: '#FF6400',
       },
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico?v=3' },
       {
         rel: 'stylesheet',
         href: 'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500;1,600;1,700&family=Fira+Sans:wght@700;800;900&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap',
