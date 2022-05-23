@@ -2,7 +2,7 @@
   <div class="flex">
     <a
       :href="src"
-      class="rounded !mx-auto !flex !flex-shrink items-center hover:!no-underline !no-underline !inline-flex bg-[#D65400] !text-sm !text-white !font-bold uppercase px-3 py-1.5 shadow"
+      class="rounded !mx-auto !flex !flex-shrink items-center hover:!no-underline !no-underline !inline-flex bg-[#32669A] !text-sm !text-white !font-bold uppercase px-3 py-1.5 shadow"
     >
       Mehr erfahren
       <!-- <svg

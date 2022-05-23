@@ -17,8 +17,8 @@
       "permanent": true
     },
     {
-      "source": "teaser.png",
-      "destination": "https://www.grenzensindrelativ.de/teaser.png",
+      "source": "/teaser.png",
+      "destination": "https://www.grenzensindrelativ.de/teaser.jpg",
       "permanent": true
     }
   ]

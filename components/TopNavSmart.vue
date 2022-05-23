@@ -140,7 +140,7 @@
             <li class="relative" v-if="level1.button" :key="level1.title">
               <NuxtLink
                 :to="getNearestURL(level1)"
-                class="level1 font-medium tracking-wide bg-[#D65400] !text-white !font-bold rounded flex px-4 py-2.5 relative"
+                class="level1 font-medium tracking-wide bg-[#32669A] !text-white !font-bold rounded flex px-4 py-2.5 relative"
                 role="menuitem"
               >
                 {{ level1.title }}
