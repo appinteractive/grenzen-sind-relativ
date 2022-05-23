@@ -3,7 +3,7 @@ title: Kontakt
 description: ''
 alias: '/kontakt.html'
 wide: false
-teaser: '/teaser.png'
+teaser: '/teaser.jpg'
 ---
 
 # Kontakt

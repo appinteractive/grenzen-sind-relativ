@@ -1,5 +1,5 @@
 ---
-teaser: '/teaser.png'
+teaser: '/teaser.jpg'
 title: '#diskurskultur - die 7teilige Filmreihe'
 description: ''
 wide: false

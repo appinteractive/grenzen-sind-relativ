@@ -49,12 +49,12 @@ export default {
       {
         hid: 'apple-mobile-web-app-title',
         name: 'apple-mobile-web-app-title',
-        content: 'Grenzen sind Relativ e.V.',
+        content: 'GSR e.V.',
       },
       {
         hid: 'application-name',
         name: 'application-name',
-        content: 'Grenzen sind Relativ e.V.',
+        content: 'GSR e.V.',
       },
       {
         hid: 'msapplication-TileColor',
@@ -92,7 +92,7 @@ export default {
       {
         rel: 'mask-icon',
         href: '/safari-pinned-tab.svg',
-        color: '#5bbad5',
+        color: '#FF6400',
       },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {

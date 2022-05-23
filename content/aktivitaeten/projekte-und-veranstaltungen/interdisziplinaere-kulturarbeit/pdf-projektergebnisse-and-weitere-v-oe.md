@@ -1,5 +1,5 @@
 ---
-teaser: '/teaser.png'
+teaser: '/teaser.jpg'
 title: 'PDF Projektergebnisse & weitere VÖ'
 description: ''
 wide: false

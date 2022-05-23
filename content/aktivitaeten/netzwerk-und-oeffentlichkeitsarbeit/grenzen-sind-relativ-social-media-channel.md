@@ -1,5 +1,5 @@
 ---
-teaser: '/teaser.png'
+teaser: '/teaser.jpg'
 title: Grenzen sind relativ - Social Media Channel
 description: ''
 wide: false
