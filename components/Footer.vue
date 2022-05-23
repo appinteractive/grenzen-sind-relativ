@@ -1,5 +1,5 @@
 <template>
-  <footer class="w-full bg-[#193861] text-gray-100 bottom-0">
+  <footer class="w-full bg-[#072848] text-gray-100 bottom-0">
     <div class="container m-auto px-4 md:px-8 py-10 pb-16 lg:pb-10">
       <div class="grid lg:grid-cols-3">
         <div
@@ -44,32 +44,14 @@
               type="email"
               aria-label="E-Mail für Newsletteranmeldung"
               name="email"
-              class="
-                rounded
-                mt-3
-                py-3
-                px-4
-                bg-[#4F96D9]
-                text-primary-900
-                placeholder-black
-                focus:bg-primary-200
-              "
+              class="rounded mt-3 py-3 px-4 bg-[#32669A] text-primary-900 placeholder-white focus:placeholder-black focus:bg-white"
               placeholder="Deine E-Mail"
               :disabled="loading"
             />
             <button
               name="submit"
               type="submit"
-              class="
-                rounded
-                bg-[#020808]
-                mt-2
-                py-3
-                px-4
-                text-white
-                font-bold
-                tracking-wide
-              "
+              class="rounded bg-[#184571] border border-white border-opacity-50 mt-2 py-3 px-4 text-white font-bold tracking-wide"
               aria-label="zum Newsletter anmelden"
               :disabled="loading"
             >

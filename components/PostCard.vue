@@ -34,7 +34,7 @@
         aria-hidden="true"
       >
         <div
-          class="rounded items-center flex bg-[#4072B2] text-white px-3 py-1.5 shadow"
+          class="rounded items-center flex bg-[#D65400] text-white px-3 py-1.5 shadow"
         >
           Mehr erfahren
           <!-- <svg
