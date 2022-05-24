@@ -17,8 +17,6 @@ seite:
 
 <img src="/teaser.jpg" alt="Grenzen sind relativ e.V." class="w-full !mx-auto wide !-mt-8" />
 
-![](/media/2022/05/banner_web_banner-startseite.jpg)
-
 ### Aktionsbüro für eine multipolare Gesellschaftskultur
 
 Mit Projekten, Veranstaltungen, Kampagnen, Musikunterricht, Workshops, Beratung und Öffentlichkeitsarbeit & Bewusstseinsbildung bringen wir Menschen verschiedenster Backgrounds zusammen und setzen uns für interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Dialog & Miteinander und gelebten Frieden für alle Menschen auf diesem Planeten ein.
