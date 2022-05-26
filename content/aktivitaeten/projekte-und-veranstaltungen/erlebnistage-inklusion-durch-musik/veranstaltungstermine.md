@@ -14,7 +14,7 @@ Eine Netzwerkveranstaltung von und mit der [Staatlichen Jugendmusikschule Hambur
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
-**The Facts:**
+**THE FACTS:**
 
 Datum: So. 19.06.2022
 
