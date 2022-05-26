@@ -14,13 +14,7 @@ Eine Netzwerkveranstaltung von und mit der [Staatlichen Jugendmusikschule Hambur
 
 Live on stage: [Oded Kafri](https://odedkafri.com/ueber/) \~ [Volkan Baydar](https://www.volkanbaydar.com/) \~ [Mischa Gohlke Band](https://mischagohlkeband.de/) \~ [Body Rhythm Hamburg](https://www.bodyrhythm.de/) \~ [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/) \~ [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/) \~ Moderation: [Markus Riemann](https://kulturbedarf.de/)
 
-Datum: So. 19.06.2022
-
-Uhrzeit: 14.00 bis 16.30 Uhr
-
-Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98)
-
-Eintritt frei
+So. 19.06.2022 \~ 14.00 bis 16.30 Uhr \~ [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98) \~ Eintritt frei
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
