@@ -22,23 +22,23 @@ Das Bühnenprogramm (14.00 bis 16.30 Uhr) umfasst facettenreiche Acts: Durch mus
 
 Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
+#### **LIVE ON STAGE:**
+
+#### [Oded Kafri](https://odedkafri.com/ueber/)
+
+#### [Volkan Baydar](https://www.volkanbaydar.com/)
+
+#### [Mischa Gohlke Band](https://mischagohlkeband.de/)
+
+#### [Body Rhythm Hamburg](https://www.bodyrhythm.de/)
+
+#### [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
+
+#### [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
+
+#### Moderation: [Markus Riemann](https://kulturbedarf.de/)
+
 > So let´s celebrate the music and come together!
-
-### **LIVE ON STAGE:**
-
-### [Oded Kafri](https://odedkafri.com/ueber/)
-
-### [Volkan Baydar](https://www.volkanbaydar.com/)
-
-### [Mischa Gohlke Band](https://mischagohlkeband.de/)
-
-### [Body Rhythm Hamburg](https://www.bodyrhythm.de/)
-
-### [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
-
-### [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
-
-### Moderation: [Markus Riemann](https://kulturbedarf.de/)
 
 _Produktionsleitung: Mischa Gohlke & Fabia Mekus (Grenzen sind relativ e.V.)_
 
