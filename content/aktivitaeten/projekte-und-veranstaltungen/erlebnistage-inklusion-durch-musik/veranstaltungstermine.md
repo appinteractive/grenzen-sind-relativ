@@ -1,7 +1,10 @@
 ---
 teaser: "/media/2022/05/banner-celebrate-the-music-come-together-19-06-altonale-2022.jpg"
 title: "“Celebrate the music - Come together” // So. 19.06. “altonale 2022”"
-description: ''
+description: 'Im Rahmen der Veranstaltungsreihe “Celebrate the music” (Workshops,
+  Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale”
+  (Bühne: Platz der Republik) zusammen, um gemeinsam mit dem Publikum die Essenz der
+  Musik gebührend zu feiern.'
 wide: false
 gallery: []
 alias: ''
