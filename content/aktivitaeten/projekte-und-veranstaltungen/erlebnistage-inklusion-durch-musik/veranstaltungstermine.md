@@ -1,6 +1,6 @@
 ---
 teaser: "/media/2022/05/banner-celebrate-the-music-come-together-19-06-altonale-2022.jpg"
-title: "“Celebrate the music - Come together” // So. 19.06. “altonale 2022”"
+title: "“Celebrate the music - Come together” // So. 19.06.22 “altonale”"
 description: 'Im Rahmen der Veranstaltungsreihe “Celebrate the music” (Workshops,
   Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale”
   (Bühne: Platz der Republik) zusammen, um gemeinsam mit dem Publikum die Essenz der
@@ -11,7 +11,7 @@ alias: ''
 accessible: ''
 
 ---
-# **“Celebrate the music - Come together!” // So. 19.06. "altonale 2022"** 
+# **“Celebrate the music - Come together!” // So. 19.06.22 "altonale"**
 
 ## [Platz der Republik](https://goo.gl/maps/wfX5yTBBNpumMxD98) **-** 14.00 bis 16.30 Uhr - Eintritt frei
 
@@ -23,7 +23,7 @@ Im Rahmen der Veranstaltungsreihe **“**[**Celebrate the music**](https://www.g
 
 Das **Bühnenprogramm** (14.00 bis 16.30 Uhr) umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule und der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
 
-Dazu wird es vor Ort eine **Network-Area** geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können. 
+Dazu wird es vor Ort eine **Network-Area** geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
 #### **LIVE ON STAGE:**
 
