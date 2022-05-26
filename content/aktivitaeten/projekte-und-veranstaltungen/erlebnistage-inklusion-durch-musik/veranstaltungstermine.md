@@ -12,9 +12,7 @@ accessible: ''
 
 Eine Netzwerkveranstaltung von und mit der [Staatlichen Jugendmusikschule Hamburg](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/), der [Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/startseite/), der [Grundschule Bindfeldweg](https://grundschule-bindfeldweg.hamburg.de/), dem [Regionales Bildungs- und Beratungszentrum Eimsbüttel](https://rebbz-eimsbuettel.hamburg.de/), der [Inklusionsagentur Norderstedt](https://n-i-i-n.de/), [Grenzen sind relativ e.V.](https://www.grenzensindrelativ.de/) und der [altonale](www.altonale.de).
 
-> _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
-
-**THE FACTS:**
+Live on stage: [Oded Kafri](https://odedkafri.com/ueber/) \~ [Volkan Baydar](https://www.volkanbaydar.com/) \~ [Mischa Gohlke Band](https://mischagohlkeband.de/) \~ [Body Rhythm Hamburg](https://www.bodyrhythm.de/) \~ [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/) \~ [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/) \~ Moderation: [Markus Riemann](https://kulturbedarf.de/)
 
 Datum: So. 19.06.2022
 
@@ -24,21 +22,7 @@ Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98)
 
 Eintritt frei
 
-**LIVE ON STAGE:**
-
-[Oded Kafri](https://odedkafri.com/ueber/) 
-
-[Volkan Baydar](https://www.volkanbaydar.com/) 
-
-[Mischa Gohlke Band](https://mischagohlkeband.de/) 
-
-[Body Rhythm Hamburg](https://www.bodyrhythm.de/)
-
-[Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
-
-[Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
-
-Moderation: [Markus Riemann](https://kulturbedarf.de/)
+> _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
 Im Rahmen der Veranstaltungsreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der der “altonale” zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
 
