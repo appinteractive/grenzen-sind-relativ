@@ -8,19 +8,33 @@ alias: ''
 accessible: ''
 
 ---
-# **“Celebrate the music - Come together!” // So. 19.06. “altonale 2022”**
+# **“Celebrate the music - Come together!”** 
 
-Eine Netzwerkveranstaltung von und mit der [Staatlichen Jugendmusikschule Hamburg](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/), der [Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/startseite/), der [Grundschule Bindfeldweg](https://grundschule-bindfeldweg.hamburg.de/), dem [Regionales Bildungs- und Beratungszentrum Eimsbüttel](https://rebbz-eimsbuettel.hamburg.de/), der [Inklusionsagentur Norderstedt](https://n-i-i-n.de/), [Grenzen sind relativ e.V.](https://www.grenzensindrelativ.de/) und der [altonale](www.altonale.de).
+## So. 19.06.2022 \~ 14.00 bis 16.30 Uhr \~ [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98) \~ Eintritt frei
 
-Live on stage: [Oded Kafri](https://odedkafri.com/ueber/) \~ [Volkan Baydar](https://www.volkanbaydar.com/) \~ [Mischa Gohlke Band](https://mischagohlkeband.de/) \~ [Body Rhythm Hamburg](https://www.bodyrhythm.de/) \~ [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/) \~ [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/) \~ Moderation: [Markus Riemann](https://kulturbedarf.de/)
-
-So. 19.06.2022 \~ 14.00 bis 16.30 Uhr \~ [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98) \~ Eintritt frei
+### _Eine Netzwerkveranstaltung von und mit der_ [_Staatlichen Jugendmusikschule Hamburg_](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/)_, der_ [_Nelson-Mandela-Schule_](https://www.nelson-mandela-schule-kirchdorf.de/startseite/)_, der_ [_Grundschule Bindfeldweg_](https://grundschule-bindfeldweg.hamburg.de/)_, dem_ [_Regionales Bildungs- und Beratungszentrum Eimsbüttel_](https://rebbz-eimsbuettel.hamburg.de/)_, der_ [_Inklusionsagentur Norderstedt_](https://n-i-i-n.de/)_,_ [_Grenzen sind relativ e.V._](https://www.grenzensindrelativ.de/) _und der_ [_altonale_](www.altonale.de)_._
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
 Im Rahmen der Veranstaltungsreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der der “altonale” zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
 
 Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule und der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm Hamburg)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt. 
+
+**LIVE ON STAGE:** 
+
+[Oded Kafri](https://odedkafri.com/ueber/) 
+
+[Volkan Baydar](https://www.volkanbaydar.com/) 
+
+[Mischa Gohlke Band](https://mischagohlkeband.de/) 
+
+[Body Rhythm Hamburg](https://www.bodyrhythm.de/) 
+
+[Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
+
+[Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/) 
+
+Moderation: [Markus Riemann](https://kulturbedarf.de/)
 
 Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
