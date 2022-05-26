@@ -20,31 +20,33 @@ Das Bühnenprogramm (14.00 bis 16.30 Uhr) umfasst facettenreiche Acts: Durch mus
 
 Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
-###### **LIVE ON STAGE:** 
+##### **LIVE ON STAGE:** 
 
-###### [Oded Kafri](https://odedkafri.com/ueber/) 
+##### [Oded Kafri](https://odedkafri.com/ueber/) 
 
-###### [Volkan Baydar](https://www.volkanbaydar.com/) 
+##### [Volkan Baydar](https://www.volkanbaydar.com/) 
 
-###### [Mischa Gohlke Band](https://mischagohlkeband.de/) 
+##### [Mischa Gohlke Band](https://mischagohlkeband.de/) 
 
-###### [Body Rhythm Hamburg](https://www.bodyrhythm.de/) 
+##### [Body Rhythm Hamburg](https://www.bodyrhythm.de/) 
 
-###### [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
+##### [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
 
-###### [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/) 
+##### [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/) 
 
-###### Moderation: [Markus Riemann](https://kulturbedarf.de/)
+##### Moderation: [Markus Riemann](https://kulturbedarf.de/)
 
-###### THE FACTS:
+##### 
 
-###### Datum: So. 19.06.2022 
+##### THE FACTS:
 
-###### Uhrzeit: 14.00 bis 16.30 Uhr 
+##### Datum: So. 19.06.2022 
 
-###### Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98) 
+##### Uhrzeit: 14.00 bis 16.30 Uhr 
 
-###### Eintritt frei
+##### Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98) 
+
+##### Eintritt frei
 
 > So let´s celebrate the music and come together!
 
