@@ -24,29 +24,21 @@ Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und
 
 > So let´s celebrate the music and come together!
 
-##### **LIVE ON STAGE:**
+### **LIVE ON STAGE:**
 
-##### [Oded Kafri](https://odedkafri.com/ueber/)
+### [Oded Kafri](https://odedkafri.com/ueber/)
 
-##### [Volkan Baydar](https://www.volkanbaydar.com/)
+### [Volkan Baydar](https://www.volkanbaydar.com/)
 
-##### [Mischa Gohlke Band](https://mischagohlkeband.de/)
+### [Mischa Gohlke Band](https://mischagohlkeband.de/)
 
-##### [Body Rhythm Hamburg](https://www.bodyrhythm.de/)
+### [Body Rhythm Hamburg](https://www.bodyrhythm.de/)
 
-##### [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
+### [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
 
-##### [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
+### [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
 
-##### Moderation: [Markus Riemann](https://kulturbedarf.de/)
-
-##### 
-
-##### THE FACTS:
-
-##### Datum: So. 19.06.2022
-
-##### Uhrzeit: 
+### Moderation: [Markus Riemann](https://kulturbedarf.de/)
 
 _Produktionsleitung: Mischa Gohlke & Fabia Mekus (Grenzen sind relativ e.V.)_
 
