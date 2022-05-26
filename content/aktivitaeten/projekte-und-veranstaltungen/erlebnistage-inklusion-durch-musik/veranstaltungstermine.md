@@ -22,22 +22,34 @@ Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98)
 
 Eintritt frei
 
-Weitere Infos: [www.altonale.de](http://www.altonale.de)
-
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
-Musik verbindet! Und weil das so ist, schafft der Verein [Grenzen sind relativ e.V. ](https://www.grenzensindrelativ.de/)mit der Veranstaltungsreihe „[Celebrate the music“](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion) Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel!
+Im Rahmen der Veranstaltungsreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der der “altonale” zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
 
-Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden an fünf Veranstaltungstagen im Zeitraum Mai bis September 2022 gemeinsam mit Institutionen aus Bildung, Kultur und Sozialem Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
+Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke (Gitarre), David Alleckna (Bass), Jens Carstens (Schlagzeug), Oded Kafri (Schlagzeug), Ben Schütz (Body Rhythm Hamburg) und Volkan Baydar (Gesang), die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt. 
 
-Im Rahmen der Netzwerkveranstaltung “Celebrate the music - Come together!” kommen alle Mitwirkenden zusammen. Gemeinsam mit dem Publikum wird die Essenz der Musik gebührend zelebriert.
+**LIVE ON STAGE:**
 
-Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen der Kooperationspartner:innen, wie dem Schüler:innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie der Dozent:innen-Band - bestehend aus [Mischa Gohlke ](https://mischagohlkeband.de/)(Gitarre), [David Alleckna](https://alleckna.de/) (Bass), [Jens Carstens](https://de.yamaha.com/de/artists/j/jens_carstens.html) (Schlagzeug), [Oded Kafri](https://odedkafri.com/ueber/) (Schlagzeug), [Ben Schütz](https://www.bodyrhythm.de/team) (Body Rhythm) und [Volkan Baydar](https://www.volkanbaydar.com/) (Gesang) die schon mit Größen wie Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
+[Oded Kafri](https://odedkafri.com/ueber/) 
+
+[Volkan Baydar](https://www.volkanbaydar.com/) 
+
+[Mischa Gohlke Band](https://mischagohlkeband.de/) 
+
+[Body Rhythm Hamburg](https://www.bodyrhythm.de/)
+
+[Chor Nelson Mandela Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
+
+[Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
+
+Moderation: [Markus Riemann](https://kulturbedarf.de/)
+
+Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
 > So let´s celebrate the music and come together!
 
 _Produktionsleitung: Mischa Gohlke & Fabia Mekus (Grenzen sind relativ e.V.)_
 
-_Gefördert durch die Aktion Mensch und die Stiftung Hamburger Wohnen._
+_Gefördert von der Aktion Mensch und der Stiftung Hamburger Wohnen._
 
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)![](/media/2022/03/stiftung_hw_logo_rgb_inumlauf.JPG)
