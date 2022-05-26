@@ -8,7 +8,9 @@ alias: ''
 accessible: ''
 
 ---
-# **“Celebrate the music - Come together!” // So. 19.06. "altonale 2022"**
+# **“Celebrate the music - Come together!” // So. 19.06. "altonale 2022"** 
+
+## [Platz der Republik](https://goo.gl/maps/wfX5yTBBNpumMxD98) **-** 14.00 bis 16.30 Uhr - Eintritt frei
 
 _Eine Netzwerkveranstaltung von und mit der_ [_Staatlichen Jugendmusikschule Hamburg_](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/)_, der_ [_Nelson-Mandela-Schule_](https://www.nelson-mandela-schule-kirchdorf.de/startseite/)_, der_ [_Grundschule Bindfeldweg_](https://grundschule-bindfeldweg.hamburg.de/)_, dem_ [_Regionales Bildungs- und Beratungszentrum Eimsbüttel_](https://rebbz-eimsbuettel.hamburg.de/)_, der_ [_Inklusionsagentur Norderstedt_](https://n-i-i-n.de/)_,_ [_Grenzen sind relativ e.V._](https://www.grenzensindrelativ.de/) _und der_ [_altonale_](www.altonale.de)_._
 
@@ -44,11 +46,7 @@ Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und
 
 ##### Datum: So. 19.06.2022
 
-##### Uhrzeit: 14.00 bis 16.30 Uhr
-
-##### Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98)
-
-##### Eintritt frei
+##### Uhrzeit: 
 
 _Produktionsleitung: Mischa Gohlke & Fabia Mekus (Grenzen sind relativ e.V.)_
 
