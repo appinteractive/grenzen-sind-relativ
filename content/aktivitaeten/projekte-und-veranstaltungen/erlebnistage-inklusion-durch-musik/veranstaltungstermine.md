@@ -20,6 +20,8 @@ Das Bühnenprogramm (14.00 bis 16.30 Uhr) umfasst facettenreiche Acts: Durch mus
 
 Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
+> So let´s celebrate the music and come together!
+
 ##### **LIVE ON STAGE:** 
 
 ##### [Oded Kafri](https://odedkafri.com/ueber/) 
@@ -47,8 +49,6 @@ Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und
 ##### Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98) 
 
 ##### Eintritt frei
-
-> So let´s celebrate the music and come together!
 
 _Produktionsleitung: Mischa Gohlke & Fabia Mekus (Grenzen sind relativ e.V.)_
 
