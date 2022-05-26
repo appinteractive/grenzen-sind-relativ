@@ -20,7 +20,7 @@ Im Rahmen der Veranstaltungsreihe **“**[**Celebrate the music**](https://www.g
 
 Das **Bühnenprogramm** (14.00 bis 16.30 Uhr) umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule und der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
 
-Dazu wird es vor Ort eine **Network-Area** geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
+Dazu wird es vor Ort eine **Network-Area** geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können. 
 
 #### **LIVE ON STAGE:**
 
