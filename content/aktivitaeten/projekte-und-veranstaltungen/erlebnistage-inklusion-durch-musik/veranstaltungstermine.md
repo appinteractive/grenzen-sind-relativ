@@ -12,6 +12,8 @@ accessible: ''
 
 Eine Netzwerkveranstaltung von und mit der [Staatlichen Jugendmusikschule Hamburg](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/), der [Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/startseite/), der [Grundschule Bindfeldweg](https://grundschule-bindfeldweg.hamburg.de/), dem [Regionales Bildungs- und Beratungszentrum Eimsbüttel](https://rebbz-eimsbuettel.hamburg.de/), der [Inklusionsagentur Norderstedt](https://n-i-i-n.de/), [Grenzen sind relativ e.V.](https://www.grenzensindrelativ.de/) und der [altonale](www.altonale.de).
 
+> _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
+
 **The Facts:**
 
 Datum: So. 19.06.2022
@@ -21,12 +23,6 @@ Uhrzeit: 14.00 bis 16.30 Uhr
 Ort: [Platz der Republik, Altona](https://goo.gl/maps/wfX5yTBBNpumMxD98)
 
 Eintritt frei
-
-> _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
-
-Im Rahmen der Veranstaltungsreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der der “altonale” zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
-
-Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule und der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm Hamburg)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt. 
 
 **LIVE ON STAGE:**
 
@@ -43,6 +39,10 @@ Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen von
 [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
 
 Moderation: [Markus Riemann](https://kulturbedarf.de/)
+
+Im Rahmen der Veranstaltungsreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der der “altonale” zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
+
+Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule und der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm Hamburg)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt. 
 
 Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
