@@ -26,7 +26,7 @@ Eintritt frei
 
 Im Rahmen der Veranstaltungsreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der der “altonale” zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
 
-Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke (Gitarre), David Alleckna (Bass), Jens Carstens (Schlagzeug), Oded Kafri (Schlagzeug), Ben Schütz (Body Rhythm Hamburg) und Volkan Baydar (Gesang), die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt. 
+Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule oder der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke (Gitarre), David Alleckna (Bass), Jens Carstens (Schlagzeug), Oded Kafri (Schlagzeug), Ben Schütz (Body Rhythm Hamburg) und Volkan Baydar (Gesang), die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt. 
 
 **LIVE ON STAGE:**
 
