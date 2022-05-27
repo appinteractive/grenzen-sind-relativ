@@ -19,9 +19,9 @@ accessible: ''
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
-Im Rahmen der Veranstaltungsreihe **“**[**Celebrate the music**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)**”** (Workshops, Begegnungen & Konzerte) kommen alle Mitwirkenden am **So. 19.06.22 von 14.00 bis 16.00 Uhr auf der “altonale”** zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
+Im Rahmen der Veranstaltungsreihe **“**[**Celebrate the music**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)**”** (Workshops, Begegnungen & Konzerte) kommen alle Mitwirkenden am **So. 19.06.22 auf der “altonale”** zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
 
-Auf der **altonale-Festivalbühne am Platz der Republik** wird durch musikalische Einlagen von den mitwirkenden Schulen, wie dem **Schüler*innen-Chor der Nelson-Mandela-Schule** und der **Staatlichen Jugendmusikschule Hamburg** sowie dem Dozenten-Team - bestehend aus **Mischa Gohlke** _(Gitarre)_, **David Alleckna** _(Bass)_, **Jens Carstens** _(Schlagzeug)_, **Oded Kafri** _(Schlagzeug)_, **Ben Schütz** _(Body Rhythm)_ und **Volkan Baydar** _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - die Bühne in verschiedenen Formationen gemeinsam zum Leben erweckt.
+Auf der **altonale-Festivalbühne am Platz der Republik** wird von 14.00 bis 16.00 Uhr durch musikalische Einlagen von den mitwirkenden Schulen, wie dem **Schüler*innen-Chor der Nelson-Mandela-Schule** und der **Staatlichen Jugendmusikschule Hamburg** sowie dem Dozenten-Team - bestehend aus **Mischa Gohlke** _(Gitarre)_, **David Alleckna** _(Bass)_, **Jens Carstens** _(Schlagzeug)_, **Oded Kafri** _(Schlagzeug)_, **Ben Schütz** _(Body Rhythm)_ und **Volkan Baydar** _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - die Bühne in verschiedenen Formationen gemeinsam zum Leben erweckt.
 
 Dazu wird es vor Ort eine **Network-Area** geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
