@@ -2,7 +2,7 @@
 teaser: "/media/2022/05/banner-celebrate-the-music-come-together-19-06-altonale-2022.jpg"
 title: "“Celebrate the music - Come together” // So. 19.06.22 “altonale”"
 description: 'Im Rahmen der Veranstaltungsreihe “Celebrate the music” (Workshops,
-  Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale”
+  Begegnungen & Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale”
   (Bühne: Platz der Republik) zusammen, um gemeinsam mit dem Publikum die Essenz der
   Musik gebührend zu feiern.'
 wide: false
@@ -19,9 +19,9 @@ accessible: ''
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
-Im Rahmen der Veranstaltungsreihe **“**[**Celebrate the music**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)**”** (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale” (Bühne: Platz der Republik) zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
+Im Rahmen der Veranstaltungsreihe **“**[**Celebrate the music**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)**”** (Workshops, Begegnungen & Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale” (Bühne: Platz der Republik) zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
 
-Das **Bühnenprogramm** (14.00 bis 16.30 Uhr) umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule und der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne gemeinsam zum Leben erweckt.
+Das **Bühnenprogramm** (14.00 bis 16.30 Uhr) umfasst facettenreiche Acts: Durch musikalische Einlagen von den mitwirkenden Schulen, wie dem Schüler*innen-Chor der Nelson-Mandela-Schule und der Staatlichen Jugendmusikschule Hamburg sowie dem Dozenten-Team - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben - wird die Bühne in verschiedenen Formationen gemeinsam zum Leben erweckt.
 
 Dazu wird es vor Ort eine **Network-Area** geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
