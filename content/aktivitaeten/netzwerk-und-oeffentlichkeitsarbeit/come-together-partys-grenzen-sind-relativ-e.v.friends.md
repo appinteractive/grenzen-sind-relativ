@@ -9,7 +9,7 @@ alias: ''
 accessible: ''
 
 ---
-**Come together Party #1 - Grenzen sind relativ e.V. & Friends // Do. 09.06.22 "Alte Liebe" (Hamburg St. Pauli)**
+# **Come together Party #1 - Grenzen sind relativ e.V. & Friends** 
 
 ![](/media/2022/05/banner_netzwerkparty_alte-liebe_final_party-1.png)
 
