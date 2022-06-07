@@ -37,7 +37,7 @@ Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und
 
 [**BATTERIES OF ROCK**](https://batteriesofrock.com/) _(Rock)_ - Mit gerade einmal 15 Jahren schreiben sie ihre eigenen Songs, haben bereits diverse Preise abgeräumt und waren die erste Band bei TheVoiceKids 2021.
 
-[**CHOR NELSON-MANDELA-SCHULE **](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)_(Pop)_ - 30 Schüler*innen der Mittel- und Oberstufe bringen mit “Price Tag” und “Shackles” die Bühne zum Beben.
+[**CHOR NELSON-MANDELA-SCHULE**](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/) _(Pop)_ - 30 Schüler*innen der Mittel- und Oberstufe bringen mit “Price Tag” und “Shackles” die Bühne zum Beben.
 
 **Moderation: Markus Riemann**
 
