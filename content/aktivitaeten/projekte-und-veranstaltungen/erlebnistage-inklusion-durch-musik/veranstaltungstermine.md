@@ -39,7 +39,7 @@ Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und
 
 [**CHOR NELSON-MANDELA-SCHULE**](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/) _(Pop)_ - 30 Schüler:innen der Mittel- und Oberstufe bringen mit “Price Tag” und “Shackles” die Bühne zum Beben.
 
-**Moderation: Markus Riemann**
+**Moderation:** [**MARKUS RIEMANN**](https://kulturbedarf.de/)
 
 > So let´s celebrate the music and come together!
 
