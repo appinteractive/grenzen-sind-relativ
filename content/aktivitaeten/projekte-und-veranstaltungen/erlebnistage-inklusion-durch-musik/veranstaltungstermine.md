@@ -1,10 +1,10 @@
 ---
-teaser: "/media/2022/05/banner_altonale_22_web_banner-altonale.png"
+teaser: "/media/2022/06/banner_altonale_22_web_banner-altonale-final.png"
 title: "“Celebrate the music - Come together” // So. 19.06.22 “altonale”"
-description: 'Im Rahmen der Veranstaltungsreihe “Celebrate the music” (Workshops,
-  Begegnungen & Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale”
-  (Bühne: Platz der Republik) zusammen, um gemeinsam mit dem Publikum die Essenz der
-  Musik gebührend zu feiern.'
+description: 'Im Zuge der Grenzen sind relativ e.V. - Musikworkshopreihe “Celebrate
+  the music”  wollen wir alle mitwirkenden Schüler*innen, Dozent*innen und Institutionen
+  am So. 19. Juni 2022 auf der “altonale” zusammentrommeln, um gemeinsam mit euch
+  die Essenz der Musik ausgiebig zu feiern. '
 wide: false
 gallery: []
 alias: ''
@@ -15,31 +15,31 @@ accessible: ''
 
 ## [Platz der Republik](https://goo.gl/maps/wfX5yTBBNpumMxD98) **-** 14.00 bis 16.30 Uhr - Eintritt frei
 
-_![](/media/2022/05/banner_altonale_22_web_banner-altonale.png)Eine Netzwerkveranstaltung von und mit der_ [_Staatlichen Jugendmusikschule Hamburg_](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/)_, der_ [_Nelson-Mandela-Schule_](https://www.nelson-mandela-schule-kirchdorf.de/startseite/)_, der_ [_Grundschule Bindfeldweg_](https://grundschule-bindfeldweg.hamburg.de/)_, dem_ [_Regionales Bildungs- und Beratungszentrum Eimsbüttel_](https://rebbz-eimsbuettel.hamburg.de/)_, der_ [_Inklusionsagentur Norderstedt_](https://n-i-i-n.de/)_,_ [_Grenzen sind relativ e.V._](https://www.grenzensindrelativ.de/) _und der_ [_altonale_](www.altonale.de)_._
+_Eine Netzwerkveranstaltung von und mit,_ [_Grenzen sind relativ e.V._](https://www.grenzensindrelativ.de/), _der_ [_Staatlichen Jugendmusikschule Hamburg_](https://www.hamburg.de/jugendmusikschule/stadtbereich-mitte/)_, der_ [_Nelson-Mandela-Schule_](https://www.nelson-mandela-schule-kirchdorf.de/startseite/)_, der_ [_Grundschule Bindfeldweg_](https://grundschule-bindfeldweg.hamburg.de/)_, dem_ [_Regionales Bildungs- und Beratungszentrum Eimsbüttel_](https://rebbz-eimsbuettel.hamburg.de/)_, der_ [_Inklusionsagentur Norderstedt_](https://n-i-i-n.de/) _und der_ [_altonale_](www.altonale.de)_._
+
+![](/media/2022/06/banner_altonale_22_web_banner-altonale-final.png)
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
-Im Rahmen der Veranstaltungsreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” _(Workshops, Begegnungen & Konzerte)_ kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale" zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.
+Im Zuge der Grenzen sind relativ e.V. - Musikworkshopreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” wollen wir alle mitwirkenden Schüler*innen, Dozent*innen und Institutionen am So. 19. Juni 2022 auf der “altonale” zusammentrommeln, um gemeinsam mit euch die Essenz der Musik ausgiebig zu feiern.
 
-Von 14.00 bis 16.30 Uhr wird die altonale-Festivalbühne auf dem Platz der Republik von den Schüler*innen der Nelson-Mandela-Schule und der staatlichen Jugenmusikschule sowie dem Celebrate the music Dozententeam - bestehend aus Mischa Gohlke _(Gitarre)_, David Alleckna _(Bass)_, Jens Carstens _(Schlagzeug)_, Oded Kafri _(Schlagzeug)_, Ben Schütz _(Body Rhythm)_ und Volkan Baydar _(Gesang)_, die u.a. mit Phil Collins, Udo Lindenberg, Selig, Aha, Rosenstolz, Helene Fischer und Nena zusammen gespielt haben -  in verschiedenen Formationen gemeinsam zum Leben erweckt.
+Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen vom Schüler*innen-[Chor der Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/), der Band [Batteries of Rock](https://batteriesofrock.com/) und dem [Celebrate the music Dozent*innen-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) - bestehend aus Mischa Gohlke, David Alleckna, Oded Kafri, Ben Schütz, Johannes Tress und Maxie Klotmann - wird die Bühne gemeinsam zum Leben erweckt.
 
 Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 
-#### **LIVE ON STAGE:**
+**LIVE ON STAGE:**
 
-#### [Oded Kafri](https://odedkafri.com/ueber/)
+[**ODED KAFRI**](https://odedkafri.com/ueber/) _(Drum the world)_ - One-Man-Party, Bühnen- & Straßenshows auf der ganzen Welt und YouTube-Phänomen
 
-#### [Volkan Baydar](https://www.volkanbaydar.com/)
+[**MISCHA GOHLKE BAND**](https://mischagohlkeband.de/) _(Blues, Rock & Funk)_ - Own Songs + Tribute to Stevie Ray Vaughan & Jimi Hendrix - Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt.
 
-#### [Mischa Gohlke Band](https://mischagohlkeband.de/)
+[**BODY RHYTHM HAMBURG**](https://www.bodyrhythm.de/) _(Percussion)_ - Das internationale Workshop- und Performance-Team um Ben Schütz inkludieren Rhythmus, Bewegung & Stimme und laden zum gemeinsamen Grooven ein.
 
-#### [Body Rhythm Hamburg](https://www.bodyrhythm.de/)
+[**BATTERIES OF ROCK **](https://batteriesofrock.com/)_(Rock)_ - Mit gerade einmal 15 Jahren schreiben sie ihre eigenen Songs, haben bereits diverse Preise abgeräumt und waren die erste Band bei TheVoiceKids 2021.
 
-#### [Chor Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)
+[**CHOR NELSON-MANDELA-SCHULE **](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/)_(Pop)_ - 30 Schüler*innen der Mittel- und Oberstufe bringen mit “Price Tag” und “Shackles” die Bühne zum Beben.
 
-#### [Staatliche Jugendmusikschule](https://www.hamburg.de/jugendmusikschule/)
-
-#### Moderation: [Markus Riemann](https://kulturbedarf.de/)
+**Moderation: Markus Riemann**
 
 > So let´s celebrate the music and come together!
 
