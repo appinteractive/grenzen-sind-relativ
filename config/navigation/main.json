@@ -212,6 +212,11 @@
           "title": "Netzwerk- & Öffentlichkeitsarbeit",
           "children": [
             {
+              "title": "Öffentlichkeitsarbeit & Bewusstseinsbildung",
+              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md",
+              "description": "Interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Frieden, Dialog & Miteinander, integrales Bewusstsein"
+            },
+            {
               "title": "Interdisziplinäre Kulturarbeit",
               "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
@@ -227,19 +232,14 @@
               ]
             },
             {
-              "title": "Öffentlichkeitsarbeit & Bewusstseinsbildung",
-              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md",
-              "description": "Interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Frieden, Dialog & Miteinander, integrales Bewusstsein"
+              "title": "Come together Partys - Grenzen sind relativ e.V. & Friends ",
+              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md",
+              "description": "Monatliche Netzwerkveranstaltungen mit Live Musik, Jam Session und interaktiven Aktionen"
             },
             {
               "title": "Vermittlungsbörse",
               "description": "Vermittlung von Künstlern, Dozenten, Filmern, Designern, Promotern, usw.",
               "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md"
-            },
-            {
-              "title": "Come together Partys - Grenzen sind relativ e.V. & Friends ",
-              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md",
-              "description": "Monatliche Netzwerkveranstaltungen mit Live Musik, Jam Session und interaktiven Aktionen"
             },
             {
               "title": "Kooperationsprojekte",
