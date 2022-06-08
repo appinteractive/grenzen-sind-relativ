@@ -103,33 +103,6 @@
                   "disabled": true
                 }
               ]
-            },
-            {
-              "title": "Kooperationsprojekte",
-              "description": "Zusammen mit anderen Vereinen, Initiativen & Institutionen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen.",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
-                },
-                {
-                  "title": "Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md"
-                },
-                {
-                  "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md",
-                  "external": false
-                },
-                {
-                  "title": "MusikBüro St. Marien Osnabrück: Projektwoche \"Beethoven – mit allen Sinnen hören!\"",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/marienkriche-osnabruck-beethoven-mit-allen-sinnen-horen.md"
-                },
-                {
-                  "title": "Archiv",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/archiv-kooperationsprojekte.md"
-                }
-              ]
             }
           ],
           "showInMainNavigation": true
@@ -279,21 +252,7 @@
             {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen, Einrichtungen oder/und Einzelpersonen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen. Dabei können wir uns u.a. in den Kompetenzbereichen strategische Konzeption, operative Durchführung, Booking Rahmenprogramm, PR & Öffentlichkeitsarbeit und Networking einbringen.",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
-                },
-                {
-                  "title": "Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md"
-                },
-                {
-                  "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md"
-                }
-              ]
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
             },
             {
               "title": "Gesamtgesellschaftliches Aktionsbündnis",
