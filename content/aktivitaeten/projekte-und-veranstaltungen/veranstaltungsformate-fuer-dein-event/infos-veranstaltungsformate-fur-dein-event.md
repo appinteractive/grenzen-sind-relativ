@@ -18,8 +18,8 @@ Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein, Unterne
 
 1. [KULTUR ALIVE - Grenzen sind relativ: Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion)
 2. [Spektralkombüse von/mit Kassandra Wedel (Tanz), Martin Fromme (Kabarett) und der Mischa Gohlke Band (Musik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
-3. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band]( "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band")
-4. [Celebrate the music (1 Tag, 5 Workshops, 1 Abschlusskonzert)]()
+3. [Celebrate the music (1 Tag, 5 Workshops, 1 Abschlusskonzert)]()
+4. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band]( "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band")
 5. [Workshops, Seminare & Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
 
 Übrigens: Inklusion ist keine Spezialkonvention für Menschen mit formal anerkannter Behinderung, sondern die Konkretisierung der universellen Menschenrechte!
