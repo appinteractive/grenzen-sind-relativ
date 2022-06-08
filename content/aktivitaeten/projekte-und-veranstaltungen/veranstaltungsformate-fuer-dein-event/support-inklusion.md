@@ -20,7 +20,7 @@ accessible: ''
 
 Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik  haben wir ein neues & frisches Projekt- und Veranstaltungsformat kreiert, welches von der Aktion Mensch gefördert wird und sich aus folgenden Modulen zusammen setzt:
 
-1. Interdisziplinäres Veranstaltungsformat/Label auf 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 4 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
+1. Interdisziplinäres Veranstaltungsformat/Label auf mindestens 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 4 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
 2. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
 3. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
 4. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
