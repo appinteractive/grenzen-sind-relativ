@@ -61,10 +61,12 @@ Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bund
 
 **Musik, Kunst und Kultur** sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, den Perspektivwechsel anzuregen, das Gemeinschaftsgefühl zu stärken und gesamtgesellschaftliche Entwicklungsprozesse zu reflektieren und zu unterstützen.
 
+***
+
 **Bühnenprogramm:**
 
 * Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden.
-* Zu unserem großen Künstlernetzwerk gehören u.a. die Mischa Gohlke Band, Martin Fromme, Kassandra Wedel, uvam.
+* Booking Bühnenprogramm: Wir haben ein großes Künstlernetzwerk mit vielen direkten Kontakten zu bekannten und unbekannten Künstlern
 * Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos) _(und/oder “2. Inklusionssong” ab Herbst 2022)_ gemacht werden.
 * Unser Moderator [Markus Riemann](https://kulturbedarf.de/) wird durch das Programm führen, einige Vereine/Projekte vorstellen und Interviews mit den Künstlern machen.
 
