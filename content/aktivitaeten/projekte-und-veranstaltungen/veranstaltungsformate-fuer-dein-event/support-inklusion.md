@@ -18,7 +18,7 @@ accessible: ''
 
 ## Interdisziplinäre & inklusive Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen
 
-Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir ein neues frisches Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
+Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir ein neues frisches Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- und Kulturveranstaltungen, usw. umgesetzt wird.
 
 Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. 
 
