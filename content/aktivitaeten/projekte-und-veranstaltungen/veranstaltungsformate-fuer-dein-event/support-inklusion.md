@@ -102,3 +102,7 @@ Im Sinne eines ganzheitlichen Inklusionsverständnisses umfasst Inklusion alle A
 Die Gedanken um den Begriff Inklusion sind nicht neu, im Gegenteil. Der aktuelle „Inklusions-Hype” bietet jedoch die große Chance – auf Grundlage einer ganzheitlichen Bewusstseinsdebatte – zukunftsweisende gesellschaftspolitische Prozesse und Strukturen bzw. die „Gesellschaft von morgen” in die Wege zu leiten. Inklusion betrifft uns ALLE!
 
 Musik, Kunst und Kultur sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken und das Gemeinschaftsgefühl zu stärken.
+
+Gefördert von 
+
+![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
