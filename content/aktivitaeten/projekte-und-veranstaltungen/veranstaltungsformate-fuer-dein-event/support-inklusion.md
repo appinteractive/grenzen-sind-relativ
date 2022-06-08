@@ -1,12 +1,12 @@
 ---
 title: KULTUR ALIVE - Grenzen sind relativ
-description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und größeren Konzerten/Tourneen
+description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und Sport- & Kulturveranstaltungen
   kreieren wir ein spannendes inklusives & interdisziplinäres Kulturprogramm, bei
   dem a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster
   Backgrounds zusammen kommen und b) den Besuchern vor Ort die essentielle Thematik
   „gesamtgesellschaftliche Inklusion“ auf eine erfahrbare, mitreißende und künstlerische
   Art und Weise Nahe gebracht wird. Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance,
-  interaktive Erlebniswelten und Inklusionsforum.'
+  interaktive Erlebniswelten/Aktionen und Network-Area. '
 teaser: "/media/2020/10/neu1.jpg"
 gallery: []
 alias: "/veranstaltungen/support-inklusion-support-mal-anders.html"
