@@ -4,36 +4,8 @@
       "title": "Aktivitäten",
       "children": [
         {
-          "title": "Veranstaltungsformate",
+          "title": "Projekte & Veranstaltungen",
           "children": [
-            {
-              "title": "Plane Deine Veranstaltung mit uns!",
-              "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
-                },
-                {
-                  "title": "Support Inklusion - Support mal anders!",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md"
-                },
-                {
-                  "title": "Spektralkombüse",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md"
-                },
-                {
-                  "title": "Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/aktionstage-inklusion-frieden-kultur.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md"
-                }
-              ],
-              "disabled": false
-            },
             {
               "title": "Grenzen sind relativ Festivals",
               "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
@@ -84,6 +56,34 @@
               "disabled": false
             },
             {
+              "title": "Plane Deine Veranstaltung mit uns!",
+              "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
+              "children": [
+                {
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
+                },
+                {
+                  "title": "Support Inklusion - Support mal anders!",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md"
+                },
+                {
+                  "title": "Spektralkombüse",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md"
+                },
+                {
+                  "title": "Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/aktionstage-inklusion-frieden-kultur.md",
+                  "disabled": true
+                },
+                {
+                  "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md"
+                }
+              ],
+              "disabled": false
+            },
+            {
               "title": "Interdisziplinäre Kulturarbeit",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
               "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
@@ -105,8 +105,7 @@
               ]
             }
           ],
-          "showInMainNavigation": true,
-          "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
+          "showInMainNavigation": true
         },
         {
           "title": "Kampagnen-Musikvideos",
@@ -241,9 +240,9 @@
               "description": "Interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Frieden, Dialog & Miteinander, integrales Bewusstsein"
             },
             {
-              "title": "Vermittlungsbörse",
-              "description": "Vermittlung von Künstlern, Dozenten, Filmern, Designern, Promotern, usw.",
-              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md"
+              "title": "Interdisziplinäre Kulturarbeit",
+              "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md"
             },
             {
               "title": "Come together Partys - Grenzen sind relativ e.V. & Friends ",
@@ -251,23 +250,14 @@
               "description": "Monatliche Netzwerkveranstaltungen mit Live Musik, Jam Session und interaktiven Aktionen"
             },
             {
+              "title": "Vermittlungsbörse",
+              "description": "Vermittlung von Künstlern, Dozenten, Filmern, Designern, Promotern, usw.",
+              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md"
+            },
+            {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen, Einrichtungen oder/und Einzelpersonen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen. Dabei können wir uns u.a. in den Kompetenzbereichen strategische Konzeption, operative Durchführung, Booking Rahmenprogramm, PR & Öffentlichkeitsarbeit und Networking einbringen.",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
-                },
-                {
-                  "title": "Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md"
-                },
-                {
-                  "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md"
-                }
-              ]
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
             },
             {
               "title": "Gesamtgesellschaftliches Aktionsbündnis",
