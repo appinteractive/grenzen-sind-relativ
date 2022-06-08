@@ -55,7 +55,8 @@
             {
               "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
-              "description": "Mit Live-Musik, spannenden Workshops und interaktiver Begegnung "
+              "description": "Mit Live-Musik, spannenden Workshops und interaktiver Begegnung ",
+              "disabled": true
             },
             {
               "title": "Grenzen sind relativ Festivals",
