@@ -22,11 +22,11 @@ Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrel
 
 Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. 
 
-Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm und umfasst 3 Säulen: Bühnenprogramm, interaktive Erlebniswelten/Aktionen Network-Area und Network-Area.
+Das interdisziplinäre & inklusive Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, welches aus folgenden 3 Säulen besteht:
 
-1. Bühnenprogramm: Spartenübergreifend finden verschiedene Künste (Musik, Tanz, Theater, Kabarett, Video-Kunst) und bekannte & unbekannte Künstler*innen (Headliner, Local Heroes, Nachwuchs-Acts, inklusive Acts, Gruppen von Vereinen & Schulen) eine gemeinsame Bühne
-2. Interaktive Erlebniswelten: Eine Spielwiese, bei der verschiedene Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden, durch Aktivitäten wie interaktive Malerei/Kleinkunst, Gebärdensprach-Barkeeper, Chor-Workshop...
-3. Network-Area in der sich gemeinnützige Organisationen, Initiativen, Kulturschaffende und Menschen unterschiedlicher Backgrounds (Inklusion, Kunst, Kultur, Interkulturell, Ökologie, Bildung, Sport, Frieden, ...) präsentieren, kennenlernen, austauschen und vernetzen
+1. **Bühnenprogramm:** Spartenübergreifend finden verschiedene Künste (Musik, Tanz, Theater, Kabarett, Video-Kunst) und bekannte & unbekannte Künstler*innen (Headliner, Local Heroes, Nachwuchs-Acts, inklusive Acts, Gruppen von Vereinen & Schulen) eine gemeinsame Bühne
+2. **Interaktive Erlebniswelten:** Eine Spielwiese, bei der verschiedene Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden, durch Aktivitäten wie interaktive Malerei/Kleinkunst, Gebärdensprach-Barkeeper, Chor-Workshop...
+3. **Network-Area** in der sich gemeinnützige Organisationen, Initiativen, Kulturschaffende und Menschen unterschiedlicher Backgrounds (Inklusion, Kunst, Kultur, Interkulturell, Ökologie, Bildung, Sport, Frieden, ...) präsentieren, kennenlernen, austauschen und vernetzen
 
 Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künstler:innen und unterschiedlichste Akteur:innen mit dem Publikum interagieren, von jung bis alt, Menschen mit und ohne Behinderungen, Geflüchtete, Profis, Newcomer = ALLE Menschen.
 
@@ -53,8 +53,6 @@ Bezüglich der Veranstaltungsumsetzung kann Grenzen sind relativ e.V. - stets im
 Grenzen sind relativ e.V. fungiert bundesweit als Anlaufstelle, durchführender Co-Veranstalter und ist im umfangreichen Maße beratend tätig. Details zu den einzelnen Veranstaltungen werden im Dialog mit den Veranstaltern, je nach deren Settings, Zielen, Budgets und Möglichkeiten individuell ausgearbeitet.
 
 Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bundesweit) werden wir die allgemeine Öffentlichkeit mobilisieren, umfangreiche Pressearbeit (Print, Online, TV & Radio) machen und diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung einladen. Wir erstellen die Wort-Bild-Marke, eine Micropage, die Flyer, Plakate und Social Media Banner und werden einige Filmprojekte (Teaser, Aftermovie, Social Media Clips, usw.) produzieren. Dazu werden wir zusammen mit unseren Kooperationspartner (Alive!Kultur, Netzwerk Inklusion Deutschland, UN-Label, etc.) die Veranstaltungen über die vorhandenen Social Media Kanäle, Newsletter, Netzwerke, etc. umfassend verbreiten.
-
-Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- & Veranstaltungstechnik und Personal am Veranstaltungstag auf unser großes Netzwerk zurückgreifen. Im Rahmen der PR- & Öffentlichkeitsarbeit mobilisieren wir die allgemeine Öffentlichkeit, machen umfangreiche Pressearbeit (Print, Online, TV & Radio) und laden diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung ein.
 
 **Musik, Kunst und Kultur** sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, den Perspektivwechsel anzuregen, das Gemeinschaftsgefühl zu stärken und gesamtgesellschaftliche Entwicklungsprozesse zu reflektieren und zu unterstützen.
 
