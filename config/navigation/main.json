@@ -279,7 +279,13 @@
             {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen, Einrichtungen oder/und Einzelpersonen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen. Dabei können wir uns u.a. in den Kompetenzbereichen strategische Konzeption, operative Durchführung, Booking Rahmenprogramm, PR & Öffentlichkeitsarbeit und Networking einbringen.",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
+              "children": [
+                {
+                  "title": "Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md"
+                }
+              ]
             },
             {
               "title": "Gesamtgesellschaftliches Aktionsbündnis",
