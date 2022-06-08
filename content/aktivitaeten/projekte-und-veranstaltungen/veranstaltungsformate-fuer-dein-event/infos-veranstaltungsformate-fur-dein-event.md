@@ -16,10 +16,10 @@ accessible: ''
 
 Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein, Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine stellen? Diesbezüglich haben wir einige Muster-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen umsetzen:
 
-1. [Celebrate the music (1 Tag, 5 Workshops, 1 Abschlusskonzert)]()
-2. [Support Inklusion - Support mal anders!](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion)
-3. [Spektralkombüse von/mit Kassandra Wedel (Tanz), Martin Fromme (Kabarett) und der Mischa Gohlke Band (Musik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
-4. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band]( "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band")
+1. [KULTUR ALIVE - Grenzen sind relativ: Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion)
+2. [Spektralkombüse von/mit Kassandra Wedel (Tanz), Martin Fromme (Kabarett) und der Mischa Gohlke Band (Musik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
+3. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band]( "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band")
+4. [Celebrate the music (1 Tag, 5 Workshops, 1 Abschlusskonzert)]()
 5. [Workshops, Seminare & Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
 
 Übrigens: Inklusion ist keine Spezialkonvention für Menschen mit formal anerkannter Behinderung, sondern die Konkretisierung der universellen Menschenrechte!
