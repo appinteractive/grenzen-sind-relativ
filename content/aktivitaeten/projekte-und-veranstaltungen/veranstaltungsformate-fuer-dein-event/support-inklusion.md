@@ -14,7 +14,9 @@ wide: false
 accessible: ''
 
 ---
-# KULTUR ALIVE - Grenzen sind relativ: Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen
+# "KULTUR ALIVE - Grenzen sind relativ" 
+
+## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen
 
 Aufbauend auf unsere erfolgreichen [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir ein neues frisches Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
 
