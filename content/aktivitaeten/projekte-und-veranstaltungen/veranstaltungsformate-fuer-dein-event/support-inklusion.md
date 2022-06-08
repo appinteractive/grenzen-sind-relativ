@@ -1,5 +1,5 @@
 ---
-title: Support Inklusion - Support mal anders!
+title: KULTUR ALIVE - Grenzen sind relativ
 description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und größeren Konzerten/Tourneen
   kreieren wir ein spannendes inklusives & interdisziplinäres Kulturprogramm, bei
   dem a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster
@@ -14,9 +14,9 @@ wide: false
 accessible: ''
 
 ---
-# Support Inklusion – Support mal anders!
+# KULTUR ALIVE - Grenzen sind relativ: Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen
 
-Aufbauend auf unsere erfolgreichen [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir nun das neue frische Veranstaltungsformat "**Support Inklusion – Support mal anders!"** kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
+Aufbauend auf unsere erfolgreichen [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir ein neues frisches Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, bei dem
 
@@ -36,9 +36,9 @@ Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance, Network-Area un
 
 **Sinn und Zweck:**
 
-Mit dem „Inklusions-Support“ können wir dazu beitragen, für Thematik zu sensibilisieren & zu begeistern und mit der „gesamtgesellschaftlichen Inklusion“ mehr in der Mitte der Gesellschaft anzukommen. Darüber hinaus schafft man mit dem Veranstaltungsformat eine erfrischende kulturelle Abwechslung und bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikatoren und weiterführende Basisarbeit auf den Weg gebracht werden.
+Mit dem Veranstaltungsformat können wir dazu beitragen, für Thematik zu sensibilisieren & zu begeistern und mit der „gesamtgesellschaftlichen Inklusion“ mehr in der Mitte der Gesellschaft anzukommen. Darüber hinaus schafft man mit dem Veranstaltungsformat eine erfrischende kulturelle Abwechslung und bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikatoren und weiterführende Basisarbeit auf den Weg gebracht werden.
 
-**Umsetzung „Support Inklusion – Support mal anders!“**
+**Umsetzung:**
 
 Unser Aktionsbüro „Grenzen sind relativ e.V.“ entwickelt zusammen mit dem Veranstalter ein individuell abgestimmtes strategisches Veranstaltungskonzept inklusive Finanzplanung. Darauf aufbauend stellen wir ein spannendes facettenreiches Bühnenprogramm zusammen und planen die die Network-Area und interaktiven Erlebniswelten/Aktionen.
 
