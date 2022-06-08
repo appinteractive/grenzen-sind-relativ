@@ -11,7 +11,7 @@ alias: ''
 accessible: ''
 
 ---
-# **“Celebrate the music - Come together!” // So. 19.06.22 "altonale"**
+# **“Celebrate the music - Come together!” // So. 19.06. "altonale 22"**
 
 ## [Platz der Republik](https://goo.gl/maps/wfX5yTBBNpumMxD98) **-** 14.00 bis 16.30 Uhr - Eintritt frei
 
