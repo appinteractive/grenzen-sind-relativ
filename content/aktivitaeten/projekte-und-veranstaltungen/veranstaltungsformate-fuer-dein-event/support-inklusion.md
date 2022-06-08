@@ -14,21 +14,23 @@ wide: false
 accessible: ''
 
 ---
-# "KULTUR ALIVE - Grenzen sind relativ" 
+# "KULTUR ALIVE - Grenzen sind relativ"
 
-## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen
+## Interdisziplinäre & inklusive Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen
 
-Aufbauend auf unsere erfolgreichen [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir ein neues frisches Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
+Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir ein neues frisches Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtteil- und Straßenfesten, Kulturveranstaltungen, usw. umgesetzt wird.
 
-Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, bei dem
+Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. 
 
-a) Künstler, gemeinnützige Organisationen und  Netzwerke unterschiedlichster Backgrounds zusammen kommen
+Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm und umfasst 3 Säulen: Bühnenprogramm, interaktive Erlebniswelten/Aktionen Network-Area und Network-Area.
 
-b) den Besuchern vor Ort die essentielle Thematik „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare, mitreißende und künstlerische Art und Weise Nahe gebracht wird
+1. Bühnenprogramm: Spartenübergreifend finden verschiedene Künste (Musik, Tanz, Theater, Kabarett, Video-Kunst) und bekannte & unbekannte Künstler*innen (Headliner, Local Heroes, Nachwuchs-Acts, inklusive Acts, Gruppen von Vereinen & Schulen) eine gemeinsame Bühne
+2. Interaktive Erlebniswelten: Eine Spielwiese, bei der verschiedene Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden, durch Aktivitäten wie interaktive Malerei/Kleinkunst, Gebärdensprach-Barkeeper, Chor-Workshop...
+3. Network-Area in der sich gemeinnützige Organisationen, Initiativen, Kulturschaffende und Menschen unterschiedlicher Backgrounds (Inklusion, Kunst, Kultur, Interkulturell, Ökologie, Bildung, Sport, Frieden, ...) präsentieren, kennenlernen, austauschen und vernetzen
 
-Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance, Network-Area und interaktive Erlebniswelten/Aktionen.
+Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künstler:innen und unterschiedlichste Akteur:innen mit dem Publikum interagieren, von jung bis alt, Menschen mit und ohne Behinderungen, Geflüchtete, Profis, Newcomer = ALLE Menschen.
 
-<gallery>
+Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind. Den Besuchenden und der Öffentlichkeit wird die essentielle Thematik „gesamtgesellschaftliche Inklusion“ auf eine bisher unerreichte, erfahrbare und künstlerische Weise nahegebracht. Das frische und facettenreiche Veranstaltungsformat ermöglicht Raum für Begegnung, Perspektivwechsel und Inspiration.
 
 ![](/media/2020/10/neu1.jpg)![](/media/2020/10/asv-festival-_-anderssein-vereint-_-foto-by-marie-tabuena-_-online.jpg)![](/media/2020/10/hoffenheim1.png)
 
@@ -36,21 +38,31 @@ Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance, Network-Area un
 
 ![](/media/2015/07/NDR-Inklusionsfackel.jpg)</gallery>
 
-**Sinn und Zweck:**
+**Grenzen sind relativ e.V. als Anlaufstelle und Co-Veranstalter**
 
-Mit dem Veranstaltungsformat können wir dazu beitragen, für Thematik zu sensibilisieren & zu begeistern und mit der „gesamtgesellschaftlichen Inklusion“ mehr in der Mitte der Gesellschaft anzukommen. Darüber hinaus schafft man mit dem Veranstaltungsformat eine erfrischende kulturelle Abwechslung und bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikatoren und weiterführende Basisarbeit auf den Weg gebracht werden.
+Bezüglich der Veranstaltungsumsetzung kann Grenzen sind relativ e.V. - stets im engen Dialog mit dem Veranstalter - folgende Aufgaben übernehmen:
 
-**Umsetzung:**
+* Finale strategische Konzeption des Veranstaltungsformats
+* Projektleitung & Projektkoordination
+* Booking Rahmenprogramm (Bühnenprogramm, Network-Area & interaktive Erlebniswelten)
+* Veranstaltungsproduktion und Veranstaltungstechnik & -logistik (Bühne, Ton, Licht...)
+* Presse-, Öffentlichkeitsarbeit & Promotion (inkl. Filmproduktion, Designs, etc.)
+* Netzwerkarbeit
+* Barrierefreie Kommunikation & Venues
 
-Unser Aktionsbüro „Grenzen sind relativ e.V.“ entwickelt zusammen mit dem Veranstalter ein individuell abgestimmtes strategisches Veranstaltungskonzept inklusive Finanzplanung. Darauf aufbauend stellen wir ein spannendes facettenreiches Bühnenprogramm zusammen und planen die die Network-Area und interaktiven Erlebniswelten/Aktionen.
+Grenzen sind relativ e.V. fungiert bundesweit als Anlaufstelle, durchführender Co-Veranstalter und ist im umfangreichen Maße beratend tätig. Details zu den einzelnen Veranstaltungen werden im Dialog mit den Veranstaltern, je nach deren Settings, Zielen, Budgets und Möglichkeiten individuell ausgearbeitet.
+
+Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bundesweit) werden wir die allgemeine Öffentlichkeit mobilisieren, umfangreiche Pressearbeit (Print, Online, TV & Radio) machen und diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung einladen. Wir erstellen die Wort-Bild-Marke, eine Micropage, die Flyer, Plakate und Social Media Banner und werden einige Filmprojekte (Teaser, Aftermovie, Social Media Clips, usw.) produzieren. Dazu werden wir zusammen mit unseren Kooperationspartner (Alive!Kultur, Netzwerk Inklusion Deutschland, UN-Label, etc.) die Veranstaltungen über die vorhandenen Social Media Kanäle, Newsletter, Netzwerke, etc. umfassend verbreiten.
 
 Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- & Veranstaltungstechnik und Personal am Veranstaltungstag auf unser großes Netzwerk zurückgreifen. Im Rahmen der PR- & Öffentlichkeitsarbeit mobilisieren wir die allgemeine Öffentlichkeit, machen umfangreiche Pressearbeit (Print, Online, TV & Radio) und laden diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung ein.
+
+**Musik, Kunst und Kultur** sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, den Perspektivwechsel anzuregen, das Gemeinschaftsgefühl zu stärken und gesamtgesellschaftliche Entwicklungsprozesse zu reflektieren und zu unterstützen.
 
 **Bühnenprogramm:**
 
 * Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden.
 * Zu unserem großen Künstlernetzwerk gehören u.a. die Mischa Gohlke Band, Martin Fromme, Kassandra Wedel, uvam.
-* Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos) _(und/oder “2. Inklusionssong” ab April 2021)_ gemacht werden.
+* Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos) _(und/oder “2. Inklusionssong” ab Herbst 2022)_ gemacht werden.
 * Unser Moderator [Markus Riemann](https://kulturbedarf.de/) wird durch das Programm führen, einige Vereine/Projekte vorstellen und Interviews mit den Künstlern machen.
 
 **Interaktive Erlebniswelten:**
