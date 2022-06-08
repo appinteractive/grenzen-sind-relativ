@@ -10,29 +10,10 @@
               "title": "Plane Deine Veranstaltung mit uns!",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
               "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
-                },
-                {
-                  "title": "Support Inklusion - Support mal anders!",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md"
-                },
-                {
-                  "title": "Spektralkombüse",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md"
-                },
-                {
-                  "title": "Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/aktionstage-inklusion-frieden-kultur.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md"
-                }
+
               ],
-              "disabled": false
+              "disabled": false,
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
             },
             {
               "title": "KULTUR ALIVE - Grenzen sind relativ",
