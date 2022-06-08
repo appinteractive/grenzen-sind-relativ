@@ -7,7 +7,7 @@ description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und größe
   „gesamtgesellschaftliche Inklusion“ auf eine erfahrbare, mitreißende und künstlerische
   Art und Weise Nahe gebracht wird. Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance,
   interaktive Erlebniswelten und Inklusionsforum.'
-teaser: ''
+teaser: "/media/2020/10/neu1.jpg"
 gallery: []
 alias: "/veranstaltungen/support-inklusion-support-mal-anders.html"
 wide: false
