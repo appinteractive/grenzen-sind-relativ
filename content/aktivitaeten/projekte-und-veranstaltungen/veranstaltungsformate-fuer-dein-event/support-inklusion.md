@@ -54,7 +54,7 @@ Darüber hinaus können wir auch in den Bereichen Design, Film, Marketing, Ton- 
 **Interaktive Erlebniswelten:**
 
 * Es wird eine Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden
-* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(und/oder_ _“2. Inklusionssong” ab April.2021)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben
+* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(und/oder_ _“2. Inklusionssong” ab Herbst 2022)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben
 * Gebärdensprach-Barkeeper, interaktive Aktionen, Kleinkunst zum Mitmachen, usw.
 * Künstlerische Präsentationen zu den Themen Inklusion,  
   Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.
