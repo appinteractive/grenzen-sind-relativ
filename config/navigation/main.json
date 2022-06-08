@@ -4,57 +4,8 @@
       "title": "Aktivitäten",
       "children": [
         {
-          "title": "Projekte & Veranstaltungen",
+          "title": "Veranstaltungsformate",
           "children": [
-            {
-              "title": "Grenzen sind relativ Festivals",
-              "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md"
-                },
-                {
-                  "title": "Review 3. Grenzen sind relativ Festival 2019",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md"
-                },
-                {
-                  "title": "Review 2. Grenzen sind relativ Festival 2018",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/2-grenzen-sind-relativ-festival.md"
-                },
-                {
-                  "title": "Review 1. Grenzen sind relativ Festival 2017",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md"
-                }
-              ]
-            },
-            {
-              "title": "Celebrate the music ",
-              "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md"
-                },
-                {
-                  "title": "Dozenten-Team ",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops.md",
-                  "disabled": false
-                },
-                {
-                  "title": "“Celebrate the music - Come together” // So. 19.06. “altonale 2022”",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine.md",
-                  "disabled": false
-                },
-                {
-                  "title": "Dokumentation",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dokumentation.md",
-                  "disabled": true
-                }
-              ],
-              "external": false,
-              "disabled": false
-            },
             {
               "title": "Plane Deine Veranstaltung mit uns!",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
@@ -84,6 +35,55 @@
               "disabled": false
             },
             {
+              "title": "Celebrate the music ",
+              "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
+              "children": [
+                {
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md"
+                },
+                {
+                  "title": "Dozenten-Team ",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops.md",
+                  "disabled": false
+                },
+                {
+                  "title": "“Celebrate the music - Come together” // So. 19.06. “altonale 2022”",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine.md",
+                  "disabled": false
+                },
+                {
+                  "title": "Dokumentation",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dokumentation.md",
+                  "disabled": true
+                }
+              ],
+              "external": false,
+              "disabled": false
+            },
+            {
+              "title": "Grenzen sind relativ Festivals",
+              "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
+              "children": [
+                {
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md"
+                },
+                {
+                  "title": "Review 3. Grenzen sind relativ Festival 2019",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md"
+                },
+                {
+                  "title": "Review 2. Grenzen sind relativ Festival 2018",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/2-grenzen-sind-relativ-festival.md"
+                },
+                {
+                  "title": "Review 1. Grenzen sind relativ Festival 2017",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md"
+                }
+              ]
+            },
+            {
               "title": "Interdisziplinäre Kulturarbeit",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
               "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
@@ -105,7 +105,8 @@
               ]
             }
           ],
-          "showInMainNavigation": true
+          "showInMainNavigation": true,
+          "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
         },
         {
           "title": "Kampagnen-Musikvideos",
@@ -240,9 +241,9 @@
               "description": "Interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Frieden, Dialog & Miteinander, integrales Bewusstsein"
             },
             {
-              "title": "Interdisziplinäre Kulturarbeit",
-              "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md"
+              "title": "Vermittlungsbörse",
+              "description": "Vermittlung von Künstlern, Dozenten, Filmern, Designern, Promotern, usw.",
+              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md"
             },
             {
               "title": "Come together Partys - Grenzen sind relativ e.V. & Friends ",
@@ -250,14 +251,23 @@
               "description": "Monatliche Netzwerkveranstaltungen mit Live Musik, Jam Session und interaktiven Aktionen"
             },
             {
-              "title": "Vermittlungsbörse",
-              "description": "Vermittlung von Künstlern, Dozenten, Filmern, Designern, Promotern, usw.",
-              "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md"
-            },
-            {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen, Einrichtungen oder/und Einzelpersonen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen. Dabei können wir uns u.a. in den Kompetenzbereichen strategische Konzeption, operative Durchführung, Booking Rahmenprogramm, PR & Öffentlichkeitsarbeit und Networking einbringen.",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
+              "children": [
+                {
+                  "title": "Allgemeine Infos",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
+                },
+                {
+                  "title": "Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md"
+                },
+                {
+                  "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md"
+                }
+              ]
             },
             {
               "title": "Gesamtgesellschaftliches Aktionsbündnis",
