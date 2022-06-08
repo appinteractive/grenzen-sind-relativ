@@ -12,7 +12,9 @@ accessible: ''
 ---
 # Übersicht - Grenzen sind relativ e.V. Veranstaltungsformate
 
-Wir haben mehrere spannende interdisziplinäre Kultur-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren. Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in verschiedensten Institutionen (Schulen, Universitäten, Vereinen, Unternehmen, usw.).
+Wir haben mehrere spannende interdisziplinäre Kultur-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren. 
+
+Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in verschiedensten Institutionen (Schulen, Universitäten, Vereinen, Unternehmen, usw.).
 
 Im Folgenden eine Übersicht:
 
@@ -21,8 +23,6 @@ Im Folgenden eine Übersicht:
 3. [Celebrate the music (1 Tag, 5 Workshops, 1 Abschlusskonzert)]()
 4. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band]( "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band")
 5. [Workshops, Seminare & Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
-
-Übrigens: Inklusion ist keine Spezialkonvention für Menschen mit formal anerkannter Behinderung, sondern die Konkretisierung der universellen Menschenrechte!
 
 Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Projektteam, PR- & Öffentlichkeitsarbeit, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Budget, Möglichkeiten, usw. - individuell ausarbeiten und umsetzen.
 
@@ -36,5 +36,15 @@ Generell können wir uns in folgenden Arbeitsbereichen einbringen:
 Darüber hinaus können wir - zusammen mit unseren professionellen Partnern - auch in den Bereichen Filmproduktion (Teaser, Aftermovie, usw.), Design (Flyer, Plakate, Social Media Banner, usw.), Ton- & Veranstaltungstechnik und Personal am Veranstaltungstag aktiv sein.
 
 Im Rahmen unserer PR-, Öffentlichkeits- und Netzwerkarbeit mobilisieren wir die allgemeine Öffentlichkeit, machen umfangreiche Pressearbeit (Print, Online, TV & Radio) und laden diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung ein.
+
+Mit den Veranstaltungen wollen wir dazu beitragen: 
+
+a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster Backgrounds zusammen zu bringen.
+
+b) Impulse für gesamtgesellschaftliche Inklusion, Dialog & Miteinander, integrales Bewusstsein, interdisziplinäre Kultur und Frieden freizusetzen.
+
+c) Diverse Synergien, Multiplikatoren, Folgeprozesse, persönliche und kollektive Mehrwerte sowie weiterführende Basisarbeit auf den Weg zu bringen.
+
+Übrigens: Inklusion ist keine Spezialkonvention für Menschen mit formal anerkannter Behinderung, sondern die Konkretisierung der universellen Menschenrechte!
 
 Alles weitere im direkten [Kontakt](https://www.grenzensindrelativ.de/kontakt). :)
