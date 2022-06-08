@@ -16,13 +16,18 @@ accessible: ''
 ---
 # "KULTUR ALIVE - Grenzen sind relativ"
 
-## Interdisziplinäre & inklusive Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen
+## Interdisziplinäre & inklusive Kulturevents auf Festivals, Stadtfesten und Sport- & Kulturveranstaltungen
 
-Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik Hamburg und in Kiel _(Pumpe, KulturForum & Räucherei)_ haben wir ein neues frisches Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- und Kulturveranstaltungen, usw. umgesetzt wird.
+Unser neues Aktion Mensch Projekt setzt sich aus folgenden Modulen zusammen:
 
-Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. 
+1. Interdisziplinäres & inklusives Veranstaltungsformat/Label auf 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 4 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
+2. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl
+3. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
+4. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
 
-Das interdisziplinäre & inklusive Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kulturprogramm, welches aus folgenden 3 Säulen besteht:
+Das Projekt und die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. 
+
+Das interdisziplinäre & inklusive Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
 1. **Bühnenprogramm:** Spartenübergreifend finden verschiedene Künste (Musik, Tanz, Theater, Kabarett, Video-Kunst) und bekannte & unbekannte Künstler*innen (Headliner, Local Heroes, Nachwuchs-Acts, inklusive Acts, Gruppen von Vereinen & Schulen) eine gemeinsame Bühne
 2. **Interaktive Erlebniswelten:** Eine Spielwiese, bei der verschiedene Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden, durch Aktivitäten wie interaktive Malerei/Kleinkunst, Gebärdensprach-Barkeeper, Chor-Workshop...
