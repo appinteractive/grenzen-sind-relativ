@@ -37,6 +37,8 @@ Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künst
 
 Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind. Den Besuchenden und der Öffentlichkeit wird die essentielle Thematik „gesamtgesellschaftliche Inklusion“ auf eine bisher unerreichte, erfahrbare und künstlerische Weise nahegebracht. Das frische und facettenreiche Veranstaltungsformat ermöglicht Raum für Begegnung, Perspektivwechsel und Inspiration.
 
+<gallery>
+
 ![](/media/2020/10/neu1.jpg)![](/media/2020/10/asv-festival-_-anderssein-vereint-_-foto-by-marie-tabuena-_-online.jpg)![](/media/2020/10/hoffenheim1.png)
 
 ![](/media/2015/07/NDR-Inklusionsfackel3.jpg)
