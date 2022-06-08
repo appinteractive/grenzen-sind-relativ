@@ -27,7 +27,7 @@ Unser neues Aktion Mensch Projekt setzt sich aus folgenden Modulen zusammen:
 
 Das Projekt und die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. 
 
-Das interdisziplinäre & inklusive Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
+Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
 1. **Bühnenprogramm:** Spartenübergreifend finden verschiedene Künste (Musik, Tanz, Theater, Kabarett, Video-Kunst) und bekannte & unbekannte Künstler*innen (Headliner, Local Heroes, Nachwuchs-Acts, inklusive Acts, Gruppen von Vereinen & Schulen) eine gemeinsame Bühne
 2. **Interaktive Erlebniswelten:** Eine Spielwiese, bei der verschiedene Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden, durch Aktivitäten wie interaktive Malerei/Kleinkunst, Gebärdensprach-Barkeeper, Chor-Workshop...
