@@ -67,6 +67,11 @@
               "disabled": false
             },
             {
+              "title": "Spektralkombüse",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
+              "description": "Erfahrbare Inklusion durch Musik, Tanz und Kabarett"
+            },
+            {
               "title": "Grenzen sind relativ Festivals",
               "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
               "children": [
