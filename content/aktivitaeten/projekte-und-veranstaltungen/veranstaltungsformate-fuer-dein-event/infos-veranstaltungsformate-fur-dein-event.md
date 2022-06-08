@@ -1,5 +1,5 @@
 ---
-title: Übersicht - Grenzen sind relativ e.V. Veranstaltungsformate
+title: Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht
 description: 'Wir haben mehrere spannende interdisziplinäre Veranstaltungsformate
   entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden
   sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren. '
@@ -10,9 +10,9 @@ wide: false
 accessible: ''
 
 ---
-# Übersicht - Grenzen sind relativ e.V. Veranstaltungsformate
+# Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht
 
-Wir haben mehrere spannende interdisziplinäre Kultur-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren. 
+Wir haben mehrere spannende interdisziplinäre Kultur-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren.
 
 Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in verschiedensten Institutionen (Schulen, Universitäten, Vereinen, Unternehmen, usw.).
 
@@ -37,7 +37,7 @@ Darüber hinaus können wir - zusammen mit unseren professionellen Partnern - au
 
 Im Rahmen unserer PR-, Öffentlichkeits- und Netzwerkarbeit mobilisieren wir die allgemeine Öffentlichkeit, machen umfangreiche Pressearbeit (Print, Online, TV & Radio) und laden diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung ein.
 
-Mit den Veranstaltungen wollen wir dazu beitragen: 
+Mit den Veranstaltungen wollen wir dazu beitragen:
 
 a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster Backgrounds zusammen zu bringen.
 
