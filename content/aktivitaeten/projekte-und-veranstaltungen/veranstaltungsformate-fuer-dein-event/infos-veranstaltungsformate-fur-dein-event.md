@@ -1,5 +1,5 @@
 ---
-title: Plane Deine Veranstaltung mit uns!
+title: Übersicht - Grenzen sind relativ e.V. Veranstaltungsformate
 description: Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein,
   Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten
   & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine
@@ -12,7 +12,7 @@ wide: false
 accessible: ''
 
 ---
-# Plane Deine Veranstaltung mit uns!
+# Übersicht - Grenzen sind relativ e.V. Veranstaltungsformate
 
 Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein, Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine stellen? Diesbezüglich haben wir einige Muster-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen umsetzen:
 
