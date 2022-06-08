@@ -82,27 +82,6 @@
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md"
                 }
               ]
-            },
-            {
-              "title": "Interdisziplinäre Kulturarbeit",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
-              "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md"
-                },
-                {
-                  "title": "#diskurskultur - die 7teilige Filmreihe",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md",
-                  "disabled": false
-                },
-                {
-                  "title": "PDF Projektergebnisse & weitere VÖ",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/pdf-projektergebnisse-and-weitere-v-oe.md",
-                  "disabled": true
-                }
-              ]
             }
           ],
           "showInMainNavigation": true,
