@@ -1,10 +1,8 @@
 ---
 title: Übersicht - Grenzen sind relativ e.V. Veranstaltungsformate
-description: Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein,
-  Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten
-  & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine
-  stellen? Diesbezüglich haben wir einige Muster-Veranstaltungsformate entwickelt,
-  die umgesetzt werden wollen. Vielleicht hast Du noch andere Ideen? :)
+description: 'Wir haben mehrere spannende interdisziplinäre Veranstaltungsformate
+  entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden
+  sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen umsetzen. '
 teaser: "/media/2018/11/neu1.jpg"
 gallery: []
 alias: ''
@@ -14,7 +12,9 @@ accessible: ''
 ---
 # Übersicht - Grenzen sind relativ e.V. Veranstaltungsformate
 
-Du möchtest in (D)einer Institution (z.B. Schule, Universität, Verein, Unternehmen, usw.) oder/und im Rahmen von Kultur- & Sportveranstaltungen, Sommerfesten & Kongressen ein spannendes interdisziplinäres Kultur-Rahmenprogramm auf die Beine stellen? Diesbezüglich haben wir einige Muster-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen umsetzen:
+Wir haben mehrere spannende interdisziplinäre Kultur-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren. Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in verschiedensten Institutionen (Schulen, Universitäten, Vereinen, Unternehmen, usw.).
+
+Im Folgenden eine Übersicht:
 
 1. [KULTUR ALIVE - Grenzen sind relativ: Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sportveranstaltungen](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion)
 2. [Spektralkombüse von/mit Kassandra Wedel (Tanz), Martin Fromme (Kabarett) und der Mischa Gohlke Band (Musik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
@@ -36,7 +36,5 @@ Generell können wir uns in folgenden Arbeitsbereichen einbringen:
 Darüber hinaus können wir - zusammen mit unseren professionellen Partnern - auch in den Bereichen Filmproduktion (Teaser, Aftermovie, usw.), Design (Flyer, Plakate, Social Media Banner, usw.), Ton- & Veranstaltungstechnik und Personal am Veranstaltungstag aktiv sein.
 
 Im Rahmen unserer PR-, Öffentlichkeits- und Netzwerkarbeit mobilisieren wir die allgemeine Öffentlichkeit, machen umfangreiche Pressearbeit (Print, Online, TV & Radio) und laden diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung ein.
-
-_"Netzwerken bedeutet nicht nur, Menschen miteinander zu verbinden. Es geht darum, Menschen mit Menschen zu verbinden, Menschen mit Ideen, und Menschen mit Möglichkeiten."_ (vgl. Michele Jennae)
 
 Alles weitere im direkten [Kontakt](https://www.grenzensindrelativ.de/kontakt). :)
