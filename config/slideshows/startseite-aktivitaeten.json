@@ -2,16 +2,16 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md",
-      "title": "Come together Party #1 - Grenzen sind relativ e.V. & Friends // Do. 09.06.22 \"Alte Liebe\"",
-      "subtitle": "Am Do. 09.06.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die \"multipolare Crossover-Melange\", die wir gemeinsam interaktiv kreieren werden. ",
-      "image": "/media/2022/06/banner_netzwerkparty_alte-liebe_final_party-1.png"
-    },
-    {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine.md",
       "title": "“Celebrate the music - Come together!” // So. 19.06.22 “altonale”",
       "subtitle": "Im Rahmen der Veranstaltungsreihe “Celebrate the music” (Workshops, Begegnungen und Konzerte) kommen alle Mitwirkenden am So. 19.06.22 auf der “altonale” (Bühne: Platz der Republik) zusammen, um gemeinsam mit dem Publikum die Essenz der Musik gebührend zu feiern.",
       "image": "/media/2022/05/banner-celebrate-the-music-come-together-19-06-altonale-2022.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
+      "title": "Erlebnistage Inklusion durch Musik",
+      "subtitle": "",
+      "image": ""
     },
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
@@ -38,10 +38,10 @@
       "image": "/media/2020/10/est-asv.jpg"
     },
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
-      "title": "Erlebnistage Inklusion durch Musik",
-      "subtitle": "",
-      "image": ""
+      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md",
+      "title": "Come together Party #1 - Grenzen sind relativ e.V. & Friends // Do. 09.06.22 \"Alte Liebe\"",
+      "subtitle": "Am Do. 09.06.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die \"multipolare Crossover-Melange\", die wir gemeinsam interaktiv kreieren werden. ",
+      "image": "/media/2022/06/banner_netzwerkparty_alte-liebe_final_party-1.png"
     },
     {
       "page": "content/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong.md",
