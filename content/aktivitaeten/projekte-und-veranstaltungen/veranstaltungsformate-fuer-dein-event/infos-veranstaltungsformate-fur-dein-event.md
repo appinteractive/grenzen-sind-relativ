@@ -29,10 +29,11 @@ Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenpr
 
 Generell können wir uns in folgenden Arbeitsbereichen einbringen:
 
-1. Strat. Veranstaltungskonzeption & Kreierung/Booking Rahmenprogramm
-2. Projektleitung & Projektkoordination
-3. Kalkulation Kosten & Einnahmen + Fundraising
-4. PR-, Öffentlichkeits- & Netzwerkarbeit (TV, Radio, Print & Online regional/überregional/bundesweit)
+1. Strat. Veranstaltungskonzeption
+2. Kreierung/Booking Rahmenprogramm (Bands, Kabarettisten, Tanz- & Theatergruppen, Dozenten, Speaker, Talkgäste, Moderatoren, Kunstausstellung, etc.)
+3. Projektleitung & Projektkoordination
+4. Kalkulation Kosten & Einnahmen + Fundraising
+5. PR-, Öffentlichkeits- & Netzwerkarbeit (TV, Radio, Print & Online regional/überregional/bundesweit)
 
 Darüber hinaus können wir - zusammen mit unseren professionellen Partnern - auch in den Bereichen Filmproduktion (Teaser, Aftermovie, usw.), Design (Flyer, Plakate, Social Media Banner, usw.), Ton- & Veranstaltungstechnik und Personal am Veranstaltungstag aktiv sein.
 
