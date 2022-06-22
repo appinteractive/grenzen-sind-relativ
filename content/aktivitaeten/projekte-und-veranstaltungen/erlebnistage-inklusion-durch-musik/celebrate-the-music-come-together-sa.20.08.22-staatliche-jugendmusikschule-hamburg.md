@@ -11,9 +11,9 @@ accessible: ''
 ---
 # Celebrate the music - Come together! 
 
-## Sa. 20.08.22 in der Staatlichen Jugendmusikschule Hamburg
+## 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
 
-### 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
+### Am Sa. 20. August 2022 in der Staatlichen Jugendmusikschule Hamburg (Mittelweg 42, 20148 Hamburg)
 
 **Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.**
 
@@ -27,17 +27,17 @@ Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltung
 
 In der offenen Workshoprunde (4 x 30 Minuten) könnt ihr in die “Elemente der Musik” eintauchen und euch **HIER** anmelden (max. 4 x 12 = 48 Teilnehmende):
 
-**Workshop 1: Drumcircle (Dozent: Christian Nowak)**
+#### **Workshop 1: Drumcircle (Dozent: Christian Nowak)**
 
-**Workshop 2: Body Rhythm (Dozent: Ben Schütz)**
+#### **Workshop 2: Body Rhythm (Dozent: Ben Schütz)**
 
 Hier bekommst Du einen Einblick in die Welt der Body Percussion – der Verbindung von Rhythmus, Bewegung und Stimme. Mit Spielen und Übungen bereiten wir uns vor, um im Anschluss eine kurze Choreografie zu erlernen. Bodypercussion ermöglicht es uns, den eigenen Körper im Fluss der Musik zu spüren und gleichzeitig mit anderen in Kontakt zu treten.
 
-**Workshop 3: Stimme & Chor (Dozentin: Alexandra Pengler)**
+#### **Workshop 3: Stimme & Chor (Dozentin: Alexandra Pengler)**
 
 In diesem Workshop widmen wir uns dem Gesang. Jeder darf hierbei in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, du bist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
-**Workshop 4: Bandtraining (Dozent: Mischa Gohlke):**
+#### **Workshop 4: Bandtraining (Dozent: Mischa Gohlke):**
 
 Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Dazu erfährst Du, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei bekommst Du auch einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
 
@@ -45,7 +45,11 @@ Darüber hinaus wird es 2 **Band-Clashes** geben, wo Bands verschiedenster Coule
 
 Bei der **Abschluss-Konzerveranstaltung** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
 
-**VERANSTALTUNGSABLAUF:**
+> So let´s celebrate the music and come together!
+
+***
+
+### **VERANSTALTUNGSABLAUF:**
 
 13:00 Uhr - Eröffnung & Warm Up mit Rhythm´n´Groove, Vocals und Body Rhythm
 
@@ -69,10 +73,6 @@ Bei der **Abschluss-Konzerveranstaltung** werden die Teilnehmenden zusammen mit 
 
 17:30 Uhr - Ende
 
-> So let´s celebrate the music and come together!
-
-***
-
 ### **VERANSTALTUNGSORT:**
 
 Staatliche Jugendmusikschule Hamburg
@@ -87,13 +87,13 @@ Mittelweg 42, 20148 Hamburg
 
 Die Anmeldung muss per E-Mail oder postalisch bis zum **……** erfolgen. Nur vollständige Anmeldungen werden zugelassen.
 
-**Anmeldung an:**
+Anmeldung an:
 
-**WICHTIG, bitte beachten: Drucken Sie die Anmeldung aus und schicken Sie sie mit den nötigen Original-Unterschriften als Scan an:** [winfried.stegmann@bsb.hamburg.de](mailto:winfried.stegmann@bsb.hamburg.de)
+WICHTIG, bitte beachten: Drucken Sie die Anmeldung aus und schicken Sie sie mit den nötigen Original-Unterschriften als Scan an: [winfried.stegmann@bsb.hamburg.de](mailto:winfried.stegmann@bsb.hamburg.de)
 
 oder per Post an:
 
-**Staatliche Jugendmusikschule, Celebrate the music, Mittelweg 42, 20148 Hamburg.**
+Staatliche Jugendmusikschule, Celebrate the music, Mittelweg 42, 20148 Hamburg.
 
 ### **ANSPRECHPARTNER:INNEN:**
 
