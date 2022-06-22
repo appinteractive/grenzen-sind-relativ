@@ -13,7 +13,7 @@ accessible: ''
 
 ## 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
 
-### Am Sa. 20. August 2022 in der Staatlichen Jugendmusikschule Hamburg (Mittelweg 42, 20148 Hamburg)
+## Am Sa. 20.08.2022 in der Staatlichen Jugendmusikschule Hamburg (Mittelweg 42, 20148 Hamburg)
 
 **Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.**
 
