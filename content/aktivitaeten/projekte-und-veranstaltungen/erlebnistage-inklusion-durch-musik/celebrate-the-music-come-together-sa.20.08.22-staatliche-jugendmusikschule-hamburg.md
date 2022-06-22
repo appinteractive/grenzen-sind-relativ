@@ -67,6 +67,8 @@ Bei der **Abschluss-Konzerveranstaltung** werden die Teilnehmenden zusammen mit 
 
 17:30 Uhr - Ende
 
+> So let´s celebrate the music and come together!
+
 ***
 
 ### **VERANSTALTUNGSORT:**
