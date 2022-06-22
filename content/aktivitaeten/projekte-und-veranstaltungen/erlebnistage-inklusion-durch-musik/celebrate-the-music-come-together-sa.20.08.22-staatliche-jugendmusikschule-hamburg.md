@@ -85,7 +85,7 @@ Mittelweg 42, 20148 Hamburg
 
 ### **ANMELDUNG:**
 
-Das Anmeldungsformular muss per E-Mail bis zum 31.07.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmendenzahl auf 48 begrenzt ist.
+Das Anmeldungsformular muss per E-Mail bis zum 31.07.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmenden-Anzahl auf 48 Menschen begrenzt ist.
 
 Anmeldung an: Fabia Mekus, [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de)
 
