@@ -9,13 +9,15 @@ alias: ''
 accessible: ''
 
 ---
-# "Celebrate the music - Come together" // Sa. 20.08.22 in der Staatlichen Jugendmusikschule Hamburg 
+# Celebrate the music - Come together! 
 
-## 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
+## Sa. 20.08.22 in der Staatlichen Jugendmusikschule Hamburg
+
+### 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
 
 **Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.**
 
-Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den 20. August 2022 ein, bei einer ganz besonderen Veranstaltung dabei zu sein und mitzumachen. 
+Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den 20. August 2022 ein, bei einer ganz besonderen Veranstaltung dabei zu sein und mitzumachen.
 
 > Let´s celebrate the music and come together!
 
