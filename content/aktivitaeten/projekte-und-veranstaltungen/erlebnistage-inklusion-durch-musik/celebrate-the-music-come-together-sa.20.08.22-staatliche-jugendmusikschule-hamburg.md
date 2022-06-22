@@ -9,11 +9,11 @@ alias: ''
 accessible: ''
 
 ---
-# Celebrate the music - Come together! 
+# Celebrate the music - Come together!
 
 ## Am Sa. 20.08.2022 in der Staatlichen Jugendmusikschule Hamburg (Mittelweg 42, 20148 Hamburg)
 
-![](/media/2022/06/celebrate-the-music-20-08_1.png)
+![](/media/2022/06/celebrate-the-music-20-08_2.png)
 
 **Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.**
 
@@ -25,7 +25,7 @@ Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor und Ba
 
 Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Lili Czuya, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Die Dozent:innen haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass wir alle “nur mit Wasser kochen” und wir alle von- und miteinander lernen können. **Bei “Celebrate the music” sind alle gleichzeitig Lehrende und Lernende.**
 
-In der offenen Workshoprunde (4 x 30 Minuten) könnt ihr in die “Elemente der Musik” eintauchen und euch **HIER** anmelden (max. 4 x 12 = 48 Teilnehmende):
+In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente um gemeinsam in einer Band zu spielen. **HIER** könnt ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende).
 
 #### **Workshop 1: Drumcircle (Dozent: Christian Nowak)**
 
@@ -85,23 +85,17 @@ Mittelweg 42, 20148 Hamburg
 
 ### **ANMELDUNG:**
 
-Die Anmeldung muss per E-Mail oder postalisch bis zum **……** erfolgen. Nur vollständige Anmeldungen werden zugelassen.
+Das Anmeldungsformular muss per E-Mail bis zum 31.07.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmendenzahl auf 48 begrenzt ist.
 
-Anmeldung an:
-
-WICHTIG, bitte beachten: Drucken Sie die Anmeldung aus und schicken Sie sie mit den nötigen Original-Unterschriften als Scan an: [winfried.stegmann@bsb.hamburg.de](mailto:winfried.stegmann@bsb.hamburg.de)
-
-oder per Post an:
-
-Staatliche Jugendmusikschule, Celebrate the music, Mittelweg 42, 20148 Hamburg.
+Anmeldung an: Fabia Mekus, [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de)
 
 ### **ANSPRECHPARTNER:INNEN:**
 
 Für Fragen und Informationen wende Dich gerne an:
 
-Winfried Stegmann (Pädagogischer Leiter Staatliche Jugendmusikschule Hamburg): [winfried.stegmann@bsb.hamburg.de](mailto:winfried.stegmann@bsb.hamburg.de)
-
 Fabia Mekus (Grenzen sind relativ e.V.): [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de)
+
+Winfried Stegmann (Pädagogischer Leiter Staatliche Jugendmusikschule Hamburg): [winfried.stegmann@bsb.hamburg.de](mailto:winfried.stegmann@bsb.hamburg.de)
 
 ***
 
