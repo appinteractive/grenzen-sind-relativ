@@ -9,7 +9,7 @@ alias: ''
 accessible: ''
 
 ---
-# "Celebrate the music - Come together" 
+# "Celebrate the music - Come together"
 
 ## 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
 
@@ -85,7 +85,7 @@ Die Anmeldung muss per E-Mail oder postalisch bis zum **……** erfolgen. Nur v
 
 **Anmeldung an:**
 
-**WICHTIG, bitte beachten: Drucken Sie die Anmeldung aus und schicken Sie sie mit den nötigen Original-Unterschriften als Scan an:**
+**WICHTIG, bitte beachten: Drucken Sie die Anmeldung aus und schicken Sie sie mit den nötigen Original-Unterschriften als Scan an:** [winfried.stegmann@bsb.hamburg.de](mailto:winfried.stegmann@bsb.hamburg.de)
 
 oder per Post an:
 
@@ -115,4 +115,7 @@ Das Pilotprojekt “Мusikunterricht für Hörgeschädigte” wurde mehrfach aus
 
 ***
 
-## 
+### **Gefördert von**  
+![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
+
+![](/media/2022/03/stiftung_hw_logo_rgb_inumlauf.JPG)
