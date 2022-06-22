@@ -13,7 +13,7 @@ accessible: ''
 
 ## Am Sa. 20.08.2022 in der Staatlichen Jugendmusikschule Hamburg (Mittelweg 42, 20148 Hamburg)
 
-![](/media/2022/06/celebrate-the-music-20-08_2.png)
+![](/media/2022/06/celebrate-the-music-20-08_web_02_neu.png)
 
 **Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.**
 
