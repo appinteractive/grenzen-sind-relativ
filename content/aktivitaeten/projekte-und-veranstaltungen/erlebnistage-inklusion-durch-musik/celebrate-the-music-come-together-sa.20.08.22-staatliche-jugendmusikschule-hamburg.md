@@ -9,19 +9,19 @@ alias: ''
 accessible: ''
 
 ---
-# "Celebrate the music - Come together" - Sa. 20. August 2022 in der staatlichen Jugendmusikschule Hamburg 
+# "Celebrate the music - Come together" // Sa. 20.08.22 in der staatlichen Jugendmusikschule Hamburg 
 
 ## 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
 
-### JMS, Mittelweg 42, 20148 Hamburg
+**Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.**
 
-Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den 20. August 2022 ein, bei einer ganz besonderen Veranstaltung dabei zu sein und mitzumachen. Let´s celebrate the music and come together!
+Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den 20. August 2022 ein, bei einer ganz besonderen Veranstaltung dabei zu sein und mitzumachen. 
 
-Mit der offenen Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining), den beiden Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik. Die Teilnahme ist kostenlos.
+> Let´s celebrate the music and come together!
 
-Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)Dozent:innen-Team besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Lili Czuya, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Die Dozent:innen haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass wir alle “nur mit Wasser kochen” und wir alle von- und miteinander lernen können. Bei “Celebrate the music” sind alle gleichzeitig Lehrende und Lernende.
+Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining), den beiden Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik. Die Teilnahme ist kostenlos.
 
-> So let´s celebrate the music and come together!
+Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Lili Czuya, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Die Dozent:innen haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass wir alle “nur mit Wasser kochen” und wir alle von- und miteinander lernen können. **Bei “Celebrate the music” sind alle gleichzeitig Lehrende und Lernende.**
 
 In der offenen Workshoprunde (4 x 30 Minuten) könnt ihr in die “Elemente der Musik” eintauchen und euch **HIER** anmelden (max. 4 x 12 = 48 Teilnehmende):
 
