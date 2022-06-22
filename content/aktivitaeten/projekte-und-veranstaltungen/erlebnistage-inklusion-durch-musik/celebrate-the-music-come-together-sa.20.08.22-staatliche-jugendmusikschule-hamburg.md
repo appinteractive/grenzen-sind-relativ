@@ -9,7 +9,7 @@ alias: ''
 accessible: ''
 
 ---
-# "Celebrate the music - Come together" // Sa. 20.08.22 in der staatlichen Jugendmusikschule Hamburg 
+# "Celebrate the music - Come together" // Sa. 20.08.22 in der Staatlichen Jugendmusikschule Hamburg 
 
 ## 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
 
@@ -66,6 +66,8 @@ Bei der **Abschluss-Konzerveranstaltung** werden die Teilnehmenden zusammen mit 
 16:30 Uhr - Abschlusskonzert
 
 17:30 Uhr - Ende
+
+***
 
 ### **VERANSTALTUNGSORT:**
 
