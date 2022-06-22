@@ -9,11 +9,9 @@ alias: ''
 accessible: ''
 
 ---
-# "Celebrate the music - Come together"
+# "Celebrate the music - Come together" - Sa. 20. August 2022 in der staatlichen Jugendmusikschule Hamburg 
 
 ## 4 Workshops, 2 Band-Clashes & 1 Abschlusskonzert
-
-### Sa. 20. August 2022 - 13.00 bis 17.30 Uhr
 
 ### JMS, Mittelweg 42, 20148 Hamburg
 
@@ -115,7 +113,8 @@ Das Pilotprojekt “Мusikunterricht für Hörgeschädigte” wurde mehrfach aus
 
 ***
 
-### **Gefördert von**  
+### **Gefördert von**
+
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
 
 ![](/media/2022/03/stiftung_hw_logo_rgb_inumlauf.JPG)
