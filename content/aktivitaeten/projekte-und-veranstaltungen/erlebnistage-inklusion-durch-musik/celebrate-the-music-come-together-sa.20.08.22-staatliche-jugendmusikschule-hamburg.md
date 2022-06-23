@@ -27,7 +27,11 @@ Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltung
 
 In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente um gemeinsam in einer Band zu spielen. **HIER** könnt ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende).
 
-#### **Workshop 1: Drumcircle (Dozent: Christian Nowak)**
+***
+
+**Workshop 1: Drumcircle (Dozent: Christian Nowak)**
+
+Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzten kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
 
 #### **Workshop 2: Body Rhythm (Dozent: Ben Schütz)**
 
@@ -40,6 +44,8 @@ In diesem Workshop widmen wir uns dem Gesang. Jeder darf hierbei in seinem eigen
 #### **Workshop 4: Bandtraining (Dozent: Mischa Gohlke):**
 
 Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Dazu erfährst Du, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei bekommst Du auch einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
+
+***
 
 Darüber hinaus wird es 2 **Band-Clashes** geben, wo Bands verschiedenster Couleur sich erstmals begegnen, einen Song einproben und exklusive Performances auf die Bühne zaubern werden, wie sie so noch nie gesehen, gehört und erlebt worden ist.
 
