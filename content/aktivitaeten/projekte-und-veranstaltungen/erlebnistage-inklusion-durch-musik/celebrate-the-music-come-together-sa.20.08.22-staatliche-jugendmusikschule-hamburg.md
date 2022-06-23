@@ -89,7 +89,7 @@ Mittelweg 42, 20148 Hamburg
 
 ### [**ANMELDUNGSFORMULAR ZUM DOWNLOAD (PDF)**](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing)
 
-Hinweis: Das Anmeldungsformular kann [**HIER **](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing)runtergeladen werden. Anschließend könnt ihr Euch in die freien Textfelder eintragen. Dann das Dokument abspeichern und an uns schicken. 
+Hinweis: Das Anmeldungsformular kann [HIER ](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing)runtergeladen werden. Anschließend könnt ihr Euch in die freien Textfelder eintragen. Dann das Dokument abspeichern und an uns schicken. 
 
 ### **ANMELDUNG:**
 
