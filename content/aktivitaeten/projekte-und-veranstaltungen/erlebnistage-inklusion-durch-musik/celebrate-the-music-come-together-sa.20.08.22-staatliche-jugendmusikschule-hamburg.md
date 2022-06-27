@@ -17,13 +17,13 @@ accessible: ''
 
 **Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.**
 
-Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den 20. August 2022 ein, bei einer ganz besonderen Veranstaltung dabei zu sein und mitzumachen.
+Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den 20. August 2022 ein, bei einer ganz besonderen Veranstaltung mitzumachen.
 
 > Let´s celebrate the music and come together!
 
-Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining), den beiden Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik. Die Teilnahme ist kostenlos.
+Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining), den beiden Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik. Die Teilnahme ist kostenlos.
 
-Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Alexandra Pengler, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Die Dozent:innen haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass wir alle “nur mit Wasser kochen” und wir alle von- und miteinander lernen können. **Bei “Celebrate the music” sind alle gleichzeitig Lehrende und Lernende.**
+Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Alexandra Pengler, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
 In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente um gemeinsam in einer Band zu spielen. [**HIER**](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing) könnt ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende).
 
@@ -39,17 +39,17 @@ Hier bekommst Du einen Einblick in die Welt der Body Percussion – der Verbindu
 
 #### **Workshop 3: Stimme & Chor (Dozentin: Alexandra Pengler)**
 
-In diesem Workshop widmen wir uns dem Gesang. Jeder darf hierbei in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, du bist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
+In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, jeder ist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
 #### **Workshop 4: Bandtraining (Dozent: Mischa Gohlke):**
 
-Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Dazu erfährst Du, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei bekommst Du auch einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
+Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhälst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
 
 ***
 
-Darüber hinaus wird es 2 **Band-Clashes** geben, wo Bands verschiedenster Couleur sich erstmals begegnen, einen Song einproben und exklusive Performances auf die Bühne zaubern werden, wie sie so noch nie gesehen, gehört und erlebt worden ist.
+Darüber hinaus gibt es zwei **Band-Clashes**, bei dem sich Bands verschiedenster Couleur erstmals begegnen, einen Song einproben und auf die Bühne zaubern werden, wie sie es noch nie gesehen, gehört und erlebt haben.
 
-Bei der **Abschluss-Konzerveranstaltung** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
+Bei der **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
 
 > So let´s celebrate the music and come together!
 
@@ -89,11 +89,11 @@ Mittelweg 42, 20148 Hamburg
 
 ### [**ANMELDUNGSFORMULAR ZUM DOWNLOAD (PDF)**](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing)
 
-Hinweis: Das Anmeldungsformular kann [HIER ](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing)heruntergeladen werden. Anschließend könnt ihr Euch in die freien Textfelder eintragen. Dann das Dokument abspeichern und via E-Mail an uns schicken. 
+Hinweis: Das Anmeldungsformular kann [HIER ](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing)heruntergeladen werden. Anschließend könnt ihr Euch in die freien Textfelder eintragen. Dann das Dokument abspeichern und via E-Mail an uns schicken.
 
 ### **ANMELDUNG:**
 
-Das Anmeldungsformular muss per E-Mail bis zum 31.07.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmenden-Anzahl auf 48 Menschen begrenzt ist.
+Das Anmeldungsformular muss per E-Mail bis zum 31.07.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 48 Menschen begrenzt ist.
 
 Anmeldung an: Fabia Mekus, [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de)
 
