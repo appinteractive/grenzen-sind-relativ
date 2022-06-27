@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2022/06/celebrate-the-music-20-08_web_02_neu.png"
 title: Celebrate the music - Come together! // Sa. 20.08.22 Staatliche Jugendmusikschule
   Hamburg
 description: ''
