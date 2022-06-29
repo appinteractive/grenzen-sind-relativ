@@ -15,7 +15,7 @@ accessible: ''
 
 ## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten
 
-Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel! 
+Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel!
 
 Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden an fünf Veranstaltungstagen gemeinsam mit Institutionen aus Bildung, Kultur und Sozialem Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt:
 
@@ -25,7 +25,7 @@ Fr. 06.05.2022: Grundschule Bindfeldweg
 
 Do. 12.05.2022: Nelson Mandela Schule
 
-Do. 07.07.2022: Staatliche Jugendmusikschule (Mittelweg)
+[Sa. 20.08.2022: Staatliche Jugendmusikschule (Mittelweg 42)]()
 
 So. 11.09.2022: Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“
 
