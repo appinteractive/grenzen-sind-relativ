@@ -25,7 +25,7 @@ Fr. 06.05.2022: Grundschule Bindfeldweg
 
 Do. 12.05.2022: Nelson Mandela Schule
 
-[Sa. 20.08.2022: Staatliche Jugendmusikschule (Mittelweg 42)]()
+[Sa. 20.08.2022: Staatliche Jugendmusikschule (Mittelweg 42)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/celebrate-the-music-come-together-sa.20.08.22-staatliche-jugendmusikschule-hamburg)
 
 So. 11.09.2022: Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“
 
@@ -35,7 +35,7 @@ Jeder Tag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmenden 
 
 Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: David Alleckna, Jens Carstens, Mischa Gohlke, Lili Czuya, Oded Kafri, Rico Bowen, Volkan Baydar und das Body Rhythm Team um Ben Schütz. Die Dozent:innen haben bereits mit Größen wie Madonna, Shakira, Dave Matthews Band, Phil Collins, Julian Lennon, Udo Lindenberg, Selig, Roger Cicero, Helene Fischer, Aha, Rolf Zuckowski, Rosenstolz, Blondie und Nena zusammen gespielt.
 
-Im Rahmen der Netzwerkveranstaltung [“Celebrate the music - Come together!” am So. 19.06.2022 auf der altonale (Platz der Republik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine) kommen alle Mitwirkenden zusammen. Gemeinsam mit dem Publikum wird die Essenz der Musik gebührend zelebriert.
+Bei der Netzwerkveranstaltung [“Celebrate the music - Come together!” am So. 19.06.2022 auf der altonale (Platz der Republik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine) sind alle mitwirkenden Schüler:innen, Institutionen und Dozent:innen zusammen gekommen. Gemeinsam mit dem Publikum wurde die Essenz der Musik gebührend zelebriert.
 
 Das Ganze wird von einem Filmteam begleitet, das einen Dokumentarfilm über das Projekt machen wird.
 
