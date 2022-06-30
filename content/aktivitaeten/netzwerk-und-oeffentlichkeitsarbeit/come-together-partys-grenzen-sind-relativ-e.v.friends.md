@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2022/05/banner_netzwerkparty_alte-liebe_final_party-1.png"
+teaser: "/media/2022/06/banner_netzwerkparty_alte-liebe_-2_party-2_4.png"
 title: 'Come together Party #2 - Grenzen sind relativ e.V. & Friends // Do. 07.07.22
   "Alte Liebe" '
 description: Monatliche Netzwerkveranstaltungen mit Live Musik, Jam Session und interaktiven
@@ -16,7 +16,7 @@ accessible: ''
 
 Liebe Mit-Menschen,
 
-yeeeahhh, nun geht es mit unseren neuen monatlichen Netzwerkveranstaltungen in die 2. Runde!
+yeeeahhh, nun geht es mit unserer neuen monatlichen Netzwerkveranstaltung in die 2. Runde!
 
 Am Do. 07.07.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die "multipolare Crossover-Melange", die wir gemeinsam interaktiv kreieren werden. 😊
 
