@@ -49,7 +49,7 @@ Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang 
 
 Darüber hinaus gibt es zwei **Band-Clashes**, bei dem sich Bands verschiedenster Couleur erstmals begegnen, einen Song einproben und auf die Bühne zaubern werden, wie sie es noch nie gesehen, gehört und erlebt haben.
 
-Bei der **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
+Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
 
 > So let´s celebrate the music and come together!
 
