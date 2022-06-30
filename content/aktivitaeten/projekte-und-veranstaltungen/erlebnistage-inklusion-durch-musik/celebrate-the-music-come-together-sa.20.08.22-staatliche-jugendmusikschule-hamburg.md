@@ -2,7 +2,9 @@
 teaser: "/media/2022/06/celebrate-the-music-20-08_web_02_neu.png"
 title: Celebrate the music - Come together! // Sa. 20.08.22 Staatliche Jugendmusikschule
   Hamburg
-description: ''
+description: Die Staatliche Jugendmusikschule Hamburg und Grenzen sind relativ e.V.
+  laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den
+  20. August 2022 ein, bei einer ganz besonderen Veranstaltung mitzumachen.
 wide: false
 gallery: []
 alias: ''
