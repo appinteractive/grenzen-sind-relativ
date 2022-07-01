@@ -18,9 +18,13 @@ Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der ges
 
 <video-gallery name="media-diskurskultur"></video-gallery>
 
+***
+
 ## Blog
 
 <slideshow :max="2" name="media-blog"></slideshow>
+
+***
 
 ## Audiovisuelle Impressionen  "Grenzen sind relativ e.V."
 
@@ -28,9 +32,13 @@ TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein 
 
 <video-gallery name="startseite-video-galerie"></video-gallery>
 
+***
+
 ## Aktivitäten "Grenzen sind relativ e.V."
 
 <slideshow :max="2" name="startseite-aktivitaeten"></slideshow>
+
+***
 
 ### Selbstverständnis
 
@@ -49,6 +57,8 @@ Musik, Kunst, Kultur und Sprache sind wunderbare Transmitter, um sich komplexen 
 Wir wollen aus unseren Filterblasen rauskommen und können alle von- und miteinander lernen. Dazu können diverse Folgeprozesse, Synergien, Multiplikatoren, weiterführende Basisarbeit sowie persönliche und kollektive Mehrwerte auf den Weg gebracht werden.
 
 Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der Dialektik - Inklusion statt Separation, Kooperation statt Konkurrenz und gelebten Frieden für alle Menschen auf diesem Planeten.
+
+***
 
 Für die großzügige Unterstützung geht unser Dank an die "KULTUR.GEMEINSCHAFTEN".
 
