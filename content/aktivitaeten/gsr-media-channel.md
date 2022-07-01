@@ -12,7 +12,7 @@ accessible: ''
 
 Willkommen auf unserer neuen interdisziplinären Medien-Plattform!
 
-## #diskurskultur
+> ## #diskurskultur
 
 Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein) ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.
 
