@@ -12,6 +12,8 @@ accessible: ''
 
 Willkommen auf unserem neuen multipolaren Medienportal! Hier findet Du von Grenzen sind relativ e.V. produzierte Content-Formate, einen Einblick in unsere Aktivitäten sowie weitere spannende Beiträge. Wir wollen Brücken bauen und verschiedenste gesamtgesellschaftliche Themen, Prozesse, Akteure und Netzwerke zusammenbringen. So let´s start!
 
+***
+
 ## #diskurskultur
 
 Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein) ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.
