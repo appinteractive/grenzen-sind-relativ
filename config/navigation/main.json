@@ -313,6 +313,9 @@
             {
               "title": "#diskurskultur",
               "page": "content/aktivitaeten/gsr-medienportal/medienportal-diskurskultur.md"
+            },
+            {
+              "title": "Blog"
             }
           ],
           "showInMainNavigation": true
