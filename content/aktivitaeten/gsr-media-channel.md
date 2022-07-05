@@ -1,7 +1,7 @@
 ---
 teaser: ''
 title: GSR Media Channel
-description: Das neue multipolare Medienportal
+description: 'Willkommen auf unserem neuen multipolaren Medienportal! '
 wide: false
 gallery: []
 alias: ''
