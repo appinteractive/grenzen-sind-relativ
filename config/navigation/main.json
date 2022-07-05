@@ -315,7 +315,14 @@
               "page": "content/aktivitaeten/gsr-medienportal/medienportal-diskurskultur.md"
             },
             {
-              "title": "Blog"
+              "title": "Blog",
+              "children": [
+                {
+                  "title": "Auf in eine neue Beziehungskultur",
+                  "page": "content/aktivitaeten/gsr-medienportal/Blog/medienportal-auf-in-eine-neue-beziehungskultur.md",
+                  "showInMainNavigation": true
+                }
+              ]
             }
           ],
           "showInMainNavigation": true
