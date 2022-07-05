@@ -285,7 +285,22 @@
             {
               "title": "GSR Medienportal",
               "description": "Willkommen auf unserem neuen multipolaren Medienportal!",
-              "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md"
+              "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md",
+              "children": [
+                {
+                  "children": [
+                    {
+                      "title": "Auf in eine neue Beziehungskultur!",
+                      "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md"
+                    }
+                  ],
+                  "title": "Blog"
+                },
+                {
+                  "title": "#diskurskultur",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md"
+                }
+              ]
             }
           ]
         }
