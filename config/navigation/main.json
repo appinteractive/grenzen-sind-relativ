@@ -308,7 +308,11 @@
                   "showInMainNavigation": false
                 }
               ],
-              "showInMainNavigation": false
+              "showInMainNavigation": true
+            },
+            {
+              "title": "#diskurskultur",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md"
             }
           ],
           "showInMainNavigation": true
