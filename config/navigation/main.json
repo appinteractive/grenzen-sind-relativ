@@ -300,15 +300,15 @@
                   ],
                   "title": "Blog",
                   "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
-                  "showInMainNavigation": true
+                  "showInMainNavigation": false
                 },
                 {
                   "title": "#diskurskultur",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md",
-                  "showInMainNavigation": true
+                  "showInMainNavigation": false
                 }
               ],
-              "showInMainNavigation": true
+              "showInMainNavigation": false
             }
           ],
           "showInMainNavigation": true
