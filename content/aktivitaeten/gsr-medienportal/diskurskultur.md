@@ -1,6 +1,6 @@
 ---
 teaser: ''
-title: medienportal diskurskultur
+title: diskurskultur
 description: ''
 wide: false
 gallery: []
