@@ -12,6 +12,10 @@ accessible: ''
 
 Willkommen auf unserem neuen multipolaren Medienportal! Hier findet Du von uns produzierte Medien-Formate, einen Einblick in unsere laufenden Aktivitäten sowie weitere spannende Beiträge. Das Portal schafft Raum, um gesamtgesellschaftliche Themen, Prozesse, Akteure und Netzwerke näher zusammen zu bringen. So let´s start!
 
+## Aktuelles
+
+<slideshow :max="2" name="gsr-medienportal-aktuelles"></slideshow>
+
 ***
 
 ## #diskurskultur
