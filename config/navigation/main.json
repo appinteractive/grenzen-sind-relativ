@@ -280,7 +280,14 @@
         {
           "title": "GSR Medienportal",
           "description": "Willkommen auf unserem neuen multipolaren Medienportal! ",
-          "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md"
+          "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md",
+          "children": [
+            {
+              "title": "GSR Medienportal",
+              "description": "Willkommen auf unserem neuen multipolaren Medienportal!",
+              "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md"
+            }
+          ]
         }
       ],
       "showInMainNavigation": true
