@@ -10,7 +10,7 @@ accessible: ''
 ---
 # GSR Media Channel
 
-Willkommen auf unserem neuen multipolaren Medienportal! Hier findet Du von uns neu produzierte Medien-Formate, einen Einblick in unsere laufenden Aktivitäten sowie weitere spannende Beiträge. Wir wollen Brücken bauen und verschiedenste gesamtgesellschaftliche Themen, Prozesse, Akteure und Netzwerke zusammenbringen. So let´s start!
+Willkommen auf unserem neuen multipolaren Medienportal! Hier findet Du von uns neu produzierte Medien-Formate, einen Einblick in unsere laufenden Aktivitäten sowie weitere spannende Beiträge. Wir wollen verschiedenste gesamtgesellschaftliche Themen, Prozesse, Akteure und Netzwerke zusammenbringen. So let´s start!
 
 ***
 
