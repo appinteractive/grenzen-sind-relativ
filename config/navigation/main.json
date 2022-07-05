@@ -4,6 +4,11 @@
       "title": "Aktivitäten",
       "children": [
         {
+          "title": "GSR Medienportal",
+          "description": "Willkommen auf unserem neuen multipolaren Medienportal! ",
+          "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md"
+        },
+        {
           "title": "Veranstaltungsformate",
           "children": [
             {
@@ -276,20 +281,6 @@
           "showInMainNavigation": true,
           "description": "Wir bringen verschiedenste Akteure zusammen und setzen uns für eine inklusive, integrale und friedliche Gesellschaft ein.",
           "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md"
-        },
-        {
-          "title": "GSR Media Channel",
-          "disabled": false,
-          "page": "content/aktivitaeten/gsr-media-channel.md",
-          "description": "Willkommen auf unserem neuen multipolaren Medienportal! ",
-          "children": [
-            {
-              "title": "GSR Media Channel",
-              "description": "Willkommen auf unserem neuen multipolaren Medienportal! ",
-              "page": "content/aktivitaeten/gsr-media-channel.md",
-              "disabled": false
-            }
-          ]
         }
       ],
       "showInMainNavigation": true
