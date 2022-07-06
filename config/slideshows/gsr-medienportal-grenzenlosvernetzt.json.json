@@ -1,0 +1,14 @@
+{
+  "teasers": true,
+  "slides": [
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md",
+      "title": "grenzenlos vernetzt von a-z",
+      "subtitle": "",
+      "image": "/media/2022/07/ankundigungstext-01.jpg"
+    }
+  ],
+  "autoplay": false,
+  "delay": null,
+  "title": "gsr-medienportal-grenzenlosvernetzt.json"
+}
