@@ -320,7 +320,10 @@
               "description": "",
               "showInMainNavigation": false,
               "children": [
-
+                {
+                  "title": "Projektinfo",
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md"
+                }
               ]
             },
             {
