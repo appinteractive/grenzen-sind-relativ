@@ -316,9 +316,9 @@
             },
             {
               "title": "grenzenlos vernetzt von a-z",
-              "page": "content/aktivitaeten/gsr-medienportal/grenzenlos vernetzt von a-z/info.md",
+              "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md",
               "description": "",
-              "showInMainNavigation": true
+              "showInMainNavigation": false
             },
             {
               "title": "Blog",
