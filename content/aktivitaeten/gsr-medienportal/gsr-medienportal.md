@@ -24,7 +24,7 @@ Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der ges
 
 ## grenzenlos vernetzt von a-z
 
-<slideshow :max="2" name="gsr-medienportal-grenzenlos-vernetzt-von-a-z"></slideshow>
+<slideshow :max="2" name="gsr-medienportal-grenzenlosvernetzt"></slideshow>
 
 ***
 
