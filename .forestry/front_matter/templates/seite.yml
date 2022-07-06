@@ -38,7 +38,6 @@ fields:
   label: Leichte Sprache
   description: "(optional)"
 pages:
-- content/aktivitaeten/gsr-media-channel.md
 - content/aktivitaeten/gsr-medienportal/Blog/grenzen-sind-relativ-musik-horen-und-inklusion.md
 - content/aktivitaeten/gsr-medienportal/Blog/medienportal-auf-in-eine-neue-beziehungskultur.md
 - content/aktivitaeten/gsr-medienportal/diskurskultur.md
