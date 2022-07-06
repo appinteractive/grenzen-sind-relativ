@@ -317,7 +317,8 @@
             {
               "title": "grenzenlos vernetzt von a-z",
               "page": "content/aktivitaeten/gsr-medienportal/grenzenlos vernetzt von a-z/info.md",
-              "description": "Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen. Um diese zu ermöglichen bringt dieses Alphabet Projekte und ihre Akteur:innen"
+              "description": "Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen. Um diese zu ermöglichen bringt dieses Alphabet Projekte und ihre Akteur:innen",
+              "showInMainNavigation": true
             },
             {
               "title": "Blog",
