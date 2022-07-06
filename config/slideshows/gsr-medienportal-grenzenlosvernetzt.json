@@ -2,16 +2,10 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md",
-      "title": "Auf in eine neue Beziehungskultur!",
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md",
+      "title": "grenzenlos vernetzt von a-z",
       "subtitle": "",
-      "image": "/media/2020/09/0-prio-friedensbrucke.jpg"
-    },
-    {
-      "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
-      "title": "“Grenzen sind relativ – Musik, Hören und Inklusion“ (von Mischa Gohlke)",
-      "subtitle": "",
-      "image": "/media/2020/09/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
+      "image": "/media/2022/07/ankundigungstext-01.jpg"
     }
   ],
   "autoplay": false,
