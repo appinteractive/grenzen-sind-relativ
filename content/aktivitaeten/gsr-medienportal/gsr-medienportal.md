@@ -22,7 +22,7 @@ Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der ges
 
 ***
 
-## grenzenlos vernetzt von a-z
+## [grenzenlos vernetzt von a-z](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt)
 
 <slideshow :max="2" name="gsr-medienportal-grenzenlosvernetzt"></slideshow>
 
