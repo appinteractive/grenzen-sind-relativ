@@ -23,15 +23,19 @@ Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschu
 
 > Let´s celebrate the music and come together!
 
-Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining), den beiden Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik. Die Teilnahme ist kostenlos.
+Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining), den beiden **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik. 
 
 Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Alexandra Pengler, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
-In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente um gemeinsam in einer Band zu spielen. [**HIER**](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing) könnt ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende).
+**Für die offene Workshoprunde könnt ihr euch jetzt anmelden!**
+
+Hier können die Teilnehmenden in 4 Workshops (Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining) reinschnuppern und dabei grundlegende musikalische Elemente erfahren, die das Zusammenspiel in einer Band ausmachen.
+
+Für Anfänger:innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg. Die Teilnahme ist kostenlos. Max. 48 Teilnehmende. 4 Workshops a 30 Minuten. [**HIER**](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing) geht es zum Anmeldungsformular. Let´s celebrate the music and come together!
 
 ***
 
-**Workshop 1: Drumcircle (Dozent: Christian Nowak)**
+#### **Workshop 1: Drumcircle (Dozent: Christian Nowak)**
 
 Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzten kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
 
