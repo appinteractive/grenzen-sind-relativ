@@ -15,6 +15,8 @@ Im Geiste unseres Mottos „Grenzen sind relativ“ bringen wir  verschiedenste 
 
 Live-Musik, Theater, Kabarett, Performance, Video-Kunst,  Kunstausstellung, interaktive Erlebniswelten, Network-Area und DJs  finden bei unseren jährlichen Festivals eine gemeinsame Spielwiese.
 
-Im Folgenden einige audiovisuelle Impressionen von unserem „Grenzen sind relativ Festival 2018“
+SAVE THE DATE! Unser “4. Grenzen sind relativ Festival” wird am Sa. 01.10.2022 von 15.00 bis 23.00 Uhr auf dem Spielbudenplatz (Reeperbahn Hamburg) stattfinden. Weitere Infos folgen. :)
 
-https://youtu.be/tfQJfC9bmmU
+Zum Einstimmen schaut gerne in den Aftermovie von unserem "3. Grenzen sind relativ Festival 2019" in der "Fabrik Hamburg" rein.
+
+[https://youtu.be/82fHM8mKbRU](https://youtu.be/82fHM8mKbRU "https://youtu.be/82fHM8mKbRU")
