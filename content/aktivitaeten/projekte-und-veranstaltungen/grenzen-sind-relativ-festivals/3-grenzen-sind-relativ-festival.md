@@ -10,11 +10,15 @@ accessible: "/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-fes
 
 ## Sa. 26.10.19 Fabrik Hamburg
 
+### **Aftermovie:**
+
+[https://youtu.be/82fHM8mKbRU](https://youtu.be/82fHM8mKbRU "https://youtu.be/82fHM8mKbRU")
+
 ![3. Grenzen sind Relativ Festival](/media/2019/08/Webseite-Overbild.jpg)
 
-Yeeaaahh, ++++ bald ist es wieder soweit !! Zusammen mit über 100  Künstler*innen, Ausstellenden und gemeinnützigen Organisationen, werden  wir das ___“synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke___ ausgiebig feiern! Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen! 🙂
+Zusammen mit über 100 Künstler*innen, Ausstellenden und gemeinnützigen Organisationen, haben wir das “synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke ausgiebig gefeiert! Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen! 🙂 
 
-Ein Highlight des diesjährigen Festivals sind unsere **“Art-Clashes”**: Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen  exklusive Performances auf die Bühne zaubern, die so noch nie so  gesehen, gehört und erlebt worden sind. _It´s only “Clash! Boom! Bang!”, but we like it!_ 😉
+Ein Highlight des Festivals sind unsere “Art-Clashes” gewesen: Die mitwirkenden Künstler*innen haben in verschiedensten Kollaborationen exklusive Performances auf die Bühne gezaubert, die so noch nie gesehen, gehört und erlebt worden sind. _It´s only “Clash! Boom! Bang!”, but we like it!_ 😉
 
 **Live on stage:**
 Das Pack feat. TONALi +++ Soulounge feat. Sarajane & Phil Siemers  +++ SHIRLEY HOLMES +++ Mischa Gohlke Band feat. Rapfugees +++ Superbad  feat. Jirri & Lash & Lesley Farfisa +++ Edwin Hosoomel feat.  Extinction Rebellion +++ Fani & Bouba +++ Jessé Gomes Trio +++ Fame  Academy feat. Souzan Alavi +++ G-Connection feat. Can “Kazim” Gülec +++  Überraschungsgäste +++ Moderation: Leonie Fuchs & Markus Riemann
@@ -26,7 +30,7 @@ Die ausführlicheren Infos zum Line Up findest Du weiter unten.
 
 **FACTS:**
 
-\\3. Grenzen sind relativ Festival
+3\. Grenzen sind relativ Festival
 
 Sa. 26.10.2019 in der Fabrik (Barnerstr. 36, 22765 Hamburg, [www.fabrik.de](https://www.fabrik.de))
 
@@ -38,7 +42,7 @@ Facebook-Event: https://www.facebook.com/events/400120764041058
 
 _Die Fabrik ist für “Wheelers” barrierefrei gestaltet! Gebärdensprach- & Schriftdolmetscher werden vor Ort sein._ *Für die großzügige Unterstützung geht unser Dank an das “Bezirksamt Altona” die “Stiftung Hamburger Wohnen”, die “Behörde für Kultur und Medien  Hamburg” und die „GLS Treuhand“.
 
----
+***
 
 ## **PROGRAMM / LIVE ON STAGE:**
 
@@ -80,10 +84,10 @@ Reggae, Rock & Funk fusionieren mit südamerikanischen Stilelementen.
 
 [**BEYOND BORDERS e.V.**](https://beyond-borders-ev.de/de/) **+++** [**UNIVERSITY OF APPLIED SCIENCES EUROPE**](https://www.btk-fh.de/de/hamburg/) **+++** [**YACHTKLUB – KÜNSTLER*INNEN-KOLLEKTIV**](https://www.instagram.com/yachtklub_society/) **+++** [**HÜLLER MEDIENWERKSTATT e.V.**](https://hueller-medienwerkstatt.de/) **+++** [**EMBASSY OF HOPE THALIA THEATER**](https://www.facebook.com/EmbassyThaliaTheater/) **+++** [**PAX TERRA MUSICA – DAS FRIEDENSFESTIVAL**](https://www.pax-terra-musica.de/) **+++** [**KINDERLEBEN e.V.**](https://kinderleben.hamburg/) **+++** [**INKLUSION MUSS LAUT SEIN e.V.**](https://www.i-m-l-s.com/) **+++** [**RAP FOR REFUGEES e.V.**](https://www.rapforrefugees.org/) **+++** [**GOOD CAUSE e.V.**](https://www.facebook.com/goodcause2013/) **+++** [**BDS HAMBURG e.V.**](https://www.bds-hh.de/) **+++** [**LERNART**](https://lernart.schule/) **+++** [**URBAN CITIZENSHIP CARD**](https://urban-citizenship-hamburg.rechtaufstadt.net/) **+++** [**LINA HAWK**](https://linahawk.com/site/) **+++** [**TOM ROELER**](https://roeler.com/) **+++** [**SHIATSU ZUM LEBEN**](https://www.shiatsu-zum-leben.de) **+++ U.V.M.**
 
----
+***
 
 ## **Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden:**
 
-Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. <https://www.grenzensindrelativ.de>
+Mit verschiedensten Projekten, Veranstaltungen, Kampagnen,  Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen setzen wir uns für eine inklusive, integrale und  friedliche Gesellschaft ein. [https://www.grenzensindrelativ.de](https://www.grenzensindrelativ.de)
 
 [![3. Grenzen sind relativ Festival – Plakat](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)](/media/2019/08/Plakat_OnlineA2_GSR3.jpg)
