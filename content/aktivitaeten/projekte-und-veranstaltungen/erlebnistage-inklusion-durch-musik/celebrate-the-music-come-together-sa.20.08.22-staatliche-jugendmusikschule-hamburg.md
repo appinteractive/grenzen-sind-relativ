@@ -23,7 +23,7 @@ Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschu
 
 > Let´s celebrate the music and come together!
 
-Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining), den beiden **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik. 
+Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining), den beiden **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
 Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Alexandra Pengler, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
@@ -99,7 +99,7 @@ Hinweis: Das Anmeldungsformular kann [HIER ](https://drive.google.com/file/d/1dB
 
 ### **ANMELDUNG:**
 
-Das Anmeldungsformular muss per E-Mail bis zum 31.07.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 48 Menschen begrenzt ist.
+Das Anmeldungsformular muss per E-Mail bis zum 14.08.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 48 Menschen begrenzt ist.
 
 Anmeldung an: Fabia Mekus, [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de)
 
