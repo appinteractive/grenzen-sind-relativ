@@ -2,28 +2,22 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/celebrate-the-music-come-together-sa.20.08.22-staatliche-jugendmusikschule-hamburg.md",
-      "title": "Celebrate the music - Come together! // Sa. 20.08.22 Staatliche Jugendmusikschule Hamburg",
-      "subtitle": "Die Staatliche Jugendmusikschule Hamburg und Grenzen sind relativ e.V. laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Samstag den 20. August 2022 ein, bei einer ganz besonderen Veranstaltung mitzumachen.",
-      "image": "/media/2022/06/celebrate-the-music-20-08_web_02_neu.png"
-    },
-    {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
       "title": "Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht",
       "subtitle": "",
       "image": "/media/2020/10/neu1.jpg"
     },
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
-      "title": "Interdisziplinäre Kulturarbeit",
-      "subtitle": "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur Wissenstransfer, Vernetzung und Kooperationsvorhaben von/mit Sommerblut Kulturfestival e.V., ALIVE!Kultur e.V., Handiclapped e.V., HalloHallo e.V., Grenzen sind relativ e.V. & Jens Klopp im Auftrag der KMM Hamburg",
-      "image": "/media/2020/10/est-asv.jpg"
-    },
-    {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
       "title": "Grenzen sind relativ Festivals",
       "subtitle": "",
       "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
+      "title": "Interdisziplinäre Kulturarbeit",
+      "subtitle": "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur Wissenstransfer, Vernetzung und Kooperationsvorhaben von/mit Sommerblut Kulturfestival e.V., ALIVE!Kultur e.V., Handiclapped e.V., HalloHallo e.V., Grenzen sind relativ e.V. & Jens Klopp im Auftrag der KMM Hamburg",
+      "image": "/media/2020/10/est-asv.jpg"
     },
     {
       "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md",
