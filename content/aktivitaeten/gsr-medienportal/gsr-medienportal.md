@@ -16,7 +16,7 @@ Willkommen auf unserem neuen multipolaren Medienportal! Hier findet Du von uns p
 
 ## [#diskurskultur](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/diskurskultur)
 
-Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein) ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.
+Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein) ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden. Auch wenn die Filme lediglich einige Facetten vom Ganzen wiedergeben können, ist es eines klar: Kultur braucht Diskurs!
 
 <video-gallery name="media-diskurskultur"></video-gallery>
 
