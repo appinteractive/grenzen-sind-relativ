@@ -1,7 +1,10 @@
 ---
 teaser: ''
 title: diskurskultur
-description: ''
+description: |-
+  Im Rahmen unseres Projektes "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur" ist die 7teilige Filmreihe #diskurskultur entstanden.
+
+  Auch wenn die Filme lediglich einige Facetten vom Ganzen wiedergeben können, ist es eines klar: Kultur braucht Diskurs!
 wide: false
 gallery: []
 alias: ''
@@ -10,7 +13,9 @@ accessible: ''
 ---
 # #diskurskultur - die 7teilige Filmreihe
 
-Im Rahmen unseres Projektes "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur" ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.
+Im Rahmen unseres Projektes "[Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur](https://www.grenzensindrelativ.de/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/interdisziplinaere-kulturarbeit/interdisziplinare-kulturarbeit)" ist die 7teilige Filmreihe [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) entstanden.
+
+Auch wenn die Filme lediglich einige Facetten vom Ganzen wiedergeben können, ist es eines klar: Kultur braucht Diskurs!
 
 [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) 1 - Prolog: Was bisher geschah...
 
@@ -27,3 +32,17 @@ Im Rahmen unseres Projektes "Interdisziplinäre Kulturarbeit im Kontext der gesa
 [#diskurskultur](https://www.youtube.com/hashtag/diskurskultur) 7 - Epilog: Wohin geht die Reise?
 
 <video-gallery name="media-diskurskultur"></video-gallery>
+
+Produktion: Mischa Gohlke, Fabia Mekus 
+
+Regie: Björn Lingner
+
+Kamera: Hervé Dieu
+
+Schnitt: Henning Stich, Janne Drescher 
+
+Animation: Henning Stich
+
+Wir danken unseren Förderern Fonds Soziokultur, Neustart Kultur und Die Beauftragte der Bundesregierung für Kultur und Medien.
+
+![](/media/2021/07/banner-forder-fonds-soziokultur.jpg)
