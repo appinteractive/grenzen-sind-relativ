@@ -25,8 +25,6 @@ Fr. 06.05.2022: Grundschule Bindfeldweg
 
 Do. 12.05.2022: Nelson Mandela Schule
 
-[Sa. 20.08.2022: Staatliche Jugendmusikschule (Mittelweg 42)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/celebrate-the-music-come-together-sa.20.08.22-staatliche-jugendmusikschule-hamburg)
-
 So. 11.09.2022: Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“
 
 Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel Musik-Orient(ierung) & Bandtraining, Drumcircle & Rhythm´n´Groove, Stimme & Chor, Body Rhythm und Tanz & Bewegung.
