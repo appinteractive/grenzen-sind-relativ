@@ -1,11 +1,11 @@
 ---
 title: Grenzen sind relativ e.V.
-description: 'Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden '
+description: Aktionsbüro für eine multipolare Gesellschaftskultur
 
 ---
 # Grenzen sind relativ e.V.
 
-## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
+## Aktionsbüro für eine multipolare Gesellschaftskultur
 
 Mit einer an Taubheit grenzenden Hörschädigung ist Mischa Gohlke „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps den Weg als Profimusiker eingeschlagen und hat damit das scheinbar Unmögliche möglich gemacht. Als glaubwürdiger Botschafter initiierte er im Oktober 2011 die deutschlandweit einmalige Initiative „Grenzen sind relativ“, welche sich in verschiedensten Projekten, Veranstaltungen und Kampagnen für eine inklusive, integrale und friedliche Gesellschaft einsetzt und seit September 2016 als gemeinnütziger Verein anerkannt ist. Darüber hinaus ist „Grenzen sind relativ e.V.“ seit dem 01.01.2017 Mitglied beim „Paritätischen Wohlfahrtsverband“.
 
