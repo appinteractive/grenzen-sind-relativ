@@ -11,6 +11,10 @@ alias: ''
 accessible: ''
 
 ---
+# Die Veranstaltung wird auf den Herbst 2022 verlegt. Weitere Infos folgen in Kürze.
+
+***
+
 # Celebrate the music - Come together!
 
 ## Am Sa. 20.08.2022 in der Staatlichen Jugendmusikschule Hamburg (Mittelweg 42, 20148 Hamburg)
