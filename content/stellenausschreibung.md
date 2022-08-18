@@ -12,12 +12,17 @@ accessible: ''
 
 Mit Projekten, Veranstaltungen, Kampagnen, Musikunterricht, Workshops, Beratung und Öffentlichkeitsarbeit & Bewusstseinsbildung bringen wir Menschen verschiedenster Backgrounds zusammen und setzen uns für interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Dialog & Miteinander und gelebten Frieden für alle Menschen auf diesem Planeten ein.
 
-Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch einen Menschen für folgende Stelle:
+Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und aktuell suchen wir noch 2 Menschen für folgende Arbeitsbereiche:
 
-**Veranstaltungsmanagement, Produktionsleitung, Akquise & Booking GSR e.V. Veranstaltungsformate** _(ab sofort, 25-32 Wochenstunden)_
+**1.) Veranstaltungsmanagement, Produktionsleitung, Akquise & Booking GSR e.V. Veranstaltungsformate** _(ab sofort, 25-32 Wochenstunden)_
 
 * Veranstaltungsmanagement & Produktionsleitung [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event), [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos), etc. (strat. Konzeption, operative Umsetzung, Booking Rahmenprogramme, Budgetplanung & Abrechnungen, Promotion, Koordination Veranstaltungstechnik & Projektcrews, Vertragsverhandlungen und Ausfertigung der jeweiligen Verträge, techn. Rider, Running Order, Dispos, etc.)
-* “GSR Agentur”: Booking Bands wie [Mischa Gohlke Band](https://mischagohlkeband.de/) + Akquise GSR e.V. Veranstaltungsformate [Celebrate the music](), [KULTUR ALIVE](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion), etc.
+* “GSR Agentur”: Booking Bands wie [Mischa Gohlke Band](https://mischagohlkeband.de/) + Akquise GSR e.V. Veranstaltungsformate [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion), [KULTUR ALIVE](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion), etc.
+
+**2.) Mediengestaltung/Designs: Wort-Bild-Marke, Flyer, Plakate, Broschüren, Social Media Banner, etc.** _(ab sofort, projektbezogen)_
+
+* Word-Bild-Marke Institution Grenzen sind relativ e.V.
+* Mediengestaltung Aktivitäten Grenzen sind relativ e.V.: 1) [Kultur ALIVE](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion), 2) [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos), 3) [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion), 4) [GSR Medienportal](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/gsr-medienportal), 5) [Kampagne 2. Inklusions- & Friedenssong](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong), etc.
 
 **Voraussetzungen, Sinnhaftigkeit & Identität:**
 
