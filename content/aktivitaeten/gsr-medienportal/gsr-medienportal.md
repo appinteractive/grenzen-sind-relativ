@@ -24,6 +24,8 @@ Im Rahmen unseres Projektes ["Interdisziplinäre Kulturarbeit im Kontext der ges
 
 ## [grenzenlos vernetzt von a-z](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt)
 
+Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen. Um diese zu ermöglichen, bringt dieses Portraitformat Projekte und ihre Akteur:innen sozialer, kultureller und politischer Gesellschaftsbereiche zusammen. Ihr Engagement, ihre gesellschaftliche Relevanz und ihre progressiven Ideen werden in innere Prozesse und äußere Herausforderungen eingebettet und in einem künstlerischen Portrait in Bild und Schrift eingefangen. Zwischen den einzelnen Portraits, von A-Z, webt das Alphabet ein Netz, das durch gemeinsame Werte und Wünsche gehalten wird. Das Portraitprojekt wurde von der Künstlerin [Anika Krbetschek](www.anikakrb.com) und dem Fotografen [Maximilian Gödecke](www.max-goedecke.de) zusammen mit Grenzen sind relativ e.V. geschaffen.
+
 <slideshow :max="2" name="gsr-medienportal-grenzenlosvernetzt"></slideshow>
 
 ***
