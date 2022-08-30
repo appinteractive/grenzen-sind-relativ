@@ -29,7 +29,7 @@ Gerne kannst Frau/Mann, Freunde und/oder Kollegen mitbringen.
 Folgende “Running Order” haben wir:  
 19\.00 Uhr: Start & DJ  
 20\.00 Uhr: Interaktives Bühnenprogramm (Live Musik, Jam Session, Redeinputs, Performances, etc.), u.a. mit Rico Bowen (Rock-Pop-Reggae-Funk-Soul)  
-22\.00 Uhr: Live Musik mit Tom Baetzel & Lilian Gold
+22\.00 Uhr: Live Musik mit Tom Baetzel & Sebastian Treu
 
 Der Eintritt ist frei und Spenden sind immer sehr willkommen!
 
