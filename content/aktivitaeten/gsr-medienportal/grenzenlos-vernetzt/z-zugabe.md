@@ -15,7 +15,7 @@ accessible: ''
 
 # Ick mach Welle
 
-Das Licht geht aus und erweckt dabei ein Duzend bunte, kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set. Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck Dävil“ wahrhaftig erscheinen. Um ihn und die weiteren Musiker an den Decks erwächst die Atmosphäre eines Underground-Raves. So wie die weiße Morgenblüte auf gewaltigen Gebirgen, sprenkeln helle Töneüber den wallenden Bass. Fast scheint es unmöglich, diese Klanglandschaft zu erwandern.
+Das Licht geht aus und erweckt dabei ein Dutzend bunte, kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set. Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck Dävil“ wahrhaftig erscheinen. Um ihn und die weiteren Musiker an den Decks erwächst die Atmosphäre eines Underground-Raves. So wie die weiße Morgenblüte auf gewaltigen Gebirgen, sprenkeln helle Töneüber den wallenden Bass. Fast scheint es unmöglich, diese Klanglandschaft zu erwandern.
 
 „Bläck Dävil“, der außerhalb des Studios Werner heißt, tippt gekonnt auf den Armaturen rum: Er steuert die Musik über Schalter und Knöpfe wie ein durch die Tiefen des Weltraums rasendes Schiff. Der Druck der bassigen Wellen schiebt die Klänge einem Raumschiffantrieb gleich quer durch den Raum. Die Begleitmusiker ziehen an ihren Reglern wie eingesogen mit. „Bass so wie Amboss und Hammer. Industriell.“ - so Werner’s Selbstbeschreibung.
 
@@ -23,7 +23,7 @@ Das Licht geht aus und erweckt dabei ein Duzend bunte, kleine Lämpchen aus ihr
 
 Der ganze Raum scheint von seinem Studioauftritt heute überrascht, denn dies ist sein erster Auftritt seit einem Jahr. In drei Wochen wird er das erste Mal wieder live auf einer Bühne performen. Beim Live-Set hat er nur ein paar feste Teile, die vorher geübt werden, - der Rest wird improvisiert. „Werner ist ein guter Freestyler am Mixer“ sagt Dave, einer der Musiker, die Werner begleiten, während sie zusammen spielen.
 
-Es entsteht ein kurzes Gespräch zwischen Werner und Dave. Das einzige, welches sie während ihrer immersiven Performance führen. 
+Es entsteht ein kurzes Gespräch zwischen Werner und Dave. Das einzige, welches sie während ihrer immersiven Performance führen.
 
 Dave: „Harter Bass, dreamy Sound, bisschen drüber - typisch Werner. So gut!“
 
