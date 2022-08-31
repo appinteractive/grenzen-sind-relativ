@@ -23,7 +23,9 @@ Das Licht geht aus und erweckt dabei ein Duzend bunte, kleine Lämpchen aus ihr
 
 Der ganze Raum scheint von seinem Studioauftritt heute überrascht, denn dies ist sein erster Auftritt seit einem Jahr. In drei Wochen wird er das erste Mal wieder live auf einer Bühne performen. Beim Live-Set hat er nur ein paar feste Teile, die vorher geübt werden, - der Rest wird improvisiert. „Werner ist ein guter Freestyler am Mixer“ sagt Dave, einer der Musiker, die Werner begleiten, während sie zusammen spielen.
 
-Es entsteht ein kurzes Gespräch zwischen Werner und Dave. Das einzige, welches sie während ihrer immersiven Performance führen. Dave: „Harter Bass, dreamy Sound, bisschen drüber - typisch Werner. So gut!“
+Es entsteht ein kurzes Gespräch zwischen Werner und Dave. Das einzige, welches sie während ihrer immersiven Performance führen. 
+
+Dave: „Harter Bass, dreamy Sound, bisschen drüber - typisch Werner. So gut!“
 
 Werner: „Wenn’s dir gefällt - spiel du doch meinen Song“
 
