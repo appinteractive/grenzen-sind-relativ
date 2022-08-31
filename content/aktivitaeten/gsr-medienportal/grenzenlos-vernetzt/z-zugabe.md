@@ -55,4 +55,4 @@ Auch das Auflegen entwickelt für ihn eine ähnliche Heilsamkeit. Er erinnert 
 
 ***
 
-_“_[_grenzenlos vernetzt von a-z_](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt)_” ist Portraitprojekt von der Künstlerin Anika Krbetschek (_[_www.anikakrb.com_](http://www.anikakrb.com/)_) und dem Fotografen Maximilian Gödecke (_[_www.max-goedecke.de_](http://www.max-goedecke.de/)_), zusammen mit Grenzen sind relativ e.V.._
+_“_[_grenzenlos vernetzt von a-z_](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt)_” ist Portraitprojekt von der Künstlerin_ [_Anika Krbetschek_](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/www.anikakrb.com) _und dem Fotografen_ [_Maximilian Gödecke_](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/www.max-goedecke.de)_, zusammen mit Grenzen sind relativ e.V.._
