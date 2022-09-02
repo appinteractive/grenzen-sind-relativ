@@ -16,7 +16,7 @@ accessible: ''
 
 Liebe Mit-Menschen,
 
-yeeeahhh, nun geht es mit unserer neuen monatlichen Netzwerkveranstaltung in die 2. Runde!
+yeeeahhh, nun geht es mit unserer neuen monatlichen Netzwerkveranstaltung in die 3. Runde!
 
 Am Do. 08.09.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die "multipolare Melange", die wir gemeinsam interaktiv kreieren werden. 😊
 
