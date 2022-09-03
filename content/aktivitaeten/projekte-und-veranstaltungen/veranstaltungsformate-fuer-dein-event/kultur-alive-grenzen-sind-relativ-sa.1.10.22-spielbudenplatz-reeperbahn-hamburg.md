@@ -13,11 +13,11 @@ accessible: ''
 
 # **“Kultur ALIVE - Grenzen sind relativ”**
 
-### **Sa. 01.10.22 - Spielbudenplatz (Reeperbahn Hamburg) - 15-23 Uhr - Eintritt frei**
+## **Sa. 01.10.22 - Spielbudenplatz (Reeperbahn Hamburg) - 15-23 Uhr - Eintritt frei**
 
 Aufbauend auf den [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” ist ein neues interdisziplinäres Veranstaltungsformat kreiert worden, das nun im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird.
 
-Die Hamburger Premiere-Veranstaltung **“Kultur ALIVE - Grenzen sind relativ”** findet am **Sa. 1.Oktober 2022 von 15:00 - 23:00 Uhr auf dem** [**Spielbudenplatz**](https://spielbudenplatz.eu/) **(Reeperbahn) statt**. Live-Musik, Tanz, Performance, Kunstausstellung, interaktive Erlebniswelten und Network-Area finden hier eine gemeinsame Spielwiese.
+Die Hamburger Premiere-Veranstaltung **“Kultur ALIVE - Grenzen sind relativ”** findet am **Sa. 1. Oktober 2022 von 15:00 - 23:00 Uhr auf dem** [**Spielbudenplatz**](https://spielbudenplatz.eu/) **(Reeperbahn) statt**. Live-Musik, Tanz, Performance, Kunstausstellung, interaktive Erlebniswelten und Network-Area finden hier eine gemeinsame Spielwiese.
 
 Im Geiste des Mottos „Grenzen sind relativ“ kommen **über 100 Künstler*innen, Ausstellende und gemeinnützige Organisationen** zusammen, um gemeinsam das synergetisch multipolare Spektrum der Künste, Menschen und Netzwerke diverser Backgrounds zu feiern. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
 
