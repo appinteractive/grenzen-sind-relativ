@@ -27,11 +27,6 @@
               ]
             },
             {
-              "title": "Spektralkombüse",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
-              "description": "Erfahrbare Inklusion durch Musik, Tanz und Kabarett"
-            },
-            {
               "title": "Celebrate the music ",
               "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
               "children": [
@@ -65,6 +60,11 @@
               ],
               "external": false,
               "disabled": false
+            },
+            {
+              "title": "Spektralkombüse",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
+              "description": "Erfahrbare Inklusion durch Musik, Tanz und Kabarett"
             },
             {
               "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
