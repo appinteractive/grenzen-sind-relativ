@@ -1,8 +1,8 @@
 ---
 title: Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht
-description: 'Wir haben mehrere spannende interdisziplinäre Veranstaltungsformate
-  entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden
-  sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren. '
+description: 'Wir haben mehrere spannende Veranstaltungsformate entwickelt, die wir
+  zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ
+  mit Schüler:innen, Student:innen und Auszubildenen realisieren. '
 teaser: "/media/2018/11/neu1.jpg"
 gallery: []
 alias: ''
@@ -12,13 +12,13 @@ accessible: ''
 ---
 # Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht
 
-Wir haben mehrere spannende interdisziplinäre Kultur-Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren.
+Wir haben mehrere spannende Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren.
 
 Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in verschiedensten Institutionen (Schulen, Universitäten, Vereinen, Unternehmen, usw.).
 
 Im Folgenden eine Übersicht:
 
-1. [KULTUR ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion) - Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sport- & Kulturveranstaltungen
+1. [KULTUR ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion) - Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
 2. [Spektralkombüse](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese) - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
 3. [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion) (1 Tag, 5 Musik-Workshops, 1 Abschlusskonzert)
 4. [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) - Kulturfestival mit Bühnenprogramm, Network-Area und interaktiven Erlebniswelten
