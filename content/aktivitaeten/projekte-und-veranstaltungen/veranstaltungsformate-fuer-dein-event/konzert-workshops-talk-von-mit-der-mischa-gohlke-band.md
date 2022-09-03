@@ -1,5 +1,5 @@
 ---
-title: Konzert, Workshops & Talk von/mit der Mischa Gohlke Band
+title: Konzert, Workshops & Talk mit der Mischa Gohlke Band
 description: Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und interaktiver
   Begegnung wird es praktisch erfahrbar. Die Mischa Gohlke Band geht in Schulen, Universitäten,
   Unternehmen, Sportvereine und andere Einrichtungen, um Raum für Begegnung, Erfahrungsaustausch
@@ -10,9 +10,10 @@ teaser: "/media/2020/09/mgb-beitragsbild.jpeg"
 gallery: []
 alias: "/veranstaltungen/konzert-workshop-talkrunde.html"
 wide: false
+accessible: ''
 
 ---
-# Konzert, Workshops & Talk von/mit der Mischa Gohlke Band
+# Konzert, Workshops & Talk mit der Mischa Gohlke Band
 
 [![Mischa Gohlke Band](/media/2018/11/MGB.jpeg)](/media/2018/11/MGB.jpeg) Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
 
