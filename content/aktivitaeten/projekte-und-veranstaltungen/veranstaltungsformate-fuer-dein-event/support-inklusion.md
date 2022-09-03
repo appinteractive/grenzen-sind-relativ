@@ -1,5 +1,5 @@
 ---
-title: KULTUR ALIVE - Grenzen sind relativ
+title: GSR e.V. Public Events
 description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und Sport- & Kulturveranstaltungen
   kreieren wir ein spannendes inklusives & interdisziplinäres Kulturprogramm, bei
   dem a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster
@@ -14,18 +14,18 @@ wide: false
 accessible: ''
 
 ---
-# "KULTUR ALIVE - Grenzen sind relativ"
+# GSR e.V. Public Events
 
-## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten und Sport- & Kulturveranstaltungen
+## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
 
 Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) in der Fabrik  haben wir ein neues & frisches Projekt- und Veranstaltungsformat kreiert, welches von der Aktion Mensch gefördert wird und sich aus folgenden Modulen zusammen setzt:
 
-1. Interdisziplinäres Veranstaltungsformat/Label auf mindestens 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 4 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
+1. Interdisziplinäres Veranstaltungsformat/Label auf mindestens 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 8 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
 2. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
 3. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
 4. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
 
-Das Projekt und die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. 
+Das Projekt und die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
@@ -75,7 +75,7 @@ Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bund
 **Interaktive Erlebniswelten:**
 
 * Es wird eine Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden
-* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(und/oder_ _“2. Inklusionssong” ab Herbst 2022)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben
+* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(und/oder_ _“2. Inklusionssong” ab Frühjahr 2023)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben
 * Gebärdensprach-Barkeeper, interaktive Aktionen, Kleinkunst zum Mitmachen, usw.
 * Künstlerische Präsentationen zu den Themen Inklusion,  
   Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.
@@ -105,6 +105,6 @@ Die Gedanken um den Begriff Inklusion sind nicht neu, im Gegenteil. Der aktuelle
 
 Musik, Kunst und Kultur sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken und das Gemeinschaftsgefühl zu stärken.
 
-Gefördert von 
+Gefördert von
 
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
