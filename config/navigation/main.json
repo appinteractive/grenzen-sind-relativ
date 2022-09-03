@@ -18,7 +18,12 @@
             {
               "title": "GSR e.V. Public Events",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md",
-              "description": "Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen"
+              "description": "Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen",
+              "children": [
+                {
+                  "title": "Review Grenzen sind relativ Festivals 2017-2019 (Fabrik Hamburg)"
+                }
+              ]
             },
             {
               "title": "Spektralkombüse",
