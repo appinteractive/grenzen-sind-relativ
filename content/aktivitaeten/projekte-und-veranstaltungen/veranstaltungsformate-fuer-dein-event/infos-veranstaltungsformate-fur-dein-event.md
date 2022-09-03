@@ -19,11 +19,10 @@ Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & 
 Im Folgenden eine Übersicht:
 
 1. [GSR e.V. Public Events](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion) - Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
-2. [Spektralkombüse](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese) - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
-3. [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion) (1 Tag, 5 Musik-Workshops, 1 Abschlusskonzert)
-4. [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos) - Kulturfestival mit Bühnenprogramm, Network-Area und interaktiven Erlebniswelten
-5. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band]( "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band")
-6. [Workshops, Seminare & Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
+2. [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion) (1 Tag, 5 Musik-Workshops, 1 Abschlusskonzert)
+3. [Spektralkombüse](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese) - Erfahrbare Inklusion durch Musik, Tanz und Kabarett
+4. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band]( "https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band")
+5. [Workshops, Seminare & Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
 
 Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Projektteam, PR- & Öffentlichkeitsarbeit, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Budget, Möglichkeiten, usw. - individuell ausarbeiten und umsetzen.
 
