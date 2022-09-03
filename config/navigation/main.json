@@ -75,28 +75,6 @@
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
               "description": "Mit Live-Musik, spannenden Workshops und interaktiver Begegnung ",
               "disabled": true
-            },
-            {
-              "title": "Grenzen sind relativ Festivals",
-              "description": "Kulturfestival mit Bühnenprogramm, Network-Area & interaktiven Erlebniswelten",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md"
-                },
-                {
-                  "title": "Review 3. Grenzen sind relativ Festival 2019",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md"
-                },
-                {
-                  "title": "Review 2. Grenzen sind relativ Festival 2018",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/2-grenzen-sind-relativ-festival.md"
-                },
-                {
-                  "title": "Review 1. Grenzen sind relativ Festival 2017",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md"
-                }
-              ]
             }
           ],
           "showInMainNavigation": true,
