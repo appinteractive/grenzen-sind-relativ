@@ -36,9 +36,9 @@ Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen
 
 ***
 
-## Audiovisuelle Impressionen  "Grenzen sind relativ e.V."
+## GSR e.V. Impressions 
 
-TV-Berichte, Aftermovies Grenzen sind relativ Festivals, Musikvideo "AndersSein vereint - Inklusionssong für Deutschland", etc.
+Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und vergangenen Aktivitäten in Form von Aftermovies, Musikvideos, Talkshows, TV-Berichten, Teasern und Snippets.
 
 <video-gallery name="startseite-video-galerie"></video-gallery>
 
