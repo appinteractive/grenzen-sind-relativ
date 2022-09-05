@@ -9,7 +9,7 @@ description: Im Geiste unseres Mottos „Grenzen sind relativ“ haben wir über
   und Begegnungen!
 wide: false
 gallery: []
-alias: https://www.grenzensindrelativ.de/kulturalive
+alias: ''
 accessible: ''
 
 ---
