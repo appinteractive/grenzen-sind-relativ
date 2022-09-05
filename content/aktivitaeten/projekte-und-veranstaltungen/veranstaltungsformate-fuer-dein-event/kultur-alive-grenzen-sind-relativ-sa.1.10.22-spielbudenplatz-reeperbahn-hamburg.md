@@ -2,7 +2,11 @@
 teaser: "/media/2022/09/beitragsbild-kultur-alive.png"
 title: '"Kultur ALIVE - Grenzen sind relativ" // Sa. 01.10.22 Spielbudenplatz (Reeperbahn
   Hamburg)'
-description: ''
+description: Im Geiste unseres Mottos „Grenzen sind relativ“ haben wir über 100 Künstler*innen,
+  Ausstellende und gemeinnützige Organisationen zusammengetrommelt, um gemeinsam das
+  "synergetisch multipolare Spektrum" der Künste, Menschen und Netzwerke diverser
+  Backgrounds ausgiebig zu feiern. Nicht zuletzt geht es einfach um geile Musik, Kunst
+  und Begegnungen!
 wide: false
 gallery: []
 alias: ''
