@@ -15,11 +15,11 @@ accessible: ''
 
 ## **Sa. 01.10.22 - Spielbudenplatz (Reeperbahn Hamburg) - 15-23 Uhr - Eintritt frei**
 
-Aufbauend auf den [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” ist ein neues interdisziplinäres Veranstaltungsformat kreiert worden, das nun im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird.
+Aufbauend auf den [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird.
 
 Die Hamburger Premiere-Veranstaltung **“Kultur ALIVE - Grenzen sind relativ”** findet am **Sa. 1. Oktober 2022 von 15:00 - 23:00 Uhr auf dem** [**Spielbudenplatz**](https://spielbudenplatz.eu/) **(Reeperbahn) statt**. Live-Musik, Tanz, Performance, Kunstausstellung, interaktive Erlebniswelten und Network-Area finden hier eine gemeinsame Spielwiese.
 
-Im Geiste des Mottos „Grenzen sind relativ“ kommen **über 100 Künstler*innen, Ausstellende und gemeinnützige Organisationen** zusammen, um gemeinsam das synergetisch multipolare Spektrum der Künste, Menschen und Netzwerke diverser Backgrounds zu feiern. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
+Im Geiste unseres Mottos „Grenzen sind relativ“ haben wir **über 100 Künstler*innen, Ausstellende und gemeinnützige Organisationen** zusammengetrommelt, um gemeinsam das synergetisch multipolare Spektrum der Künste, Menschen und Netzwerke diverser Backgrounds zu feiern. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
 
 **LIVE ON STAGE** sind Ausnahme-Drummer und One-Man-Party **ODED KAFRI**, der Berliner Rapper & Aktivist **GRAF FIDI**, die legendären **RUDOLF ROCK & DIE SCHOCKER FEAT. SUSI SALM** bringen den Rock´n´Roll wieder zum Leben, die erste Band bei TheVoiceKids 2021 die **BATTERIES OF ROCK,** die **FAME ACADEMY FEAT. SOUZAN ALAVI**, sowie einige ganz besondere **ÜBERRASCHUNGSGÄSTE** und das virtuose Powertrio um den Gitarristen und Festival-Initiator **MISCHA GOHLKE**. Durch das Programm führt Kulturmanager und Moderator **MARKUS RIEMANN**.
 
