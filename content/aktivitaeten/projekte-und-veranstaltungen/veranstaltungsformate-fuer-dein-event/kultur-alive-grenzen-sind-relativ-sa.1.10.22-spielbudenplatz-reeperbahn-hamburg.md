@@ -77,5 +77,6 @@ Die Kids von der Musicalschule "Fame Academy" und dem “Tanzstudio Alavi “ we
 
 ***
 
-  
-![](/media/2022/09/ermoglicht-durch.png)![](/media/2022/09/in-kooperation-mit.png)
+![](/media/2022/09/ermoglicht-durch2.png)
+
+![](/media/2022/09/in-kooperation-mit.png)
