@@ -76,3 +76,6 @@ Die Kids von der Musicalschule "Fame Academy" und dem “Tanzstudio Alavi “ we
 [**SCHLEI-AKADEMIE**](https://www.schlei-akademie.de/) **+++** [**SENSE THE STEPS E.V. +**](https://www.sense-the-steps.org/)**++** [**BEYOND BORDERS E.V.**](http://beyond-borders-ev.de/de/) **+++** [**ABC BILDUNGS- & TAGESZENTRUM E.V.**](https://www.abc-huell.de/) **+++** [**GOOD CAUSE E.V.__](https://goodcause-ev.org/) +++ **[**ALIVE!KULTUR E.V.**](https://www.alivekultur.de/) **+++** [**HANDICLAPPED E.V.**](https://handiclapped-berlin.de/) **+++** [**FAME ACADEMY**](https://www.fame-academy.com/) **+++** [**INKLUSIONSBÜRO HAMBURG**](https://www.hamburg.de/skbm/4477488/inklusionsbuero/) **+++** [**EUCREA .E.V.**](https://www.eucrea.de/) **+++** [**VITA-U**](https://vita-u.de/?lang=de) **+++** [**SPIELBUDENPLATZ**](https://spielbudenplatz.eu/) **+++** [**LINA HAWK**](https://linahawk.com/site/) **+++ UVM.**
 
 ***
+
+  
+![](/media/2022/09/ermoglicht-durch.png)![](/media/2022/09/in-kooperation-mit.png)
