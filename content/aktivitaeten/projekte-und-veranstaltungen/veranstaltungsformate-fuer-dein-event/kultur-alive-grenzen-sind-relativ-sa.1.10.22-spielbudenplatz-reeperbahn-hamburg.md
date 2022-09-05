@@ -17,7 +17,9 @@ accessible: ''
 
 # **“Kultur ALIVE - Grenzen sind relativ”**
 
-## **Sa. 01.10.22 - Spielbudenplatz (Reeperbahn Hamburg) - 15 bis 23 Uhr - Eintritt frei**
+## **Sa. 01.10.22 - Spielbudenplatz (Reeperbahn Hamburg)**
+
+## **15 bis 23 Uhr - Eintritt frei**
 
 https://youtu.be/V_nazdyh-uU
 
