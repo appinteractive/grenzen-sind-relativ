@@ -19,7 +19,7 @@ accessible: ''
 
 ## **Sa. 01.10.22 - Spielbudenplatz (Reeperbahn Hamburg) - 15-23 Uhr - Eintritt frei**
 
-https://youtu.be/V_nazdyh-uU 
+https://youtu.be/V_nazdyh-uU
 
 Aufbauend auf unsere [**Grenzen sind relativ Festivals**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein [**neues interdisziplinäres Veranstaltungsformat**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion) kreiert, welches im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird.
 
@@ -47,6 +47,4 @@ Festival-Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mi
 
 ## **INTERAKTIVE ERLEBNISWELTEN, KUNSTAUSSTELLUNG UND NETWORK-AREA VON UND MIT:**
 
-[**SCHLEI-AKADEMIE**](https://www.schlei-akademie.de/) +++ [**SENSE THE STEPS E.V.** +](https://www.sense-the-steps.org/)++ [**BEYOND BORDERS e.V.**](http://beyond-borders-ev.de/de/) **+++** [**ABC BILDUNGS- & TAGESZENTRUM E.V. **](https://www.abc-huell.de/)+++ [**GOOD CAUSE e.V.**](https://goodcause-ev.org/) +++[ ](http://www.bds-hh.de/)[**ALIVE!KULTUR E.V.**](https://www.alivekultur.de/) +++
-
-[**HANDICLAPPED E.V.**](https://handiclapped-berlin.de/) +++ [**FAME ACADEMY **](https://www.fame-academy.com/)+++ [**INKLUSIONSBÜRO HAMBURG **](https://www.hamburg.de/skbm/4477488/inklusionsbuero/)+++ [**EUCREA .E.V.**](https://www.eucrea.de/) +++ [**VITA-U** ](https://vita-u.de/?lang=de)+++ [**SPIELBUDENPLATZ**](https://spielbudenplatz.eu/) +++ [**LINA HAWK **](https://linahawk.com/site/)+++ UVM.
+[**SCHLEI-AKADEMIE**](https://www.schlei-akademie.de/) **+++** [**SENSE THE STEPS E.V. +**](https://www.sense-the-steps.org/)**++** [**BEYOND BORDERS e.V.**](http://beyond-borders-ev.de/de/) **+++** [**ABC BILDUNGS- & TAGESZENTRUM E.V.**](https://www.abc-huell.de/) **+++** [**GOOD CAUSE e.V.**](https://goodcause-ev.org/) **+++ **[**ALIVE!KULTUR E.V.**](https://www.alivekultur.de/) **+++** [**HANDICLAPPED E.V.**](https://handiclapped-berlin.de/) **+++** [**FAME ACADEMY**](https://www.fame-academy.com/) **+++** [***INKLUSIONSBÜRO HAMBURG**](https://www.hamburg.de/skbm/4477488/inklusionsbuero/) **+++** [**EUCREA .E.V.**](https://www.eucrea.de/) **+++** [**VITA-U**](https://vita-u.de/?lang=de) **+++** [**SPIELBUDENPLATZ**](https://spielbudenplatz.eu/) **+++** [**LINA HAWK**](https://linahawk.com/site/) **+++ UVM.**
