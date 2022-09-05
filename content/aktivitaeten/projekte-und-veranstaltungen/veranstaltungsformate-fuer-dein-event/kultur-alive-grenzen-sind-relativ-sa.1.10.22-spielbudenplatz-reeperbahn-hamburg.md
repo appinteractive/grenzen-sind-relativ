@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2022/09/beitragsbild-kultur-alive.png"
 title: '"Kultur ALIVE - Grenzen sind relativ" // Sa. 01.10.22 Spielbudenplatz (Reeperbahn
   Hamburg)'
 description: ''
