@@ -25,7 +25,7 @@ Fr. 06.05.2022: Grundschule Bindfeldweg
 
 Do. 12.05.2022: Nelson Mandela Schule
 
-So. 11.09.2022: Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“
+So. 11.09.2022: [Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“](https://norderstedt-sportiv-inklusiv.de/?page_id=17)
 
 Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel Musik-Orient(ierung) & Bandtraining, Drumcircle & Rhythm´n´Groove, Stimme & Chor, Body Rhythm und Tanz & Bewegung.
 
