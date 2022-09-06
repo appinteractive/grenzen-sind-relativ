@@ -46,26 +46,40 @@ Festival-Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mi
 [**ODED KAFRI**](https://odedkafri.com/ueber/) (Worldmusic)  
 Er ist Solokünstler, One-Man-Party- und YouTube-Phänomen mit über einer Million Clicks und spielt seine Bühnen- und Straßen-Shows auf der ganzen Welt. Das Schlagzeugspielen begann er im Alter von zehn Jahren im Luftschutzbunker seiner Familie in Tel Aviv. Kafri nimmt seine Zuhörer mit auf eine nahtlose und energiegeladene Reise, auf der man tanzen und seine Fähigkeiten bewundern kann. Währenddessen mischt er Styles im eitlen Stil eines DJs und gibt dem Publikum als „DJ Of The Drums“ ein Live-Musikerlebnis. [https://odedkafri.com](https://odedkafri.com "https://odedkafri.com")
 
+![](/media/2022/09/oded-kafri.png "Oded Kafri")
+
 [**RUDOLF ROCK & DIE SCHOCKER feat. SUSI SALM & SPECIAL GUESTS**](https://www.rudolfrock.com/) (Rock, Rock´n´Roll)  
 Mit dieser Kultband wird nicht nur eine ordentliche Portion Rock auf die Bühne gebracht, sondern gleichzeitig auch eine Hamburger Institution. Gründer, Bandleader und Producer sowie Zwick-Eigentümer ULI SALM alias RUDOLF ROCK, steht seit STAR-CLUB Zeiten auf deutschen Bühnen und spielte bereits mit internationalen Stars wie Chuck Berry, Jerry Lee Lewis, Bill Haley, Eric Burdon, John Mayall, Ritchie Blackmore und Al Jarreau. 1976 gründete er mit Rudolf Rock & die Schocker seine eigene Band, mit der er Ohrwürmer wie Herzilein, Motorbiene oder auch Sexy Hexy verbuchen konnte. Mit einer ganzen Reihe von eigenen Krachern und Hamburger Songs erobert die Band mit herausragenden Hamburger Szene-Musikern, Frontfrau & Rockröhre Susi Salm und immer wieder gern gesehenen Special Guests wie Hugo Egon Balder, Otto Waalkes, Fabian Harloff oder Olli Dittrich die Herzen des Publikums. [https://www.rudolfrock.com](https://www.rudolfrock.com "https://www.rudolfrock.com")
+
+![](/media/2022/09/rudolf-rock-_-die-schocker.jpg "Rudolf Rock & die Schocker feat. Susi Salm & Special Guests")
 
 [**GRAF FIDI**](https://graffidi.de/) (Rap)
 
 Der Berliner Künstler rappt und singt über seinen Alltag, mal nachdenklich über Behinderung, mal frech über wilde Partys bis zum Morgengrauen. Er beweist, dass man nicht trotz - sondern gerade wegen körperlicher Einschränkungen alles wollen kann. Auch wenn er sich als Sprachrohr für Menschen mit Behinderung versteht und Inklusion auf und hinter der Bühne lebt, ist sein musikalisches Repertoire dabei vielseitig und nicht nur auf seine Behinderung fokussiert. Seit 2015 sitzt Fidi als stellvertretender Vorsitzender bei der Stiftung Lebenshilfe Berlin im Vorstand, wo er sich für die Förderung und Umsetzung von Projekten für Menschen mit Behinderung einsetzt. [https://graffidi.de](https://graffidi.de "https://graffidi.de")
 
+![](/media/2022/09/druck_graf_fidi_foto_andi_weiland-1.jpg "Graf Fidi")
+
 [**MISCHA GOHLKE BAND**](https://mischagohlkeband.de/) (Blues, Rock, Funk & Experimentelles)  
 Mischa Gohlke ist Musiker, Aktivist, Speaker, Kulturmanager, Autor, Dozent, Inklusionsbotschafter, “Grenzen sind relativ e.V.” - Geschäftsführer und vor allem Mensch. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht. In der nach ihm benannten „Mischa Gohlke Band“ fließen englischsprachigen Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach. Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie dem Schlagzeuger Michael Nick (The Magic of Santana, Trez Hombres). Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. [https://mischagohlkeband.de](https://mischagohlkeband.de/ "https://mischagohlkeband.de/")
 
+![](/media/2022/09/mischa-gohlke-band-_-foto-by-marie-tabuena-2.jpeg "Mischa Gohlke Band")
+
 [**BATTERIES OF ROCK**](https://batteriesofrock.com/) (Rock)  
 Sie sind Hamburgs jüngste Rockband. Mit gerade einmal 15 Jahren haben sie bereits ordentlich abgeräumt: ob beim Oxmox Music Award 2020 als Beste Hamburger Newcomer, bei My Six Stages in Buxtehude oder der vorletzten Staffel von The Voice Kids mit Blitzkrieg Bob von den Ramones. Kolja Reich (Gitarre, Bass, Gesang), Noel Timmich (Gesang, Gitarre, Keyboard) und Yuma Wüst (Schlagzeug, Gesang) können mehr als Punkrock-Klassiker covern. Mit frischen Eigenkompositionen wie _Stop the War_ oder _Do something now_ geben sie ihrer Wut über Kriege und Klimakrise einen Ausdruck. [https://batteriesofrock.com](https://batteriesofrock.com "https://batteriesofrock.com")
+
+![](/media/2022/09/batteries-of-rock.jpg "Batteries of Rock")
 
 [**FAME ACADEMY**](https://www.fame-academy.com/) feat. [**SOUZAN ALAVI**](https://www.souzan-alavi.de/) (Tanz)
 
 Die Kids von der Musicalschule "Fame Academy" und dem “Tanzstudio Alavi “ werden mit einer Tanzperformance den Spielbudenplatz rocken. Begleitet werden sie von der Schulleiterin und aus dem Fernsehen bekannten Schauspielerin Souzan Alavi. [https://www.fame-academy.com](https://www.fame-academy.com "https://www.fame-academy.com") & [https://www.tanzstudio-alavi.de](https://www.tanzstudio-alavi.de "https://www.tanzstudio-alavi.de")
 
+![](/media/2022/09/fame-academy-feat-souzan-alavi.jpg "Fame Academy feat. Souzan Alavi")
+
 **+ 2 ÜBERRASCHUNGS-ACTS und SPECIAL GUESTS**
 
 [**MARKUS RIEMANN**](http://www.kulturbedarf.de) (Moderation) ist Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen fühlt er sich seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag in Hamburg, dem Internationalen Straßenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf. [www.kulturbedarf.de](http://www.kulturbedarf.de)
+
+![](/media/2022/09/markus-riemann-foto-1024x1024-1.jpg "Markus Riemann")
 
 ***
 
