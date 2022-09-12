@@ -77,7 +77,7 @@ Die Kids von der Musicalschule "Fame Academy" und dem “Tanzstudio Alavi “ we
 
 **+ 2 ÜBERRASCHUNGS-ACTS und SPECIAL GUESTS**
 
-[**MARKUS RIEMANN**](http://www.kulturbedarf.de) (Moderation) ist Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen fühlt er sich seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag in Hamburg, dem Internationalen Straßenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf. [www.kulturbedarf.de](http://www.kulturbedarf.de)
+[**MARKUS RIEMANN** ](https://www.markusriemann.com)(Moderation) ist Musiker, Moderator und Kulturmanager. Auf großen und kleinen Bühnen fühlt er sich seit 25 Jahren zu Hause. Als Moderator u.a. tätig auf dem Weltkindertag in Hamburg, dem Internationalen Straßenmusikfestival in Osnabrück, dem Eurocityfest in Münster oder für den Niedersächsischen Integrationsrat in Emden. Markus Riemann betreibt den Klub.K in Hamburg und die Firma Kulturbedarf. [https://www.markusriemann.com](https://www.markusriemann.com "https://www.markusriemann.com") 
 
 ![](/media/2022/09/markus-riemann-foto-1024x1024-1.jpg "Markus Riemann")
 
