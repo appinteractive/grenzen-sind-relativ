@@ -43,6 +43,14 @@ Festival-Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mi
 
 ## **LIVE ON STAGE**
 
+**DAS PACK** (Rock, Indie)
+
+Drei charmante Herren, die Intelligenz mit Lautstärke verbinden? Ja! Gitarrist & Sänger [Pensen Paletti](https://pensenpaletti.com/) (Monsters of Liedermaching, Bumm-Gitarre) zerfleddert gemeinsam mit Benno am Bass & Albi an den Drums die Bretter dieser Welt. Omnipräsente Leidenschaft mit Pfiff & Geballer wird auch im Jahre 2022 großgeschrieben. Herrje, und dann kommt noch im Sommer die neue Platte: Die Kernseife der Medaille. Danke für den. Wirklich gut. Klasse Jungs.  
+Das Pack, eine echte Empfehlung.  
+[https://www.daspack.de](https://www.daspack.de/ "https://www.daspack.de/")
+
+![Das Pack](/media/2022/09/das-pack-presse-1-querkant-farbe-1.jpg)
+
 [**ODED KAFRI**](https://odedkafri.com/ueber/) (Worldmusic)  
 Er ist Solokünstler, One-Man-Party- und YouTube-Phänomen mit über einer Million Clicks und spielt seine Bühnen- und Straßen-Shows auf der ganzen Welt. Das Schlagzeugspielen begann er im Alter von zehn Jahren im Luftschutzbunker seiner Familie in Tel Aviv. Kafri nimmt seine Zuhörer mit auf eine nahtlose und energiegeladene Reise, auf der man tanzen und seine Fähigkeiten bewundern kann. Währenddessen mischt er Styles im eitlen Stil eines DJs und gibt dem Publikum als „DJ Of The Drums“ ein Live-Musikerlebnis. [https://odedkafri.com](https://odedkafri.com "https://odedkafri.com")
 
@@ -68,6 +76,12 @@ Mischa Gohlke ist Musiker, Aktivist, Speaker, Kulturmanager, Autor, Dozent, Inkl
 Sie sind Hamburgs jüngste Rockband. Mit gerade einmal 15 Jahren haben sie bereits ordentlich abgeräumt: ob beim Oxmox Music Award 2020 als Beste Hamburger Newcomer, bei My Six Stages in Buxtehude oder der vorletzten Staffel von The Voice Kids mit Blitzkrieg Bob von den Ramones. Kolja Reich (Gitarre, Bass, Gesang), Noel Timmich (Gesang, Gitarre, Keyboard) und Yuma Wüst (Schlagzeug, Gesang) können mehr als Punkrock-Klassiker covern. Mit frischen Eigenkompositionen wie _Stop the War_ oder _Do something now_ geben sie ihrer Wut über Kriege und Klimakrise einen Ausdruck. [https://batteriesofrock.com](https://batteriesofrock.com "https://batteriesofrock.com")
 
 ![](/media/2022/09/batteries-of-rock.jpg "Batteries of Rock")
+
+[**LATIN FEVER TRIO FEAT. MAIRE RAMIREZ**](https://www.facebook.com/profile.php?id=100057232879073) (Latin, Cha-Cha-Cha, Salsa, Bolero, Rumba)
+
+Durch ihre vielen Live Auftritte hat das Latin Fever Trio, bestehend aus Samuel Castillo (Peru), Anibal Portillo (Paraguay) und Nancho Campos (Chile), in der Hamburger Musikszene schnell an Bekanntheit gewonnen. Bei jeder Veranstaltung mit weltweit bekannten Evergreens aus Südamerika und Spanien darf das Trio nicht fehlen und hat auch die aktuellen spanischsprachigen Hits der internationalen Charts im Repertoire. Die Drei werden euch **mit Especial Guest Maire Ramírez Ronda** mit südamerikanischen Klängen verzaubern. Die kubanische Sängerin, geboren in Havanna, begann ihre künstlerische Laufbahn im Alter von 20 Jahren in renommierten Kabaretts in ihrer Heimatstadt. Sie war die Leadsängerin mehrerer Bands und Shows auf Tournee in Lateinamerika, Italien, Deutschland und Ägypten. Weiter tourte sie durch Europa mit Bands wie Sexteto Chanchullo, Sol Naciente Big Band und der Cubanisimo Big Band.
+
+![Latin Fever Trio feat. Maire Ramirez](/media/2022/09/latin-fever-trio-1.jpg)
 
 [**FAME ACADEMY**](https://www.fame-academy.com/) feat. [**SOUZAN ALAVI**](https://www.souzan-alavi.de/) (Tanz)
 
