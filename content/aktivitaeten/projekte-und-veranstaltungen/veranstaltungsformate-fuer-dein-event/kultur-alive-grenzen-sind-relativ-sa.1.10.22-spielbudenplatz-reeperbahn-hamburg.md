@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2022/09/beitragsbild-kultur-alive.png"
+teaser: "/media/2022/09/kulture-alive_01-10_facebook-header_jpg-72-dpi.jpg"
 title: '"Kultur ALIVE - Grenzen sind relativ" // Sa. 01.10.22 Spielbudenplatz (Reeperbahn
   Hamburg)'
 description: Im Geiste unseres Mottos „Grenzen sind relativ“ haben wir über 100 Künstler*innen,
