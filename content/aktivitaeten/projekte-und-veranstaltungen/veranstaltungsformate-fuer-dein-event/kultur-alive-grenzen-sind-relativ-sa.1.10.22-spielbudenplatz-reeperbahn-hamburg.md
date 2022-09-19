@@ -43,7 +43,7 @@ Festival-Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mi
 
 ## **LIVE ON STAGE**
 
-**DAS PACK** (Rock, Indie)
+[**DAS PACK**](https://www.daspack.de/) (Rock, Indie)
 
 Drei charmante Herren, die Intelligenz mit Lautstärke verbinden? Ja! Gitarrist & Sänger [Pensen Paletti](https://pensenpaletti.com/) (Monsters of Liedermaching, Bumm-Gitarre) zerfleddert gemeinsam mit Benno am Bass & Albi an den Drums die Bretter dieser Welt. Omnipräsente Leidenschaft mit Pfiff & Geballer wird auch im Jahre 2022 großgeschrieben. Herrje, und dann kommt noch im Sommer die neue Platte: Die Kernseife der Medaille. Danke für den. Wirklich gut. Klasse Jungs.  
 Das Pack, eine echte Empfehlung.  
