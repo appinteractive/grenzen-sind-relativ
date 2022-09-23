@@ -31,7 +31,7 @@ Im Geiste unseres Mottos „Grenzen sind relativ“ haben wir **über 100 Künst
 
 Bei der **NETWORK-AREA** können sich Vereine, Initiativen, Institutionen, Projekte, Kulturschaffende bzw. MENSCHEN kennenlernen, austauschen und vernetzen. Flyer können ausgelegt werden. Es lebe das Miteinander, es lebe die Vielfalt! Im Rahmen der **INTERAKTIVEN ERLEBNISWELTEN** gibt es einen Community Dance Workshop vom Kulturverein “sense the steps e.V", interaktive Malerei von der “Schlei-Akademie”, eine Pinnwand-Aktion von Ulrike Kloiber ( Senatskoordinatorin SkbM), eine Quizkarten-Aktion von “Beyond Borders e.V.”, künstlerische Street-Performances von/mit Milena Pieper und vieles mehr. **Anmeldungen zur Network-Area und für die interaktiven Erlebniswelten sind noch möglich.**
 
-_Der Spielbudenplatz ist für “Wheelers” barrierefrei gestaltet! Gebärdensprach- & Schriftdolmetscher werden vor Ort sein. Für die großzügige Unterstützung geht unser Dank an die GVL, Gemeinnützige Treuhandstelle Hamburg, Behörde für Kultur und Medien Hamburg, Behörde für Justiz und Verbraucherschutz, Stiftung Hamburger Wohnen und Aktion Mensch._
+_Der Spielbudenplatz ist für “Wheelers” barrierefrei gestaltet! Gebärdensprach- & Schriftdolmetscher werden vor Ort sein. Für die großzügige Unterstützung geht unser Dank an die GVL, Gemeinnützige Treuhandstelle Hamburg, Behörde für Kultur und Medien Hamburg, Behörde für Justiz und Verbraucherschutz, Bezirksamt Hamburg-Mitte,_ _Stiftung Hamburger Wohnen und Aktion Mensch._
 
 **Kontakt:**
 
