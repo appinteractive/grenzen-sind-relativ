@@ -29,7 +29,7 @@ Im Geiste unseres Mottos „Grenzen sind relativ“ haben wir **über 100 Künst
 
 **LIVE ON STAGE** sind die 3 charmanten Herren von **DAS PACK**, Ausnahme-Drummer und One-Man-Party **ODED KAFRI**, der Berliner Rapper & Aktivist **GRAF FIDI**, Hamburgs jüngste Rockband **BATTERIES OF ROCK,** die legendären **RUDOLF ROCK & DIE SCHOCKER FEAT. SUSI SALM & SPECIAL GUESTS** bringen den Rock´n´Roll wieder zum Leben, das **LATIN FEVER TRIO FEAT. MAIRE RAMIREZ** mit Evergreens aus Südamerika und Spanien, eine Tanzperformance von der **FAME ACADEMY FEAT. SOUZAN ALAVI,** das virtuose Powertrio um den Gitarristen und Festival-Initiator **MISCHA GOHLKE** und einige **ÜBERRASCHUNGSGÄSTE**. Durch das Programm führt Kulturmanager und Moderator **MARKUS RIEMANN**. _(Weitere Infos Künstler*innen: siehe unten)_
 
-Bei der **NETWORK-AREA** können sich Vereine, Initiativen, Institutionen, Projekte, Kulturschaffende bzw. MENSCHEN kennenlernen, austauschen und vernetzen. Flyer können ausgelegt werden. Es lebe das Miteinander, es lebe die Vielfalt! 
+Bei der **NETWORK-AREA** können sich Vereine, Initiativen, Institutionen, Projekte, Kulturschaffende bzw. MENSCHEN kennenlernen, austauschen und vernetzen. Flyer können ausgelegt werden. Es lebe das Miteinander, es lebe die Vielfalt!
 
 Im Rahmen der **INTERAKTIVEN ERLEBNISWELTEN** gibt es einen Community Dance Workshop vom Kulturverein “sense the steps e.V", interaktive Malerei von der “Schlei-Akademie”, eine Quizkarten-Aktion von “Beyond Borders e.V.”, das Glücksrad "Stimmt´s" mit Ulrike Kloiber (Senatskoordinatorin SkbM), künstlerische Street-Performances “Trippel Trapp - Performance 3-2-1” von/mit Milena Pieper, Luna Worthmann & Hannes Träbert.
 
@@ -40,6 +40,40 @@ _Der Spielbudenplatz ist für “Wheelers” barrierefrei gestaltet! Gebärdensp
 Presse-Kontakt: Tjorven Malin Steinmeyer, [pr@grenzensindrelativ.de](mailto:pr@grenzensindrelativ.de), 0170 9554996
 
 Festival-Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mischa.gohlke@grenzensindrelativ.de)
+
+***
+
+## Running Order:
+
+15\.00 Uhr: Start, DJ & Network-Area 
+
+15\.40 Uhr: Community Dance "sense the steps e.V." 
+
+16\.00 Uhr: Eröffnungsmoderation Markus Riemann 
+
+16\.05 Uhr: Fame Academy feat. Souzan Alavi 
+
+16\.15 Uhr: Batteries of Rock 
+
+17\.00 Uhr: Latin Fever Trio feat. Maire Ramirez 
+
+17\.50 Uhr: Trippel Trapp "Performance 3-2-1" 
+
+18\.00 Uhr: Mischa Gohlke Band
+
+19\.10 Uhr: Oded Kafri
+
+19\.45 Uhr: Das Pack
+
+21\.00 Uhr: Rudolf Rock & die Schocker feat. Susi Salm & Special Guests 
+
+22\.00 Uhr: Finale 
+
+22\.10 Uhr: Ausklingen mit DJ-Musik 
+
+23\.00 Uhr: Aftershowparty in der Alten Liebe
+
+Moderation: Markus Riemann
 
 ***
 
