@@ -45,19 +45,19 @@ Festival-Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mi
 
 ## Running Order:
 
-15\.00 Uhr: Start, DJ & Network-Area 
+15\.00 Uhr: Start, DJ & Network-Area
 
-15\.40 Uhr: Community Dance "sense the steps e.V." 
+15\.40 Uhr: Community Dance "sense the steps e.V."
 
-16\.00 Uhr: Eröffnungsmoderation Markus Riemann 
+16\.00 Uhr: Eröffnungsmoderation Markus Riemann
 
-16\.05 Uhr: Fame Academy feat. Souzan Alavi 
+16\.05 Uhr: Fame Academy feat. Souzan Alavi
 
-16\.15 Uhr: Batteries of Rock 
+16\.15 Uhr: Batteries of Rock
 
-17\.00 Uhr: Latin Fever Trio feat. Maire Ramirez 
+16\.50 Uhr: Trippel Trapp "Performance 3-2-1"
 
-17\.50 Uhr: Trippel Trapp "Performance 3-2-1" 
+17\.00 Uhr: Latin Fever Trio feat. Maire Ramirez
 
 18\.00 Uhr: Mischa Gohlke Band
 
@@ -65,11 +65,11 @@ Festival-Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mi
 
 19\.45 Uhr: Das Pack
 
-21\.00 Uhr: Rudolf Rock & die Schocker feat. Susi Salm & Special Guests 
+21\.00 Uhr: Rudolf Rock & die Schocker feat. Susi Salm & Special Guests
 
-22\.00 Uhr: Finale 
+22\.00 Uhr: Finale
 
-22\.10 Uhr: Ausklingen mit DJ-Musik 
+22\.10 Uhr: Ausklingen mit DJ-Musik
 
 23\.00 Uhr: Aftershowparty in der Alten Liebe
 
