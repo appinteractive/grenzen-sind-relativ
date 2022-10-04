@@ -16,22 +16,27 @@ accessible: ''
 
 Liebe Mit-Menschen,
 
-yeeeahhh, nun geht es mit unserer neuen monatlichen Netzwerkveranstaltung in die 4. Runde!
+nach dem wunderbaren Festival "Kultur ALIVE - Grenzen sind relativ" letzten Samstag auf dem Spielbudenplatz geht es diese Woche weiter mit unserer 4. Netzwerkparty! 
 
-Am Do. 06.10.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die "multipolare Melange", die wir gemeinsam interaktiv kreieren werden. 😊
+Am kommenden Do. 08.09.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die "multipolare Melange", die wir gemeinsam interaktiv kreieren werden. 😊
 
 Vor Ort haben wir eine Open-Stage-Bühne mit PA & Mischpult, auf der wir Live Musik, kurze Redeinputs, Performances, usw. machen werden. 
 
+Als fester Live-Act ist diesmal [**Alexander v. Rothkirch**](https://www.avr.name/) (acousticfunkrock’n’roll) mit dabei:  Ein Mann, eine Gitarre. Der Hamburger Singer/Songwriter Alexander v. Rothkirch kommt mit wenig aus, um zu begeistern. Tolle Songs, eine warme, dunkle Stimme, unverkennbares, perkussives Gitarrenspiel. Funk und Rock´n´Roll für die Beine, Balladen für die Seele.
+
 Dazu werden wir vor Ort einen Infotisch haben, auf dem ihr gerne Flyer & Broschüren von euren Vereinen, Institutionen, Initiativen, usw. auslegen könnt. Darüber hinaus gibt es ein exklusives Begrüßungsgetränk und einige Snacks for free.
 
-Gerne kannst Frau/Mann, Freunde und/oder Kollegen mitbringen.
+Gerne kannst Frau/Mann, Freunde und/oder Kollegen mitbringen. :)
 
-Folgende “Running Order” haben wir:  
-19\.00 Uhr: Start & DJ  
-20\.00 Uhr: Interaktives Bühnenprogramm (Live Musik, Jam Session, Redeinputs, Performances, etc.)  
-22\.00 Uhr: Live Musik mit Tom Baetzel & Sebastian Treu
+Folgende “Running Order” haben wir:
 
-Der Eintritt ist frei und Spenden sind immer sehr willkommen!
+19\.00 Uhr: Start & DJ
+
+20\.00 Uhr: Interaktives Bühnenprogramm, u.a. Live Musik von/mit Alexander v. Rothkirch
+
+22\.00 Uhr: Live Musik von/mit Tom Baetzel & Sebastian Treu
+
+Der Eintritt ist frei - kommt vorbei! :-)
 
 Peace & Love,
 
