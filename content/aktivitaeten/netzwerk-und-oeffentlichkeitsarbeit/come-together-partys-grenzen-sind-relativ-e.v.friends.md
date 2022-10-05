@@ -16,25 +16,21 @@ accessible: ''
 
 Liebe Mit-Menschen,
 
-nach dem wunderbaren Festival "Kultur ALIVE - Grenzen sind relativ" letzten Samstag auf dem Spielbudenplatz geht es diese Woche weiter mit unserer 4. Netzwerkparty! 
+nach dem wunderbaren Festival "Kultur ALIVE - Grenzen sind relativ" letzten Samstag auf dem Spielbudenplatz geht es diese Woche weiter mit unserer 4. Netzwerkparty!
 
 Am kommenden Do. 08.09.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die "multipolare Melange", die wir gemeinsam interaktiv kreieren werden. 😊
 
-Vor Ort haben wir eine Open-Stage-Bühne mit PA & Mischpult, auf der wir Live Musik, kurze Redeinputs, Performances, usw. machen werden. 
+Live on stage:
 
-Als fester Live-Act ist diesmal [**Alexander v. Rothkirch**](https://www.avr.name/) (acousticfunkrock’n’roll) mit dabei:  Ein Mann, eine Gitarre. Der Hamburger Singer/Songwriter Alexander v. Rothkirch kommt mit wenig aus, um zu begeistern. Tolle Songs, eine warme, dunkle Stimme, unverkennbares, perkussives Gitarrenspiel. Funk und Rock´n´Roll für die Beine, Balladen für die Seele.
+20\.00 Uhr: [**Alexander v. Rothkirch**](https://www.avr.name/) (acousticfunkrock’n’roll) 
 
-Dazu werden wir vor Ort einen Infotisch haben, auf dem ihr gerne Flyer & Broschüren von euren Vereinen, Institutionen, Initiativen, usw. auslegen könnt. Darüber hinaus gibt es ein exklusives Begrüßungsgetränk und einige Snacks for free.
+Ein Mann, eine Gitarre. Der Hamburger Singer/Songwriter Alexander v. Rothkirch kommt mit wenig aus, um zu begeistern. Tolle Songs, eine warme, dunkle Stimme, unverkennbares, perkussives Gitarrenspiel. Funk und Rock´n´Roll für die Beine, Balladen für die Seele.
 
-Gerne kannst Frau/Mann, Freunde und/oder Kollegen mitbringen. :)
+22\.00 Uhr: tombastic (Rock, Pop, Funk, Soul)
 
-Folgende “Running Order” haben wir:
+Das Duo, bestehend aus Sebastian Treu und Tom Baetzel, versetzen euch in die guten alten Zeiten der groovigen Musik mit Funky Beats zurück. Mit im Gepäck haben die beiden Hits von Bobby McFerrin, Sting und vielen weiteren Legenden. So schicken euch die beiden von Woche zu Woche auf eine fantastische Zeitreise, bei der jeder mitsingen und -schwingen muss. So geht Leidenschaft!
 
-19\.00 Uhr: Start & DJ
-
-20\.00 Uhr: Interaktives Bühnenprogramm, u.a. Live Musik von/mit Alexander v. Rothkirch
-
-22\.00 Uhr: Live Musik von/mit Tom Baetzel & Sebastian Treu
+Dazu werden wir vor Ort einen Infotisch haben, auf dem ihr gerne Flyer & Broschüren von euren Vereinen, Institutionen, Initiativen, usw. auslegen könnt. 
 
 Der Eintritt ist frei - kommt vorbei! :-)
 
