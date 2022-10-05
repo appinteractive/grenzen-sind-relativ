@@ -22,7 +22,7 @@ Am kommenden Do. 08.09.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenpl
 
 Live on stage:
 
-20\.00 Uhr: [**Alexander v. Rothkirch**](https://www.avr.name/) (acousticfunkrock’n’roll) 
+20\.00 Uhr: [Alexander v. Rothkirch](https://www.avr.name/) (acousticfunkrock’n’roll) 
 
 Ein Mann, eine Gitarre. Der Hamburger Singer/Songwriter Alexander v. Rothkirch kommt mit wenig aus, um zu begeistern. Tolle Songs, eine warme, dunkle Stimme, unverkennbares, perkussives Gitarrenspiel. Funk und Rock´n´Roll für die Beine, Balladen für die Seele.
 
