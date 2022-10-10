@@ -34,21 +34,9 @@ Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkende
 
 Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
 
-Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren Kooperationspartner auch strukturelle Basisarbeit leisten:
-
-1. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
-2. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
-3. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
-
-<gallery>
-
-![](/media/2020/10/neu1.jpg)![](/media/2020/10/asv-festival-_-anderssein-vereint-_-foto-by-marie-tabuena-_-online.jpg)![](/media/2020/10/hoffenheim1.png)
-
-![](/media/2015/07/NDR-Inklusionsfackel3.jpg)
-
-![](/media/2015/07/NDR-Inklusionsfackel.jpg)</gallery>
-
 **Grenzen sind relativ e.V. als Anlaufstelle und Co-Veranstalter**
+
+Initiiert wurde der Verein von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager Mischa Gohlke. Dazu wirken im Vereins-Team mehrere professionelle Kulturschaffende, Projekt- & Veranstaltungsmanager:innen, Künstler:innen, Promoter:innen und Campaigner:innen mit und der Verein kann auf ein großes Netzwerk, u.a. in den Bereichen Künstler:innenkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
 
 Bezüglich der Veranstaltungsumsetzung kann Grenzen sind relativ e.V. - stets im engen Dialog mit dem Veranstalter - folgende Aufgaben übernehmen:
 
@@ -66,7 +54,19 @@ Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bund
 
 **Musik, Kunst und Kultur** sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, den Perspektivwechsel anzuregen, das Gemeinschaftsgefühl zu stärken und gesamtgesellschaftliche Entwicklungsprozesse zu reflektieren und zu unterstützen.
 
-***
+Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren Kooperationspartner auch strukturelle Basisarbeit leisten:
+
+1. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
+2. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
+3. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
+
+<gallery>
+
+![](/media/2020/10/neu1.jpg)![](/media/2020/10/asv-festival-_-anderssein-vereint-_-foto-by-marie-tabuena-_-online.jpg)![](/media/2020/10/hoffenheim1.png)
+
+![](/media/2015/07/NDR-Inklusionsfackel3.jpg)
+
+![](/media/2015/07/NDR-Inklusionsfackel.jpg)</gallery>
 
 ***
 
