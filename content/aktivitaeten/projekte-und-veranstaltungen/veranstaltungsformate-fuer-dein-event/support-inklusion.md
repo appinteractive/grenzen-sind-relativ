@@ -32,7 +32,7 @@ Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künst
 
 Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind.
 
-Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
+Das Veranstaltungsformat schafft eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt Thematiken wie [gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html), interdisziplinäre Kultur und Dialog & Miteinander auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
 
 **Grenzen sind relativ e.V. als Anlaufstelle und Co-Veranstalter**
 
@@ -67,26 +67,6 @@ Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren K
 ![](/media/2015/07/NDR-Inklusionsfackel3.jpg)
 
 ![](/media/2015/07/NDR-Inklusionsfackel.jpg)</gallery>
-
-***
-
-**Inklusion & Inklusionsverständnis**
-
-> Bei Inklusion gibt es keine Diskussion um Inklusion.
->
-> > Wolfgang S. Zechmayer
-
-Inklusion ist ein in Deutschland viel diskutiertes und mit vielen Berührungsängsten behaftetes Thema. Zumeist wird Inklusion auf die „Integration“ von Menschen mit (formal anerkannter) Behinderung runter gebrochen. Dabei kann, will und muss Inklusion wesentlich mehr sein!
-
-* Wir ALLE sind „behindert“. Egal ob körperlicher, mentaler, sozialer, kultureller, emotionaler, empathischer, finanzieller oder/und struktureller Natur. Viele Barrieren finden in den Köpfen statt.
-* Inklusion ist keine Spezialkonvention, sondern die Konkretisierung der vorhandenen universellen Menschenrechte.
-* Wir brauchen einen grundlegenden gesellschaftspolitischen strukturellen Wandel sowie eine differenzierte Auseinandersetzung, was sich hinter Bewusstsein, Wahrnehmung, Kommunikation und den scheinbaren Realitäten überhaupt verbirgt.
-
-Im Sinne eines ganzheitlichen Inklusionsverständnisses umfasst Inklusion alle Aspekte, die das Leben in einer komplexen heterogenen Gesellschaft ausmachen: soziale, bildungspolitische, wirtschaftliche, konsumelle, ökologische, kulturelle, spirituelle, dezentrale, globale, persönliche, zwischenmenschliche und kollektive Themenbereiche können nicht mehr getrennt voneinander, sondern müssen – in Beziehung zueinander stehend – als Ganzes wahrgenommen (und angenommen) werden.
-
-Die Gedanken um den Begriff Inklusion sind nicht neu, im Gegenteil. Der aktuelle „Inklusions-Hype” bietet jedoch die große Chance – auf Grundlage einer ganzheitlichen Bewusstseinsdebatte – zukunftsweisende gesellschaftspolitische Prozesse und Strukturen bzw. die „Gesellschaft von morgen” in die Wege zu leiten. Inklusion betrifft uns ALLE!
-
-Musik, Kunst und Kultur sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken und das Gemeinschaftsgefühl zu stärken.
 
 Gefördert von
 
