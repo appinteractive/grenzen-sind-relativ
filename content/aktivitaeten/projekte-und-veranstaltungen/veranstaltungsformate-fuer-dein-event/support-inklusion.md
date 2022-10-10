@@ -34,12 +34,11 @@ Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkende
 
 Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
 
-Über die Veranstaltungen hinaus wollen wir zusammen mit unseren Kooperationspartner strukturelle Basisarbeit leisten:
+Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren Kooperationspartner auch strukturelle Basisarbeit leisten:
 
-1. Interdisziplinäres Veranstaltungsformat/Label auf mindestens 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 8 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
-2. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
-3. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
-4. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
+1. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
+2. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
+3. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
 
 <gallery>
 
