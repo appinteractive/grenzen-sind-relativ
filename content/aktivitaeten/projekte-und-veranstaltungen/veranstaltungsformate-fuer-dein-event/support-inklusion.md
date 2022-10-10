@@ -18,9 +18,9 @@ accessible: ''
 
 ## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
 
-Aufbauend auf unsere [**Grenzen sind relativ Festivals**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein **neues interdisziplinäres Veranstaltungsformat** kreiert, welches im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird. 
+Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird.
 
-Die Premiere-Veranstaltung [**“Kultur ALIVE - Grenzen sind relativ” **](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg)ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Ab 2023 wollen wir das Format bundesweit zum Leben erwecken.
+Die Premiere-Veranstaltung [Kultur ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg) ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Ab 2023 wollen wir das Format bundesweit zum Leben erwecken.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
@@ -30,7 +30,7 @@ Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualit
 
 Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künstler:innen und unterschiedlichste Akteur:innen mit dem Publikum interagieren, von jung bis alt, Menschen mit und ohne Behinderungen, Geflüchtete, Profis, Newcomer = ALLE Menschen.
 
-Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind. 
+Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind.
 
 Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
 
