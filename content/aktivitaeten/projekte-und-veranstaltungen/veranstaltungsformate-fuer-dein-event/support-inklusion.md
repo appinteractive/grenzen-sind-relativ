@@ -18,14 +18,9 @@ accessible: ''
 
 ## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
 
-Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der Fabrik  haben wir ein neues & frisches Projekt- und Veranstaltungsformat kreiert, welches von der Aktion Mensch gefördert wird und sich aus folgenden Modulen zusammen setzt:
+Aufbauend auf unsere [**Grenzen sind relativ Festivals**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein **neues interdisziplinäres Veranstaltungsformat** kreiert, welches im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird. 
 
-1. Interdisziplinäres Veranstaltungsformat/Label auf mindestens 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 8 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
-2. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
-3. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
-4. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
-
-Das Projekt und die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden.
+Die Premiere-Veranstaltung [**“Kultur ALIVE - Grenzen sind relativ” **](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg)ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Ab 2023 wollen wir das Format bundesweit zum Leben erwecken.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
@@ -35,7 +30,16 @@ Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualit
 
 Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künstler:innen und unterschiedlichste Akteur:innen mit dem Publikum interagieren, von jung bis alt, Menschen mit und ohne Behinderungen, Geflüchtete, Profis, Newcomer = ALLE Menschen.
 
-Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind. Den Besuchenden und der Öffentlichkeit wird die essentielle Thematik „gesamtgesellschaftliche Inklusion“ auf eine bisher unerreichte, erfahrbare und künstlerische Weise nahegebracht. Das frische und facettenreiche Veranstaltungsformat ermöglicht Raum für Begegnung, Perspektivwechsel und Inspiration.
+Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind. 
+
+Die Veranstaltungen schaffen eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt das Thema „[gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html)“ auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
+
+Über die Veranstaltungen hinaus wollen wir zusammen mit unseren Kooperationspartner strukturelle Basisarbeit leisten:
+
+1. Interdisziplinäres Veranstaltungsformat/Label auf mindestens 15 Großveranstaltungen, bestehend aus interaktiven Erlebniswelten, Network Area und je bis zu 8 Stunden Bühnenprogramm mit Musik, Tanz, Kabarett & Video-Kunst - Headliner, Local Heroes, inklusive Acts, Gruppen von Vereinen & Schulen
+2. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
+3. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
+4. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
 
 <gallery>
 
@@ -64,26 +68,6 @@ Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bund
 **Musik, Kunst und Kultur** sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, den Perspektivwechsel anzuregen, das Gemeinschaftsgefühl zu stärken und gesamtgesellschaftliche Entwicklungsprozesse zu reflektieren und zu unterstützen.
 
 ***
-
-**Bühnenprogramm:**
-
-* Spannend ist es immer wieder, wenn verschiedenste Künste wie Live-Musik, Kabarett, Tanz, Theater und Film sowie bekannte & unbekannte Künstler, Nachwuchs-Acts und Vereine eine gemeinsame Bühne finden.
-* Booking Bühnenprogramm: Wir haben ein großes Künstlernetzwerk mit vielen direkten Kontakten zu bekannten und unbekannten Künstlern
-* Zum großen Finale kann z.B. eine gemeinsame Live-Performance parallel zum [Musikvideo „AndersSein vereint – Inklusionssong für Deutschland“](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos) _(und/oder “2. Inklusionssong” ab Herbst 2022)_ gemacht werden.
-* Unser Moderator [Markus Riemann](https://kulturbedarf.de/) wird durch das Programm führen, einige Vereine/Projekte vorstellen und Interviews mit den Künstlern machen.
-
-**Interaktive Erlebniswelten:**
-
-* Es wird eine Spielwiese kreiert, bei der verschiedenste Sinne & Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden
-* Lokale Akteure (Vereine, Musikgruppen, usw.) werden im Vorfeld eingeladen, bei dem Inklusionssong [AndersSein vereint](/anderssein-vereint-2/inklusionssong-fuer-deutschland.html) _(und/oder_ _“2. Inklusionssong” ab Frühjahr 2023)_ auf der Bühne im Chor mitzusingen und diesen im Vorfeld des Konzerts zusammen mit der Mischa Gohlke Band einproben
-* Gebärdensprach-Barkeeper, interaktive Aktionen, Kleinkunst zum Mitmachen, usw.
-* Künstlerische Präsentationen zu den Themen Inklusion,  
-  Grenzen, Miteinander, Frieden, Umwelt, Utopien, usw.
-* …
-
-**Network-Area:**
-
-* Hier können sich verschiedenste Vereine, Initiativen, Institutionen bzw. MENSCHEN präsentieren, kennenlernen, austauschen und vernetzen
 
 ***
 
