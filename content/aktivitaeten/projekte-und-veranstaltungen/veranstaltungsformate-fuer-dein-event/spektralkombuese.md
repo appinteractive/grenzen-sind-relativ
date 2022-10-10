@@ -19,7 +19,7 @@ accessible: ''
 ---
 # Spektralkombüse
 
-## Erfahrbare Inklusion durch Musik, Tanz und Kabarett
+## Erfahrbare Inklusion durch Musik, Tanz und Kabarett von/mit Kassandra Wedel, Martin Fromme und Mischa Gohlke Band
 
 ![SPEKTRALKOMBÜSE 3](/media/2015/11/SPEKTRALKOMBUESE-3.png)
 
@@ -29,13 +29,13 @@ Schatz, gehen wir heute ins Tanztheater, aufs Konzert oder ins Kabarett? Eine Fr
 
 ### **Mischa Gohlke Band**
 
-![Mischa Gohlke Band](/media/2018/11/MGB.jpeg "Mischa Gohlke Band")Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er – „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps – erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht. 
+![Mischa Gohlke Band](/media/2018/11/MGB.jpeg "Mischa Gohlke Band")Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er – „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps – erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht.
 
-In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach. 
+In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
 
 Komplettiert wird die Band durch den Bassisten [David Alleckna](https://alleckna.de/) _(Phil Collins, Udo Lindenberg, Inga Rumpf, Sasha, Nena)_, den Schlagzeuger [Jens Carstens](https://de.wikipedia.org/wiki/Jens_Carstens) _(Udo Lindenberg, Selig, Heinz Rudolf Kunze, Patricia Kaas, Helene Fischer)_ und [Volkan Baydar](https://www.volkanbaydar.com/) _(Orange Blue)_ am Gesang.
 
-Das Mischa Gohlke Band spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho (_ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Zeit, TAZ, MOPO, Hamburger Abendblatt, uvwm.)_. 
+Das Mischa Gohlke Band spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho (_ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Zeit, TAZ, MOPO, Hamburger Abendblatt, uvwm.)_.
 
 Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt!
 
