@@ -14,7 +14,7 @@ accessible: ''
 
 Wir haben mehrere spannende Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren.
 
-Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in verschiedensten Institutionen (Schulen, Universitäten, Vereinen, Unternehmen, usw.).
+Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in verschiedensten Institutionen (Schulen, Universitäten, Vereine, Unternehmen, usw.).
 
 Im Folgenden eine Übersicht:
 
