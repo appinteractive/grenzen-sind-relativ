@@ -18,9 +18,9 @@ accessible: ''
 
 ## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
 
-Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen umgesetzt wird.
+Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” und "Pumpe Kiel" haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen umgesetzt wird.
 
-Die Premiere-Veranstaltung [Kultur ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg) ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Ab 2023 werden wir das Format bundesweit zum Leben erwecken.
+Die Premiere-Veranstaltung [Kultur ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg) ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Ab 2023 werden wir das Format zusammen mit Veranstaltern, Agenturen, etc. bundesweit zum Leben erwecken.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
