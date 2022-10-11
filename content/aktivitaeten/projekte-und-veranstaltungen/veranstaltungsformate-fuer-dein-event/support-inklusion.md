@@ -45,7 +45,7 @@ Bezüglich der Veranstaltungsumsetzung kann Grenzen sind relativ e.V. - stets im
 * Booking Rahmenprogramm (Bühnenprogramm, Network-Area & interaktive Erlebniswelten)
 * Veranstaltungsproduktion und Veranstaltungstechnik & -logistik (Bühne, Ton, Licht...)
 * Presse-, Öffentlichkeitsarbeit & Promotion (inkl. Filmproduktion, Designs, etc.)
-* Netzwerkarbeit
+* Netzwerkarbeit (bundesweit, regional und lokal)
 * Barrierefreie Kommunikation & Venues
 
 Grenzen sind relativ e.V. fungiert bundesweit als Anlaufstelle, durchführender Co-Veranstalter und ist im umfangreichen Maße beratend tätig. Details zu den einzelnen Veranstaltungen werden im Dialog mit den Veranstaltern, je nach deren Settings, Zielen, Budgets und Möglichkeiten individuell ausgearbeitet.
