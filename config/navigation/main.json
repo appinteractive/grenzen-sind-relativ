@@ -13,7 +13,8 @@
 
               ],
               "disabled": false,
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
+              "showInMainNavigation": true
             },
             {
               "title": "GSR e.V. Public Events",
@@ -59,6 +60,10 @@
                   "title": "Celebrate the music - Come together! // Sa. 20.08.22 Staatliche Jugendmusikschule Hamburg",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/celebrate-the-music-come-together-sa.20.08.22-staatliche-jugendmusikschule-hamburg.md",
                   "disabled": true
+                },
+                {
+                  "title": "Ab 2023: \"Celebrate the music\" - bundesweit",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/ab-2023-celebrate-the-music-bundesweit.md"
                 },
                 {
                   "title": "Dokumentation",
@@ -346,7 +351,8 @@
           "showInMainNavigation": true
         }
       ],
-      "showInMainNavigation": true
+      "showInMainNavigation": true,
+      "external": false
     },
     {
       "title": "Mitmachen",
