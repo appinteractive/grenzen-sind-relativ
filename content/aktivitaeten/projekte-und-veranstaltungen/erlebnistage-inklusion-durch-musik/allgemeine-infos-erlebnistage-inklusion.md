@@ -27,11 +27,13 @@ Do. 12.05.2022: Nelson Mandela Schule
 
 So. 11.09.2022: [Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“](https://norderstedt-sportiv-inklusiv.de/?page_id=17)
 
+Fr. 02.12.2022: Trockendock (zusammen mit der staatlichen Jugendmusikschule Hamburg)
+
 Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel Musik-Orient(ierung) & Bandtraining, Drumcircle & Rhythm´n´Groove, Stimme & Chor, Body Rhythm und Tanz & Bewegung.
 
 Jeder Tag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmenden zusammen mit den Dozent:innen und weiteren künstlerischen Acts die Bühne rocken werden.
 
-Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: David Alleckna, Jens Carstens, Mischa Gohlke, Lili Czuya, Oded Kafri, Rico Bowen, Volkan Baydar und das Body Rhythm Team um Ben Schütz. Die Dozent:innen haben bereits mit Größen wie Madonna, Shakira, Dave Matthews Band, Phil Collins, Julian Lennon, Udo Lindenberg, Selig, Roger Cicero, Helene Fischer, Aha, Rolf Zuckowski, Rosenstolz, Blondie und Nena zusammen gespielt.
+Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. 
 
 Bei der Netzwerkveranstaltung [“Celebrate the music - Come together!” am So. 19.06.2022 auf der altonale (Platz der Republik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine) sind alle mitwirkenden Schüler:innen, Institutionen und Dozent:innen zusammen gekommen. Gemeinsam mit dem Publikum wurde die Essenz der Musik gebührend zelebriert.
 
