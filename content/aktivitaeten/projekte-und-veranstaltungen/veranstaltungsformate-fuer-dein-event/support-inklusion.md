@@ -18,14 +18,14 @@ accessible: ''
 
 ## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
 
-Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” und "Pumpe Kiel" haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen umgesetzt wird.
+Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen umgesetzt wird.
 
 Die Premiere-Veranstaltung [Kultur ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg) ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Ab 2023 werden wir das Format zusammen mit Veranstaltern, Agenturen, etc. bundesweit zum Leben erwecken.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
 1. **Bühnenprogramm:** Spartenübergreifend finden verschiedene Künste (Musik, Tanz, Theater, Kabarett, Video-Kunst) und bekannte & unbekannte Künstler*innen (Headliner, Local Heroes, Nachwuchs-Acts, inklusive Acts, Gruppen von Vereinen & Schulen) eine gemeinsame Bühne
-2. **Interaktive Erlebniswelten:** Eine Spielwiese, bei der verschiedene Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden, durch Aktivitäten wie interaktive Malerei/Kleinkunst, Gebärdensprach-Barkeeper, Chor-Workshop...
+2. **Interaktive Erlebniswelten:** Eine Spielwiese, bei der verschiedene Wahrnehmungen angesprochen und spannende Perspektivwechsel ermöglicht werden, durch Aktivitäten wie interaktive Malerei, Kleinkunst, Gebärdensprach-Barkeeper, Chor-Workshop...
 3. **Network-Area** in der sich gemeinnützige Organisationen, Initiativen, Kulturschaffende und Menschen unterschiedlicher Backgrounds (Inklusion, Kunst, Kultur, Interkulturell, Ökologie, Bildung, Sport, Frieden, ...) präsentieren, kennenlernen, austauschen und vernetzen
 
 Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künstler:innen und unterschiedlichste Akteur:innen mit dem Publikum interagieren, von jung bis alt, Menschen mit und ohne Behinderungen, Geflüchtete, Profis, Newcomer = ALLE Menschen.
@@ -50,15 +50,15 @@ Bezüglich der Veranstaltungsumsetzung kann Grenzen sind relativ e.V. - stets im
 
 Grenzen sind relativ e.V. fungiert bundesweit als Anlaufstelle, durchführender Co-Veranstalter und ist im umfangreichen Maße beratend tätig. Details zu den einzelnen Veranstaltungen werden im Dialog mit den Veranstaltern, je nach deren Settings, Zielen, Budgets und Möglichkeiten individuell ausgearbeitet.
 
-Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bundesweit) werden wir die allgemeine Öffentlichkeit mobilisieren, umfangreiche Pressearbeit (Print, Online, TV & Radio) machen und diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung einladen. Wir erstellen die Wort-Bild-Marke, eine Micropage, die Flyer, Plakate und Social Media Banner und werden einige Filmprojekte (Teaser, Aftermovie, Social Media Clips, usw.) produzieren. Dazu werden wir zusammen mit unseren Kooperationspartner (Alive!Kultur, Netzwerk Inklusion Deutschland, UN-Label, etc.) die Veranstaltungen über die vorhandenen Social Media Kanäle, Newsletter, Netzwerke, etc. umfassend verbreiten.
+Im Rahmen der **PR- & Öffentlichkeitsarbeit** (regional, überregional und bundesweit) werden wir die allgemeine Öffentlichkeit mobilisieren, umfangreiche Pressearbeit (Print, Online, TV & Radio) machen und diverse Vereine, Initiativen, Organisationen und Institutionen zu der Veranstaltung einladen. Wir erstellen die Wort-Bild-Marke, eine Micropage, die Flyer, Plakate und Social Media Banner und werden einige Filmprojekte (Teaser, Aftermovie, Social Media Clips, usw.) produzieren. Dazu werden wir zusammen mit unseren Kooperationspartner (Alive!Kultur, Netzwerk Inklusion Deutschland, handiclapped e.V., UN-Label, etc.) die Veranstaltungen über die vorhandenen Social Media Kanäle, Newsletter, Netzwerke, etc. umfassend verbreiten.
 
 **Musik, Kunst und Kultur** sind wunderbare Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, den Perspektivwechsel anzuregen, das Gemeinschaftsgefühl zu stärken und gesamtgesellschaftliche Entwicklungsprozesse zu reflektieren und zu unterstützen.
 
-Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren Kooperationspartner auch strukturelle Basisarbeit leisten:
+Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren Kooperationspartner auch in folgenden Aktionsfeldern wirken:
 
 1. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
 2. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
-3. das Kreieren von konkreten nachhaltigen Ergebnissen (Evaluation, individuelle Handouts & Toolboxes für Kooperationspartner, Projektfilm, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
+3. das Kreieren von konkreten nachhaltigen Ergebnissen (individuelle Handouts & Toolboxes, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
 
 <gallery>
 
