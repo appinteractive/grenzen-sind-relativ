@@ -24,17 +24,21 @@ Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-
 Modul 1:
 
 * Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
-* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band,
+* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 2:
 
 * Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
-* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band,
+* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltungen):
 
-* Chor- und Rhythm´n´Groove Workshop
-* Auftritt Dozent*innen Band inklusive gemeinsamer Performance mit den Workshop-Teilnehmenden
+* Chor- und Rhythm´n´Groove Workshop (die Teilnehmenden lernen einen Song wie z.B. "Give peace a chance" und performen diesen zusammen mit den Dozent*innen auf der Bühne)
+* Bühnen-Performances: 
+
+  a) Auftritt Dozent*innen Band inklusive großes Finale wo alle Workshop-Teilnehmenden gemeinsam einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
+
+  b) Workshops interaktiv mit dem Publikum 
 
 [https://youtu.be/yaepk0pOa8c](https://youtu.be/yaepk0pOa8c "https://youtu.be/yaepk0pOa8c")
 
