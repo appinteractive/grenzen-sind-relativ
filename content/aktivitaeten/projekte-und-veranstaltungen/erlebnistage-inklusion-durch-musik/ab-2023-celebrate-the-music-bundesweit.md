@@ -33,12 +33,12 @@ Modul 2:
 
 Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltungen):
 
-* In Zelten, Open-Air, etc.: Chor- und Rhythm´n´Groove Workshops (die Teilnehmenden lernen einen Song wie z.B. "Give peace a chance" und performen diesen zusammen mit den Dozent*innen auf der Bühne)
+* In Zelten, Open-Air, etc.: Chor- und Rhythm´n´Groove Workshops (die Teilnehmenden lernen einen Song wie z.B. "Give peace a chance" und performen diesen anschließend zusammen mit den Dozent*innen auf der Bühne)
 * Bühnen-Performances: 
 
   a) Auftritt Dozent*innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
 
-  b) Workshops Chor, Rhythm´n´Groove, Bodyrhythm, etc. interaktiv mit dem Publikum 
+  b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum 
 
 [https://youtu.be/yaepk0pOa8c](https://youtu.be/yaepk0pOa8c "https://youtu.be/yaepk0pOa8c")
 
