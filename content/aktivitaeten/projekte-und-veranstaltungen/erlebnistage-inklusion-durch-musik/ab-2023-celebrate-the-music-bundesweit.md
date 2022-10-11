@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2022/10/20220506_104205.jpg"
+teaser: "/media/2022/10/ctm_100001.jpg"
 title: 'Ab 2023: Celebrate the music - bundesweit'
 description: Mit der offenen Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor,
   Bandtraining), den beiden Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen
