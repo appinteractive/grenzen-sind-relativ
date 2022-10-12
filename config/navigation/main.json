@@ -329,6 +329,12 @@
                 {
                   "title": "z - zugabe",
                   "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe.md"
+                },
+                {
+                  "external": false,
+                  "showInMainNavigation": false,
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/w-wind.md",
+                  "title": "w- wind"
                 }
               ]
             },
