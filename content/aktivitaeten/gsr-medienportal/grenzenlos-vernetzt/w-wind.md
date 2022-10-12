@@ -1,59 +1,56 @@
 ---
-teaser: "/media/2022/08/z-zugabe-01.jpg"
+teaser: "/media/2022/10/w-wind-01.jpg"
 title: w - wind
-description: 'Ick mach Welle. Das Licht geht aus und erweckt dabei ein Duzend bunte,
-  kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set.
-  Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck
-  Dävil“ wahrhaftig erscheinen. '
+description: |-
+  Ein Zeigefinger streicht über den blanken Schreibtisch des schmalen Büros.
+  Wolkendecken haben die Räume heruntergekühlt, doch durch das Fassadenglas
+  flutet leises Licht. “So kann es nicht weitergehen. Wenn wir wirklich
+  gesellschaftliche Sprünge machen wollen, muss es Synergien geben.”
 wide: false
 gallery: []
 alias: ''
 accessible: ''
 
 ---
-# z - zugabe
+# w - wind
 
-# Ick mach Welle
+# brand new bundestag
 
-Das Licht geht aus und erweckt dabei ein Dutzend bunte, kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set. Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck Dävil“ wahrhaftig erscheinen. Um ihn und die weiteren Musiker an den Decks erwächst die Atmosphäre eines Underground-Raves. So wie die weiße Morgenblüte auf gewaltigen Gebirgen, sprenkeln helle Töneüber den wallenden Bass. Fast scheint es unmöglich, diese Klanglandschaft zu erwandern.
+Ein Zeigefinger streicht über den blanken Schreibtisch des schmalen Büros. Wolkendecken haben die Räume heruntergekühlt, doch durch das Fassadenglas flutet leises Licht. “So kann es nicht weitergehen. Wenn wir wirklich gesellschaftliche Sprünge machen wollen, muss es Synergien geben.” Der Mann, dem der Zeigefinger gehört, wirft den Satz durch den Raum hin zum Fenster, als würde dieser damit seinen Weg hinaus in die Welt finden. Tatsächlich wird er zum Luftzug, der zwischen den folgenden Worten weht.
 
-„Bläck Dävil“, der außerhalb des Studios Werner heißt, tippt gekonnt auf den Armaturen rum: Er steuert die Musik über Schalter und Knöpfe wie ein durch die Tiefen des Weltraums rasendes Schiff. Der Druck der bassigen Wellen schiebt die Klänge einem Raumschiffantrieb gleich quer durch den Raum. Die Begleitmusiker ziehen an ihren Reglern wie eingesogen mit. „Bass so wie Amboss und Hammer. Industriell.“ - so Werner’s Selbstbeschreibung.
+![](/media/2022/10/01.jpg)
 
-![](/media/2022/08/01-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-01.jpg)
+Als promovierter Jurist und Sozialunternehmer war Max Oehl einige Zeit sowohl für zivilgesellschaftliche Organisationen als auch im Parlament tätig. Dies ließ ihn erkennen: Beide Bereiche wollen zusammengebracht werden. Nur stehen sie auf verschiedenen Seiten desselben Flusses. Daher braucht es Brücken. Mit der Vision des Brückenbaus und einer neuen Beziehungskultur zwischen Zivilgesellschaft und Parlament wurde Max Oehl deshalb zum Co-Initiator des Projektes Brand New Bundestag. Die Graswurzel-Organisation unterstützt Menschen mit progressiven Ideen auf ihren politischen Wegen.
 
-Der ganze Raum scheint von seinem Studioauftritt heute überrascht, denn dies ist sein erster Auftritt seit einem Jahr. In drei Wochen wird er das erste Mal wieder live auf einer Bühne performen. Beim Live-Set hat er nur ein paar feste Teile, die vorher geübt werden, - der Rest wird improvisiert. „Werner ist ein guter Freestyler am Mixer“ sagt Dave, einer der Musiker, die Werner begleiten, während sie zusammen spielen.
+![](/media/2022/10/02.jpg)
 
-Es entsteht ein kurzes Gespräch zwischen Werner und Dave. Das einzige, welches sie während ihrer immersiven Performance führen.
+Strukturelle Veränderungen brauchen sowohl politische als auch gesellschaftliche Mehrheiten. Deshalb können Personen und Gruppen nicht ohne unterstützende Netzwerke politisch handeln. Gruppen, die marginalisiert werden und daher politisch unterrepräsentiert sind, hatten diese Netzwerke bisher noch nicht. Mit Brand New Bundestag ist ein solches entstanden.
 
-Dave: „Harter Bass, dreamy Sound, bisschen drüber - typisch Werner. So gut!“
+![](/media/2022/10/03-1.jpg)
 
-Werner: „Wenn’s dir gefällt - spiel du doch meinen Song“
+Zwei Säulen halten den neuen, progressiven Bundestag: Zunächst braucht es Diversität, also Repräsentation der tatsächlichen Bevölkerung. Als Organisation, die aus der Mitte der Gesellschaft erwächst, spricht Brand New Bundestag mit den Stimmen alleinerziehender Mütter, mit denen von Pflegekräften und von Menschen mit Fluchterfahrungen. Die andere Säule erbaut sich auf Politiker:innen mit progressiven Inhalten. Kassem Taher Saleh ist so ein Politiker. Und bietet damit gerade im Wahlkreis der PEGIDA-Aufmärsche ewig gestrigem Denken die Stirn.
 
-Dave: „Ja, und dann geb ich an, dass es meiner ist.“ Werner: „Jo.“
+![](/media/2022/10/04.jpg)
 
-![](/media/2022/08/02-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-02.jpg)
+Den Weg von Plauen nach Berlin beschritt der Baupolitiker mit hohem Tempo. 2018 Staatsbürgerschaft, 2019 Parteimitglied, 2021 direkt die Bundestagskandidatur. “Ich habe während Corona kandidiert. Ich kannte die Parteistruktur nicht so krass, hatte noch kein Parteiprogramm mitgeschrieben, lernte gerade erst die Argumentationsstrukturen kennen. Ohne Brand New Bundestag wäre ich nicht hier.”
 
-Die Musiker, die selbst Autodidakten sind und ihn hier begleiten, stehen bei seinen Live-Performances nicht mit auf der Bühne. Für eine halbe Stunde spielt er dann allein. Damit ist ein Ziel des Projektes „Ick Mach Welle“ mit den Künstler erreicht worden. Das 2018 durch Fundraising und mit Unterstützung des Berliner Musiklabel KilleKill sowie der Lebenshilfe gegründete Musikprojekt möchte den Zugang zu elektronischer Musik erleichtern und Künstler:innen mit Behinderungen auf dem Weg zur Unabhängigkeit begleiten. Durch wöchentliche Workshops sollen sich die Teilnehmenden die nötigen Fähigkeiten erarbeiten können, um dann auf eigenen Synthesizern weiterzuspielen. Die konkreten Zielsetzungen, wie das Ermöglichen von Auftritten und die Produktion eines eigenen Albums, machen das Projekt zu mehr als einem Freizeitangebot. Für Werner und viele andere ist es das einzige Projekt, welches ihnen eine künstlerische Perspektive für ihr Bedürfnis, sich musikalisch auszurücken, geben kann.
+![](/media/2022/10/05-1.jpg)
 
-![](/media/2022/08/03-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-04.jpg)
+In ihrem Programm unterstützten sie ihn sowie überparteilich weitere junge, progressive Kandidierende, von denen es drei in den Bundestag schafften. Neben struktureller, strategischer und finanzieller Unterstützung war es vor allem der mentale Support, der Kassem geholfen hat. “Man merkt, da stehen Leute hinter dir”, betont er. Und das ist wichtig - bei allem Zweifel, der bei einem teilweise harten parteiinternen Umgang durchaus aufkommen kann. Unterstützung ist ein Netz, das aus verschiedenen Richtungen gewebt wird.
 
-Ein Traum des Projektes wäre es, dafür ein eigenes Label zu gründen. Hier zeigt sich einer Herausforderung, die wohl jedem Projekt früher oder später oft den Weg erschwert: die Finanzierungsproblematik. Die Workshops wurden bisher von Förderprogrammen der Aktion Mensch übernommen, welche immer gute Anlaufstellen für finanzielle Unterstützung in Projekten seien. Die Musikproduktion wird vom MusicBoard unterstützt.
+![](/media/2022/10/06-1.jpg)
 
-„Ick sag mal so: Wenn das Tomorrowland mich fragt, ob ich spielen will - dann sag ick nicht nein!”
+Dabei erweitert sich auch das Spektrum an Meinungen und Perspektiven. “Es muss auch mal jemand sagen können: “Mensch Kassem, so kenn ich dich gar nicht! Das war irgendwie nicht so gut.” Das wünsche ich mir von Freunden, aber auch von meinem Team”, erzählt Kassem, während ein Kollege fröhlich zur Tür reinschneit. Die beiden begrüßen sich mit Fistbump und hören kurz, wie es einander geht. Direkt und offen miteinander reden zu können, fehlt ihm oft in der Politik. “Ich komme von der Baustelle. Da schreit man sich manchmal vormittags noch an und isst später gemeinsam Abendbrot.”
 
-Bei „Ick mach Welle“ stehen neben Werner noch viele weitere Musiker:innen an den Decks genordet Richtung künstlerische Unabhängigkeit. Doch heute hat Werner das Studio für sich allein. Und er war es auch der durch seine frequentierende Besuche an diversen Veranstaltungen daran beitrug, dass das Projekt entstand. Bei einer Party der Veranstaltungsreihe Spaceship vom späteren „Ick Mach Welle“- Projektmitglied Felix Halischafsky quatschte Werner den eben abgespielten DJ Flush an, und erzählte ihm, dass er auch gerne spielen würde, es aber kaum Möglichkeiten für ihn gäbe.
+Sein persönliches Ziel ist es daher, ehrlich und höflich zu bleiben. Den menschlichen Kontakt zu schätzen. Insbesondere mit der Zivilgesellschaft. So bleibt er bei seinen Werten, und bei sich selbst. Denn seine politischen Ziele kann er nur als Kassem durchsetzen. Manchmal wird sein erweitertes Netzwerk jedoch zum Spannungsfeld. “Dann bin ich echt im Spagat zwischen der Fachpolitik, der migrantischen, der jungen und der progressiven sowie der ostdeutschen Community. Mein Ziel ist es wirklich alle Meinungen anzuhören und dann das Beste für alle zu machen. Wenn es um die Klimakrise geht, geht das Alle an. Dann muss das auch die beste Lösung für Alle sein.”
 
-![](/media/2022/08/04-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-05.jpg)
+Auch Max Oehl kennt die Arbeit zwischen Kontroversen und Kompromissen. Denn innerhalb des progressiven Lagers kann es ebenso zu Hitze kommen. “Wenn es heißt: ihr seid nicht radikal genug oder ihr seid zu radikal, dann wird oft direkt eine Zusammenarbeit ausgeschlossen”, erklärt Max. Er schlägt vor, dass wir lieber auf gemeinsame Werte und Ziele als auf Details gucken sollten, um zu kooperieren. Grundsatz: “Erstmal auf den Weg zur grundlegenden Veränderung machen und dann gucken, wie wir die unterschiedlichen Interessen bestmöglich in einen Ausgleich bringen.”
 
-Daraufhin entstand die Idee der Workshops, wie sie jetzt im Projekt angeboten werden. Gleich dem anfangs noch düstererem Sound, öffnete sich mit der Zeit auch das didaktische Konzept des Angebots. Die gemeinsame Arbeitsstruktur glich immer mehr den fabrizierten Tönen und so entstand eine Arbeitsweise geprägt vom Strukturbruch - experimentell, offen, improvisiert - ohne strikte Lehrplanung. Bald verließen die Projektteilnehmenden die virtuelle Klangwelt um die Welt mit Field-Recordern auf Berliner Baustellen und verlassenen Orten auditiv einzufangen. So konnten die einzigartigen Stile der einzelnen Künstler:innen entstehen.
+Dazu kommt noch die Finanzierungsfrage. “Eigentlich sollten NGOs nicht wie Unternehmen konkurrieren. Doch Organisationen, die sich institutionalisieren, kämpfen um den Selbsterhalt”, erläutert er. Das hindert auf dem Weg zum großen Ziel - unterscheiden sich die Organisationen von profitorientierten Institutionen doch gerade weil sie auf dieselbe Wirkung hinführen wollen. “Wir sind uns einig, dass wir was tun müssen. Daran sollten wir uns halten und wo immer möglich Synergien schaffen und zusammenarbeiten.” 
 
-Für Werner kommt als nächstes das eigene Album - ein Schritt von vielen, die er noch gehen will. Als „Bläck Dävil“ will er unabhängiger Musikproduzent werden, sein eigenes Geld verdienen. Und dabei liegt schon ein weiter Weg hinter ihm. Schon als Kind war ihm klar, dass er entweder Musiker oder Elektriker werden will - in der elektronischen Musik kann er beides verbinden. Mit 14 fing das mit der Musik dann so richtig an. Seine erste Maxi: Scooter. Die Liebe zum Hardstyle-Genre strömt noch durch seine mächtigen Bässe, die er mit luftigen Melodien bemalt. An Musikgenres gefällt ihm am meisten ihre Auflösung - verschobene Grenzen bis zum wüsten Durcheinander. Es entsteht ein Raum, in dem Impulsivität in kreative Energie gewandelt wird. Über das Chaos findet er Ordnung, da er in dem Prozess seinen Emotionen „Auslauf gewähren lassen kann“. Musikproduktion als „Mittel gegen schlechte Laune“. Manchmal produziert er die ganze Nacht durch, sodass er am nächsten Morgen kaum arbeiten kann. Ein Indiz für die Notwendigkeit einer Vollzeittätigkeit als Musiker.
+Und so bildet sich im Zentrum seiner Vision ein spannendes Geschwisterpaar: Innovation an der Seite von Pragmatismus. Für Max ist es eine notwendige Zusammenkunft, um herauszufinden: Was ist der Weg, der uns jetzt am schnellsten zur Veränderung bringt? Auf gesellschaftlicher Ebene unterliegen Veränderungen vor allem einer Vision. Das Bild, das Brand New Bundestag von einer progressiven Gesellschaft malt, ist eines, das einen hoffnungsvollen Blick zeigt. Ein Blick, in dem die Zeitenwende, die wir gerade erfahren, als Chance hervorgeht.
 
-![](/media/2022/08/05-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-03.jpg)
-
-Auch das Auflegen entwickelt für ihn eine ähnliche Heilsamkeit. Er erinnert sich an den ersten Auftritt im Berliner Club Mensch Meier: „Der erste Ton angespielt - Tanze war voll! Meiner Mutter ist die Kinnlade runtergeklappt!“. Schwerbepackt betritt er den Floor nicht nur mit Empfindungen - bei sich hat er auch bis zu hundert Platten. „Ohne Vinyl geht bei mir nix!“ sagt er dazu. Seine Originalität will sich „Bläck Dävil“ auch nicht nehmen lassen. Bekannt sein - ja, gern, aber „wenn jemand sagt: 'Zieh einen roten Pullover an’ - dann mach ich das doch auch nicht. Anders geh ich in der Musik auch nicht vor.“ Trotzdem oder vielleicht gerade deshalb riecht er schon nahen Erfolg.
-
-![](/media/2022/08/06-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-06.jpg)
+Max sieht den Kern für eine solche Vision in uns allen: “Guckt mal, wie viele gute, liebevolle Anteile in euch sind. Lasst uns uns jetzt zusammen tun und dafür sorgen, dass wir unsere Gesellschaft aus diesen Anteilen heraus formen!” Sein Blick schweift nun unmerklich an die Wand des Büros. Der Zettel, den sein Auge erfasst, trägt große, schnelle Buchstaben. Sie sagen: Frischer Wind für den Bundestag!
 
 ***
 
