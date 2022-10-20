@@ -36,11 +36,11 @@ Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen
 
 ***
 
-## GSR e.V. Impressions 
+## GSR e.V. Impressions
 
 Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und vergangenen Aktivitäten in Form von Aftermovies, Musikvideos, Talkshows, TV-Berichten, Teasern und Snippets.
 
-<video-gallery name="startseite-video-galerie"></video-gallery>
+<video-gallery name="gsr-medienportal-impressions"></video-gallery>
 
 ***
 
