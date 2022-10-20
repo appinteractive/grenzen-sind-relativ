@@ -20,5 +20,6 @@ fields:
     labelField: title
   label: Videos
 pages:
+- config/video-galleries/gsr-medienportal-impressions.json
 - config/video-galleries/media-diskurskultur.json
 - config/video-galleries/startseite-video-galerie.json
