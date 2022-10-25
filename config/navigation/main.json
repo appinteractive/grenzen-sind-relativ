@@ -323,12 +323,8 @@
                   "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md"
                 },
                 {
-                  "title": "z - zugabe",
-                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe.md"
-                },
-                {
-                  "title": "y - yallah",
-                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/y-yallah.md"
+                  "title": "v - virtuelle straßen",
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen.md"
                 },
                 {
                   "external": false,
@@ -337,8 +333,12 @@
                   "title": "w- wind"
                 },
                 {
-                  "title": "v - virtuelle straßen",
-                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen.md"
+                  "title": "y - yallah",
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/y-yallah.md"
+                },
+                {
+                  "title": "z - zugabe",
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe.md"
                 }
               ]
             },
