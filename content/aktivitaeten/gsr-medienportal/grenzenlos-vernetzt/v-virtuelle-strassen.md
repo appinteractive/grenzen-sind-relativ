@@ -1,59 +1,55 @@
 ---
-teaser: "/media/2022/10/01-2.jpg"
-title: v - virtuelle Straßen
-description: 'Ick mach Welle. Das Licht geht aus und erweckt dabei ein Duzend bunte,
-  kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set.
-  Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck
-  Dävil“ wahrhaftig erscheinen. '
+teaser: "/media/2022/10/v-virtuelle-strassen01.jpg"
+title: v - virtuelle straßen
+description: Streetworker:innen sitzen nicht im Büro. Ihr Feld ist die Straße, die
+  Räume im Außen. Diese Form der aufsuchenden Jugendarbeit passiert auf Bürgersteigen,
+  Bahnhöfen und Parks der Stadt - in Kälte, Hitze und Wind. Doch was ist mit Straßen,
+  die mit Daten statt Steinen gepflastert wurden?
 wide: false
 gallery: []
 alias: ''
 accessible: ''
 
 ---
-# z - zugabe
+# v - virtuelle straßen
 
-# Ick mach Welle
+# streetwork@online
 
-Das Licht geht aus und erweckt dabei ein Dutzend bunte, kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set. Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck Dävil“ wahrhaftig erscheinen. Um ihn und die weiteren Musiker an den Decks erwächst die Atmosphäre eines Underground-Raves. So wie die weiße Morgenblüte auf gewaltigen Gebirgen, sprenkeln helle Töneüber den wallenden Bass. Fast scheint es unmöglich, diese Klanglandschaft zu erwandern.
+Streetworker:innen sitzen nicht im Büro. Ihr Feld ist die Straße, die Räume im Außen. Diese Form der aufsuchenden Jugendarbeit passiert auf Bürgersteigen, Bahnhöfen und Parks der Stadt - in Kälte, Hitze und Wind. Doch was ist mit Straßen, die mit Daten statt Steinen gepflastert wurden?
 
-„Bläck Dävil“, der außerhalb des Studios Werner heißt, tippt gekonnt auf den Armaturen rum: Er steuert die Musik über Schalter und Knöpfe wie ein durch die Tiefen des Weltraums rasendes Schiff. Der Druck der bassigen Wellen schiebt die Klänge einem Raumschiffantrieb gleich quer durch den Raum. Die Begleitmusiker ziehen an ihren Reglern wie eingesogen mit. „Bass so wie Amboss und Hammer. Industriell.“ - so Werner’s Selbstbeschreibung.
+Reale Begegnungen finden nicht mehr nur offline statt: Die Digitalisierung ist längst da. Soziale Netzwerke sind Räume des Austauschs und der Freundschaft. Damit werden diese Orte zu Identitäts- und Meinungsbildungsräumen. 
 
-![](/media/2022/08/01-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-01.jpg)
+![](/media/2022/10/01-2.jpg)
 
-Der ganze Raum scheint von seinem Studioauftritt heute überrascht, denn dies ist sein erster Auftritt seit einem Jahr. In drei Wochen wird er das erste Mal wieder live auf einer Bühne performen. Beim Live-Set hat er nur ein paar feste Teile, die vorher geübt werden, - der Rest wird improvisiert. „Werner ist ein guter Freestyler am Mixer“ sagt Dave, einer der Musiker, die Werner begleiten, während sie zusammen spielen.
+In der Radikalisierungsprävention hat man die Bedeutung des Digitalraums längst erkannt. Für die aufsuchende Sozialarbeit allerdings sind digitale Straßen bisher unentdeckte Gassen. Doch um mit Jugendlichen zu arbeiten, muss man ihre Perspektive verstehen.
 
-Es entsteht ein kurzes Gespräch zwischen Werner und Dave. Das einzige, welches sie während ihrer immersiven Performance führen.
+Als eines der ersten Projekte erkundet streetwork@online Räume des Internets und schlägt dabei neue Wege ein.
 
-Dave: „Harter Bass, dreamy Sound, bisschen drüber - typisch Werner. So gut!“
+Ihre Streetworker:innen sitzen im Büro. Vor Laptops und Handys. Sie begegnen Hitze und Wind in Räumen der Virtualität. Hier gehen sie aktiv in den Kontakt mit jungen Menschen, die sich in radikalisierten, islamistischen Communities aufhalten. Anders als auf dem Asphalt, können sie nicht in ihren Jeans und Turnschuhen auftreten - in die Tiefen des virtuellen Netzes reisen sie als Avatare ihres Selbst. Dennoch wollen sie offen auf den Plattformen arbeiten, treten mit ihrem Berufsnamen in die digitalen Lebenswelten.
 
-Werner: „Wenn’s dir gefällt - spiel du doch meinen Song“
+Die Internetforen sind den Tiefen eines Waldes ähnlicher als den asphaltierten Straßengeflechten der Stadt. Während sie Verstrickungen von Weltanschauungen, Meinungen und Erfahrungen wie Unterholz erwandern, laufen sie in langen Diskussionssträngen neue Pfade ein.
 
-Dave: „Ja, und dann geb ich an, dass es meiner ist.“ Werner: „Jo.“
+Diese führen sie zu einzelnen Persönlichkeiten: Stein für Stein, Frage um Frage. Zugang über Austausch: Unverbindlich, offen, ohne Urteil. Um sich im Teilen von Erfahrungen zu treffen - in Geschichten aus dem Studium, der eigenen Sozialisation oder (nicht-)vorhandener Migrationserfahrung. „Die Erfahrung, zwischen zwei Welten zu stehen,hilft, das Urteilen und vorgefertigte Bilder abzulegen und eher verstehen zu wollen, warum jemand so ist“, erklärt die Projektleiterin von streetwork@online.
 
-![](/media/2022/08/02-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-02.jpg)
+![](/media/2022/10/02-2.jpg)
 
-Die Musiker, die selbst Autodidakten sind und ihn hier begleiten, stehen bei seinen Live-Performances nicht mit auf der Bühne. Für eine halbe Stunde spielt er dann allein. Damit ist ein Ziel des Projektes „Ick Mach Welle“ mit den Künstler erreicht worden. Das 2018 durch Fundraising und mit Unterstützung des Berliner Musiklabel KilleKill sowie der Lebenshilfe gegründete Musikprojekt möchte den Zugang zu elektronischer Musik erleichtern und Künstler:innen mit Behinderungen auf dem Weg zur Unabhängigkeit begleiten. Durch wöchentliche Workshops sollen sich die Teilnehmenden die nötigen Fähigkeiten erarbeiten können, um dann auf eigenen Synthesizern weiterzuspielen. Die konkreten Zielsetzungen, wie das Ermöglichen von Auftritten und die Produktion eines eigenen Albums, machen das Projekt zu mehr als einem Freizeitangebot. Für Werner und viele andere ist es das einzige Projekt, welches ihnen eine künstlerische Perspektive für ihr Bedürfnis, sich musikalisch auszurücken, geben kann.
+Und so öffnet der Dialog den Raum, schafft Platz für Beziehung. Ein Gegen kann keinen Dialog erzeugen. Deshalb arbeiten die jungen Streetworker:innen mit alternativen Narrativen, statt dem Gegenüber Ansichten abzusprechen. Sie wollen nicht überzeugen, nichts verkaufen, nehmen auch selbst neue Perspektiven ein. Jede Interaktion bringt eine Welle eigener Geschichten, eigener Themen.
 
-![](/media/2022/08/03-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-04.jpg)
+Entscheidend ist für sie dabei nicht der Inhalt von Aussagen, sondern die Bedürfnisse, die dahinter stehen. Wenn das Gegenüber bestärkt wird, die Hintergründe der eigenen Gedanken zu reflektieren, dann können Ressourcen aktiviert werden. Entscheidend dabei sind die Momente, in denen man die Menschen als Person erreicht und nicht an den Meinungsäußerungen kleben bleibt.
 
-Ein Traum des Projektes wäre es, dafür ein eigenes Label zu gründen. Hier zeigt sich einer Herausforderung, die wohl jedem Projekt früher oder später oft den Weg erschwert: die Finanzierungsproblematik. Die Workshops wurden bisher von Förderprogrammen der Aktion Mensch übernommen, welche immer gute Anlaufstellen für finanzielle Unterstützung in Projekten seien. Die Musikproduktion wird vom MusicBoard unterstützt.
+Denn es sind emotionale Empfindungen, die darüber entscheiden, wie Inhalte wahrgenommen werden. Und die junge Menschen in radikalisierte Gruppen treiben. „Missverstanden zu werden und das Gefühl, nicht gesehen zu werden, betrifft Jugendliche besonders. Vor allem, wenn sie marginalisiert werden", sagt die Projektleiterin. Dabei sei in der Jugendphase das Potential für verändernden Austausch besonders hoch: Immer wieder sei sie überrascht, wie gut die Jugendlichen darlegen könnten, was sie stört und wie bereit sie sind, ihre Beweggründe Kund zu tun. Die junge Generation sei inspirierend, die Diskussionen seien progressiv.
 
-„Ick sag mal so: Wenn das Tomorrowland mich fragt, ob ich spielen will - dann sag ick nicht nein!”
+Doch der Kontakt soll kurz sein. Das Ziel ist, die Hilfe zugänglich zu machen und die jungen Menschen weiter zu vermitteln. Die beginnenden Beziehungen deshalb wieder abzubrechen, kann manchmal schwieriger sein, als sie aufzubauen.
 
-Bei „Ick mach Welle“ stehen neben Werner noch viele weitere Musiker:innen an den Decks genordet Richtung künstlerische Unabhängigkeit. Doch heute hat Werner das Studio für sich allein. Und er war es auch der durch seine frequentierende Besuche an diversen Veranstaltungen daran beitrug, dass das Projekt entstand. Bei einer Party der Veranstaltungsreihe Spaceship vom späteren „Ick Mach Welle“- Projektmitglied Felix Halischafsky quatschte Werner den eben abgespielten DJ Flush an, und erzählte ihm, dass er auch gerne spielen würde, es aber kaum Möglichkeiten für ihn gäbe.
+![](/media/2022/10/03-2.jpg)
 
-![](/media/2022/08/04-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-05.jpg)
+Eine größere Herausforderung stellen jedoch die Diskrepanzen innerhalb des Arbeitsauftrags dar. Durch Vorgaben müssen sie mit Labelungen arbeiten, mit Begriffen, die Dynamiken stärken, welche sie zu brechen versuchen. Dabei kann das Gefühl entstehen, sich zuweilen eher Symptomen gesellschaftlicher Probleme als den Ursachen widmen zu können. Und diese liegen unter anderem im gesellschaftlichen Umgang mit marginalisierten Jugendlichen. Antimuslimischer Rassismus, äußere Zuschreibungen, aber auch Armut und soziale Ausgrenzung außerhalb religiöser Kontexte können beispielsweise dazu beitragen. Wenn sie sich nicht verstanden fühlen, es keine Räume für sie gibt, suchen junge Menschen nach einem Ort, an dem sie sich zugehörig fühlen können. An dem sie sich auch über diskriminierende Erfahrungen austauschen können. Radikalisierte Gruppierungen bieten scheinbar diese Räume und ein vermeintliches Verständnis dafür, dass die eigene Identität eben den Zuschreibungen von Außen entspräche.
 
-Daraufhin entstand die Idee der Workshops, wie sie jetzt im Projekt angeboten werden. Gleich dem anfangs noch düstererem Sound, öffnete sich mit der Zeit auch das didaktische Konzept des Angebots. Die gemeinsame Arbeitsstruktur glich immer mehr den fabrizierten Tönen und so entstand eine Arbeitsweise geprägt vom Strukturbruch - experimentell, offen, improvisiert - ohne strikte Lehrplanung. Bald verließen die Projektteilnehmenden die virtuelle Klangwelt um die Welt mit Field-Recordern auf Berliner Baustellen und verlassenen Orten auditiv einzufangen. So konnten die einzigartigen Stile der einzelnen Künstler:innen entstehen.
+![](/media/2022/10/04-2.jpg)
 
-Für Werner kommt als nächstes das eigene Album - ein Schritt von vielen, die er noch gehen will. Als „Bläck Dävil“ will er unabhängiger Musikproduzent werden, sein eigenes Geld verdienen. Und dabei liegt schon ein weiter Weg hinter ihm. Schon als Kind war ihm klar, dass er entweder Musiker oder Elektriker werden will - in der elektronischen Musik kann er beides verbinden. Mit 14 fing das mit der Musik dann so richtig an. Seine erste Maxi: Scooter. Die Liebe zum Hardstyle-Genre strömt noch durch seine mächtigen Bässe, die er mit luftigen Melodien bemalt. An Musikgenres gefällt ihm am meisten ihre Auflösung - verschobene Grenzen bis zum wüsten Durcheinander. Es entsteht ein Raum, in dem Impulsivität in kreative Energie gewandelt wird. Über das Chaos findet er Ordnung, da er in dem Prozess seinen Emotionen „Auslauf gewähren lassen kann“. Musikproduktion als „Mittel gegen schlechte Laune“. Manchmal produziert er die ganze Nacht durch, sodass er am nächsten Morgen kaum arbeiten kann. Ein Indiz für die Notwendigkeit einer Vollzeittätigkeit als Musiker.
+Für das mittlerweile fünfjährige Modellprojekt des Düsseldorfer Trägers AVP e.V., das seit 2017 von der Landeskommission Berlin gegen Gewalt gefördert wird, wäre finanzielle Sicherung ein wichtiger Schritt, sich inhaltlich und organisatorisch weiterzuentwickeln. Ihre reflektive Haltung, die Bereitschaft, ihre Arbeit von Kontakt zu Kontakt zu optimieren, begleiten sie dabei, ihre idealistischen Ziele zu erreichen.
 
-![](/media/2022/08/05-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-03.jpg)
-
-Auch das Auflegen entwickelt für ihn eine ähnliche Heilsamkeit. Er erinnert sich an den ersten Auftritt im Berliner Club Mensch Meier: „Der erste Ton angespielt - Tanze war voll! Meiner Mutter ist die Kinnlade runtergeklappt!“. Schwerbepackt betritt er den Floor nicht nur mit Empfindungen - bei sich hat er auch bis zu hundert Platten. „Ohne Vinyl geht bei mir nix!“ sagt er dazu. Seine Originalität will sich „Bläck Dävil“ auch nicht nehmen lassen. Bekannt sein - ja, gern, aber „wenn jemand sagt: 'Zieh einen roten Pullover an’ - dann mach ich das doch auch nicht. Anders geh ich in der Musik auch nicht vor.“ Trotzdem oder vielleicht gerade deshalb riecht er schon nahen Erfolg.
-
-![](/media/2022/08/06-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-06.jpg)
+Einzeln auf Streifzügen durch die virtuellen Straßen - zusammen ein Auffangnetz füreinander. In dem, was sie zusammen erbaut haben, sind sie selber die Säulen. Der Austausch dient als Methode auf den Straßen und als Säulenfundament. Um veränderungsbringende Bewegung zu tragen, braucht es einen starken Boden.
 
 ***
 
