@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2022/08/z-zugabe-01.jpg"
+teaser: "/media/2022/10/01-2.jpg"
 title: v - virtuelle Straßen
 description: 'Ick mach Welle. Das Licht geht aus und erweckt dabei ein Duzend bunte,
   kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set.
