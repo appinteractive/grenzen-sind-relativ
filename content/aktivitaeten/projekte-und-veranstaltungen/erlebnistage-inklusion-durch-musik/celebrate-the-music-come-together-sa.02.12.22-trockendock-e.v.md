@@ -12,7 +12,8 @@ alias: ''
 accessible: ''
 
 ---
-## "Celebrate the music - Come together!" Fr. 02. Dez. 2022
+## "Celebrate the music -   
+Come together!" Fr. 02. Dez. 2022
 
 #### Trockendock e.V. - Elsastraße 41, 22083 Hamburg
 
