@@ -32,10 +32,10 @@ Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen
 
 In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen.
 
-[**HIER** ](https://drive.google.com/file/d/1FuePrZuR_mufUnE8PrirulRvgi37sGf5/view?usp=sharingLH86dx/view?usp=sharing)könnt Ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende). Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg.  
+[**HIER** ](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view?usp=sharing)könnt Ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende). Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg.  
 Die Teilnahme ist kostenlos.
 
-**Workshop 1:** Drumcircle (Dozent: Christian Nowak)
+**Workshop 1:** **Drumcircle (Dozent: Christian Nowak)**
 
 Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzen kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
 
