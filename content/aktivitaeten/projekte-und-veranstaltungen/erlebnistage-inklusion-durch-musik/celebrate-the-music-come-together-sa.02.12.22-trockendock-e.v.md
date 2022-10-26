@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2022/10/celebrate-the-music-trockendock_final_3.jpg"
+teaser: "/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final.png"
 title: "“Celebrate the music - Come together” // Fr. 02.12. 22 Trockendock e.V."
 description: "Werdet Teil einer ganz besonderen Veranstaltung!\nDie Staatliche Jugendmusikschule
   Hamburg, Trockendock e.V. & Grenzen sind relativ e.V. laden ein zu:  \n\nCelebrate
@@ -18,7 +18,7 @@ accessible: ''
 
 16\.00 bis 20.00 Uhr -  Eintritt frei
 
-![](/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final.jpg)
+![](/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final.png)
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
