@@ -12,11 +12,10 @@ alias: ''
 accessible: ''
 
 ---
-# **Celebrate the music - Come together! Freitag, 02. Dezember 2022 - 16.00 bis 20.00 Uhr**
+# "Celebrate the music - Come together!" Fr. 02.Dez. 2022
 
-**4 Workshops, Band-Clash & Band-Schmiede sowie ein Abschlusskonzert**
-
-## Elsastraße 41, 22083 Hamburg **-**  Eintritt frei
+#### Trockendock e.V. - Elsastraße 41, 22083 Hamburg  
+16\.00 bis 20.00 Uhr -  Eintritt frei
 
 ![](/media/2022/10/celebrate-the-music-20-08_web_trockendock_final_celebrate_20-08_1.png)
 
