@@ -18,7 +18,7 @@ accessible: ''
 
 16\.00 bis 20.00 Uhr -  Eintritt frei
 
-![](/media/2022/10/celebrate-the-music-trockendock_druck_scharf.png)
+![](/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final.jpg)
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
