@@ -16,7 +16,7 @@ accessible: ''
 
 **4 Workshops, Band-Clash & Band-Schmiede sowie ein Abschlusskonzert**
 
-## Elsastraße 41, 22083 Hamburg **-** 16.00 bis 20.00 Uhr - Eintritt frei
+## Elsastraße 41, 22083 Hamburg **-**  Eintritt frei
 
 ![](/media/2022/10/celebrate-the-music-20-08_web_trockendock_final_celebrate_20-08_1.png)
 
@@ -52,7 +52,7 @@ Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen
 
 VERANSTALTUNGSABLAUF:
 
-16:00-16:30 Uhr - Eröffnung und Begrüßung 
+16:00-16:30 Uhr - Eröffnung und Begrüßung
 
 16:35-17:05 Uhr - Workshop 1
 
@@ -82,7 +82,6 @@ Elsastraße 41
 
 [http://www.trockendock-hamburg.de/](http://www.trockendock-hamburg.de/ "http://www.trockendock-hamburg.de/")
 
-  
 **ANMELDUNGSFORMULAR ZUM DOWNLOAD (PDF)**
 
 Hinweis: Das Anmeldungsformular kann [HIER](https://drive.google.com/file/d/1dBKXsm_OK1_OhdASMoLzOLrpAoLH86dx/view?usp=sharing) heruntergeladen werden. Anschließend könnt ihr Euch in die freien Textfelder eintragen. Dann das Dokument abspeichern und via E-Mail an uns schicken.
