@@ -49,6 +49,10 @@ In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen
 
 Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhälst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
 
+**Workshop 5: Songschmiede (Dozent: Gerd Bauder)**
+
+Wir wollen in diesem Workshop eigene Ideen kreativ in Musik umsetzen. Im Bandformat - jeder wird ein Bandinstrument (Schlagzeug, Gitarre, Keyboard etc.) ausprobieren und spielen -  werden wir gemeinsam einen Song „auf die Beine stellen“, um ihn live auf der Bühne zu präsentieren. Rap, Sounds, Gesang: bringt eigene Ideen (Texte, Gedanken, Schlagworte, Melodien) mit. Wir basteln daraus einen Song. Vorkenntnisse an einem Instrument benötigt ihr nicht. Seid einfach ihr selbst.
+
 Darüber hinaus gibt es ein **Band-Clash**, bei dem sich Bands verschiedenster Couleur erstmals begegnen, einen Song einproben und auf die Bühne zaubern werden, wie sie es noch nie gesehen, gehört und erlebt haben.
 
 **Beim Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
