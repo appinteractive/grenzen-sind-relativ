@@ -14,10 +14,11 @@ accessible: ''
 ---
 ## "Celebrate the music - Come together!" Fr. 02. Dez. 2022
 
-#### Trockendock e.V. - Elsastraße 41, 22083 Hamburg  
+#### Trockendock e.V. - Elsastraße 41, 22083 Hamburg
+
 16\.00 bis 20.00 Uhr -  Eintritt frei
 
-![](/media/2022/10/celebrate-the-music-trockendock_final_3.jpg)
+![](/media/2022/10/celebrate-the-music-trockendock_druck_scharf.png)
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
@@ -27,12 +28,12 @@ Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandt
 
 Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Alexandra Pengler, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
-In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen. 
+In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen.
 
-[**HIER** ](https://drive.google.com/file/d/1FuePrZuR_mufUnE8PrirulRvgi37sGf5/view?usp=sharingLH86dx/view?usp=sharing)könnt Ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende). Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg.   
+[**HIER** ](https://drive.google.com/file/d/1FuePrZuR_mufUnE8PrirulRvgi37sGf5/view?usp=sharingLH86dx/view?usp=sharing)könnt Ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende). Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg.  
 Die Teilnahme ist kostenlos.
 
-**  
+\**  
 Workshop 1: Drumcircle (Dozent: Christian Nowak)**
 
 Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzen kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
@@ -83,8 +84,8 @@ Darüber hinaus gibt es ein **Band-Clash**, bei dem sich Bands verschiedenster C
 
 TROCKENDOCK e.V.  
 Elsastraße 41  
-22083 Hamburg  
-  
+22083 Hamburg
+
 [http://www.trockendock-hamburg.de/](http://www.trockendock-hamburg.de/ "http://www.trockendock-hamburg.de/")
 
 **ANMELDUNGSFORMULAR ZUM DOWNLOAD (PDF)**
