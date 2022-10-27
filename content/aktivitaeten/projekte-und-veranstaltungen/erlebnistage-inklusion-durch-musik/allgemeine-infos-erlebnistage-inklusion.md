@@ -4,7 +4,7 @@ description: Musik verbindet! Und weil das so ist, schaffen wir mit unserem neue
   Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel
   ! Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
   Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
-teaser: "/media/2020/10/danke-schreiben-schule.jpg"
+teaser: "/media/2022/10/ctm_100001.jpg"
 gallery: []
 alias: ''
 wide: false
@@ -32,6 +32,8 @@ Do. 12.05.2022: Nelson Mandela Schule
 [https://youtu.be/x8POp5okdqk](https://youtu.be/x8POp5okdqk "https://youtu.be/x8POp5okdqk")
 
 So. 11.09.2022: [Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“](https://norderstedt-sportiv-inklusiv.de/?page_id=17)
+
+[https://youtu.be/mJsl1Hwu7B0](https://youtu.be/mJsl1Hwu7B0 "https://youtu.be/mJsl1Hwu7B0")
 
 Fr. 02.12.2022: Trockendock (zusammen mit der staatlichen Jugendmusikschule Hamburg)
 
