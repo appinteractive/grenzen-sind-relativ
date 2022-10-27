@@ -19,6 +19,8 @@ Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandt
 
 Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. Bei “Celebrate the music” sind alle Lehrende und Lernende.
 
+<video-gallery class="wide px-12 lg:px-24" name="celebrate-the-music"></video-gallery>
+
 "Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. Im Folgenden 3 mögliche Veranstaltungs-Module, die natürlich nicht statisch sind, sondern im individuellen Dialog - je nach Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - final kreiert und umgesetzt werden können:
 
 Modul 1:
@@ -39,8 +41,6 @@ Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltung
   a) Auftritt Dozent*innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
 
   b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum
-
-<video-gallery class="wide px-12 lg:px-24" name="celebrate-the-music"></video-gallery>
 
 ***
 
