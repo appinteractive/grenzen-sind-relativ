@@ -1,6 +1,6 @@
 ---
 teaser: "/media/2022/10/banner_netzwerkparty_alte-liebe_web_10_11_22.jpg"
-title: 'Come together Party #5 - Grenzen sind relativ e.V. & Friends // Do. 06.10.22
+title: 'Come together Party #5 - Grenzen sind relativ e.V. & Friends // Do. 10.11.22
   "Alte Liebe" '
 description: Monatliche Netzwerkveranstaltungen mit Live Musik, Jam Session und interaktiven
   Aktionen
