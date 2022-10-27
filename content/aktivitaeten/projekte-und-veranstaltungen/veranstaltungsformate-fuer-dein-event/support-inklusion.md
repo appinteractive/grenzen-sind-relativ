@@ -7,7 +7,7 @@ description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und Sport- 
   „gesamtgesellschaftliche Inklusion“ auf eine erfahrbare, mitreißende und künstlerische
   Art und Weise Nahe gebracht wird. Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance,
   interaktive Erlebniswelten/Aktionen und Network-Area. '
-teaser: "/media/2020/10/neu1.jpg"
+teaser: "/media/2022/10/beitragsbild-youtube-gsr-e-v-public-events.png"
 gallery: []
 alias: "/veranstaltungen/support-inklusion-support-mal-anders.html"
 wide: false
@@ -17,6 +17,8 @@ accessible: ''
 # GSR e.V. Public Events
 
 ## Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
+
+[https://youtu.be/p-UH3iPq8TY](https://youtu.be/p-UH3iPq8TY "https://youtu.be/p-UH3iPq8TY")
 
 Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen umgesetzt wird.
 
