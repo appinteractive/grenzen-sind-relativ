@@ -19,7 +19,7 @@ Hamburg // 16.00 bis 20.00 Uhr -  Eintritt frei
 
 **Werdet Teil einer ganz besonderen Veranstaltung!**
 
-Meldet euch jetzt zur offenen Workshoprunde mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ an! Let´s celebrate the music and come together!  
+Meldet euch jetzt (bis 25.11) zur offenen Workshoprunde mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ an! Let´s celebrate the music and come together!  
   
 Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg.  
 Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.
