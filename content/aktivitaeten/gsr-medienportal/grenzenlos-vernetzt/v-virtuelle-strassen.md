@@ -13,7 +13,7 @@ accessible: ''
 ---
 # v - virtuelle straßen
 
-# streetwork@online
+## streetwork@online
 
 Streetworker:innen sitzen nicht im Büro. Ihr Feld ist die Straße, die Räume im Außen. Diese Form der aufsuchenden Jugendarbeit passiert auf Bürgersteigen, Bahnhöfen und Parks der Stadt - in Kälte, Hitze und Wind. Doch was ist mit Straßen, die mit Daten statt Steinen gepflastert wurden?
 

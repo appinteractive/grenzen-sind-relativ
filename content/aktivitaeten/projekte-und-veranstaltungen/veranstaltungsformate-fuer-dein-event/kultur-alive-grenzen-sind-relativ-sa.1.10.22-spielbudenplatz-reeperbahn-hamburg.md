@@ -23,7 +23,31 @@ https://youtu.be/V_nazdyh-uU
 
 <gallery>
 
-![](/media/2022/10/0-spielbudenplatz_roeler_10012022_dsc09806.jpg)![](/media/2022/10/2-spielbudenplatz-img20221001161205.jpg)![](/media/2022/10/3-spielbudenplatz_roeler_10012022_dsc09085.jpg)![](/media/2022/10/4-spielbudenplatz_roeler_10012022_dsc09186.jpg)![](/media/2022/10/5-spielbudenplatz_roeler_10012022_dsc09206.jpg)![](/media/2022/10/6-spielbudenplatz_roeler_10012022_dsc09217.jpg)![](/media/2022/10/7-spielbudenplatz_roeler_10012022_dsc09223-ausschnitt.jpg)![](/media/2022/10/8-spielbudenplatz_roeler_10012022_dsc09382.jpg)![](/media/2022/10/9-spielbudenplatz_roeler_10012022_dsc09391.jpg)![](/media/2022/10/10-spielbudenplatz_roeler_10012022_dsc09405.jpg)![](/media/2022/10/11-spielbudenplatz_roeler_10012022_dsc09010.jpg)![](/media/2022/10/12-spielbudenplatz-img20221001174727.jpg)![](/media/2022/10/13-spielbudenplatz_roeler_10012022_dsc09455.jpg)![](/media/2022/10/14-spielbudenplatz_roeler_10012022_dsc09465.jpg)![](/media/2022/10/15-spielbudenplatz_roeler_10012022_dsc09534.jpg)![](/media/2022/10/16-spielbudenplatz_roeler_10012022_dsc09547.jpg)![](/media/2022/10/19-spielbudenplatz_roeler_10012022_dsc09727-ausschnitt.jpg)![](/media/2022/10/20-spielbudenplatz_roeler_10012022_dsc09719.jpg)![](/media/2022/10/21-spielbudenplatz_roeler_10012022_dsc09754.jpg)![](/media/2022/10/22-spielbudenplatz_roeler_10012022_dsc09766.jpg)![](/media/2022/10/23-spielbudenplatz_roeler_10012022_dsc09800.jpg)![](/media/2022/10/24-spielbudenplatz-jean-jacques_total-bearbeitet.png)![](/media/2022/10/25-spielbudenplatz-img20221001221024.jpg)</gallery>
+![](/media/2022/10/0-spielbudenplatz_roeler_10012022_dsc09806.jpg)
+![](/media/2022/10/2-spielbudenplatz-img20221001161205.jpg)
+![](/media/2022/10/3-spielbudenplatz_roeler_10012022_dsc09085.jpg)
+![](/media/2022/10/4-spielbudenplatz_roeler_10012022_dsc09186.jpg)
+![](/media/2022/10/5-spielbudenplatz_roeler_10012022_dsc09206.jpg)
+![](/media/2022/10/6-spielbudenplatz_roeler_10012022_dsc09217.jpg)
+![](/media/2022/10/7-spielbudenplatz_roeler_10012022_dsc09223-ausschnitt.jpg)
+![](/media/2022/10/8-spielbudenplatz_roeler_10012022_dsc09382.jpg)
+![](/media/2022/10/9-spielbudenplatz_roeler_10012022_dsc09391.jpg)
+![](/media/2022/10/10-spielbudenplatz_roeler_10012022_dsc09405.jpg)
+![](/media/2022/10/11-spielbudenplatz_roeler_10012022_dsc09010.jpg)
+![](/media/2022/10/12-spielbudenplatz-img20221001174727.jpg)
+![](/media/2022/10/13-spielbudenplatz_roeler_10012022_dsc09455.jpg)
+![](/media/2022/10/14-spielbudenplatz_roeler_10012022_dsc09465.jpg)
+![](/media/2022/10/15-spielbudenplatz_roeler_10012022_dsc09534.jpg)
+![](/media/2022/10/16-spielbudenplatz_roeler_10012022_dsc09547.jpg)
+![](/media/2022/10/19-spielbudenplatz_roeler_10012022_dsc09727-ausschnitt.jpg)
+![](/media/2022/10/20-spielbudenplatz_roeler_10012022_dsc09719.jpg)
+![](/media/2022/10/21-spielbudenplatz_roeler_10012022_dsc09754.jpg)
+![](/media/2022/10/22-spielbudenplatz_roeler_10012022_dsc09766.jpg)
+![](/media/2022/10/23-spielbudenplatz_roeler_10012022_dsc09800.jpg)
+![](/media/2022/10/24-spielbudenplatz-jean-jacques_total-bearbeitet.png)
+![](/media/2022/10/25-spielbudenplatz-img20221001221024.jpg)
+
+</gallery>
 
 Aufbauend auf unsere [**Grenzen sind relativ Festivals**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein [**neues interdisziplinäres Veranstaltungsformat**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion) kreiert, welches im Rahmen von Public Events - wie z.B. Festivals, Stadtfesten, Sport- & Kulturveranstaltungen sowie öffentlichen Plätzen - umgesetzt wird. Live-Musik, Tanz, Performance, Kunstausstellung, interaktive Erlebniswelten und Network-Area finden hier eine gemeinsame Spielwiese.
 

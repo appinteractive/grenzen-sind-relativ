@@ -12,7 +12,7 @@ accessible: ''
 ---
 # y - yallah 
 
-# Rap for Refugees
+## Rap for Refugees
 
 Isaak tritt auf die Bühne. Das Herzklopfen steigt ihm durch den Körper, als sein Kopf fragt: “Hab ich meinen Text vergessen!?”. Er sucht die Antwort im Publikum, guckt, wie die Leute drauf sind. Dann denkt er an die üblichen Sachen, Schule und so, und daraufhin verschwindet alles in einem wilden Zeitraffer und plötzlich ist alles auch schon wieder vorbei. Die Leute kommen auf ihn zu, sagen: “Gut gemacht, man!”. Und ihm schießt das wärmste Gefühl durch Kopf und Herz. 
 

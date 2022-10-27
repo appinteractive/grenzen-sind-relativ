@@ -14,7 +14,7 @@ accessible: ''
 ---
 # w - wind
 
-# brand new bundestag
+## brand new bundestag
 
 Ein Zeigefinger streicht über den blanken Schreibtisch des schmalen Büros. Wolkendecken haben die Räume heruntergekühlt, doch durch das Fassadenglas flutet leises Licht. “So kann es nicht weitergehen. Wenn wir wirklich gesellschaftliche Sprünge machen wollen, muss es Synergien geben.” Der Mann, dem der Zeigefinger gehört, wirft den Satz durch den Raum hin zum Fenster, als würde dieser damit seinen Weg hinaus in die Welt finden. Tatsächlich wird er zum Luftzug, der zwischen den folgenden Worten weht.
 
