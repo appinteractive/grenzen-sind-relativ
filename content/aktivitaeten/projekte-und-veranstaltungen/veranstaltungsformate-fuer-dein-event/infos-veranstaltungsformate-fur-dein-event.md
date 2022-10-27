@@ -1,8 +1,8 @@
 ---
 title: Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht
-description: 'Wir haben mehrere spannende Veranstaltungsformate entwickelt, die wir
-  zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ
-  mit Schüler:innen, Student:innen und Auszubildenen realisieren. '
+description: '''
+  Wir haben mehrere spannende Veranstaltungsformate entwickelt, die wir zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenen realisieren.
+'''
 teaser: "/media/2018/11/neu1.jpg"
 gallery: []
 alias: ''

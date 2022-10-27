@@ -1,9 +1,8 @@
 ---
 title: Celebrate the music
-description: Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen
-  Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel
-  ! Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
-  Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
+description: '''
+  Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel! Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
+'''
 teaser: "/media/2022/10/ctm_100001.jpg"
 gallery: []
 alias: ''
@@ -29,7 +28,7 @@ Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
 
 #### Do. 12.05.2022: Nelson Mandela Schule
 
-[https://youtu.be/x8POp5okdqk](https://youtu.be/x8POp5okdqk "https://youtu.be/x8POp5okdqk")
+https://youtu.be/x8POp5okdqk
 
 #### So. 11.09.2022: [Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“](https://norderstedt-sportiv-inklusiv.de/?page_id=17)
 
@@ -52,8 +51,11 @@ Das Projektformat bringt verschiedenste Menschen, Netzwerke und Themen zusammen.
 Ziel des Projektes ist die Förderung von Dialog und Austausch zwischen unterschiedlichsten Menschen. Durch das Medium Musik werden Potenziale für persönliche Entwicklungsprozesse der Teilnehmenden freigesetzt. Dabei soll die typische Lehrer:innen-Schüler:innen-Hierarchie aufgebrochen werden: Bei “Celebrate the music” sind alle gleichzeitig Lehrende und Lernende.
 
 Bei Fragen wende dich gerne an produktion@grenzensindrelativ.de
+  
+  
+  
+### Gefördert durch:
 
-**Gefördert durch**  
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
 
 ![](/media/2022/03/stiftung_hw_logo_rgb_inumlauf.JPG)
