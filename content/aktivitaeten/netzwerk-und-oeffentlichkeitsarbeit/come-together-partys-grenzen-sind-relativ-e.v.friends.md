@@ -16,11 +16,11 @@ accessible: ''
 
 Liebe Mit-Menschen,
 
-der November startet mit unserer 5. Netzwerkparty!
+in den November startet wir mit unserer 5. Netzwerkparty!
 
 Am Do. 10.11.22 haben wir ab 19 Uhr die “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) für uns reserviert und freuen uns bereits sehr auf die "multipolare Melange", die wir gemeinsam interaktiv kreieren werden. 😊
 
-Wieder wird es Livemusic, Jam Sessions und interaktive Aktionen geben.
+Es gibt wieder Livemusic, Jam Sessions und interaktive Aktionen.
 
 Dazu werden wir vor Ort einen Infotisch haben, auf dem ihr gerne Flyer & Broschüren von euren Vereinen, Institutionen, Initiativen, usw. auslegen könnt.
 
