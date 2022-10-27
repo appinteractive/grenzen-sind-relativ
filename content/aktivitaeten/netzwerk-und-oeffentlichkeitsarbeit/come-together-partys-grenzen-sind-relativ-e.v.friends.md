@@ -20,7 +20,7 @@ am Do. 10.11.22 geht es mit unserer monatlichen Netzwerkparty ab 19 Uhr in der �
 
 Wir freuen uns bereits sehr auf die "multipolare Melange", die wir gemeinsam interaktiv kreieren werden. 😊
 
-Es gibt wieder Live Muskc, Jam Session und interaktive Aktionen. Infos folgen.
+Es gibt wieder Live Musik, Jam Session und interaktive Aktionen. Infos folgen.
 
 Dazu werden wir vor Ort einen Infotisch haben, auf dem ihr gerne Flyer & Broschüren von euren Vereinen, Institutionen, Initiativen, usw. auslegen könnt.
 
