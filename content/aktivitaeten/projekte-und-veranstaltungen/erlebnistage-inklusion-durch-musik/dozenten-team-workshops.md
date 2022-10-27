@@ -4,7 +4,7 @@ title: 'Dozenten-Team '
 description: ''
 wide: false
 gallery: []
-alias: ''
+alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops'
 accessible: ''
 
 ---

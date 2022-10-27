@@ -8,7 +8,7 @@ description: "Werdet Teil einer ganz besonderen Veranstaltung!\nDie Staatliche J
   sowie Bandtraining an! \n\nLet´s celebrate the music and come together!\n"
 wide: false
 gallery: []
-alias: ''
+alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v'
 accessible: ''
 
 ---

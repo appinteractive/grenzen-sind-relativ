@@ -7,7 +7,7 @@ description: 'Im Zuge der Grenzen sind relativ e.V. - Musikworkshopreihe “Cele
   die Essenz der Musik ausgiebig zu feiern. '
 wide: false
 gallery: []
-alias: ''
+alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine'
 accessible: ''
 
 ---

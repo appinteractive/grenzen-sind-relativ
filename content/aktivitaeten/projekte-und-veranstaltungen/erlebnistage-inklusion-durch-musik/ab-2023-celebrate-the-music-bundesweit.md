@@ -7,7 +7,7 @@ description: Mit der offenen Workshoprunde (Drumcircle, Body Rhythm, Stimme & Ch
   viel Musik.
 wide: false
 gallery: []
-alias: ''
+alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/ab-2023-celebrate-the-music-bundesweit'
 accessible: ''
 
 ---

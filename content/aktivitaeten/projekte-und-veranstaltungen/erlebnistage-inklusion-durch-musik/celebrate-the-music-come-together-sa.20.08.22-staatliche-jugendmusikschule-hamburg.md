@@ -7,7 +7,7 @@ description: Die Staatliche Jugendmusikschule Hamburg und Grenzen sind relativ e
   20. August 2022 ein, bei einer ganz besonderen Veranstaltung mitzumachen.
 wide: false
 gallery: []
-alias: ''
+alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/celebrate-the-music-come-together-sa.20.08.22-staatliche-jugendmusikschule-hamburg'
 accessible: ''
 
 ---

@@ -5,7 +5,7 @@ description: '''
 '''
 teaser: "/media/2022/10/ctm_100001.jpg"
 gallery: []
-alias: ''
+alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion'
 wide: false
 accessible: ''
 
