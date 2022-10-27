@@ -21,9 +21,9 @@ _Eine Netzwerkveranstaltung von und mit_ [_Grenzen sind relativ e.V._](https://w
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
-Im Zuge der Grenzen sind relativ e.V. - Musikworkshopreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion)” wollen wir alle mitwirkenden Schüler:innen, Dozent:innen und Institutionen am So. 19. Juni 2022 auf der “altonale” zusammentrommeln, um gemeinsam mit euch die Essenz der Musik ausgiebig zu feiern.
+Im Zuge der Grenzen sind relativ e.V. - Musikworkshopreihe “[Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion)” wollen wir alle mitwirkenden Schüler:innen, Dozent:innen und Institutionen am So. 19. Juni 2022 auf der “altonale” zusammentrommeln, um gemeinsam mit euch die Essenz der Musik ausgiebig zu feiern.
 
-Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen vom Schüler*innen-[Chor der Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/), der Band [Batteries of Rock](https://batteriesofrock.com/) und dem [Celebrate the music Dozent:innen-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) - bestehend aus Mischa Gohlke, David Alleckna, Oded Kafri, Ben Schütz, Johannes Tress und Maxie Klotmann - wird die Bühne gemeinsam zum Leben erweckt.
+Das Bühnenprogramm umfasst facettenreiche Acts: Durch musikalische Einlagen vom Schüler*innen-[Chor der Nelson-Mandela-Schule](https://www.nelson-mandela-schule-kirchdorf.de/bildungsangebot/faecher/musik/singen-im-chor/), der Band [Batteries of Rock](https://batteriesofrock.com/) und dem [Celebrate the music Dozent:innen-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) - bestehend aus Mischa Gohlke, David Alleckna, Oded Kafri, Ben Schütz, Johannes Tress und Maxie Klotmann - wird die Bühne gemeinsam zum Leben erweckt.
 
 Dazu wird es vor Ort eine Network-Area geben, wo sich Vereine, Institutionen und Initiativen präsentieren, kennenlernen und vernetzen können.
 

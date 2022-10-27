@@ -40,9 +40,9 @@ Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispie
 
 Jeder Tag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmenden zusammen mit den Dozent:innen und weiteren künstlerischen Acts die Bühne rocken werden.
 
-Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können.
+Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können.
 
-Bei der Netzwerkveranstaltung [“Celebrate the music - Come together!” am So. 19.06.2022 auf der altonale (Platz der Republik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine) sind alle mitwirkenden Schüler:innen, Institutionen und Dozent:innen zusammen gekommen. Gemeinsam mit dem Publikum wurde die Essenz der Musik gebührend zelebriert.
+Bei der Netzwerkveranstaltung [“Celebrate the music - Come together!” am So. 19.06.2022 auf der altonale (Platz der Republik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine) sind alle mitwirkenden Schüler:innen, Institutionen und Dozent:innen zusammen gekommen. Gemeinsam mit dem Publikum wurde die Essenz der Musik gebührend zelebriert.
 
 Das Ganze wird von einem Filmteam begleitet, das einen Dokumentarfilm über das Projekt machen wird.
 

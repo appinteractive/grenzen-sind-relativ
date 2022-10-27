@@ -29,7 +29,7 @@ Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschu
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining), den beiden **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
-Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Alexandra Pengler, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
+Das[ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops)**Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Alexandra Pengler, Michael Nick, Ben Schütz, Christian Nowak und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Chuck Berry, Udo Lindenberg, Roger Cicero, Helene Fischer, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
 **Für die offene Workshoprunde könnt ihr euch jetzt anmelden!**
 
