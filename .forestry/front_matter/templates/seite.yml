@@ -2,98 +2,98 @@
 label: Seite
 hide_body: false
 fields:
-  - name: teaser
-    type: file
-    config:
-      maxSize: 64
-    label: Beitragsbild
-  - type: text
-    name: title
-    label: Titel
-    config:
-      required: true
-  - type: textarea
-    name: description
-    label: Beschreibung (SEO)
-    config:
-      required: false
-  - name: wide
-    type: boolean
-    label: Breiter Inhalt
-    description: Soll der Inhalt breit angezeigt werden?
-  - name: gallery
-    type: image_gallery
-    config: {}
-    label: Galerie
-  - name: alias
-    type: text
-    config:
-      required: false
-    label: Alias
-    description: Alte URL (optional)
-  - name: accessible
-    type: text
-    config:
-      required: false
-    label: Leichte Sprache
-    description: "(optional)"
+- name: teaser
+  type: file
+  config:
+    maxSize: 64
+  label: Beitragsbild
+- type: text
+  name: title
+  label: Titel
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Beschreibung (SEO)
+  config:
+    required: false
+- name: wide
+  type: boolean
+  label: Breiter Inhalt
+  description: Soll der Inhalt breit angezeigt werden?
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Galerie
+- name: alias
+  type: text
+  config:
+    required: false
+  label: Alias
+  description: Alte URL (optional)
+- name: accessible
+  type: text
+  config:
+    required: false
+  label: Leichte Sprache
+  description: "(optional)"
 pages:
-  - content/aktivitaeten/gsr-medienportal/Blog/grenzen-sind-relativ-musik-horen-und-inklusion.md
-  - content/aktivitaeten/gsr-medienportal/Blog/medienportal-auf-in-eine-neue-beziehungskultur.md
-  - content/aktivitaeten/gsr-medienportal/diskurskultur.md
-  - content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md
-  - content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen.md
-  - content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/w-wind.md
-  - content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/y-yallah.md
-  - content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe.md
-  - content/aktivitaeten/gsr-medienportal/gsr-medienportal.md
-  - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md
-  - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md
-  - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md
-  - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-review-erfolge.md
-  - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos.md
-  - content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-bands.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-musikunterricht-beratung-coaching.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-bundesweit.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-hamburg.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-kiel.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/referent.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musik-systemische-inklusion-beziehungskultur-en.md
-  - content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musikunterricht-fur-horgeschadigte.md
-  - content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md
-  - content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md
-  - content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/gemeinschaftliches-aktionsbundnis.md
-  - content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel.md
-  - content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/interdisziplinaere-kulturarbeit/interdisziplinare-kulturarbeit.md
-  - content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/ab-2023-celebrate-the-music-bundesweit.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/archiv-kooperationsprojekte.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/marienkriche-osnabruck-beethoven-mit-allen-sinnen-horen.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md
-  - content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md
-  - content/media/blog/auf-in-eine-neue-beziehungskultur.md
-  - content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md
-  - content/media/pressespiegel-kompakt.md
-  - content/stellenausschreibung.md
-  - content/ueber-uns/das-team/aktionsbuero/grzegorz-leoniec.md
-  - content/ueber-uns/das-team/aktionsbuero/thorsten-hesse.md
-  - content/ueber-uns/das-team/aktionsbuero/tjorven-malin-steinmeyer.md
-  - content/ueber-uns/das-team/filmproduktion/herve-dieu.md
-  - content/ueber-uns/das-team/filmproduktion/jannis-raasch.md
-  - content/ueber-uns/identitat-positionierung.md
-  - content/ueber-uns/manifest.md
-  - content/ueber-uns/ubersicht-aktivitaten.md
+- content/aktivitaeten/gsr-medienportal/Blog/grenzen-sind-relativ-musik-horen-und-inklusion.md
+- content/aktivitaeten/gsr-medienportal/Blog/medienportal-auf-in-eine-neue-beziehungskultur.md
+- content/aktivitaeten/gsr-medienportal/diskurskultur.md
+- content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md
+- content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen.md
+- content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/w-wind.md
+- content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/y-yallah.md
+- content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe.md
+- content/aktivitaeten/gsr-medienportal/gsr-medienportal.md
+- content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md
+- content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md
+- content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md
+- content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-review-erfolge.md
+- content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos.md
+- content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-bands.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/allgemeine-infos-musikunterricht-beratung-coaching.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-bundesweit.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-hamburg.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-kiel.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/referent.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musik-systemische-inklusion-beziehungskultur-en.md
+- content/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musikunterricht-fur-horgeschadigte.md
+- content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/allgemeine-infos.md
+- content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md
+- content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/gemeinschaftliches-aktionsbundnis.md
+- content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/grenzen-sind-relativ-social-media-channel.md
+- content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/interdisziplinaere-kulturarbeit/interdisziplinare-kulturarbeit.md
+- content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/vermittlungsborse.md
+- content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/ab-2023-celebrate-the-music-bundesweit.md
+- content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion.md
+- content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v.md
+- content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops.md
+- content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine.md
+- content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md
+- content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/archiv-kooperationsprojekte.md
+- content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md
+- content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md
+- content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/marienkriche-osnabruck-beethoven-mit-allen-sinnen-horen.md
+- content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md
+- content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md
+- content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg.md
+- content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019.md
+- content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md
+- content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md
+- content/media/blog/auf-in-eine-neue-beziehungskultur.md
+- content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md
+- content/media/pressespiegel-kompakt.md
+- content/stellenausschreibung.md
+- content/ueber-uns/das-team/aktionsbuero/grzegorz-leoniec.md
+- content/ueber-uns/das-team/aktionsbuero/thorsten-hesse.md
+- content/ueber-uns/das-team/aktionsbuero/tjorven-malin-steinmeyer.md
+- content/ueber-uns/das-team/filmproduktion/herve-dieu.md
+- content/ueber-uns/das-team/filmproduktion/jannis-raasch.md
+- content/ueber-uns/identitat-positionierung.md
+- content/ueber-uns/manifest.md
+- content/ueber-uns/ubersicht-aktivitaten.md

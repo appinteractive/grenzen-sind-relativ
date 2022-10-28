@@ -1,12 +1,9 @@
 ---
 title: GSR e.V. Public Events
-description: 'Im Rahmen von Festivals, Stadtteil- und Straßenfesten und Sport- & Kulturveranstaltungen
-  kreieren wir ein spannendes inklusives & interdisziplinäres Kulturprogramm, bei
-  dem a) Künstler, gemeinnützige Organisationen und Netzwerke unterschiedlichster
-  Backgrounds zusammen kommen und b) den Besuchern vor Ort die essentielle Thematik
-  „gesamtgesellschaftliche Inklusion“ auf eine erfahrbare, mitreißende und künstlerische
-  Art und Weise Nahe gebracht wird. Das Veranstaltungsformat umfasst 3 Säulen: Bühnen-Performance,
-  interaktive Erlebniswelten/Aktionen und Network-Area. '
+description: 'Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- &
+  Kulturveranstaltungen und öffentlichen Plätzen: Das Veranstaltungsformat beinhaltet
+  ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, das aus 3 Säulen
+  besteht: Bühnenprogramm, Network-Area und interaktive Erlebniswelten.'
 teaser: "/media/2022/10/beitragsbild-youtube-gsr-e-v-public-events.png"
 gallery: []
 alias: "/veranstaltungen/support-inklusion-support-mal-anders.html"
@@ -61,14 +58,6 @@ Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren K
 1. PR-, Öffentlichkeitsarbeit und Bewusstseinsbildung für die gesamtgesellschaftliche Inklusion, interdisziplinäre & inklusive Kulturveranstaltungen, Dialog & Miteinander, Gemeinwohl, etc.
 2. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
 3. das Kreieren von konkreten nachhaltigen Ergebnissen (individuelle Handouts & Toolboxes, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
-
-<gallery>
-
-![](/media/2020/10/neu1.jpg)![](/media/2020/10/asv-festival-_-anderssein-vereint-_-foto-by-marie-tabuena-_-online.jpg)![](/media/2020/10/hoffenheim1.png)
-
-![](/media/2015/07/NDR-Inklusionsfackel3.jpg)
-
-![](/media/2015/07/NDR-Inklusionsfackel.jpg)</gallery>
 
 Gefördert von
 

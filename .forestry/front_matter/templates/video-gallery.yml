@@ -2,25 +2,25 @@
 label: Video-Galerie
 hide_body: true
 fields:
-  - name: videos
-    type: field_group_list
-    fields:
-      - name: title
-        type: text
-        config:
-          required: true
-        label: Titel
-      - name: videoId
-        type: text
-        label: Youtube Video ID
-        config:
-          required: true
-          min: 5
+- name: videos
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
     config:
-      labelField: title
-    label: Videos
+      required: true
+    label: Titel
+  - name: videoId
+    type: text
+    label: Youtube Video ID
+    config:
+      required: true
+      min: 5
+  config:
+    labelField: title
+  label: Videos
 pages:
-  - config/video-galleries/celebrate-the-music.json
-  - config/video-galleries/gsr-medienportal-impressions.json
-  - config/video-galleries/media-diskurskultur.json
-  - config/video-galleries/startseite-video-galerie.json
+- config/video-galleries/celebrate-the-music.json
+- config/video-galleries/gsr-medienportal-impressions.json
+- config/video-galleries/media-diskurskultur.json
+- config/video-galleries/startseite-video-galerie.json
