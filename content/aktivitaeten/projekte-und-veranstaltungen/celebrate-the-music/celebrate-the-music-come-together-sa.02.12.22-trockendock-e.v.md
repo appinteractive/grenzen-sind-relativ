@@ -88,16 +88,6 @@ Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen
 
 19:15-20.00 Uhr - Abschlusskonzert
 
-\**VERANSTALTUNGSORT:**
-
-TROCKENDOCK e.V.  
-Elsastraße 41  
-22083 Hamburg
-
-[http://www.trockendock-hamburg.de/](http://www.trockendock-hamburg.de/ "http://www.trockendock-hamburg.de/")
-
-\**
-
 Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view)  an **produktion@grenzensindrelativ.de** . Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 48 Menschen begrenzt ist.
 
 **Bei weiteren Fragen wendet euch an Fabia Mekus, produktion@grenzensindrelativ.de**
