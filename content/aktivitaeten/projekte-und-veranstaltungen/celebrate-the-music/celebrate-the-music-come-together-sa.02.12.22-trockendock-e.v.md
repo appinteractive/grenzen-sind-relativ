@@ -14,33 +14,31 @@ accessible: ''
 ---
 ## "Celebrate the music -Come together!"
 
-#### 02.12.22 Trockendock e.V. - Elsastraße 41, 22083
+#### 02.12.2022 Trockendock e.V. - Elsastraße 41, 22083 Hamburg
 
-Hamburg // 16.00 bis 20.00 Uhr -  Eintritt frei
-
-**Werdet Teil einer ganz besonderen Veranstaltung!**
-
-Meldet euch jetzt (bis 25.11) zur offenen Workshoprunde mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ an! Let´s celebrate the music and come together!
-
-Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg.  
-Die Teilnahme ist kostenlos. Max. 48 Teilnehmende.
-
-[→ PDF: Anmeldungen zu den Workshops](https://drive.google.com/file/d/1FuePrZuR_mufUnE8PrirulRvgi37sGf5/view?usp=sharing)
+16\.00 bis 20.00 Uhr -  Eintritt frei
 
 ![](/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final.png)
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
 
-Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule), das [Trockendock e.V.](http://www.trockendock-hamburg.de/) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte zwischen 12 und 25 Jahren für Freitag, den 02. Dezember 2022 ein, bei einer ganz besonderen Veranstaltung mitzumachen. Let´s celebrate the music and come together!
+**Werdet Teil einer ganz besonderen Veranstaltung!**
 
-Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem Band-Clash, der Band-Schmiede und dem gemeinsamen Abschlusskonzert schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
+Ihr seid zwischen **12 und 25 Jahren**, liebt Musik und wolltet unbedingt schon mal selber musizieren oder seid sogar schon dabei?  
 
-Das [**Dozent:innen-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz, Gerd Bauder und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
+Dann meldet euch [HIER](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view) zu unserer Veranstaltung an. Ihr könnt zwischen der offenen Workshoprunde mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ und dem _Songschmiede-Workshop_ wählen! 
 
-In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen.
+**Let´s celebrate the music and come together!**
 
-[**HIER** ](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view?usp=sharing)könnt Ihr Euch dafür anmelden (max. 4 x 12 = 48 Teilnehmende). Für Anfänger*innen und Fortgeschrittene (12-25 Jahre) im Raum Hamburg.  
-Die Teilnahme ist kostenlos.
+Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule), das [Trockendock e.V.](http://www.trockendock-hamburg.de/) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte bei einer ganz besonderen Veranstaltung mitzumachen. 
+
+Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem **Band-Clash**, der **Songschmiede** und dem **gemeinsamen Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
+
+Das [**Dozent:innen-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz, Gerd Bauder und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. 
+
+**Bei “Celebrate the music” sind alle Lehrende und Lernende.**
+
+In der **offenen Workshoprunde** (4 x 30 Minuten) erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen.
 
 **Workshop 1:** **Drumcircle (Oded Kafri)**
 
@@ -60,15 +58,13 @@ Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang 
 
 ***
 
-Darüber hinaus könnt ihr euch zum folgenden Workshop anmelden, der parallel zur offenen Workshoprunde stattfindet.
-
-**Songschmiede (Gerd Bauder)**
+Parallel zum offenen Workshop-Angebot findet der **Songschmiede-Workshop mit Gerd Bauder statt.**
 
 Wir wollen in diesem Workshop eigene Ideen kreativ in Musik umsetzen. Im Bandformat - jeder wird ein Bandinstrument (Schlagzeug, Gitarre, Keyboard etc.) ausprobieren und spielen -  werden wir gemeinsam einen Song „auf die Beine stellen“, um ihn live auf der Bühne zu präsentieren. Rap, Sounds, Gesang: bringt eigene Ideen (Texte, Gedanken, Schlagworte, Melodien) mit. Wir basteln daraus einen Song. Vorkenntnisse an einem Instrument benötigt ihr nicht. Seid einfach ihr selbst.
 
 Dazu gibt es ein **Band-Clash**, bei dem sich Bands verschiedenster Couleur erstmals begegnen, einen Song einproben und auf die Bühne zaubern werden, wie sie es noch nie gesehen, gehört und erlebt haben.
 
-**Beim Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
+Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
 
 **VERANSTALTUNGSABLAUF:**
 
@@ -88,12 +84,11 @@ Dazu gibt es ein **Band-Clash**, bei dem sich Bands verschiedenster Couleur erst
 
 18\.35-19.05 Uhr - Workshop 4
 
-19\.05-19.15 Uhr - Pause / Umbau
+19\.05-19.15 Uhr - Pause 
 
-19:15-20.00 Uhr - Abschlusskonzert, Bandclash
+19:15-20.00 Uhr - Abschlusskonzert
 
-\**  
-VERANSTALTUNGSORT:**
+\**VERANSTALTUNGSORT:**
 
 TROCKENDOCK e.V.  
 Elsastraße 41  
@@ -101,27 +96,10 @@ Elsastraße 41
 
 [http://www.trockendock-hamburg.de/](http://www.trockendock-hamburg.de/ "http://www.trockendock-hamburg.de/")
 
-\**  
-ANMELDUNGSFORMULAR ZUM DOWNLOAD (PDF)**
+\**
 
-Hinweis: Das Anmeldungsformular kann [HIER ](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view?usp=sharing)heruntergeladen werden. Anschließend könnt ihr Euch in die freien Textfelder eintragen. Dann das Dokument abspeichern und via E-Mail an uns schicken.
+Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view)  an **produktion@grenzensindrelativ.de** . Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 48 Menschen begrenzt ist.
 
-\**  
-ANMELDUNG SENDEN AN:**
+**Bei weiteren Fragen wendet euch an Fabia Mekus, produktion@grenzensindrelativ.de**
 
-Das Anmeldungsformular muss per E-Mail bis zum 25.11.2022 eingereicht werden. Nur vollständige Anmeldungen werden zugelassen. Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 48 Menschen begrenzt ist.
-
-Anmeldung an: **Fabia Mekus, produktion@grenzensindrelativ.de**
-
-\**  
-ANSPRECHPARTNER:INNEN:**
-
-Für Fragen und Informationen wende Dich gerne an:
-
-Fabia Mekus (Grenzen sind relativ e.V.)
-
-[produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de)
-
-_Gefördert von der Aktion Mensch und der Stiftung Hamburger Wohnen._
-
-![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)![](/media/2022/03/stiftung_hw_logo_rgb_inumlauf.JPG)
+_Gefördert von_ 
