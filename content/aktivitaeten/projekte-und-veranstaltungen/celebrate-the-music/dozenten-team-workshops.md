@@ -4,7 +4,7 @@ title: 'Dozenten-Team '
 description: ''
 wide: false
 gallery: []
-alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops'
+alias: "/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops"
 accessible: ''
 
 ---
@@ -23,15 +23,6 @@ Er produziert Pop-, Film- und Werbemusik und ist als Studio- und Tourmusiker mit
 David engagiert sich musikalisch in der Freien Kirche und mag Menschen – egal welchen Glaubens.
 
 > Musik als Ausdruck und Auslöser ehrlicher, spontaner Gefühle ist wichtiger denn je, um zu sich selbst zu finden, in einer Welt, die uns ständig lockt, unsere Aufmerksamkeit woanders hin zu lenken als zu uns selbst.
-
-### **Volkan Baydar** (Stimme & Chor)
-
-![](/media/2022/04/volkan-live-pressefoto-1.jpeg)  
-Dem 1971 in Hamburg als Sohn türkischer Eltern geborene [Volkan Baydar](https://www.volkanbaydar.com/) gelingt 2000 der Durchbruch mit Orange Blue: In Love With A Dream wird mit Platin ausgezeichnet, die Single She's Got That Light avanciert zum Riesenhit. Es folgt eine Echo Nominierung in der Kategorie Bester Newcomer und zahlreiche Auftritte. Die zweite Single Can Somebody Tell Me Who I Am wird Teil des Soundtracks zum Disney Filmhit Dinosaurier und mit dem Song The Sun On Your Face aus ihrem zweiten Album, untermalt das Duo den Hollywoodklassiker America's Sweethearts mit Julia Roberts und Catherine Zeta-Jones.
-
-Es folgen Produktionen und Kompositionen für diverse Projekte und TV Produktionen (z.B der Titelsong zu der ZDF Serie Dr. Klein: „Beautiful Day“, Komposition, Produktion, Gesang). Mit WHITE | WEISS veröffentlicht Baydar 2020 sein fünftes (Doppel-) Album mit Orange Blue, erstmals auch in deutscher Sprache. Die Single „Die Welt steht still“ wird auf einer der größten Bühne Europas im Rahmen der ZDF Silvestergala vor tausenden von Menschen performt.
-
-Aktuell arbeitet Volkan Baydar an seinem neuen Album mit dem Arbeits-Titel „ZWEITAUSENDDREIUNDZWANIG-03-23“ Alle Songs werden nach traditioneller Art wieder selbst komponiert und produziert. Die erste Single- Auskopplung „Weihnachtszeit" ist für Oktober 2022 geplant
 
 ### **Ben Schütz** (Body Rhythm)
 
@@ -64,6 +55,15 @@ Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals
 Oded begann im Alter von 10 Jahren mit dem Schlagzeugspielen im Luftschutzbunker seiner Familie in Tel Aviv Israel. Als Teenager lebte und studierte Oded Kafri Musik in Paris, Frankreich, was seine musikalische Richtung prägte und ihn dem Jazz und der Weltmusik aussetzte. In seinen Zwanzigern war er ein gefeierter Sessionspieler. Im Jahr 2008 wurde Kafri gebeten, den israelischen Sänger David d’Or auf seiner Welttournee zu begleiten, die das Womad Festival, UK und das Spielen in verschiedenen Arenas beinhaltete. Im Jahr 2009 zog Kafri von Tel Aviv nach London, wo er Schlagzeug für die Koby Israelite-Group spielte, die in Prestige-Veranstaltungsorten performte. Kafris Straßenkunst gab ihm weltweite Anerkennung mit einer wachsenden Fangemeinde durch YouTube und andere soziale Medienplattformen. Im Dezember 2011 trat Kafri Beatboxer Beardyman bei seiner Brixton Electric Show bei. Ab 2012 wurde er ein Murat Diril Cymbals Endorser.
 
 Oded Kafri ist seit über einem Jahrzehnt in seiner „Drum The World“ -Initiative unterwegs und hat starke Fanbasen in ganz Europa und Großbritannien. Oded Kafri hat drei Studioalben „Rhythm for Dancing Lessons Vol. 2“, „The Drum Machine Project“ und zuletzt mit seiner neuen Band in Hamburg die EP mit dem Titel „Drum The World“ veröffentlicht. Oded Kafri lebt derzeit in Hamburg Deutschland, wo er bereits durch regionale TV- und Presseberichte bekannt ist. Er wurde auch eingeladen einen „TEDx Talk“ zu geben, um seine inspirierende Geschichte zu erzählen und wurde 2016 für den „Kutiman-Mix Hamburg“ ausgewählt. Er ist signierter Künstler von Off Ya Tree Records und Broken Silence Distribution. Im Mai 2017 repräsentierte er die High-End Lautsprecher von Avantgarde Acoustic bei der High End Exhibition in München.
+
+### **Volkan Baydar** (Stimme & Chor)
+
+![](/media/2022/04/volkan-live-pressefoto-1.jpeg)  
+Dem 1971 in Hamburg als Sohn türkischer Eltern geborene [Volkan Baydar](https://www.volkanbaydar.com/) gelingt 2000 der Durchbruch mit Orange Blue: In Love With A Dream wird mit Platin ausgezeichnet, die Single She's Got That Light avanciert zum Riesenhit. Es folgt eine Echo Nominierung in der Kategorie Bester Newcomer und zahlreiche Auftritte. Die zweite Single Can Somebody Tell Me Who I Am wird Teil des Soundtracks zum Disney Filmhit Dinosaurier und mit dem Song The Sun On Your Face aus ihrem zweiten Album, untermalt das Duo den Hollywoodklassiker America's Sweethearts mit Julia Roberts und Catherine Zeta-Jones.
+
+Es folgen Produktionen und Kompositionen für diverse Projekte und TV Produktionen (z.B der Titelsong zu der ZDF Serie Dr. Klein: „Beautiful Day“, Komposition, Produktion, Gesang). Mit WHITE | WEISS veröffentlicht Baydar 2020 sein fünftes (Doppel-) Album mit Orange Blue, erstmals auch in deutscher Sprache. Die Single „Die Welt steht still“ wird auf einer der größten Bühne Europas im Rahmen der ZDF Silvestergala vor tausenden von Menschen performt.
+
+Aktuell arbeitet Volkan Baydar an seinem neuen Album mit dem Arbeits-Titel „ZWEITAUSENDDREIUNDZWANIG-03-23“ Alle Songs werden nach traditioneller Art wieder selbst komponiert und produziert. Die erste Single- Auskopplung „Weihnachtszeit" ist für Oktober 2022 geplant
 
 ### **Rico Bowen** (Bass, Gesang, Multiinstrumentalist, Bandtraining)
 
