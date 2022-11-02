@@ -103,3 +103,5 @@ Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d
 **Bei weiteren Fragen wendet euch an Fabia Mekus, produktion@grenzensindrelativ.de**
 
 _Gefördert von_ 
+
+![](/media/2022/11/2022-11-02-12-02-14-676-removebg-preview.png)
