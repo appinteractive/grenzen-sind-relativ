@@ -3,9 +3,9 @@ teaser: "/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final
 title: "“Celebrate the music - Come together” // Fr. 02.12. 22 Trockendock e.V."
 description: "Werdet Teil einer ganz besonderen Veranstaltung!\nDie Staatliche Jugendmusikschule
   Hamburg, Trockendock e.V. & Grenzen sind relativ e.V. laden ein zu:  \n\nCelebrate
-  the music - Come together!\nFreitag, 02. Dezember 2022 - 16.00 bis 20.00 Uhr. \nMeldet
-  euch jetzt zur offenen Workshoprunde mit Drumcircle, Body Rhythm, Stimme & Chor
-  sowie Bandtraining an! \n\nLet´s celebrate the music and come together!\n"
+  the music - Come together!\nFreitag, 02. Dezember 2022 von 16.00 bis 20.00 Uhr.
+  \nMeldet euch jetzt zur offenen Workshoprunde mit Drumcircle, Body Rhythm, Stimme
+  & Chor sowie Bandtraining an! \n\nLet´s celebrate the music and come together!\n"
 wide: false
 gallery: []
 alias: "/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v"
