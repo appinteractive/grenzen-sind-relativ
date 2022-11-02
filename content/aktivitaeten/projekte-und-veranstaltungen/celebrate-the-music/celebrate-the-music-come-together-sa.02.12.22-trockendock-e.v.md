@@ -35,7 +35,7 @@ Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschu
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem Band-Clash, der Band-Schmiede und dem gemeinsamen Abschlusskonzert schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
-Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz, Gerd Bauder und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
+Das [**Dozent:innen-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz, Gerd Bauder und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
 In der offenen Workshoprunde (4 x 30 Minuten) erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen.
 
@@ -66,7 +66,7 @@ Darüber hinaus könnt ihr euch zum folgenden Workshop anmelden, der parallel zu
 
 Wir wollen in diesem Workshop eigene Ideen kreativ in Musik umsetzen. Im Bandformat - jeder wird ein Bandinstrument (Schlagzeug, Gitarre, Keyboard etc.) ausprobieren und spielen -  werden wir gemeinsam einen Song „auf die Beine stellen“, um ihn live auf der Bühne zu präsentieren. Rap, Sounds, Gesang: bringt eigene Ideen (Texte, Gedanken, Schlagworte, Melodien) mit. Wir basteln daraus einen Song. Vorkenntnisse an einem Instrument benötigt ihr nicht. Seid einfach ihr selbst.
 
-Darüber hinaus gibt es ein **Band-Clash**, bei dem sich Bands verschiedenster Couleur erstmals begegnen, einen Song einproben und auf die Bühne zaubern werden, wie sie es noch nie gesehen, gehört und erlebt haben.
+Dazu gibt es ein **Band-Clash**, bei dem sich Bands verschiedenster Couleur erstmals begegnen, einen Song einproben und auf die Bühne zaubern werden, wie sie es noch nie gesehen, gehört und erlebt haben.
 
 **Beim Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
 
