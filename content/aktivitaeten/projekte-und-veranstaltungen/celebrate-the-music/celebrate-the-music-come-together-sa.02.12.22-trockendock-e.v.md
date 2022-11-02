@@ -68,25 +68,7 @@ Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen
 
 **VERANSTALTUNGSABLAUF:**
 
-16:00-16:30 Uhr - Eröffnung und Begrüßung
-
-16:35-17:05 Uhr - Workshop 1
-
-17:05-17:15 Uhr - Pause
-
-17:15-17:45 Uhr - Workshop 2
-
-17:45-17:55 Uhr - Pause
-
-17:55-18:25 Uhr - Workshoprunde 3
-
-18:22-18.35 Uhr - Pause
-
-18\.35-19.05 Uhr - Workshop 4
-
-19\.05-19.15 Uhr - Pause 
-
-19:15-20.00 Uhr - Abschlusskonzert
+16:00-16:30 Uhr - Eröffnung und Begrüßung                                                                             16:35-17:05 Uhr - Workshop 1                                                                                                    17:05-17:15 Uhr - Pause                                                                                                            17:15-17:45 Uhr - Workshop 2                                                                                                 17:45-17:55 Uhr - Pause                                                                                                              17:55-18:25 Uhr - Workshop 3                                                                                                  18:25-18.35 Uhr - Pause                                                                                                                18.35-19.05 Uhr - Workshop 4                                                                                                      19.05-19.15 Uhr - Pause                                                                                                              19:15-20.00 Uhr - Abschlusskonzert
 
 Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view)  an **produktion@grenzensindrelativ.de** . Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 48 Menschen begrenzt ist.
 
