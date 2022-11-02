@@ -14,10 +14,6 @@ accessible: ''
 ---
 ## "Celebrate the music -Come together!"
 
-#### 02.12.2022 Trockendock e.V. - Elsastraße 41, 22083 Hamburg
-
-16\.00 bis 20.00 Uhr -  Eintritt frei
-
 ![](/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final.png)
 
 > _Ohne Musik wäre das Leben ein Irrtum_ (Nietzsche)
@@ -28,7 +24,7 @@ Ihr seid zwischen **12 und 25 Jahren**, **liebt Musik** und wolltet unbedingt sc
 
 Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule), das [Trockendock e.V.](http://www.trockendock-hamburg.de/) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte bei einer ganz besonderen Veranstaltung mitzumachen.
 
-Meldet euch [HIER](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view) zu unserer Veranstaltung an! Ihr könnt zwischen der **offenen Workshoprunde** mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ und dem **Songschmiede-Workshop** wählen!
+Meldet euch [HIER](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view) zu unserer Veranstaltung an! Ihr könnt zwischen der **offenen Workshoprunde** mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ und dem **Songschmiede-Workshop** wählen! Die Teilnahme ist **kostenlos**.
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem **Band-Clash**, der **Songschmiede** und dem **gemeinsamen Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
