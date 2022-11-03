@@ -1,11 +1,12 @@
 ---
 title: Celebrate the music
-description: '''
-  Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel! Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt.
-'''
+description: "' Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen
+  Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel!
+  Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
+  Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt. '"
 teaser: "/media/2022/10/ctm_100001.jpg"
 gallery: []
-alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion'
+alias: "/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion"
 wide: false
 accessible: ''
 
@@ -34,7 +35,7 @@ https://youtu.be/x8POp5okdqk
 
 [https://youtu.be/mJsl1Hwu7B0](https://youtu.be/mJsl1Hwu7B0 "https://youtu.be/mJsl1Hwu7B0")
 
-Fr. 02.12.2022: Trockendock (zusammen mit der staatlichen Jugendmusikschule Hamburg)
+#### [Fr. 02.12.2022: Trockendock (zusammen mit der staatlichen Jugendmusikschule Hamburg)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v)
 
 Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel Musik-Orient(ierung) & Bandtraining, Drumcircle & Rhythm´n´Groove, Stimme & Chor, Body Rhythm und Tanz & Bewegung.
 
@@ -51,9 +52,7 @@ Das Projektformat bringt verschiedenste Menschen, Netzwerke und Themen zusammen.
 Ziel des Projektes ist die Förderung von Dialog und Austausch zwischen unterschiedlichsten Menschen. Durch das Medium Musik werden Potenziale für persönliche Entwicklungsprozesse der Teilnehmenden freigesetzt. Dabei soll die typische Lehrer:innen-Schüler:innen-Hierarchie aufgebrochen werden: Bei “Celebrate the music” sind alle gleichzeitig Lehrende und Lernende.
 
 Bei Fragen wende dich gerne an produktion@grenzensindrelativ.de
-  
-  
-  
+
 ### Gefördert durch:
 
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
