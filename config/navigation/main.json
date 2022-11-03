@@ -9,7 +9,9 @@
             {
               "title": "Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht",
               "description": "Für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, Schulen, Universitäten, etc.",
-              "children": [],
+              "children": [
+
+              ],
               "disabled": false,
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
               "showInMainNavigation": true
@@ -52,10 +54,12 @@
                   "disabled": false
                 },
                 {
-                  "children": [],
+                  "children": [
+
+                  ],
                   "title": "Celebrate the music - Come together! // Fr. 02.12.22 Trockendock e.V.",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v.md",
-                  "disabled": true
+                  "disabled": false
                 },
                 {
                   "title": "Ab 2023: \"Celebrate the music\" - bundesweit",
@@ -199,7 +203,9 @@
             {
               "title": "Beratung & Coaching",
               "description": "Für Vereine, Schulen, Universitäten, Unternehmen, Kulturschaffende, Künstler, Agenturen, usw.",
-              "children": [],
+              "children": [
+
+              ],
               "page": "content/aktivitaeten/musikunterricht-workshops-coaching/beratung-und-coaching.md",
               "showInMainNavigation": true
             }
@@ -506,7 +512,9 @@
             },
             {
               "title": "Pressespiegel",
-              "children": [],
+              "children": [
+
+              ],
               "page": "content/media/pressespiegel-kompakt.md"
             },
             {

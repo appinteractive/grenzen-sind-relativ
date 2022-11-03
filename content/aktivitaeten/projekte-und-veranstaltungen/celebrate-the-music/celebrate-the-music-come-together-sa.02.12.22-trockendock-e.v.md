@@ -28,27 +28,27 @@ Meldet euch [HIER](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem **Band-Clash**, der **Songschmiede** und dem **gemeinsamen Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
-Das [**Dozent:innen-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz, Gerd Bauder und Dirk Bleese. Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können.
+Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: [Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops), [Gerd Bauder](https://www.jamliner.net/author/gerbau/) und [Dirk Bleese](https://www.dirkbleese.de/bio/). Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können.
 
-**Bei “Celebrate the music” sind alle Lehrende und Lernende.** 
+**Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
 **Let´s celebrate the music and come together!**
 
 In der **offenen Workshoprunde** erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen:
 
-_Workshop 1: Drumcircle (Oded Kafri)_                                                                                            
+_Workshop 1: Drumcircle (Oded Kafri)_
 
 Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzen kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
 
-_Workshop 2: Body Rhythm (Ben Schütz)_                                                                                     
+_Workshop 2: Body Rhythm (Ben Schütz)_
 
 Hier bekommst Du einen Einblick in die Welt der Body Percussion – der Verbindung von Rhythmus, Bewegung und Stimme. Mit Spielen und Übungen bereiten wir uns vor, um im Anschluss eine kurze Choreografie zu erlernen. Bodypercussion ermöglicht es uns, den eigenen Körper im Fluss der Musik zu spüren und gleichzeitig mit anderen in Kontakt zu treten.
 
-_Workshop 3: Stimme & Chor (Alexandra Pengler)_                                                                          
+_Workshop 3: Stimme & Chor (Alexandra Pengler)_
 
 In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, jeder ist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
-_Workshop 4: Bandtraining (Dave Alleckna & Mischa Gohlke)_                                                     
+_Workshop 4: Bandtraining (Dave Alleckna & Mischa Gohlke)_
 
 Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhälst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
 
