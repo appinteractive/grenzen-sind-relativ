@@ -18,11 +18,21 @@ Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & 
 
 Im Folgenden eine Übersicht:
 
-1. [GSR e.V. Public Events](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion) - Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen
-2. [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion) (1 Tag, 5 Musik-Workshops, 1 Abschlusskonzert)
-3. [Spektralkombüse](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese) - Erfahrbare Inklusion durch Musik, Tanz und Kabarett von/mit Kassandra Wedel, Martin Fromme und Mischa Gohlke Band
-4. [Konzert, Workshop & Talk von/mit der Mischa Gohlke Band](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band)
-5. [Workshops, Seminare & Vorträge](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
+1. [**GSR e.V. Public Events**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion)
+
+   Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen: Das Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, das aus 3 Säulen besteht: Bühnenprogramm, Network-Area und interaktive Erlebniswelten.
+2. [**Celebrate the music **](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion)
+
+   Mit offenen Workshoprunden (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining), Band-Clashes und Abschlusskonzerten schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
+3. [**Spektralkombüse**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
+
+   Erfahrbare Inklusion durch Musik, Tanz und Kabarett von/mit Kassandra Wedel, Martin Fromme und Mischa Gohlke Band
+4. [**Konzert, Workshop & Talk von/mit der Mischa Gohlke Band**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band)
+
+   Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
+5. [**Workshops, Seminare & Vorträge**](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/workshops-seminare-vortraege/allgemeine-infos-workshops-seminare-vortrage)
+
+   „Grenzen sind relativ e.V.“ - Initiator & Projektleiter Mischa Gohlke hält Vorträge und gibt Workshops und Seminare u.a. zu: Musikunterricht für Hörgeschädigte, Musik, multisensorische Wahrnehmungen & gesamtgesellschaftliche Inklusion, Projekt- & Veranstaltungsmanagement, ...
 
 Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Projektteam, PR- & Öffentlichkeitsarbeit, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Budget, Möglichkeiten, usw. - individuell ausarbeiten und umsetzen.
 
