@@ -67,3 +67,5 @@ c) Diverse Synergien, Multiplikatoren, Folgeprozesse, persönliche und kollektiv
 Übrigens: Inklusion ist keine Spezialkonvention für Menschen mit formal anerkannter Behinderung, sondern die Konkretisierung der universellen Menschenrechte!
 
 Alles weitere im direkten [Kontakt](https://www.grenzensindrelativ.de/kontakt). :)
+
+<video-gallery class="wide px-12 lg:px-24" name="startseite-video-galerie"></video-gallery>
