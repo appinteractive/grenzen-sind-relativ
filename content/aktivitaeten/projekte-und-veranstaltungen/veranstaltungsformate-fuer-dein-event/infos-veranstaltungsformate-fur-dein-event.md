@@ -42,7 +42,7 @@ Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenpr
 
 **Grenzen sind relativ e.V. - Aktionsbüro für eine multipolare Gesellschaftskultur**
 
-Initiiert wurde unser Verein von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager Mischa Gohlke. Weiter wirken im Vereins-Team mehrere professionelle Kulturschaffende, Projekt- & Veranstaltungsmanager:innen, Künstler:innen, Promoter:innen und Campaigner:innen mit. Zudem kann der Verein auf ein großes Netzwerk, u.a. in den Bereichen Künstler:innenkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
+Initiiert wurde unser Verein von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager Mischa Gohlke. Weiter wirken im [Vereins-Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) mehrere professionelle Kulturschaffende, Projekt- & Veranstaltungsmanager:innen, Künstler:innen, Promoter:innen und Campaigner:innen mit. Zudem kann der Verein auf ein großes Netzwerk, u.a. in den Bereichen Künstler:innenkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
 
 Gerne bringen wir uns in folgende Arbeitsbereiche mit ein:
 
