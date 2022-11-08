@@ -1,6 +1,6 @@
 ---
 teaser: "/media/2022/10/celebrate-the-music-20-08_web_trockendock_2_12_web-final.png"
-title: "“Celebrate the music - Come together” // Fr. 02.12. 22 Trockendock e.V."
+title: "“Celebrate the music - Come together” // Fr. 02.12.22 Trockendock e.V."
 description: "Werdet Teil einer ganz besonderen Veranstaltung!\nDie Staatliche Jugendmusikschule
   Hamburg, Trockendock e.V. & Grenzen sind relativ e.V. laden ein zu:  \n\nCelebrate
   the music - Come together!\nFreitag, 02. Dezember 2022 von 16.00 bis 20.00 Uhr.
