@@ -31,7 +31,7 @@ Daraus entsteht ein hochwertiges Gesamtkonzept, bei dem interdisziplinär Künst
 
 Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkenden Künstler*innen werden in verschiedensten Kollaborationen exklusive Performances auf die Bühne zaubern, die so noch nie so gesehen, gehört und erlebt worden sind.
 
-Das Veranstaltungsformat schafft eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt Thematiken wie [gesamtgesellschaftliche Inklusion, interdisziplinäre Kultur und Dialog & Miteinander](https://www.grenzensindrelativ.de/ueber-uns/mission-und-vision) auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um geile Musik, Kunst und Begegnungen!
+Das Veranstaltungsformat schafft eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt Thematiken wie [gesamtgesellschaftliche Inklusion, interdisziplinäre Kultur und Dialog & Miteinander](https://www.grenzensindrelativ.de/ueber-uns/mission-und-vision) auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um Musik, Kunst und Begegnungen!
 
 **Grenzen sind relativ e.V. als Anlaufstelle und Co-Veranstalter**
 
