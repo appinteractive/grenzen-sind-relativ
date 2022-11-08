@@ -38,13 +38,13 @@ Wir laden euch Veranstalter:innen, Agenturen, Institutionen, Sportvereine, Behö
 
    „Grenzen sind relativ e.V.“ - Initiator & Projektleiter Mischa Gohlke hält Vorträge und gibt Workshops und Seminare u.a. zu: Musikunterricht für Hörgeschädigte, Musik, multisensorische Wahrnehmungen & gesamtgesellschaftliche Inklusion, Projekt- & Veranstaltungsmanagement, ...
 
-**Grenzen sind relativ e.V. als Anlaufstelle und Co-Veranstalter:**
-
-Initiiert wurde der Verein von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager Mischa Gohlke. Weiter wirken im Vereins-Team mehrere professionelle Kulturschaffende, Projekt- & Veranstaltungsmanager:innen, Künstler:innen, Promoter:innen und Campaigner:innen mit. Zudem kann der Verein auf ein großes Netzwerk, u.a. in den Bereichen Künstler:innenkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
-
 Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Projektteam, PR- & Öffentlichkeitsarbeit, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Budget, Möglichkeiten, usw. - individuell ausarbeiten und umsetzen.
 
-**Gerne bringen wir uns in folgende Arbeitsbereiche mit ein:**
+**Grenzen sind relativ e.V. - Aktionsbüro für eine multipolare Gesellschaftskultur**
+
+Initiiert wurde unser Verein von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager Mischa Gohlke. Weiter wirken im Vereins-Team mehrere professionelle Kulturschaffende, Projekt- & Veranstaltungsmanager:innen, Künstler:innen, Promoter:innen und Campaigner:innen mit. Zudem kann der Verein auf ein großes Netzwerk, u.a. in den Bereichen Künstler:innenkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
+
+Gerne bringen wir uns in folgende Arbeitsbereiche mit ein:
 
 1. Strat. Veranstaltungskonzeption
 2. Kreierung/Booking Rahmenprogramm (Bands, Kabarettisten, Tanz- & Theatergruppen, Dozenten, Speaker, Talkgäste, Moderatoren, Kunstausstellung, Network-Area, etc.)
