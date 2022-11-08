@@ -21,7 +21,7 @@ Im Folgenden eine Übersicht:
 1. [**GSR e.V. Public Events**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion)
 
    Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen: Das Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, das aus 3 Säulen besteht: Bühnenprogramm, Network-Area und interaktive Erlebniswelten.
-2. [**Celebrate the music **](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion)
+2. [**Celebrate the music**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion)
 
    Mit offenen Workshoprunden (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining), Band-Clashes und Abschlusskonzerten schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 3. [**Spektralkombüse**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
