@@ -82,7 +82,7 @@ Hier findet ihr weitere Informationen zum **Veranstaltungsablauf:**
 
 Parallel zu den offenen Workshoprunden findet der **Songschmiede-Workshop mit Gerd Bauder sowie das Band-Clash** statt.
 
-Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view)  an **produktion@grenzensindrelativ.de**.
+Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1kESDqSLUX7n6k_S9B2JDre37SvlP85Cm/view?usp=sharing)  an **produktion@grenzensindrelativ.de**.
 
 Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 35 Menschen begrenzt ist.
 
