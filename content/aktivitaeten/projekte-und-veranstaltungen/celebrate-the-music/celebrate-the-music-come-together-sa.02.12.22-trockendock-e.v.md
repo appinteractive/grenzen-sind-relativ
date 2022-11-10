@@ -50,7 +50,7 @@ In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen
 
 _Offene Workshoprunde 4: Bandtraining (_[_Dave Alleckna_](https://alleckna.de/) _&_ [_Mischa Gohlke_](https://mischagohlkeband.de/)_)_
 
-Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhälst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
+Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhältst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
 
 Parallel zum offenen Workshop-Angebot findet der **Songschmiede-Workshop mit** [**Gerd Bauder** ](https://www.jamliner.net/author/gerbau/)statt. Wir wollen in diesem Workshop eigene Ideen kreativ in Musik umsetzen. Im Bandformat - jeder wird ein Bandinstrument (Schlagzeug, Gitarre, Keyboard etc.) ausprobieren und spielen -  werden wir gemeinsam einen Song „auf die Beine stellen“, um ihn live auf der Bühne zu präsentieren. Rap, Sounds, Gesang: bringt eigene Ideen (Texte, Gedanken, Schlagworte, Melodien) mit. Wir basteln daraus einen Song. Vorkenntnisse an einem Instrument benötigt ihr nicht. Seid einfach ihr selbst.
 
@@ -86,8 +86,8 @@ Bitte schickt das ausgefüllte[ ]()[Anmeldeformular ](https://drive.google.com/f
 
 Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 35 Menschen begrenzt ist.
 
-Bei weiteren Fragen wendet euch an Fabia Mekus: produktion@grenzensindrelativ.de  
-  
+Bei weiteren Fragen wendet euch an Fabia Mekus: produktion@grenzensindrelativ.de
+
 Gefördert von:
 
 ![](/media/2022/11/2022-11-02-12-02-14-676-removebg-preview.png)
