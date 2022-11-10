@@ -60,7 +60,7 @@ Alexandra arbeitet mit Kunden auf der ganzen Welt zusammen und hilft tourenden K
 
 Alexandra liebt Katzen, Yoga, Wein und Reisen.
 
-### **Oded Kafri** (Drum the world)
+### **Oded Kafri** (Drum-Circle)
 
 ![](/media/2022/04/oded-kafri-foto.png)Schlagzeuger [Oded Kafri](https://odedkafri.com/) ist ein Solokünstler, ein One-Man-Party- und YouTube-Phänomen mit über einer Million Clicks. Er hat seine Bühnen- und Straßenshows auf der ganzen Welt gemacht und spielte auf einigen der größten Festivals und in Clubs in vielen verschiedenen Regionen. Um nur ein paar zu nennen: KOKO London, Greenman Festival UK, Namm Show California, World Percussion Festival New Delhi und Earth Garden Festival Malta. Er nimmt seine Zuhörer mit auf eine nahtlose und energiegeladene Reise, auf der man tanzen und seine Fähigkeiten bewundern kann. Während dessen mischt er Styles im eitlen Stil eines DJs und gibt dem Publikum als „DJ Of The Drums“ ein Live-Musikerlebnis.
 
