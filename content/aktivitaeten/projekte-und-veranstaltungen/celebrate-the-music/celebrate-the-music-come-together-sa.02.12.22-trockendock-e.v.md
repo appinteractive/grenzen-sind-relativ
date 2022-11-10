@@ -36,19 +36,19 @@ Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen
 
 In der **offenen Workshoprunde** erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen:
 
-_Workshop 1: Drumcircle (Oded Kafri)_
+_Offene Workshoprunde 1: Drumcircle (Oded Kafri)_
 
 Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzen kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
 
-_Workshop 2: Body Rhythm (Ben Schütz)_
+_Offene Workshoprunde 2: Body Rhythm (Ben Schütz)_
 
 Hier bekommst Du einen Einblick in die Welt der Body Percussion – der Verbindung von Rhythmus, Bewegung und Stimme. Mit Spielen und Übungen bereiten wir uns vor, um im Anschluss eine kurze Choreografie zu erlernen. Bodypercussion ermöglicht es uns, den eigenen Körper im Fluss der Musik zu spüren und gleichzeitig mit anderen in Kontakt zu treten.
 
-_Workshop 3: Stimme & Chor (Alexandra Pengler)_
+_Offene Workshoprunde 3: Stimme & Chor (Alexandra Pengler)_
 
 In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, jeder ist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
-_Workshop 4: Bandtraining (Dave Alleckna & Mischa Gohlke)_
+_Offene Workshoprunde 4: Bandtraining (Dave Alleckna & Mischa Gohlke)_
 
 Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhälst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
 
@@ -62,23 +62,25 @@ Hier findet ihr weitere Informationen zum **Veranstaltungsablauf:**
 
 16:00 - 16:30 Uhr - Eröffnung und Begrüßung
 
-16:35 - 17:05 Uhr - Workshop 1
+16:35 - 17:05 Uhr - offene Workshoprunde 1
 
 17:05 - 17:15 Uhr - Pause
 
-17:15 - 17:45 Uhr - Workshop 2
+17:15 - 17:45 Uhr - offene Workshoprunde 2
 
 17:45 - 17:55 Uhr - Pause
 
-17:55 - 18:25 Uhr - Workshop 3
+17:55 - 18:25 Uhr - offene Workshoprunde 3
 
 18:25 - 18:35 Uhr - Pause
 
-18:35 - 19:05 Uhr - Workshop 4
+18:35 - 19:05 Uhr - offene Workshoprunde 4
 
 19:05 - 19:15 Uhr - Pause
 
 19:15 - 20:00 Uhr - Abschlusskonzert
+
+Parallel zu den offenen Workshoprunden findet der **Songschmiede-Workshop mit Gerd Bauder sowie das Band-Clash** statt.
 
 Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view)  an **produktion@grenzensindrelativ.de**.
 
