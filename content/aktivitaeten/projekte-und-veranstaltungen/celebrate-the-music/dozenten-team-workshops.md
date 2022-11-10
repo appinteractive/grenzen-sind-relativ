@@ -52,7 +52,7 @@ Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals
 
 ![](/media/2022/11/whatsapp-image-2022-11-10-at-10-26-28-am.jpeg)
 
-Alexandra unterrichtet Gesang am BIMM Institut Hamburg. Sie studierte Rock/Pop/Jazz-Gesang bei Udo Dahmen, dem Gründer der Popacademie in Mannheim, Deutschland.
+Alexandra unterrichtet Gesang am BIMM Institut Hamburg. Sie studierte Rock/Pop/Jazz-Gesang bei Udo Dahmen, dem Gründer der Popakademie in Mannheim, Deutschland.
 
 Alexandra ist seit 2000 aktive Sängerin und Vocal Coach in Hamburg, Deutschland. Außerdem lebte sie 15 Jahre in Irland, Schweden und Dänemark. Als Regional Coordinator Europe am Institute for Vocal Advancement (IVA) entwickelt sie gemeinsam ständig ihre eigene Stimme weiter mit Stimmtrainern wie Wendy Parr (Regina Spektor, Sara Bareilles und Rob Stevenson (Rihanna, Justin Timberlake).
 
