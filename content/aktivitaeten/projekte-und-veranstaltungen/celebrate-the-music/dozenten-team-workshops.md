@@ -48,6 +48,18 @@ Mit seiner “Mischa Gohlke Band” spielte er bereits auf zahlreichen Festivals
 
 > _Musik ist eine universelle Sprache, die fast alle Menschen berührt. Musik bedeutet, Gefühle zuzulassen, kreativ zu sein und mit anderen Menschen in Verbindung zu treten. Musik ist mehr als nur die Summe von wahrgenommenen Tönen, sondern Ausdruck der Persönlichkeit und eine Erweiterung des Lebens._
 
+### **Alexandra Pengler** (Stimme & Chor)
+
+![](/media/2022/11/whatsapp-image-2022-11-10-at-10-26-28-am.jpeg)
+
+Alexandra unterrichtet Gesang am BIMM Institut Hamburg. Sie studierte Rock/Pop/Jazz-Gesang bei Udo Dahmen, dem Gründer der Popacademie in Mannheim, Deutschland.
+
+Alexandra ist seit 2000 aktive Sängerin und Vocal Coach in Hamburg, Deutschland. Außerdem lebte sie 15 Jahre in Irland, Schweden und Dänemark. Als Regional Coordinator Europe am Institute for Vocal Advancement (IVA) entwickelt sie gemeinsam ständig ihre eigene Stimme weiter mit Stimmtrainern wie Wendy Parr (Regina Spektor, Sara Bareilles und Rob Stevenson (Rihanna, Justin Timberlake).
+
+Alexandra arbeitet mit Kunden auf der ganzen Welt zusammen und hilft tourenden Künstlern, ihr höchstes stimmliches Potenzial zu erreichen. Sie liebt es, Trailermusik für Produktionen wie Six Feet Under (HBO), eine amerikanische Fernsehserie, in Zusammenarbeit mit ihrem Produktionsteam von Proofsound Music Productions in Kopenhagen, Dänemark, und Sonic Librarian in Los Angeles, Kalifornien, zu singen.
+
+Alexandra liebt Katzen, Yoga, Wein und Reisen.
+
 ### **Oded Kafri** (Drum the world)
 
 ![](/media/2022/04/oded-kafri-foto.png)Schlagzeuger [Oded Kafri](https://odedkafri.com/) ist ein Solokünstler, ein One-Man-Party- und YouTube-Phänomen mit über einer Million Clicks. Er hat seine Bühnen- und Straßenshows auf der ganzen Welt gemacht und spielte auf einigen der größten Festivals und in Clubs in vielen verschiedenen Regionen. Um nur ein paar zu nennen: KOKO London, Greenman Festival UK, Namm Show California, World Percussion Festival New Delhi und Earth Garden Festival Malta. Er nimmt seine Zuhörer mit auf eine nahtlose und energiegeladene Reise, auf der man tanzen und seine Fähigkeiten bewundern kann. Während dessen mischt er Styles im eitlen Stil eines DJs und gibt dem Publikum als „DJ Of The Drums“ ein Live-Musikerlebnis.
