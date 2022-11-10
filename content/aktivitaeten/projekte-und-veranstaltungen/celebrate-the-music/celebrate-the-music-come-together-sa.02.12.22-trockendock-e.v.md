@@ -80,14 +80,16 @@ Hier findet ihr weitere Informationen zum **Veranstaltungsablauf:**
 
 19:15 - 20:00 Uhr - Abschlusskonzert
 
-Parallel zu den offenen Workshoprunden findet der **Songschmiede-Workshop mit Gerd Bauder sowie das Band-Clash** statt.
+Parallel zu den offenen Workshoprunden findet der **Songschmiede-Workshop mit** [**Gerd Bauder**](https://www.jamliner.net/author/gerbau/) **sowie das Band-Clash mit** [**Dirk Bleese** ](www.dirkbleese.de/bio/)statt.
 
+  
 Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1kESDqSLUX7n6k_S9B2JDre37SvlP85Cm/view?usp=sharing)  an **produktion@grenzensindrelativ.de**.
 
 Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 35 Menschen begrenzt ist.
 
 **Bei weiteren Fragen wendet euch an Fabia Mekus: produktion@grenzensindrelativ.de**
 
-_Gefördert von_
+_  
+Gefördert von_
 
 ![](/media/2022/11/2022-11-02-12-02-14-676-removebg-preview.png)
