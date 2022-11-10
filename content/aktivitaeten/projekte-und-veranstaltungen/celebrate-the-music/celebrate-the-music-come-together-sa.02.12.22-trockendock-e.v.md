@@ -86,7 +86,7 @@ Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d
 
 Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 35 Menschen begrenzt ist.
 
-**Bei weiteren Fragen wendet euch an Fabia Mekus, produktion@grenzensindrelativ.de**
+**Bei weiteren Fragen wendet euch an Fabia Mekus: produktion@grenzensindrelativ.de**
 
 _Gefördert von_
 
