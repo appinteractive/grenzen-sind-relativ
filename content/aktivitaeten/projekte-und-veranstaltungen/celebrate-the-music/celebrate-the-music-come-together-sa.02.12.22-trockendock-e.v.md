@@ -44,7 +44,7 @@ _Offene Workshoprunde 2: Body Rhythm (_[_Ben Schütz_](https://www.bodyrhythm.de
 
 Hier bekommst Du einen Einblick in die Welt der Body Percussion – der Verbindung von Rhythmus, Bewegung und Stimme. Mit Spielen und Übungen bereiten wir uns vor, um im Anschluss eine kurze Choreografie zu erlernen. Bodypercussion ermöglicht es uns, den eigenen Körper im Fluss der Musik zu spüren und gleichzeitig mit anderen in Kontakt zu treten.
 
-_Offene Workshoprunde 3: Stimme & Chor (Alexandra Pengler)_
+_Offene Workshoprunde 3: Stimme & Chor (_[_Alexandra Pengler_](https://alexandrapengler.com/)_)_
 
 In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, jeder ist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
@@ -82,7 +82,6 @@ Hier findet ihr weitere Informationen zum **Veranstaltungsablauf:**
 
 Parallel zu den offenen Workshoprunden findet der **Songschmiede-Workshop mit** [**Gerd Bauder**](https://www.jamliner.net/author/gerbau/) **sowie das Band-Clash mit** [**Dirk Bleese** ](www.dirkbleese.de/bio/)statt.
 
-  
 Bitte schickt das ausgefüllte [Anmeldeformular](https://drive.google.com/file/d/1kESDqSLUX7n6k_S9B2JDre37SvlP85Cm/view?usp=sharing)  an **produktion@grenzensindrelativ.de**.
 
 Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 35 Menschen begrenzt ist.
