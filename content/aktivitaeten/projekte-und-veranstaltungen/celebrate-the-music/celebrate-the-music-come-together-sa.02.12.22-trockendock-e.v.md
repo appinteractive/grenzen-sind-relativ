@@ -36,11 +36,11 @@ Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen
 
 In der **offenen Workshoprunde** erlebt Ihr alle Elemente, um gemeinsam in einer Band zu spielen:
 
-_Offene Workshoprunde 1: Drumcircle (Oded Kafri)_
+_Offene Workshoprunde 1: Drumcircle (_[_Oded Kafri_](https://odedkafri.com/)_)_
 
 Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzen kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
 
-_Offene Workshoprunde 2: Body Rhythm (Ben Schütz)_
+_Offene Workshoprunde 2: Body Rhythm (_[_Ben Schütz_](https://www.bodyrhythm.de/team)_)_
 
 Hier bekommst Du einen Einblick in die Welt der Body Percussion – der Verbindung von Rhythmus, Bewegung und Stimme. Mit Spielen und Übungen bereiten wir uns vor, um im Anschluss eine kurze Choreografie zu erlernen. Bodypercussion ermöglicht es uns, den eigenen Körper im Fluss der Musik zu spüren und gleichzeitig mit anderen in Kontakt zu treten.
 
@@ -48,7 +48,7 @@ _Offene Workshoprunde 3: Stimme & Chor (Alexandra Pengler)_
 
 In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, jeder ist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
 
-_Offene Workshoprunde 4: Bandtraining (Dave Alleckna & Mischa Gohlke)_
+_Offene Workshoprunde 4: Bandtraining (_[_Dave Alleckna_](https://alleckna.de/) _&_ [_Mischa Gohlke_](https://mischagohlkeband.de/)_)_
 
 Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhälst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
 
