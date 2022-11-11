@@ -30,9 +30,7 @@ Ihr könnt zwischen der **offenen Workshoprunde** mit _Drumcircle, Body Rhythm, 
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem **Band-Clash**, der **Songschmiede** und dem **gemeinsamen Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
-Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: [Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops), [Gerd Bauder](https://www.jamliner.net/author/gerbau/) und [Dirk Bleese](https://www.dirkbleese.de/bio/). Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können.
-
-**Bei “Celebrate the music” sind alle Lehrende und Lernende.**
+Das **Dozent:innen-Team** besteht aus erfahrenen und passionierten Musiker:innen: [Mischa Gohlke, David Alleckna, Oded Kafri, Alexandra Pengler, Ben Schütz](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops), [Gerd Bauder](https://www.jamliner.net/author/gerbau/) und [Dirk Bleese](https://www.dirkbleese.de/bio/). Diese haben bereits mit Größen wie Phil Collins, Udo Lindenberg, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. Bei “Celebrate the music” sind alle Lehrende und Lernende**.**
 
 **Let´s celebrate the music and come together!**
 
