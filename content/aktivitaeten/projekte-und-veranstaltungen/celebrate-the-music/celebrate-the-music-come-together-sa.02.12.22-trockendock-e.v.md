@@ -24,7 +24,9 @@ Ihr seid zwischen **12 und 25 Jahren**, **liebt Musik** und wolltet unbedingt sc
 
 Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule), das [Trockendock e.V.](http://www.trockendock-hamburg.de/) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte bei einer ganz besonderen Veranstaltung mitzumachen.
 
-Meldet euch [HIER ](https://drive.google.com/file/d/1PEgfJcBKxDG2hVeONh7BObNmC0yF01XQ/view?usp=sharing)zu unserer Veranstaltung an! Ihr könnt zwischen der **offenen Workshoprunde** mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ und dem **Songschmiede-Workshop** wählen! Die Teilnahme ist **kostenlos**.
+Meldet euch [HIER ](https://drive.google.com/file/d/1PEgfJcBKxDG2hVeONh7BObNmC0yF01XQ/view?usp=sharing)zu unserer Veranstaltung an!   
+  
+Ihr könnt zwischen der **offenen Workshoprunde** mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ und dem **Songschmiede-Workshop** wählen! Die Teilnahme ist **kostenlos**.
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem **Band-Clash**, der **Songschmiede** und dem **gemeinsamen Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
