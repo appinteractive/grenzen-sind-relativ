@@ -24,8 +24,8 @@ Ihr seid zwischen **12 und 25 Jahren**, **liebt Musik** und wolltet unbedingt sc
 
 Die [Staatliche Jugendmusikschule Hamburg](http://www.hamburg.de/jugendmusikschule), das [Trockendock e.V.](http://www.trockendock-hamburg.de/) und [Grenzen sind relativ e.V.](http://www.grenzensindrelativ.de) laden Musikbegeisterte und Interessierte bei einer ganz besonderen Veranstaltung mitzumachen.
 
-Meldet euch [HIER ](https://drive.google.com/file/d/1PEgfJcBKxDG2hVeONh7BObNmC0yF01XQ/view?usp=sharing)zu unserer Veranstaltung an!   
-  
+Meldet euch [HIER z](https://bit.ly/3tts5E8)u unserer Veranstaltung an!
+
 Ihr könnt zwischen der **offenen Workshoprunde** mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ und dem **Songschmiede-Workshop** wählen! Die Teilnahme ist **kostenlos**.
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), dem **Band-Clash**, der **Songschmiede** und dem **gemeinsamen Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
@@ -82,7 +82,7 @@ Hier findet ihr weitere Informationen zum **Veranstaltungsablauf:**
 
 Parallel zu den offenen Workshoprunden findet der **Songschmiede-Workshop mit** [**Gerd Bauder**](https://www.jamliner.net/author/gerbau/) **sowie das Band-Clash mit** [**Dirk Bleese** ](www.dirkbleese.de/bio/)statt.
 
-Bitte schickt das ausgefüllte[ ]()[Anmeldeformular ](https://drive.google.com/file/d/1PEgfJcBKxDG2hVeONh7BObNmC0yF01XQ/view?usp=sharing)(PDF erst nach dem Herunterladen ausfüllbar) an **produktion@grenzensindrelativ.de**.
+Bitte schickt das ausgefüllte[ ]()[Anmeldeformular ](https://bit.ly/3tts5E8)(PDF erst nach dem Herunterladen ausfüllbar) per Mail an **produktion@grenzensindrelativ.de**.
 
 Eine zeitnahe Anmeldungen wird empfohlen, da die Teilnehmer*Innen-Anzahl auf 35 Menschen begrenzt ist.
 
