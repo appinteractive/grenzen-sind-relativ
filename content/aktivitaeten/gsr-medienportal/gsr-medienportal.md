@@ -72,4 +72,4 @@ Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der D
 
 Für die großzügige Unterstützung geht unser Dank an die "KULTUR.GEMEINSCHAFTEN".
 
-![](/media/2021/10/gsr-social-media-channel_forderlogos-kompakt.jpg)
+![](/media/2022/11/logos-kulturgemeinschaften_gsr_medienportal.jpg)
