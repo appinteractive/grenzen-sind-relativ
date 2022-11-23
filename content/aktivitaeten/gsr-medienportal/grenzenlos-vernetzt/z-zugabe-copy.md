@@ -1,59 +1,38 @@
 ---
-teaser: "/media/2022/08/z-zugabe-01.jpg"
-title: z - zugabe -(copy)
-description: 'Ick mach Welle. Das Licht geht aus und erweckt dabei ein Duzend bunte,
-  kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set.
-  Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck
-  Dävil“ wahrhaftig erscheinen. '
+teaser: "/media/2022/11/t-tasttanz-01.jpg"
+title: t - tasttanz
+description: |-
+  Manchmal ist eine Idee wie eine schwebende Kugel, die ihren Weg gefunden hat. “Dann kommt so ein denkwürdiger Moment, der sie vor dir erscheinen lässt. Und musst sie nicht
+  voran schieben, sie schiebt dich.” Frank Hoffmann erschien eine dieser Kugeln an einem Novembermorgen im Jahr 2005 unter seiner Dusche.
 wide: false
 gallery: []
 alias: ''
 accessible: ''
 
 ---
-# z - zugabe
+# t - tasttanz
 
-## Ick mach Welle
+## discovering hands
 
-Das Licht geht aus und erweckt dabei ein Dutzend bunte, kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set. Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck Dävil“ wahrhaftig erscheinen. Um ihn und die weiteren Musiker an den Decks erwächst die Atmosphäre eines Underground-Raves. So wie die weiße Morgenblüte auf gewaltigen Gebirgen, sprenkeln helle Töneüber den wallenden Bass. Fast scheint es unmöglich, diese Klanglandschaft zu erwandern.
+Manchmal ist eine Idee wie eine schwebende Kugel, die ihren Weg gefunden hat. “Dann kommt so ein denkwürdiger Moment, der sie vor dir erscheinen lässt. Und musst sie nicht voran schieben, sie schiebt dich.” Frank Hoffmann erschien eine dieser Kugeln an einem Novembermorgen im Jahr 2005 unter seiner Dusche. Der Ort, an dem man Ideen erlaubt, zu einem zu kommen. “Ich wusste im selben Moment, dass das funktionieren wird. Und ich dachte: Die Idee ist so gut - die muss doch schon mal einer gehabt haben!” Mit dem Handtuch um die Hüfte stürzte der Doktor also raus aus dem Nass und rein in die Recherche. Die Kugel war jetzt nicht mehr aufzuhalten.
 
-„Bläck Dävil“, der außerhalb des Studios Werner heißt, tippt gekonnt auf den Armaturen rum: Er steuert die Musik über Schalter und Knöpfe wie ein durch die Tiefen des Weltraums rasendes Schiff. Der Druck der bassigen Wellen schiebt die Klänge einem Raumschiffantrieb gleich quer durch den Raum. Die Begleitmusiker ziehen an ihren Reglern wie eingesogen mit. „Bass so wie Amboss und Hammer. Industriell.“ - so Werner’s Selbstbeschreibung.
+![](/media/2022/11/01-1.jpg)
 
-![](/media/2022/08/01-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-01.jpg)
+Heute wird seine Idee bundesweit als discovering hands umgesetzt und könnte zukünftig flächendeckend und international zur Brustgesundheit beitragen. Denn Dr. Frank Hoffmann ist Gynäkologe und entwickelte zusammen mit weiblichen Personen mit Sehbeeinträchtigung eine Methode zur Brustkrebsvorsorge. Blinde Tasterinnen, sogenannte MTUs, verfügen über einen außergewöhnlichen Tastsinn und können kleinste Knötchen im Brustgewebe ertasten.
 
-Der ganze Raum scheint von seinem Studioauftritt heute überrascht, denn dies ist sein erster Auftritt seit einem Jahr. In drei Wochen wird er das erste Mal wieder live auf einer Bühne performen. Beim Live-Set hat er nur ein paar feste Teile, die vorher geübt werden, - der Rest wird improvisiert. „Werner ist ein guter Freestyler am Mixer“ sagt Dave, einer der Musiker, die Werner begleiten, während sie zusammen spielen.
+Das Vorgehen der Tasterinnen ist systematisiert. Und im wahrsten Sinne sinnorientiert. Ihre Finger orientieren sich beim Tasten an speziellen Klebestreifen, die ein Koordinatensystem auf die Brust legen. Zeile für Zeile wird jeder Punkt auf den Achsen in ertastet. Sanft wird so die Gewebestruktur mit der Fingerkuppe untersucht. Drei Schritte nach vorne, drei Schritte zurück. Das ist der “MTU-Walzer”. Langsam und gezielt erwandert der Finger die weiche Haut. Zwei Schritte vor, einen zur Seite.![](/media/2022/11/02-1.jpg)
 
-Es entsteht ein kurzes Gespräch zwischen Werner und Dave. Das einzige, welches sie während ihrer immersiven Performance führen.
+Für viele Menschen mit weiblicher Brust ist die Beziehung zu dieser von schwierigen Erfahrungen geprägt. Oft fällt es schwer, sich für eine Untersuchung frei zu machen, sich fremden Händen hinzugeben. Auf den Liegen in den Räumen von discovering hands können sich viele das erste mal in einer solchen Untersuchung entspannen. Mit der visuellen Komponente fallen auch manche Hemmungen. Außerdem können sich die MTU’s bis zu eine Stunde Zeit für die Behandlung nehmen. Eine reguläre Abtastung dauert dagegen eine bis drei Minuten. Der Unterschied ist entscheidend für eine genaue Untersuchung. “Ich konnte mit der Untersuchung, die ich leisten konnte als Gynäkologe, Aussagen wie “alles gut, Sie sind gesund” nicht mehr verantworten”, sagt Frank Hoffmann. Außerdem können manche Themen auch erst nach einer Stunde angesprochen werden.
 
-Dave: „Harter Bass, dreamy Sound, bisschen drüber - typisch Werner. So gut!“
+![](/media/2022/11/03-1.jpg)
 
-Werner: „Wenn’s dir gefällt - spiel du doch meinen Song“
+Die Methode verspricht allerdings nicht nur für die Patientinnen viel. discovering hands birgt auch ein wichtiges Potential als Inklusionsunternehmen. “Ich dachte, es wäre unmöglich für mich, im medizinischen Bereich zu arbeiten. Als MTU arbeite ich aus meiner Kompetenz heraus und konkurrenzlos, da der Job nur für weibliche Personen ohne Sehsinn machbar ist”, sagt Mareike. Sie tastet im Berliner Zentrum von discovering hands. Drei Millimeter. Das ist die Knötchengröße, die die blinden Tasterinnen erspüren. Gynäkolog:innen entdecken dagegen nur bis zu fünf Millimeter kleine Veränderungen. In der Zeit von drei bis fünf Millimeter kann der Krebs bereits in den Körper streuen. Diese Streuung ist lebensgefährlich.
 
-Dave: „Ja, und dann geb ich an, dass es meiner ist.“ Werner: „Jo.“
+![](/media/2022/11/04.jpg)
 
-![](/media/2022/08/02-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-02.jpg)
+“Allein in Deutschland gibt es 70.000 Fälle von Brustkrebs im Jahr. Das muss doch Ansporn genug sein”, sagt Dirk Müller-Atzerodt, der das Zentrum in Berlin leitet. Dennoch ist es schwer, die großen Krankenkassen ins Boot zu holen. “Es ist wie Segeln im Nebel”. Dabei ist es auch für die Kassen vorteilhaft, wenn die Vorsorge verbessert wird und weniger Menschen mit weiblicher Brust erkranken. Entmutigen lässt sich das Team von discovering hands jedenfalls nicht. Der Antrieb ist stark, wenn man weiß, dass man das Richtige tut. Sie wollen expandieren, haben Pilotprojekte in Indien und weiteren Nationen. Frank Hoffmann ist sich sicher: “Wir kreieren etwas, was uns überleben wird”.
 
-Die Musiker, die selbst Autodidakten sind und ihn hier begleiten, stehen bei seinen Live-Performances nicht mit auf der Bühne. Für eine halbe Stunde spielt er dann allein. Damit ist ein Ziel des Projektes „Ick Mach Welle“ mit den Künstler erreicht worden. Das 2018 durch Fundraising und mit Unterstützung des Berliner Musiklabel KilleKill sowie der Lebenshilfe gegründete Musikprojekt möchte den Zugang zu elektronischer Musik erleichtern und Künstler:innen mit Behinderungen auf dem Weg zur Unabhängigkeit begleiten. Durch wöchentliche Workshops sollen sich die Teilnehmenden die nötigen Fähigkeiten erarbeiten können, um dann auf eigenen Synthesizern weiterzuspielen. Die konkreten Zielsetzungen, wie das Ermöglichen von Auftritten und die Produktion eines eigenen Albums, machen das Projekt zu mehr als einem Freizeitangebot. Für Werner und viele andere ist es das einzige Projekt, welches ihnen eine künstlerische Perspektive für ihr Bedürfnis, sich musikalisch auszurücken, geben kann.
-
-![](/media/2022/08/03-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-04.jpg)
-
-Ein Traum des Projektes wäre es, dafür ein eigenes Label zu gründen. Hier zeigt sich einer Herausforderung, die wohl jedem Projekt früher oder später oft den Weg erschwert: die Finanzierungsproblematik. Die Workshops wurden bisher von Förderprogrammen der Aktion Mensch übernommen, welche immer gute Anlaufstellen für finanzielle Unterstützung in Projekten seien. Die Musikproduktion wird vom MusicBoard unterstützt.
-
-„Ick sag mal so: Wenn das Tomorrowland mich fragt, ob ich spielen will - dann sag ick nicht nein!”
-
-Bei „Ick mach Welle“ stehen neben Werner noch viele weitere Musiker:innen an den Decks genordet Richtung künstlerische Unabhängigkeit. Doch heute hat Werner das Studio für sich allein. Und er war es auch der durch seine frequentierende Besuche an diversen Veranstaltungen daran beitrug, dass das Projekt entstand. Bei einer Party der Veranstaltungsreihe Spaceship vom späteren „Ick Mach Welle“- Projektmitglied Felix Halischafsky quatschte Werner den eben abgespielten DJ Flush an, und erzählte ihm, dass er auch gerne spielen würde, es aber kaum Möglichkeiten für ihn gäbe.
-
-![](/media/2022/08/04-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-05.jpg)
-
-Daraufhin entstand die Idee der Workshops, wie sie jetzt im Projekt angeboten werden. Gleich dem anfangs noch düstererem Sound, öffnete sich mit der Zeit auch das didaktische Konzept des Angebots. Die gemeinsame Arbeitsstruktur glich immer mehr den fabrizierten Tönen und so entstand eine Arbeitsweise geprägt vom Strukturbruch - experimentell, offen, improvisiert - ohne strikte Lehrplanung. Bald verließen die Projektteilnehmenden die virtuelle Klangwelt um die Welt mit Field-Recordern auf Berliner Baustellen und verlassenen Orten auditiv einzufangen. So konnten die einzigartigen Stile der einzelnen Künstler:innen entstehen.
-
-Für Werner kommt als nächstes das eigene Album - ein Schritt von vielen, die er noch gehen will. Als „Bläck Dävil“ will er unabhängiger Musikproduzent werden, sein eigenes Geld verdienen. Und dabei liegt schon ein weiter Weg hinter ihm. Schon als Kind war ihm klar, dass er entweder Musiker oder Elektriker werden will - in der elektronischen Musik kann er beides verbinden. Mit 14 fing das mit der Musik dann so richtig an. Seine erste Maxi: Scooter. Die Liebe zum Hardstyle-Genre strömt noch durch seine mächtigen Bässe, die er mit luftigen Melodien bemalt. An Musikgenres gefällt ihm am meisten ihre Auflösung - verschobene Grenzen bis zum wüsten Durcheinander. Es entsteht ein Raum, in dem Impulsivität in kreative Energie gewandelt wird. Über das Chaos findet er Ordnung, da er in dem Prozess seinen Emotionen „Auslauf gewähren lassen kann“. Musikproduktion als „Mittel gegen schlechte Laune“. Manchmal produziert er die ganze Nacht durch, sodass er am nächsten Morgen kaum arbeiten kann. Ein Indiz für die Notwendigkeit einer Vollzeittätigkeit als Musiker.
-
-![](/media/2022/08/05-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-03.jpg)
-
-Auch das Auflegen entwickelt für ihn eine ähnliche Heilsamkeit. Er erinnert sich an den ersten Auftritt im Berliner Club Mensch Meier: „Der erste Ton angespielt - Tanze war voll! Meiner Mutter ist die Kinnlade runtergeklappt!“. Schwerbepackt betritt er den Floor nicht nur mit Empfindungen - bei sich hat er auch bis zu hundert Platten. „Ohne Vinyl geht bei mir nix!“ sagt er dazu. Seine Originalität will sich „Bläck Dävil“ auch nicht nehmen lassen. Bekannt sein - ja, gern, aber „wenn jemand sagt: 'Zieh einen roten Pullover an’ - dann mach ich das doch auch nicht. Anders geh ich in der Musik auch nicht vor.“ Trotzdem oder vielleicht gerade deshalb riecht er schon nahen Erfolg.
-
-![](/media/2022/08/06-gsr-ick-mach-welle-maximilian-goedecke-photography-berlin-anika-krbetschek-06.jpg)
+![](/media/2022/11/05.jpg)
 
 ***
 
