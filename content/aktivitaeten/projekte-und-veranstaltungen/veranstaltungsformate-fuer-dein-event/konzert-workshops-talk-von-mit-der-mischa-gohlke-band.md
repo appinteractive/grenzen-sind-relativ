@@ -17,7 +17,7 @@ accessible: ''
 
 [![Mischa Gohlke Band](/media/2018/11/MGB.jpeg)](/media/2018/11/MGB.jpeg) Grenzen sind relativ. Mit Live-Musik, spannenden Workshops und interaktiver Begegnung wird es praktisch erfahrbar(er).
 
-Das Veranstaltungsformat [Konzert, Workshops & Talk und von/mit der Mischa Gohlke Band](/veranstaltungen/konzert-workshop-talkrunde.html) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [gelebte(re) gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html) freisetzen.
+Das Veranstaltungsformat Konzert, Workshops & Talk und von/mit der [Mischa Gohlke Band](https://mischagohlkeband.de/) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [gelebte(re) gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html) freisetzen.
 
 Musik ist ein wunderbares Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken und das Gemeinschaftsgefühl zu stärken.
 
