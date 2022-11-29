@@ -20,7 +20,7 @@ es geht in die #6 und letzte Runde für dieses Jahr. Dieses Mal wollen wir mit E
 
 Wir werden mehrere tolle Live-Musik-Acts auf der Bühne haben und Jam-Session machen. Bereits fest zugesagt haben Jason Foley (Gitarre & Vocals), Dave Alleckna (Bass & Gitarre), Alexandra Pengler (Vocals) und Michael Nick (Cajon) und es werden noch einige weitere wunderbare Musiker*innen dazu kommen. :-)
 
-Ab 22.30 Uhr wird Nick Hohepa (Rock, Pop, Hip-Hop und Raggae) von der “Alte Liebe”-Crew die Bühne rocken.
+Ab 22.30 Uhr wird Nick Hohepa & Band (Rock, Pop, Hip-Hop und Raggae) von der “Alte Liebe”-Crew die Bühne rocken.
 
 Dazu werden wir vor Ort einen Infotisch haben, auf dem ihr gerne Flyer & Broschüren von euren Vereinen, Institutionen, Initiativen, usw. auslegen könnt.
 
