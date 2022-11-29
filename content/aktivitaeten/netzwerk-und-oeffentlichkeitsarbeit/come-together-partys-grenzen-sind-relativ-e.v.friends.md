@@ -16,7 +16,7 @@ accessible: ''
 
 Liebe Mit-Menschen,
 
-es geht in die #6 und letzte Runde für dieses Jahr. Dieses Mal wollen wir mit Euch am Freitag 09.12.22 unsere monatliche Netzwerkparty, kombiniert mit unserer "Grenzen sind relativ e.V." Jahresabschlussfeier und zur Krönung Mischas Geburtstag ab 19 Uhr in der “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) feiern.
+es geht in die #6 und letzte Runde für dieses Jahr. Dieses Mal wollen wir mit Euch am Freitag 09.12.22 unsere monatliche Netzwerkparty, kombiniert mit unserer "Grenzen sind relativ e.V." Jahresabschlussfeier und zur Krönung Mischas Geburtstag ab 19 Uhr in der “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) (rein-) feiern.
 
 Wir freuen uns bereits sehr auf die "multipolare Melange", die wir gemeinsam interaktiv zum Ende des Jahres kreieren werden. 😊
 
