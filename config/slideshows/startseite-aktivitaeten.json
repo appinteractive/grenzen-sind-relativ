@@ -2,16 +2,16 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md",
-      "title": "Come together Party #6 - Grenzen sind relativ e.V. & Friends // Fr. 09.12.22 \"Alte Liebe\" ",
-      "subtitle": "",
-      "image": ""
-    },
-    {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v.md",
       "title": "Jetzt anmelden! Fr. 02.12.22 \"Celebrate the music - Come together!\" ",
       "subtitle": "Die Staatliche Jugendmusikschule Hamburg, das Trockendock e.V. und Grenzen sind relativ e.V. laden Musikbegeisterte und Interessierte bei einer ganz besonderen Veranstaltung mitzumachen.",
       "image": "/media/2022/11/2-12.png"
+    },
+    {
+      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md",
+      "title": "Come together Party #6 - Grenzen sind relativ e.V. & Friends // Fr. 09.12.22 \"Alte Liebe\" ",
+      "subtitle": "",
+      "image": ""
     },
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md",
@@ -32,8 +32,8 @@
       "image": "/media/2022/09/kulture-alive_01-10_facebook-header_jpg-72-dpi.jpg"
     },
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion.md",
-      "title": "Erlebnistage Inklusion durch Musik",
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/ab-2023-celebrate-the-music-bundesweit.md",
+      "title": "Celebrate the music (ab 2023 bundesweit)",
       "subtitle": "",
       "image": ""
     },
