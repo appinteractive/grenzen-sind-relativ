@@ -74,7 +74,7 @@ Gemeinsam sind wir stark und daher wollen wir von “Grenzen sind relativ” e.V
 
 ***
 
-### [Selbstverständnis](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/selbstverstandnis)
+## [Selbstverständnis](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/selbstverstandnis)
 
 Ziel ist es, die digitalen Möglichkeiten der Kulturkommunikation und Kulturvermittlung zu nutzen, um:
 
