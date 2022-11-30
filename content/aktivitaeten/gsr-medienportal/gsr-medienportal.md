@@ -97,9 +97,3 @@ Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der D
 Für die großzügige Unterstützung geht unser Dank an die "KULTUR.GEMEINSCHAFTEN".
 
 ![](/media/2022/11/logoleiste-kulturgemeinschaften-als-png.png)
-
-***
-
-## Aktivitäten "Grenzen sind relativ e.V."
-
-<slideshow :max="2" name="startseite-aktivitaeten"></slideshow>
