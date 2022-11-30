@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2022/11/diskurs-kultur.png"
 title: diskurskultur
 description: |-
   Im Rahmen unseres Projektes "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen Entwicklung von Kunst & Kultur" ist die 7teilige Filmreihe #diskurskultur entstanden.
