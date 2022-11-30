@@ -1,0 +1,50 @@
+{
+  "teasers": true,
+  "slides": [
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md",
+      "title": "Projektinfo \"grenzenlos vernetzt von a-z\"",
+      "subtitle": "Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen. Um diese zu ermöglichen, bringt dieses Alphabet Projekte und ihre Akteur:innen",
+      "image": "/media/2022/08/banner-ankundigungstext-01.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe-copy.md",
+      "title": "t-tastttanz",
+      "subtitle": "Manchmal ist eine Idee wie eine schwebende Kugel, die ihren Weg gefunden hat. “Dann kommt so ein denkwürdiger Moment, der sie vor dir erscheinen lässt. Und musst sie nicht voran schieben, sie schiebt dich.” Frank Hoffmann erschien eine dieser Kugeln an einem Novembermorgen im Jahr 2005 unter seiner Dusche.",
+      "image": "/media/2022/11/t-tasttanz-01.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen-copy.md",
+      "title": "u -unbuntu (Nenad Čupić)",
+      "subtitle": "Nenad betritt einen Raum voller erwartungsloser Blicke. Die Teilnehmenden seines Workshops sahen sich schon häufig mit diskriminierenden Vorannahmen konfrontiert.",
+      "image": "/media/2022/11/u-ubuntu-01.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen.md",
+      "title": "v - virtuelle straßen",
+      "subtitle": "",
+      "image": "/media/2022/10/v-virtuelle-strassen01.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/w-wind.md",
+      "title": "w - wind : brand new bundestag",
+      "subtitle": "Ein Zeigefinger streicht über den blanken Schreibtisch des schmalen Büros. Wolkendecken haben die Räume heruntergekühlt, doch durch das Fassadenglas flutet leises Licht.",
+      "image": "/media/2022/10/w-wind-01.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/y-yallah.md",
+      "title": "y - yallah",
+      "subtitle": "Isaak tritt auf die Bühne. Das Herzklopfen steigt ihm durch den Körper, als sein Kopf fragt: “Hab ich meinen Text vergessen!?”. Er sucht die Antwort im Publikum, guckt, wie die Leute drauf sind. ",
+      "image": "/media/2022/09/y-yallah01.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe.md",
+      "title": "z - zugabe ",
+      "subtitle": "Das Licht geht aus und erweckt dabei ein Duzend bunte, kleine Lämpchen aus ihrem kurzen Schlaf zwischen Probe, Gespräch und Live-Set. Zwei nette Augen verschwinden in Furchen aus Rot und Schwarz und lassen den „Bläck Dävil“ wahrhaftig erscheinen.",
+      "image": "/media/2022/08/z-zugabe-01.jpg"
+    }
+  ],
+  "autoplay": false,
+  "delay": null,
+  "title": "gsr-medienportal-celebrate-analog-life.json"
+}

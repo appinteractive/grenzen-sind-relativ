@@ -66,6 +66,12 @@ Gemeinsam sind wir stark und daher wollen wir von “Grenzen sind relativ” e.V
 
 <slideshow :max="2" name="gsr-medienportal-support-your-crowd"></slideshow>
 
+***
+
+## Events "Celebrate analog life"
+
+##  
+
 ## Aktivitäten "Grenzen sind relativ e.V."
 
 <slideshow :max="2" name="startseite-aktivitaeten"></slideshow>
