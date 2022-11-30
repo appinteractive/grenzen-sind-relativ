@@ -309,14 +309,14 @@
               "showInMainNavigation": true
             },
             {
-              "title": "#diskurskultur",
+              "title": "#diskurskultur - die 7teilige Filmreihe",
               "page": "content/aktivitaeten/gsr-medienportal/diskurskultur.md",
-              "description": "Die 7teilige Filmreihe"
+              "description": ""
             },
             {
               "title": "grenzenlos vernetzt von a-z",
               "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md",
-              "description": "Ein Portraitprojekt von Anika Krbetschek & Maximilian Gödecke",
+              "description": "",
               "showInMainNavigation": false,
               "children": [
                 {
