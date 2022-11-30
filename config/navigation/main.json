@@ -281,20 +281,6 @@
           "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md",
           "children": [
             {
-              "children": [
-                {
-                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/sozialer-aufstieg-in-deutschland-fur-jeden-machbar.md",
-                  "title": "Sozialer Aufstieg in Deutschland für jeden machbar"
-                },
-                {
-                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen.md",
-                  "title": "Begrenzte Ressourcen"
-                }
-              ],
-              "title": "news.oder.fake",
-              "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/news.oder.fake.md"
-            },
-            {
               "title": "GSR Medienportal",
               "description": "Willkommen auf unserem neuen multipolaren Medienportal!",
               "page": "content/aktivitaeten/gsr-medienportal/gsr-medienportal.md",
@@ -355,6 +341,20 @@
                   "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe.md"
                 }
               ]
+            },
+            {
+              "children": [
+                {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/sozialer-aufstieg-in-deutschland-fur-jeden-machbar.md",
+                  "title": "Sozialer Aufstieg in Deutschland für jeden machbar"
+                },
+                {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen.md",
+                  "title": "Begrenzte Ressourcen"
+                }
+              ],
+              "title": "news.oder.fake",
+              "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/news.oder.fake.md"
             },
             {
               "title": "Blog",
