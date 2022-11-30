@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2022/11/gsr_1zu1_post1_2209.png"
 title: news.oder.fake
 description: Gemeinsam mit unserem Kooperationspartner der news.oder.fake-App, die
   sich mit ihrem Newsgame, für mehr Medien- und Quellenkompetenz, eigenes Abwägen,
