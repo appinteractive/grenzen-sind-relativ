@@ -84,7 +84,7 @@ Ziel ist es, die digitalen Möglichkeiten der Kulturkommunikation und Kulturverm
 4. für Themenbereiche wie gesamtgesellschaftliche Inklusion, integrales Bewusstsein, Kunst & Kultur und Frieden sensibilisieren, aufklären und begeistern zu können
 5. diverse Synergien, Multiplikatoren, Folgeprozesse und Kooperationsprojekte auf den Weg zu bringen
 
-Verbunden mit dem Motto "Analyse & Aktiv Sein" versuchen wir bei unserer interdisziplinären Kulturarbeit in die Tiefe zu gehen und uns dabei mit grundlegenden Systematiken unseres gesellschaftlichen Zusammenlebens beschäftigen.
+Verbunden mit dem Motto "Analyse & Aktiv Sein" versuchen wir, bei unserer interdisziplinären Kulturarbeit in die Tiefe zu gehen und uns dabei mit grundlegenden Systematiken unseres gesamtgesellschaftlichen Zusammenlebens auseinanderzusetzen.
 
 Musik, Kunst, Kultur und Sprache sind wunderbare Transmitter, um sich komplexen (neuen) Thematiken zu nähern, diese erfahrbarer zu machen, den Dialog, Erfahrungsaustausch und Perspektivwechsel zu fördern und diese Prozesse in die institutionelle & projektbezogene Arbeit mit einfließen zu lassen.
 
@@ -97,6 +97,8 @@ Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der D
 Für die großzügige Unterstützung geht unser Dank an die "KULTUR.GEMEINSCHAFTEN".
 
 ![](/media/2022/11/logoleiste-kulturgemeinschaften-als-png.png)
+
+***
 
 ## Aktivitäten "Grenzen sind relativ e.V."
 
