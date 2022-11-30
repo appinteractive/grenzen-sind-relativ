@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2020/10/est-asv.jpg"
+teaser: "/media/2022/11/diskurs-kultur.png"
 title: Interdisziplinäre Kulturarbeit
 description: Das Projekt "Interdisziplinäre Kulturarbeit im Kontext der gesamtgesellschaftlichen
   Entwicklung von Kunst & Kultur Wissenstransfer, Vernetzung und Kooperationsvorhaben"
