@@ -9,3 +9,5 @@ accessible: ''
 
 ---
 # news.oder.fake
+
+<slideshow :max="2" name="gsr-medienportal-news.oder.fake"></slideshow>
