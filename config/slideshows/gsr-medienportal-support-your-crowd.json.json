@@ -1,0 +1,14 @@
+{
+  "teasers": true,
+  "slides": [
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/Support your crowd/support-your-crowd.md",
+      "title": "Support (y)our crowd",
+      "subtitle": "",
+      "image": ""
+    }
+  ],
+  "autoplay": false,
+  "delay": null,
+  "title": "gsr-medienportal-support-your-crowd.json"
+}

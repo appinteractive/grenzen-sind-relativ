@@ -65,5 +65,6 @@ pages:
 - config/slideshows/gsr-medienportal-aktuelle-empfehlungen.json.json
 - config/slideshows/gsr-medienportal-grenzenlosvernetzt.json.json
 - config/slideshows/gsr-medienportal-news.oder.fake.json.json
+- config/slideshows/gsr-medienportal-support-your-crowd.json.json
 - config/slideshows/media-blog.json.json
 - config/slideshows/startseite-aktivitaeten.json
