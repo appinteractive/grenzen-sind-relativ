@@ -52,7 +52,7 @@ Gemeinsam mit unserem Kooperationspartner der [news.oder.fake](https://www.faceb
 
 ***
 
-## GSR e.V. Impressions
+## [GSR e.V. Impressions](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/gsr-e.v.impressions)
 
 Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und vergangenen Aktivitäten in Form von Aftermovies, Musikvideos, Talkshows, TV-Berichten, Teasern und Snippets.
 
@@ -60,7 +60,7 @@ Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und vergangen
 
 ***
 
-## Support (y)our crowd
+## [Support (y)our crowd](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/Support%20your%20crowd/support-your-crowd)
 
 Gemeinsam sind wir stark und daher wollen wir von “Grenzen sind relativ” e.V. mit unserer neuen Rubrik “Support your Crowd” andere Vereine, Initiativen, Künstler etc. aus unserem Netzwerk, Branche und Umfeld unterstützen.
 
@@ -68,13 +68,13 @@ Gemeinsam sind wir stark und daher wollen wir von “Grenzen sind relativ” e.V
 
 ***
 
-## Events "Celebrate analog life"
+## [Events "Celebrate analog life"](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/events-celebrate-analog-life)
 
 <slideshow :max="2" name="gsr-medienportal-celebrate-analog-life"></slideshow>
 
 ***
 
-### Selbstverständnis
+### [Selbstverständnis](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/selbstverstandnis)
 
 Ziel ist es, die digitalen Möglichkeiten der Kulturkommunikation und Kulturvermittlung zu nutzen, um:
 
