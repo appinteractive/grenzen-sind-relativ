@@ -16,6 +16,8 @@ Willkommen auf unserem neuen multipolaren Medienportal! Hier findet Du von uns p
 
 ## Aktuelle Empfehlungen
 
+<slideshow :max="2" name="gsr-medienportal-aktuelle-empfehlungen"></slideshow>
+
 ***
 
 ## [#diskurskultur](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/diskurskultur)
