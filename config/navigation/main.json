@@ -370,6 +370,10 @@
                   "showInMainNavigation": true
                 }
               ]
+            },
+            {
+              "title": "GSR e.V. Impressions",
+              "page": "content/aktivitaeten/gsr-medienportal/gsr-e.v.impressions.md"
             }
           ],
           "showInMainNavigation": true
