@@ -30,6 +30,10 @@ Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen
 
 ***
 
+# news.oder.fake
+
+***
+
 ## [Blog](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/Blog/grenzen-sind-relativ-musik-horen-und-inklusion)
 
 <slideshow :max="2" name="media-blog"></slideshow>

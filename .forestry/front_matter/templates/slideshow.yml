@@ -63,5 +63,6 @@ fields:
   label: Slides
 pages:
 - config/slideshows/gsr-medienportal-grenzenlosvernetzt.json.json
+- config/slideshows/gsr-medienportal-news.oder.fake.json.json
 - config/slideshows/media-blog.json.json
 - config/slideshows/startseite-aktivitaeten.json
