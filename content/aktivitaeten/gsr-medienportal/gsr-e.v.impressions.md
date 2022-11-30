@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2022/11/gsr-impressions.png"
 title: GSR e.V. Impressions
 description: Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und
   vergangenen Aktivitäten in Form von Aftermovies, Musikvideos, Talkshows, TV-Berichten,
