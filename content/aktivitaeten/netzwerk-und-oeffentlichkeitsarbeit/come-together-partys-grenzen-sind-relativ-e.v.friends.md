@@ -18,7 +18,7 @@ Liebe Mit-Menschen,
 
 es geht in die #6 und letzte Runde für dieses Jahr. Dieses Mal wollen wir mit Euch am Freitag 09.12.22 unsere monatliche Netzwerkparty, kombiniert mit unserer "Grenzen sind relativ e.V." Jahresabschlussfeier und zur Krönung Mischas Geburtstag-Celebration ab 19.00 Uhr in der “Alte Liebe” (Spielbudenplatz 21-22, 20359 HH) (rein-)feiern.
 
-Wir werden mehrere tolle Live-Musik-Acts auf der Bühne haben und Jam-Session machen. Bereits fest zugesagt haben Jason Foley (Gitarre & Vocals), Dave Alleckna (Bass & Gitarre), Alexandra Pengler (Vocals) und Michael Nick (Cajon) und es werden noch einige weitere wunderbare Musiker*innen dazu kommen. :-) Ab 22.30 Uhr rocken dann Nick Hohepa & Band (Rock, Pop, Hip-Hop und Raggae) von der “Alte Liebe”-Crew das Haus.
+Wir werden mehrere tolle Live-Musik-Acts auf der Bühne haben und Jam-Session machen. Bereits fest zugesagt haben Jason Foley (Gitarre & Vocals), Dave Alleckna (Bass & Gitarre), Alexandra Pengler (Vocals) und Michael Nick (Cajon) und es werden noch einige weitere wunderbare Musiker*innen dazu kommen. :-) Ab 22.30 Uhr rocken Nick Hohepa & Band (Rock, Pop, Hip-Hop und Raggae) von der “Alte Liebe”-Crew das Haus.
 
 Vor Ort haben wir außerdem wieder einen Infotisch, auf dem ihr gerne Flyer & Broschüren von euren Vereinen, Institutionen, Initiativen, usw. auslegen könnt.
 
