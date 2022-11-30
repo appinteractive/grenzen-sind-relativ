@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2022/11/gsr_1zu1_post1_2209.png"
 title: Sozialer Aufstieg in Deutschland für jeden machbar
-description: ''
+description: Sozialer Aufstieg in Deutschland für jeden machbar - news.oder.fake?!
 wide: false
 gallery: []
 alias: ''
