@@ -374,6 +374,10 @@
             {
               "title": "GSR e.V. Impressions",
               "page": "content/aktivitaeten/gsr-medienportal/gsr-e.v.impressions.md"
+            },
+            {
+              "title": "Selbstverständnis",
+              "page": "content/aktivitaeten/gsr-medienportal/selbstverstandnis.md"
             }
           ],
           "showInMainNavigation": true
