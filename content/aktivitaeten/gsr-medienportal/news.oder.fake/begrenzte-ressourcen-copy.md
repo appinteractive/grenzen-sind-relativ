@@ -1,10 +1,10 @@
 ---
-teaser: "/media/2022/11/2208_gsr_1_1post7.png"
-title: Begrenzte Ressourcen-(copy)
-description: Das Recht eines jeden Menschen auf Nahrung – und zwar in ausreichender
-  Quantität und Qualität – ist ein Menschenrecht, das im internationalen Pakt über
-  wirtschaftliche, soziale und kulturelle Rechte (VN-Sozialpakt (https://www.sozialpakt.info/))
-  völkerrechtlich verbindlich verankert ist.
+teaser: "/media/2022/12/gsr_1zu1_post3_2209.png"
+title: Politisch inkorrekt, aber erfolgreich
+description: 'Ab 1955 lieferten sich dieUSA und die Sowjetunion einen jahrzehntelangen
+  „Wettlauf ins All“, das berühmte „Space Race“. Der Ausgang ist allseits bekannt:
+  1969 erreichten die USA zuerst das Ziel und hissten ihren Sternenbanner auf dem
+  Mond. Doch waren nur weiße Männer im NASA-Rechenteam bei der ersten Mondlandung?'
 wide: false
 gallery: []
 alias: ''
@@ -13,10 +13,13 @@ accessible: ''
 ---
 # Begrenzte Ressoucen
 
-![](/media/2022/11/2208_gsr_1_1post7.png)
+![](/media/2022/12/gsr_1zu1_post3_2209.png)
 
-Das Recht eines jeden Menschen auf Nahrung – und zwar in ausreichender Quantität und Qualität – ist ein Menschenrecht, das im internationalen Pakt über wirtschaftliche, soziale und kulturelle Rechte (VN-Sozialpakt ([https://www.sozialpakt.info/](https://www.sozialpakt.info/ "https://www.sozialpakt.info/"))) völkerrechtlich verbindlich verankert ist.
+Nur weiße Männer im NASA-Rechenteam bei erster Mondlandung - [news.oder.fake](https://www.facebook.com/newsoderfake?__cft__\[0\]=AZWzm60H-eJr02g7DZuzs5q1C6aszeTsbketeFXFhYbWrAmpIWVBbeDXupcKEddZKPv33gEM0HyUtA7Wvknd11j3A_Z9pn6Ge5jFTvgDPx4b6qrxRROpsy5F1DL2D8w_LDZuDv8V3HT_bMHlnGb8jYTxOC2RjJI2gp_sr6g1ccINoBKqTD4eMX1u5NxbJOLpBYIMk1y368uA07ySLEAn4GCc&__tn__=-\]K-R)!?
 
-Doch können heute bereits mehr als die existierenden 7,8 Milliarden Menschen nicht ernährt werden. News oder Fake?
+Es geht in die nächste Runde bei unserer Kooperation mit der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake?__cft__\[0\]=AZWzm60H-eJr02g7DZuzs5q1C6aszeTsbketeFXFhYbWrAmpIWVBbeDXupcKEddZKPv33gEM0HyUtA7Wvknd11j3A_Z9pn6Ge5jFTvgDPx4b6qrxRROpsy5F1DL2D8w_LDZuDv8V3HT_bMHlnGb8jYTxOC2RjJI2gp_sr6g1ccINoBKqTD4eMX1u5NxbJOLpBYIMk1y368uA07ySLEAn4GCc&__tn__=-\]K-R)-App, die sich mit ihrem Newsgame, u.a. für mehr Medien- und Quellenkompetenz einsetzt.
 
-Die Antwort darauf findet ihr in der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake)-App, die sich mit ihrem Newsgame für mehr Medien- und Quellenkompetenz einsetzt oder unter diesem Link: [https://headline.newsoderfake.de/ernaehrung-weltbevoelkerung-VC4Rwb](https://headline.newsoderfake.de/ernaehrung-weltbevoelkerung-VC4Rwb "https://headline.newsoderfake.de/ernaehrung-weltbevoelkerung-VC4Rwb") 
+Was denkt ihr: News oder Fake?  
+Die jeweilige Auflösung findet ihr unter dem Link oder in der kostenlosen news.oder.fake.-App
+
+[https://headline.newsoderfake.de/mathe-mond-and-frauen...](https://headline.newsoderfake.de/mathe-mond-and-frauen... "https://headline.newsoderfake.de/mathe-mond-and-frauen...")
