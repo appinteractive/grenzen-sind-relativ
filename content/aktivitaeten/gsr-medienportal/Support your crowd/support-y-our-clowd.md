@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2022/12/zeichenflache-1.jpg"
 title: Support (y)our clowd
 description: Gemeinsam sind wir stark und daher wollen wir von “Grenzen sind relativ”
   e.V. mit unserer neuen Rubrik “Support your Crowd” andere Vereine, Initiativen,
