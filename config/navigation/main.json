@@ -426,7 +426,8 @@
             },
             {
               "title": "Support (y)our crowd",
-              "page": "content/aktivitaeten/gsr-medienportal/Support your crowd/support-y-our-clowd.md"
+              "page": "content/aktivitaeten/gsr-medienportal/Support your crowd/support-y-our-clowd.md",
+              "showInMainNavigation": true
             },
             {
               "title": "Events \"Celebrate analog life\"",
