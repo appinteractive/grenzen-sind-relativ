@@ -358,17 +358,12 @@
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/news.oder.fake.md"
                 },
                 {
-                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen.md",
-                  "title": "Begrenzte Ressourcen"
-                },
-                {
-                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/gutes-signal-trotz-corona.md",
-                  "title": "Gutes Signal trotz Corona",
-                  "showInMainNavigation": true
-                },
-                {
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/sozialer-aufstieg-in-deutschland-fur-jeden-machbar.md",
                   "title": "Sozialer Aufstieg in Deutschland für jeden machbar"
+                },
+                {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen.md",
+                  "title": "Begrenzte Ressourcen"
                 },
                 {
                   "title": "Politisch inkorrekt, aber erfolgreich",
@@ -394,6 +389,11 @@
                 {
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/inklusive-arbeitsstatten.md",
                   "title": "Inklusive Arbeitsstätten",
+                  "showInMainNavigation": true
+                },
+                {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/gutes-signal-trotz-corona.md",
+                  "title": "Gutes Signal trotz Corona",
                   "showInMainNavigation": true
                 },
                 {
