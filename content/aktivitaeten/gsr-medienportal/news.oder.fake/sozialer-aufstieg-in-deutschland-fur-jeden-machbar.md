@@ -24,4 +24,4 @@ Gemeinsam mit unserem Kooperationspartner der [news.oder.fake](https://www.faceb
 
 Ab heute posten wir jede Woche eine Headline, bei der ihr entscheiden müsst, ob sie News oder Fake ist.
 
-Die jeweilige Auflösung findet ihr unter dem Link oder in der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake)-App: [https://headline.newsoderfake.de/soziale-mobilitaet-KccbTG](https://headline.newsoderfake.de/soziale-mobilitaet-KccbTG "https://headline.newsoderfake.de/soziale-mobilitaet-KccbTG")
+Die jeweilige Auflösung findet ihr [unter dem Link](https://headline.newsoderfake.de/soziale-mobilitaet-KccbTG) oder in der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake)-App.
