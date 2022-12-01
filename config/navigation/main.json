@@ -354,6 +354,21 @@
             {
               "children": [
                 {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/inklusive-arbeitsstatten.md",
+                  "title": "Inklusive Arbeitsstätten",
+                  "showInMainNavigation": true
+                },
+                {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/wunder-gibt-es-immer-wieder.md",
+                  "title": "Wunder gibt es immer wieder",
+                  "showInMainNavigation": true
+                },
+                {
+                  "title": "Politisch inkorrekt, aber erfolgreich",
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen-copy.md",
+                  "showInMainNavigation": true
+                },
+                {
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/unabhangig-vom-gas.md",
                   "showInMainNavigation": true,
                   "title": "Unabhängig vom Gas"
