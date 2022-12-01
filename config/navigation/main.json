@@ -354,6 +354,11 @@
             {
               "children": [
                 {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/gutes-signal-trotz-corona.md",
+                  "title": "Gutes Signal trotz Corona",
+                  "showInMainNavigation": true
+                },
+                {
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/aufklarung-und-enttabuisierung-wirken.md",
                   "title": "Aufklärung und Enttabuisierung wirken",
                   "showInMainNavigation": true
