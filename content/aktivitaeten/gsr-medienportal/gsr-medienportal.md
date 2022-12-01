@@ -62,7 +62,7 @@ Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und vergangen
 
 ## [Support (y)our crowd](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/Support%20your%20crowd/support-your-crowd)
 
-Gemeinsam sind wir stark und daher wollen wir von “Grenzen sind relativ” e.V. mit unserer neuen Rubrik “Support your Crowd” andere Vereine, Initiativen, Künstler etc. aus unserem Netzwerk, Branche und Umfeld unterstützen.
+Mit unserem neuen Format “Support (y)our Crowd” wollen wir verschiedene Vereine, Institutionen, Initiativen, Künstler*innen u.w.m. auf unseren Kanälen sichtbar machen und Impulse für die Multipolarkultur freisetzen. Wir sind viele und gemeinsam sind wir stark! :) 
 
 <slideshow :max="2" name="gsr-medienportal-support-your-crowd"></slideshow>
 
