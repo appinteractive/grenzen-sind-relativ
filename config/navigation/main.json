@@ -320,12 +320,16 @@
               "showInMainNavigation": false,
               "children": [
                 {
-                  "title": "u-ubuntu",
-                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen-copy.md"
+                  "title": "t- tasttanz",
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/z-zugabe-copy.md"
                 },
                 {
                   "title": "Projektinfo",
                   "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md"
+                },
+                {
+                  "title": "u-ubuntu",
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/v-virtuelle-strassen-copy.md"
                 },
                 {
                   "title": "v - virtuelle straßen",
