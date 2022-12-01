@@ -354,6 +354,11 @@
             {
               "children": [
                 {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/aufklarung-und-enttabuisierung-wirken.md",
+                  "title": "Aufklärung und Enttabuisierung wirken",
+                  "showInMainNavigation": true
+                },
+                {
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/inklusive-arbeitsstatten.md",
                   "title": "Inklusive Arbeitsstätten",
                   "showInMainNavigation": true
