@@ -18,6 +18,4 @@ Nur weiße Männer im NASA-Rechenteam bei erster Mondlandung - [news.oder.fake](
 Es geht in die nächste Runde bei unserer Kooperation mit der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake?__cft__%5B0%5D=AZWzm60H-eJr02g7DZuzs5q1C6aszeTsbketeFXFhYbWrAmpIWVBbeDXupcKEddZKPv33gEM0HyUtA7Wvknd11j3A_Z9pn6Ge5jFTvgDPx4b6qrxRROpsy5F1DL2D8w_LDZuDv8V3HT_bMHlnGb8jYTxOC2RjJI2gp_sr6g1ccINoBKqTD4eMX1u5NxbJOLpBYIMk1y368uA07ySLEAn4GCc&__tn__=-%5DK-R)-App, die sich mit ihrem Newsgame, u.a. für mehr Medien- und Quellenkompetenz einsetzt.
 
 Was denkt ihr: News oder Fake?  
-Die jeweilige Auflösung findet ihr unter dem Link oder in der kostenlosen news.oder.fake.-App
-
-[https://headline.newsoderfake.de/mathe-mond-and-frauen...](https://headline.newsoderfake.de/mathe-mond-and-frauen... "https://headline.newsoderfake.de/mathe-mond-and-frauen...")
+Die jeweilige Auflösung findet ihr [unter dem Link ](https://headline.newsoderfake.de/mathe-mond-and-frauen-24ZMDr?fbclid=IwAR39Q30V-dZl4AhHOm-LlOgOK_YcLu8qumY44kys_QKZ3ifuZRAZV4ZHf7w)oder in der kostenlosen [news.oder.fake.](https://newsoderfake.de/)-App
