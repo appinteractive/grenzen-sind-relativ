@@ -11,9 +11,9 @@ alias: ''
 accessible: ''
 
 ---
-![](/media/2022/12/neutraler-webbaner-news-oder-fake.jpg)
-
 # news.oder.fake
+
+![](/media/2022/12/neutraler-webbaner-news-oder-fake.jpg)
 
 Die Verbreitung von Desinformation über die Medien ist ein weltweites Problem. Laut empirischen Studien beginnen viele Menschen sogar bewusst Nachrichten zu meiden, was dazu führt, das Informations- und Meinungsbildungsprozesse weniger qualifiziert verlaufen, die tatsächliche Informiertheit abnimmt und mündige und diskursfähige Bürgerinnen und Bürger in weite Ferne rücken.
 
