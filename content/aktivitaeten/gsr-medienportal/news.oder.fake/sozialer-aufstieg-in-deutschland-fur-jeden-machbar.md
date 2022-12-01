@@ -12,7 +12,7 @@ accessible: ''
 
 ![](/media/2022/11/gsr_1zu1_post1_2209.png)
 
-Sozialer Aufstieg in Deutschland für jeden machbar - [news.oder.fake](https://www.facebook.com/newsoderfake)?!
+Sozialer Aufstieg in Deutschland für jeden machbar - [news.oder.fake](https://newsoderfake.de/)?!
 
 Headlines lesen war gestern: Zeit zu spielen!
 
