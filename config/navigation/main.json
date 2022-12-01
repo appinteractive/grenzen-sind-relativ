@@ -354,6 +354,11 @@
             {
               "children": [
                 {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/unabhangig-vom-gas.md",
+                  "showInMainNavigation": true,
+                  "title": "Unabhängig vom Gas"
+                },
+                {
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/universalgrammatik.md",
                   "title": "Universalgrammatik",
                   "disabled": false,
