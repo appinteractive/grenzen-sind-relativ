@@ -28,7 +28,7 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 * Verbindlichkeit, Verantwortungsbewusstsein & Selbstreflektion
 * Gesellschaftspolitisch interessiert & aktiv (z.B. in der Friedensbewegung), (selbst)kritische & lösungsorientierte Auseinandersetzung mit unserer “neoliberalen Gesellschaftskultur”, usw.
 * Lust beim gesamtgesellschaftlichen Wandel bzw. bei der (R)evolution mitzugestalten
-* Sich zu 100 Prozent mit „Grenzen sind relativ e.V.“ identifizieren zu können, loyal zu sein, es zu LEBEN und einfach richtig Bock auf die Zusammenarbeit & Tätigkeiten zu haben. Beruf(ungen)! :)
+* Sich zu 100 Prozent mit „Grenzen sind relativ e.V.“ identifizieren zu können, loyal zu sein, es zu LEBEN und einfach richtig Bock auf die Zusammenarbeit & Tätigkeiten zu haben. Beruf(ungen)! :-)
 
 #### Was dich bei Grenzen sind relativ e.V. erwartet:
 
