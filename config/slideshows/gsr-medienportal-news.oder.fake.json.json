@@ -2,26 +2,14 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/wunder-gibt-es-immer-wieder.md",
-      "title": "Wunder gibt es immer wieder",
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/sozialer-aufstieg-in-deutschland-fur-jeden-machbar.md",
+      "title": "Sozialer Aufstieg in Deutschland für jeden machbar",
       "subtitle": "",
       "image": ""
     },
     {
-      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/gutes-signal-trotz-corona.md",
-      "title": "Gutes Signal trotz Corona",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/inklusive-arbeitsstatten.md",
-      "title": "Inklusive Arbeitsstätten",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/aufklarung-und-enttabuisierung-wirken.md",
-      "title": "Aufklärung und Enttabuisierung wirken",
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen.md",
+      "title": "Begrenzte Ressourcen",
       "subtitle": "",
       "image": ""
     },
@@ -32,26 +20,38 @@
       "image": ""
     },
     {
-      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/universalgrammatik.md",
-      "title": "Universalgrammatik",
-      "subtitle": "",
-      "image": ""
-    },
-    {
       "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen-copy.md",
       "title": "Politisch inkorrekt, aber erfolgreich",
       "subtitle": "",
       "image": ""
     },
     {
-      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/sozialer-aufstieg-in-deutschland-fur-jeden-machbar.md",
-      "title": "Sozialer Aufstieg in Deutschland für jeden machbar",
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/universalgrammatik.md",
+      "title": "Universalgrammatik",
       "subtitle": "",
       "image": ""
     },
     {
-      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/begrenzte-ressourcen.md",
-      "title": "Begrenzte Ressourcen",
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/wunder-gibt-es-immer-wieder.md",
+      "title": "Wunder gibt es immer wieder",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/inklusive-arbeitsstatten.md",
+      "title": "Inklusive Arbeitsstätten",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/gutes-signal-trotz-corona.md",
+      "title": "Gutes Signal trotz Corona",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/aufklarung-und-enttabuisierung-wirken.md",
+      "title": "Aufklärung und Enttabuisierung wirken",
       "subtitle": "",
       "image": ""
     }
