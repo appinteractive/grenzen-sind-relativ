@@ -19,6 +19,4 @@ Doch es gibt ein Gutes Signal trotz der Folgen der Corona-Pandemie: die Kinderar
 
 News oder Fake?
 
-Die Antwort darauf findet ihr in der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake?__cft__%5B0%5D=AZXNmrJZYJ1JTFJshHyxJWsK-rryjK6-3tTj-FVMMGNDDrbmOKWgdKXtNK6nwqdt4WEPXsr9dzJsO34FNs18jp7BgboiBH5dMvlClCjIH7Fs_jq0k4S_3MZAvgTfhQ1UiRpwM-kTLGBNQhD6_YV2_Kmupu9golPK0iE46J00nIge-Z3HdCVGH8AuzKuIvWQqLEVAa2dp0ioM9-WUoDud1O8T&__tn__=-%5DK-R)-App, die sich mit ihrem Newsgame für mehr Medien- und Quellenkompetenz einsetzt oder unter diesem Link:
-
-[https://headline.newsoderfake.de/kinderarmut-in-deutschland-9UTGNs?fbclid=IwAR1hpPYX1VeHpTc1GAQcnHUiGSq3ahYTICuW9qSkHsVHz-oGvVmmxjrKfBg](https://headline.newsoderfake.de/kinderarmut-in-deutschland-9UTGNs?fbclid=IwAR1hpPYX1VeHpTc1GAQcnHUiGSq3ahYTICuW9qSkHsVHz-oGvVmmxjrKfBg "https://headline.newsoderfake.de/kinderarmut-in-deutschland-9UTGNs?fbclid=IwAR1hpPYX1VeHpTc1GAQcnHUiGSq3ahYTICuW9qSkHsVHz-oGvVmmxjrKfBg")
+Die Antwort darauf findet ihr in der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake?__cft__%5B0%5D=AZXNmrJZYJ1JTFJshHyxJWsK-rryjK6-3tTj-FVMMGNDDrbmOKWgdKXtNK6nwqdt4WEPXsr9dzJsO34FNs18jp7BgboiBH5dMvlClCjIH7Fs_jq0k4S_3MZAvgTfhQ1UiRpwM-kTLGBNQhD6_YV2_Kmupu9golPK0iE46J00nIge-Z3HdCVGH8AuzKuIvWQqLEVAa2dp0ioM9-WUoDud1O8T&__tn__=-%5DK-R)-App, die sich mit ihrem Newsgame für mehr Medien- und Quellenkompetenz einsetzt oder [unter diesem Link](https://headline.newsoderfake.de/kinderarmut-in-deutschland-9UTGNs?fbclid=IwAR1hpPYX1VeHpTc1GAQcnHUiGSq3ahYTICuW9qSkHsVHz-oGvVmmxjrKfBg).
