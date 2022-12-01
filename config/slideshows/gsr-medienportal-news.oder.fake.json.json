@@ -2,6 +2,18 @@
   "teasers": true,
   "slides": [
     {
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/wunder-gibt-es-immer-wieder.md",
+      "title": "Wunder gibt es immer wieder",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/gutes-signal-trotz-corona.md",
+      "title": "Gutes Signal trotz Corona",
+      "subtitle": "",
+      "image": ""
+    },
+    {
       "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/inklusive-arbeitsstatten.md",
       "title": "Inklusive Arbeitsstätten",
       "subtitle": "",
