@@ -354,6 +354,12 @@
             {
               "children": [
                 {
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/universalgrammatik.md",
+                  "title": "Universalgrammatik",
+                  "disabled": false,
+                  "showInMainNavigation": true
+                },
+                {
                   "title": "Info news.oder.fake",
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/news.oder.fake.md"
                 },
