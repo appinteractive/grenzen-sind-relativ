@@ -17,4 +17,4 @@ accessible: ''
 
 Wichtiges Thema, auf das sich unsere heutige Headline aus der kostenlosen [news.oder.fake](https://www.facebook.com/newsoderfake?__cft__%5B0%5D=AZUAXauvYDfnC3HNWypMwbdPcwpIKu3PYQAlUu9l62r9Eus12VUoG_DMGfQfaYyBnidqg2YPzycFWvvtScFun1kIid38Fuvb1o3j1hcOHhON4oQ28D5qewqHDOuRpCVLCklk3ibbtbSP65H12che8L7LbIT9m7nkvDKpKGDYDs-CACiEmTOph2G6liAKZD-9x_u_kFSMGrWpwQ8VvFbgqZEl&__tn__=-%5DK-R), die sich mit ihrem Newsgame, u.a. für mehr Medien- und Quellenkompetenz einsetzt, bezieht.
 
-Die Auflösung findet ihr [unter dem Link](https://headline.newsoderfake.de/bezahlung-menschen-mit-behinderung-CezndQ) oder in der kostenlosen [news.oder.fake-](https://newsoderfake.de/)App
+Die Auflösung findet ihr [unter dem Link](https://headline.newsoderfake.de/bezahlung-menschen-mit-behinderung-CezndQ) oder in der kostenlosen [news.oder.fake-](https://newsoderfake.de/)App.
