@@ -8,7 +8,7 @@ alias: ''
 accessible: ''
 
 ---
-# Sozialer Aufstieg in Deutschland für jeden machbar
+# Sozialer Aufstieg 
 
 ![](/media/2022/11/gsr_1zu1_post1_2209.png)
 
