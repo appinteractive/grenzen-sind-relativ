@@ -2,70 +2,70 @@
 label: Slideshow
 hide_body: true
 fields:
-  - name: teasers
-    type: boolean
-    label: Inhalts-Teaser
-    description: Soll der Inhalt aus den Unterseiten gezogen werden?
-  - name: autoplay
-    type: boolean
-    label: Automatisch abspielen
-    default: true
-    showOnly:
-      field: teasers
-  - name: delay
-    type: number
-    label: Verzögerung (ms)
-    description: Zeit zwischen den Slides in millisekunden
-    default: 3500
-    required: true
+- name: teasers
+  type: boolean
+  label: Inhalts-Teaser
+  description: Soll der Inhalt aus den Unterseiten gezogen werden?
+- name: autoplay
+  type: boolean
+  label: Automatisch abspielen
+  default: true
+  showOnly:
+    field: teasers
+- name: delay
+  type: number
+  label: Verzögerung (ms)
+  description: Zeit zwischen den Slides in millisekunden
+  default: 3500
+  required: true
+  config:
+    min: 1000
+    max: 5000
+    step: 50
+  showOnly:
+    field: teasers
+    value: false
+- name: slides
+  type: field_group_list
+  fields:
+  - name: page
+    type: select
+    default: []
     config:
-      min: 1000
-      max: 5000
-      step: 50
-    showOnly:
-      field: teasers
-      value: false
-  - name: slides
-    type: field_group_list
-    fields:
-      - name: page
-        type: select
-        default: []
-        config:
-          required: true
-          options: []
-          source:
-            type: pages
-            section: seiten
-            file:
-            path:
-        label: Seite
-        description: Link zur gewünschten Seite
-      - name: title
-        type: text
-        config:
-          required: true
-        label: Titel
-      - name: subtitle
-        type: text
-        config:
-          required: false
-        label: Untertitel (optional)
-      - name: image
-        type: file
-        config:
-          maxSize: 64
-        label: Bild
+      required: true
+      options: []
+      source:
+        type: pages
+        section: seiten
+        file: 
+        path: 
+    label: Seite
+    description: Link zur gewünschten Seite
+  - name: title
+    type: text
     config:
-      min:
-      max:
-      labelField: title
-    label: Slides
+      required: true
+    label: Titel
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Untertitel (optional)
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Bild
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Slides
 pages:
-  - config/slideshows/gsr-medienportal-aktuelle-empfehlungen.json
-  - config/slideshows/gsr-medienportal-celebrate-analog-life.json
-  - config/slideshows/gsr-medienportal-grenzenlosvernetzt.json
-  - config/slideshows/gsr-medienportal-news.oder.fake.json
-  - config/slideshows/gsr-medienportal-support-your-crowd.json
-  - config/slideshows/media-blog.json
-  - config/slideshows/startseite-aktivitaeten.json
+- config/slideshows/gsr-medienportal-aktuelle-empfehlungen.json
+- config/slideshows/gsr-medienportal-celebrate-analog-life.json
+- config/slideshows/gsr-medienportal-grenzenlosvernetzt.json
+- config/slideshows/gsr-medienportal-news.oder.fake.json
+- config/slideshows/gsr-medienportal-support-your-crowd.json
+- config/slideshows/media-blog.json
+- config/slideshows/startseite-aktivitaeten.json
