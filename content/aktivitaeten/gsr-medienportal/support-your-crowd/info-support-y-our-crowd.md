@@ -1,14 +1,5 @@
 ---
 teaser: "/media/2022/12/zeichenflache-1.jpg"
-title: Info Support (y)our crowd
-description: 'Mit unserem neuen GSR Medienportal - Format “Support (y)our Crowd” wollen
-  wir verschiedene Vereine, Institutionen, Initiativen, Künstler*innen u.w.m. auf
-  unseren Kanälen sichtbar machen und Impulse für die Multipolarkultur freisetzen.
-  Wir sind viele und gemeinsam sind wir stark! :) '
-wide: false
-gallery: []
-alias: ''
-accessible: ''
 
 ---
 # Support (y)our crowd
@@ -22,5 +13,3 @@ Die Umsetzung erfolgt über einen von uns **gestalteten Banner**, auf dem ein Fo
 Das Kernstück des Formates ist neben **der entstehenden Sichtbarkeit für das Netzwerk**, aber auch darüber hinaus, **das Zitat** mit wir u.a. Appelle, Aufrufe, Diskurs-Anregungen, Fragestellungen, Beobachtungen und Analysen rund um die Thematik, warum und inwiefern es mehr gesamtgesellschaftliche spartenübergreifende Vernetzung, interdisziplinäre Projekte & Strukturen und/oder integrales Bewusstsein braucht, erwirken wollen.
 
 Das **Spektrum umfasst dabei gesamtgesellschaftliche Themen:** Kultur, Kunst, Soziales, Bildung, Umwelt, Medien, Zukunft, Wirtschaft, Politik, Kapitalismus, Demokratie, Philosophie, Psychologie, Multipolarkultur, Dialog, Diskurs, Kommunikation, individuelle und kollektive Realitäten, ®evolution, etc.
-
-<slideshow :max="2" name="gsr-medienportal-support-your-crowd"></slideshow>

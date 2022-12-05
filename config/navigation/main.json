@@ -9,9 +9,7 @@
             {
               "title": "Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht",
               "description": "Für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, Schulen, Universitäten, etc.",
-              "children": [
-
-              ],
+              "children": [],
               "disabled": false,
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
               "showInMainNavigation": true
@@ -54,9 +52,7 @@
                   "disabled": false
                 },
                 {
-                  "children": [
-
-                  ],
+                  "children": [],
                   "title": "Celebrate the music - Come together! // Fr. 02.12.22 Trockendock e.V.",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v.md",
                   "disabled": false
@@ -203,9 +199,7 @@
             {
               "title": "Beratung & Coaching",
               "description": "Für Vereine, Schulen, Universitäten, Unternehmen, Kulturschaffende, Künstler, Agenturen, usw.",
-              "children": [
-
-              ],
+              "children": [],
               "page": "content/aktivitaeten/musikunterricht-workshops-coaching/beratung-und-coaching.md",
               "showInMainNavigation": true
             }
@@ -410,12 +404,12 @@
               "children": [
                 {
                   "title": "Grenzen sind relativ – Musik, Hören und Inklusion",
-                  "page": "content/aktivitaeten/gsr-medienportal/Blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
+                  "page": "content/aktivitaeten/gsr-medienportal/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
                   "showInMainNavigation": true
                 },
                 {
                   "title": "Auf in eine neue Beziehungskultur",
-                  "page": "content/aktivitaeten/gsr-medienportal/Blog/medienportal-auf-in-eine-neue-beziehungskultur.md",
+                  "page": "content/aktivitaeten/gsr-medienportal/blog/medienportal-auf-in-eine-neue-beziehungskultur.md",
                   "showInMainNavigation": true
                 }
               ]
@@ -426,7 +420,7 @@
             },
             {
               "title": "Support your crowd",
-              "page": "content/aktivitaeten/gsr-medienportal/Support your crowd/info-support-y-our-crowd.md",
+              "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd.md",
               "showInMainNavigation": true
             },
             {
@@ -592,9 +586,7 @@
             },
             {
               "title": "Pressespiegel",
-              "children": [
-
-              ],
+              "children": [],
               "page": "content/media/pressespiegel-kompakt.md"
             },
             {

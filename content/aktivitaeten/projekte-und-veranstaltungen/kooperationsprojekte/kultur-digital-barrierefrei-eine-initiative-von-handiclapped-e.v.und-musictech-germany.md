@@ -1,7 +1,6 @@
 ---
 teaser: ''
-title: Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech
-  Germany
+title: Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany
 description: ''
 wide: false
 gallery: []

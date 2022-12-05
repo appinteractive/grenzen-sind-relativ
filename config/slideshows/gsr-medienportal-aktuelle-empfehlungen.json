@@ -20,7 +20,7 @@
       "image": ""
     },
     {
-      "page": "content/aktivitaeten/gsr-medienportal/Blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
+      "page": "content/aktivitaeten/gsr-medienportal/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
       "title": "Grenzen sind relativ - Musik, Hören und Inklusion",
       "subtitle": "",
       "image": ""
@@ -28,5 +28,5 @@
   ],
   "autoplay": false,
   "delay": null,
-  "title": "gsr-medienportal-aktuelle-empfehlungen.json"
+  "title": "gsr-medienportal-aktuelle-empfehlungen"
 }
