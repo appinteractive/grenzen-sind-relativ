@@ -35,7 +35,7 @@ https://youtu.be/x8POp5okdqk
 
 [https://youtu.be/mJsl1Hwu7B0](https://youtu.be/mJsl1Hwu7B0 "https://youtu.be/mJsl1Hwu7B0")
 
-#### [Fr. 02.12.2022: Trockendock (zusammen mit der staatlichen Jugendmusikschule Hamburg)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v) Ihr seid zwischen **12 und 25 Jahren**, **liebt Musik** und wolltet unbedingt schon mal **selber musizieren** oder seid sogar schon dabei? Meldet euch [HIER](https://drive.google.com/file/d/1eWF4ndPLYJknwxgwuGo0-uD7Dlnz5-Kk/view) zu unserer Veranstaltung an! Ihr könnt zwischen der **offenen Workshoprunde** mit _Drumcircle, Body Rhythm, Stimme & Chor sowie Bandtraining_ und dem **Songschmiede-Workshop** wählen! Die Teilnahme ist **kostenlos**.
+#### [Fr. 02.12.2022: Trockendock (zusammen mit der staatlichen Jugendmusikschule Hamburg)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v)
 
 Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel Musik-Orient(ierung) & Bandtraining, Drumcircle & Rhythm´n´Groove, Stimme & Chor, Body Rhythm und Tanz & Bewegung.
 
