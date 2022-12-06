@@ -2,6 +2,12 @@
   "teasers": true,
   "slides": [
     {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/s-synchronitat.md",
+      "title": "s -synchronität",
+      "subtitle": "",
+      "image": "/media/2022/12/s-synchronitat-01.jpg"
+    },
+    {
       "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md",
       "title": "Projektinfo \"grenzenlos vernetzt von a-z\"",
       "subtitle": "Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen. Um diese zu ermöglichen, bringt dieses Alphabet Projekte und ihre Akteur:innen",

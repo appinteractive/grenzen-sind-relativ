@@ -42,3 +42,5 @@ Wahibe lässt den Schlüssel in ihrer Hand aufklingeln. Gundelmann und sie schau
 ![](/media/2022/12/06.jpg)
 
 Live spielen heißt für sie manchmal auch, unvorbereitet zu sein. Und stattdessen zu hören, was bereits im Raum liegt, um dann danach zu greifen. Oder um es mit Gundelmann’s Worten zu sagen: “Nehmen, was da ist und dann: Rumscheppern und Rumklöten! Wir müssen unsere eigene Party auf der Bühne feiern. Das kriegen die Anderen dann schon mit. Nur so kommt zum Gelingen noch der Erfolg.” Was in diesen Momenten da ist, wird danach weg sein. Und kommt auch nie wieder. Das ist die Magie der Beiden.
+
+_“_[_grenzenlos vernetzt von a-z_](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt)_” ist Portraitprojekt von der Künstlerin_ [_Anika Krbetschek_](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/www.anikakrb.com) _und dem Fotografen_ [_Maximilian Gödecke_](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/www.max-goedecke.de)_, zusammen mit Grenzen sind relativ e.V.._
