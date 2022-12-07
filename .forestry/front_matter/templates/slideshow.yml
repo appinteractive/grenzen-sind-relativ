@@ -62,7 +62,6 @@ fields:
     labelField: title
   label: Slides
 pages:
-- config/slideshows/Support your Crowd.json
 - config/slideshows/gsr-medienportal-aktuelle-empfehlungen.json
 - config/slideshows/gsr-medienportal-celebrate-analog-life.json
 - config/slideshows/gsr-medienportal-grenzenlosvernetzt.json
