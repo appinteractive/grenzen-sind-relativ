@@ -62,8 +62,9 @@ Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und vergangen
 
 ## [Support (y)our crowd](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd)
 
-Mit unserem neuen Format “Support (y)our Crowd” wollen wir verschiedene Vereine, Institutionen, Initiativen, Künstler*innen u.w.m. auf unseren Kanälen sichtbar machen und Impulse für die Multipolarkultur freisetzen. Wir sind viele und gemeinsam sind wir stark! :) 
+Mit unserem neuen Format “Support (y)our Crowd” wollen wir verschiedene Vereine, Institutionen, Initiativen, Künstler*innen u.w.m. auf unseren Kanälen sichtbar machen und Impulse für die Multipolarkultur freisetzen. Wir sind viele und gemeinsam sind wir stark! :)
 
+<slideshow :max="2" name="supportyourcrowd"></slideshow>
 
 ***
 
