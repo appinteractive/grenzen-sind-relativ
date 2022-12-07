@@ -1,6 +1,6 @@
 ---
 teaser: "/media/2022/12/s-synchronitat-01.jpg"
-title: S - Synchronität
+title: s - synchronität
 description: |-
   Ein Klingeln schwirrt durch den kleinen, dunklen Raum. Wahibes Kopf neigt sich schwunglos
   zur Seite. Es ist Montagmorgen. Sie ist noch ruhig, nimmt wahr. Der Schlüssel liegt still in
@@ -11,7 +11,7 @@ alias: ''
 accessible: ''
 
 ---
-# **S - Synchronität**
+# **s - synchronität**
 
 ## Wahibe/Gundelmann
 
