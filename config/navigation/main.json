@@ -450,7 +450,8 @@
               "page": "content/aktivitaeten/gsr-medienportal/selbstverstandnis.md"
             }
           ],
-          "showInMainNavigation": true
+          "showInMainNavigation": true,
+          "disabled": false
         }
       ],
       "showInMainNavigation": true,
