@@ -432,7 +432,13 @@
             {
               "title": "Support your crowd",
               "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd.md",
-              "showInMainNavigation": true
+              "showInMainNavigation": true,
+              "children": [
+                {
+                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/eucrea.md",
+                  "title": "EUCREA e.V."
+                }
+              ]
             },
             {
               "title": "Events \"Celebrate analog life\"",
