@@ -9,6 +9,9 @@ alias: ''
 accessible: ''
 
 ---
+
+![](/media/2022/12/banner-support-your-cloud-banner-eucrea-1.jpg)
+
 # Eucrea e.V.
 
 ### Das Portal zu Kunst / Behinderung / Inklusion
