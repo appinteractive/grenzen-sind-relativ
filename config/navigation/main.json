@@ -320,13 +320,13 @@
               "showInMainNavigation": false,
               "children": [
                 {
+                  "title": "Projektinfo",
+                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md"
+                },
+                {
                   "title": "s-synchronität",
                   "external": false,
                   "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/s-synchronitat.md"
-                },
-                {
-                  "title": "Projektinfo",
-                  "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md"
                 },
                 {
                   "title": "t- tasttanz",
