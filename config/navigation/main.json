@@ -435,6 +435,12 @@
               "showInMainNavigation": true,
               "children": [
                 {
+                  "title": "sense the steps e.V.",
+                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/sense-the-steps-e.v.md",
+                  "disabled": true,
+                  "showInMainNavigation": true
+                },
+                {
                   "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/eucrea.md",
                   "title": "EUCREA e.V."
                 }
