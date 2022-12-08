@@ -27,6 +27,8 @@ Es gibt innerhalb der untersuchten Parameter nichtsdestotrotz einige positive En
 
 Über den Autor:
 
+![](/media/2022/12/florian-wentsch-foto_klein.jpg)
+
 Inspirieren & unterhalten – das ist die Maxime
 
 Florian Wentsch entwickelte das Konzept der **ARD-Serie „Legal Affairs“**, für die er auch Drehbücher verfasste. Momentan arbeitet er an diversen Film- und Serienprojekten.
