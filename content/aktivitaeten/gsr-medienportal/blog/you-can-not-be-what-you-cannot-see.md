@@ -25,4 +25,6 @@ Die auftretenden Personen in Film und Fernsehen sind allerdings in Bezug auf sex
 
 Es gibt innerhalb der untersuchten Parameter nichtsdestotrotz einige positive Entwicklungen und es scheint als gäbe es mittlerweile ein besseres Verständnis für diese Thematik innerhalb der Branche. Doch die Studie der malisa Stiftung macht klar, dass weiterhin Handlungsbedarf auf Seiten der hiesigen Medienmacher*innen besteht.
 
+***
+
 _Alle in diesem Artikel / Blog  geäußerten Ansichten, Meinungen und Schätzungen geben die Sicht des Autors dar und können somit von den Ansichten, Meinungen und Schätzungen des Vereins, dessen Mitarbeiter und Kooperationspartner abweichen._
