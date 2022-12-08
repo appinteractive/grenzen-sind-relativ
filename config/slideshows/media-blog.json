@@ -2,12 +2,6 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/gsr-medienportal/blog/you-can-not-be-what-you-cannot-see.md",
-      "title": "„You can not be what you cannot see!“",
-      "subtitle": "",
-      "image": "/media/2022/12/adobestock_220042572.jpeg"
-    },
-    {
       "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md",
       "title": "Auf in eine neue Beziehungskultur!",
       "subtitle": "",
@@ -18,6 +12,12 @@
       "title": "“Grenzen sind relativ – Musik, Hören und Inklusion“ (von Mischa Gohlke)",
       "subtitle": "",
       "image": "/media/2020/09/musikunterricht-fur-horgeschadigte-beitragsbild.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/blog/you-can-not-be-what-you-cannot-see.md",
+      "title": "„You can not be what you cannot see!“",
+      "subtitle": "",
+      "image": "/media/2022/12/adobestock_220042572.jpeg"
     }
   ],
   "autoplay": false,
