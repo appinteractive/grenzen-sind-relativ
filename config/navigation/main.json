@@ -414,6 +414,11 @@
               "title": "Blog",
               "children": [
                 {
+                  "page": "content/aktivitaeten/gsr-medienportal/blog/you-can-not-be-what-you-cannot-see.md",
+                  "external": false,
+                  "title": "„You can not be what you cannot see!“"
+                },
+                {
                   "title": "Grenzen sind relativ – Musik, Hören und Inklusion",
                   "page": "content/aktivitaeten/gsr-medienportal/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md",
                   "showInMainNavigation": true
