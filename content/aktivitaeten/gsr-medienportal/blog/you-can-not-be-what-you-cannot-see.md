@@ -25,6 +25,20 @@ Die auftretenden Personen in Film und Fernsehen sind allerdings in Bezug auf sex
 
 Es gibt innerhalb der untersuchten Parameter nichtsdestotrotz einige positive Entwicklungen und es scheint als gäbe es mittlerweile ein besseres Verständnis für diese Thematik innerhalb der Branche. Doch die Studie der malisa Stiftung macht klar, dass weiterhin Handlungsbedarf auf Seiten der hiesigen Medienmacher*innen besteht.
 
+Über den Autor:
+
+Inspirieren & unterhalten – das ist die Maxime
+
+Florian Wentsch entwickelte das Konzept der **ARD-Serie „Legal Affairs“**, für die er auch Drehbücher verfasste. Momentan arbeitet er an diversen Film- und Serienprojekten.
+
+Er ist Absolvent der Universität Bayreuth sowie der **Hamburg Media School**, wo er das Masterstudium im Bereich Film 2014 erfolgreich abschloss. Er schrieb Drehbücher für mehrere Kurzfilme, die weltweit auf über 50 Festivals (Max-Ophüls Preis, Shocking Shorts, u.v.a.) liefen und prämiert wurden.
+
+Im Herzen schon immer ein Geschichtenerzähler begann er seine Laufbahn in der Fernsehwelt mit einem Volontariat als EB-Kameramann. Er war mit der Kamera dabei als die Polizei auf Mörderjagd ging, traf Stars und Sternchen, Präsidenten und Obdachlose, Flüchtlinge, Deserteure und Fußballweltmeister. Seit damals ist ihm klar, dass jeder eine spannende Geschichte zu erzählen hat, man muss nur wissen wie.
+
+Inspirieren & unterhalten, ist daher das Ziel all seiner Projekte. Sie handeln von den drängendsten Fragen unserer Zeit. Klimawandel. Digitalisierung. Nachhaltigkeit. Wachsender Bevölkerung. Diversität. Schwindender Ressourcen.
+
+Es geht um echte Konflikte und ungewöhnliche Ansätze – stets für ein möglichst breites Publikum gedacht.
+
 ***
 
 _Alle in diesem Artikel / Blog  geäußerten Ansichten, Meinungen und Schätzungen geben die Sicht des Autors dar und können somit von den Ansichten, Meinungen und Schätzungen des Vereins, dessen Mitarbeiter und Kooperationspartner abweichen._
