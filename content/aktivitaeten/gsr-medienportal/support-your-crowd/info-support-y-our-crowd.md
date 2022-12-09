@@ -1,10 +1,10 @@
 ---
 teaser: "/media/2022/12/zeichenflache-1.jpg"
 title: Support (y)our crowd
-description: Mit unserem neuen GSR Medienportal - Format “Support (y)our Crowd” machen
-  wir verschiedene Vereine, Institutionen, Initiativen, Künstler*innen u.w.m. auf
-  unseren Kanälen sichtbar und setzen Impulse für die Multipolarkultur frei. Wir sind
-  viele und gemeinsam sind wir stark!
+description: Neues Format “Support (y)our Crowd” machen wir verschiedene Vereine,
+  Institutionen, Initiativen, Künstler*innen u.w.m. auf unseren Kanälen sichtbar und
+  setzen Impulse für die Multipolarkultur frei. Wir sind viele und gemeinsam sind
+  wir stark!
 wide: false
 gallery: []
 alias: ''
