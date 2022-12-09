@@ -22,3 +22,5 @@ Die Umsetzung erfolgt über einen von uns **gestalteten Banner**, auf dem ein Fo
 Das Kernstück des Formates ist neben **der entstehenden Sichtbarkeit für das Netzwerk**, aber auch darüber hinaus, **das Zitat** (u.a. Appelle, Aufrufe, Diskurs-Anregungen, Fragestellungen, Beobachtungen und Analysen) rund um die Thematik, warum und inwiefern es mehr gesamtgesellschaftliche spartenübergreifende Vernetzung, interdisziplinäre Projekte & Strukturen und/oder integrales Bewusstsein braucht.
 
 Das **Spektrum umfasst gesamtgesellschaftliche Themen:** Kultur, Kunst, Soziales, Bildung, Umwelt, Medien, Zukunft, Wirtschaft, Politik, Kapitalismus, Demokratie, Philosophie, Psychologie, Multipolarkultur, Dialog, Diskurs, Kommunikation, individuelle und kollektive Realitäten, ®evolution, etc.
+
+<slideshow :max="2" name="support-your-crowd"></slideshow>
