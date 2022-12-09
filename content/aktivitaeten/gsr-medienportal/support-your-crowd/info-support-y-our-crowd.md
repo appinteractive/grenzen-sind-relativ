@@ -1,5 +1,5 @@
 ---
-teaser: "/media/2022/12/zeichenflache-1.jpg"
+teaser: "/media/2022/12/support-your-crowd-banner.jpg"
 title: Support (y)our crowd
 description: Neues Format “Support (y)our Crowd” machen wir verschiedene Vereine,
   Institutionen, Initiativen, Künstler*innen u.w.m. auf unseren Kanälen sichtbar und
@@ -13,7 +13,7 @@ accessible: ''
 ---
 # Support (y)our crowd
 
-![](/media/2022/12/zeichenflache-1.jpg)
+![](/media/2022/12/support-your-crowd-banner.jpg)
 
 Mit unserem neuen [GSR Medienportal](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/gsr-medienportal) - Format “Support (y)our Crowd” machen **wir verschiedene Vereine, Institutionen, Initiativen, Künstler*innen u.w.m. auf unseren Kanälen sichtbar** und setzen Impulse für die Multipolarkultur frei. Wir sind viele und **gemeinsam sind wir stark!**
 
