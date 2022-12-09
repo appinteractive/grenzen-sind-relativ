@@ -4,6 +4,12 @@
   "teasers": true,
   "slides": [
     {
+      "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd.md",
+      "title": "Support your Crowd",
+      "subtitle": "Neues Format \"Support (y)our crowd!",
+      "image": ""
+    },
+    {
       "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/sense-the-steps-e.v.md",
       "title": "sense the steps e.V.",
       "subtitle": "",
@@ -12,12 +18,6 @@
     {
       "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/lebenshilfe-norderstedt-e.v.md",
       "title": "Lebenshilfe Norderstedt e.V.",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd.md",
-      "title": "Support your Crowd",
       "subtitle": "",
       "image": ""
     },
