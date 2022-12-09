@@ -1,17 +1,17 @@
 {
   "autoplay": false,
   "delay": 3500,
-  "teasers": false,
+  "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/eucrea.md",
-      "title": "Eucrea e.V.",
+      "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd.md",
+      "title": "Support your Crowd",
       "subtitle": "",
       "image": ""
     },
     {
-      "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd.md",
-      "title": "Support your Crowd",
+      "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/eucrea.md",
+      "title": "Eucrea e.V.",
       "subtitle": "",
       "image": ""
     }
