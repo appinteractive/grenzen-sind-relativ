@@ -1,0 +1,13 @@
+{
+  "autoplay": true,
+  "delay": 3500,
+  "teasers": false,
+  "slides": [
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/info-support-y-our-crowd.md",
+      "title": "Support your Crowd",
+      "subtitle": "",
+      "image": ""
+    }
+  ]
+}
