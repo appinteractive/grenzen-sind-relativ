@@ -1,5 +1,5 @@
 {
-  "autoplay": true,
+  "autoplay": false,
   "delay": 3500,
   "teasers": false,
   "slides": [
