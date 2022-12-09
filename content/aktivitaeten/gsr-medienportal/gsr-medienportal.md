@@ -64,6 +64,8 @@ Hier findest Du einige audiovisuelle Einblicke in unsere aktuellen und vergangen
 
 Mit unserem neuen Format “Support (y)our Crowd” wollen wir verschiedene Vereine, Institutionen, Initiativen, Künstler*innen u.w.m. auf unseren Kanälen sichtbar machen und Impulse für die Multipolarkultur freisetzen. Wir sind viele und gemeinsam sind wir stark! :)
 
+<slideshow :max="2" name="support-your-crowd"></slideshow>
+
 ***
 
 ## [Events "Celebrate analog life"](https://www.grenzensindrelativ.de/aktivitaeten/gsr-medienportal/events-celebrate-analog-life)
