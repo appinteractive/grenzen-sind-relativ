@@ -359,6 +359,11 @@
             {
               "children": [
                 {
+                  "title": "Studie Kindheit",
+                  "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/studie-zeigt-kindheit-1.md",
+                  "showInMainNavigation": true
+                },
+                {
                   "title": "Info news.oder.fake",
                   "page": "content/aktivitaeten/gsr-medienportal/news.oder.fake/news.oder.fake.md"
                 },
