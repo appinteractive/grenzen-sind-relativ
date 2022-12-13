@@ -47,6 +47,14 @@
                   "title": "Dozenten-Team ",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops.md",
                   "disabled": false
+                },
+                {
+                  "title": "Workshops",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/workshops.md"
+                },
+                {
+                  "title": "Review Celebrate the music 2022 Hamburg",
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/review-celebrate-the-music-2022-hamburg.md"
                 }
               ],
               "external": false,
