@@ -16,7 +16,7 @@ accessible: ''
 
 ## Aktionstage mit Musik-Workshops, Band-Clashed und Abschlusskonzert (ab 2023 bundesweit)
 
-Aufbauend auf die wunderbaren "Celebrate the music" - Veranstaltungen 2022 in Hamburg, wollen wir das Format ab nächstes Jahr bundesweit zum Leben bringen.
+Aufbauend auf die wunderbaren "Celebrate the music" - Veranstaltungen in Hamburg, wollen wir das Format ab 2023 bundesweit zum Leben bringen.
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), den **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
@@ -24,7 +24,11 @@ Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-
 
 <video-gallery class="wide" name="celebrate-the-music"></video-gallery>
 
-"Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. Im Folgenden 3 mögliche Veranstaltungs-Module, die natürlich nicht statisch sind, sondern im individuellen Dialog - je nach Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - final kreiert und umgesetzt werden können:
+"Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. 
+
+Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Dozent:innen-Team, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. usw. - individuell ausarbeiten und umsetzen. 
+
+Im Folgenden schon einmal 3 mögliche Veranstaltungs-Module:
 
 Modul 1:
 
