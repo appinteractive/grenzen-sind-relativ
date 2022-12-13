@@ -71,7 +71,7 @@ Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen
 
 # Review "CELEBRATE THE MUSIC" (2022 Hamburg)
 
-## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten (gefördert von der Aktion Mensch)
+## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten _(gefördert von der Aktion Mensch und der Stiftung Hamburger Wohnen)_
 
 Unser Projekt _Celebrate the music_ ist erfolgreich zu Ende gegangen: Wir konnten 6 tolle Projekttage voller Musik und Begegnung durchführen, die durch die Vielseitigkeit der Kooperationspartner_innen und Veranstaltungsformate jeweils ihren ganz eigenen Zauber hatten: Gemeinsam mit unseren professionellen Dozent_innen, die schon mit Größen wie Nena, Udo Lindenberg, Phil Collins konnten wir für Begeisterung und positive Resonanz sowohl auf Seite der Teilnehmenden als auch der Kooperationspartner*innen sorgen.
 
