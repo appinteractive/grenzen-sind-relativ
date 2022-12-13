@@ -40,13 +40,14 @@ Modul 1:
 Modul 2:
 
 * Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
-* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent:innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
+* 2 Band-Clashes 
+* Gemeinsames Abschlusskonzert (Ergebnisse Workshops & Band-Clashes, Auftritt Dozent:innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltungen):
 
 * In Zelten, Open-Air, etc.: Chor- und Rhythm´n´Groove Workshops (die Teilnehmenden lernen einen Song wie z.B. "Give peace a chance" und performen diesen anschließend zusammen mit den Dozent*innen auf der Bühne)
 * Bühnen-Performances:
 
-  a) Auftritt Dozent:innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
+  a) Auftritt Dozent:innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden gemeinsam mit dem Publikum einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
 
   b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum
