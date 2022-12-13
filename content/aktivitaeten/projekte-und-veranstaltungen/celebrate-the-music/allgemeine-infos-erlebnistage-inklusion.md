@@ -1,9 +1,10 @@
 ---
-title: Celebrate the music
-description: "' Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen
-  Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel!
-  Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden
-  Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt. '"
+title: '"Celebrate the music" - Aktionstage mit Musik-Workshops, Band-Clashed und
+  Abschlusskonzert '
+description: Mit der offenen Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor,
+  Bandtraining), den Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen wir
+  Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel
+  Musik.
 teaser: "/media/2022/10/ctm_100001.jpg"
 gallery: []
 alias: "/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion"
