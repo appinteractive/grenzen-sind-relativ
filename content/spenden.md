@@ -6,6 +6,9 @@ wide: false
 alias: "/spenden.html"
 
 ---
+
+![](/media/2022/12/vielen-dank-untersutzung.jpg)
+
 # Spenden
 
 Liebe Mit-Menschen,
