@@ -22,11 +22,15 @@ Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandt
 
 Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
-"Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. 
+"Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. In folgenden Kurzfilmen könnt ihr euch einige audioviduelle Eindrücke von unseren bisherigen "Celebrate the music"-Veranstaltungen in Hamburg verschaffen: 
+
+<video-gallery class="wide" name="celebrate-the-music"></video-gallery>
+
+**Du möchtest mit uns eine "Celebrate the music"-Veranstaltung realisieren?! :-)**
 
 Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Dozent:innen-Team, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - individuell ausarbeiten und umsetzen. 
 
-Im Folgenden schon einmal 3 mögliche Veranstaltungs-Module:
+Im Folgenden schon einmal **3 mögliche Veranstaltungs-Module**:
 
 Modul 1:
 
@@ -46,8 +50,6 @@ Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltung
   a) Auftritt Dozent:innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
 
   b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum
-
-<video-gallery class="wide" name="celebrate-the-music"></video-gallery>
 
 ***
 
