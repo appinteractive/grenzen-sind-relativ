@@ -22,8 +22,6 @@ Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandt
 
 Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
-<video-gallery class="wide" name="celebrate-the-music"></video-gallery>
-
 "Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. 
 
 Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Dozent:innen-Team, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - individuell ausarbeiten und umsetzen. 
@@ -48,6 +46,8 @@ Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltung
   a) Auftritt Dozent:innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
 
   b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum
+
+<video-gallery class="wide" name="celebrate-the-music"></video-gallery>
 
 ***
 
@@ -81,19 +81,13 @@ Unser Projekt _Celebrate the music_ ist erfolgreich zu Ende gegangen: Wir konnte
 
 So wurde _Celebrate the music_ an Schulen und Bildungseinrichtungen wie der _Nelson Mandela Schule_ und dem _Bildungszentrum Eimsbüttel_ veranstaltet: Mit der offener Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining) und dem gemeinsamen Abschlusskonzert konnten wir für lachende Gesichter und tanzende Körper sorgen.
 
-[https://youtu.be/iKk9QSiuOF4](https://youtu.be/iKk9QSiuOF4 "https://youtu.be/iKk9QSiuOF4")
-
-[https://youtu.be/yaepk0pOa8c](https://youtu.be/yaepk0pOa8c "https://youtu.be/yaepk0pOa8c")
-
-[https://youtu.be/x8POp5okdqk](https://youtu.be/x8POp5okdqk "https://youtu.be/x8POp5okdqk")
-
 In einem zweiten Format wurde _Celebrate the music_ als [übergreifende Netzwerkveranstaltung im Rahmen von bestehenden Kulturveranstaltungen wie der _altonale_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine) und dem Sportfest der [_Inklusionsagentur_ _Norderstedt_](https://norderstedt-sportiv-inklusiv.de/?page_id=17) realisiert. Hier wurden Acts aller Kooperationspartnerinnen des Projekts in das Bühnenprogramm bestehender öffentlichen Veranstaltungen integriert. Dieses Format wurde teils mit einem Angebot der offenen Workshoprunde ergänzt. Die Darstellung der gemeinsamen Ergebnisse und der Dozent:innenband wurde als Programmpunkt im jeweiligen Bühnenprogramm einer breiten Öffentlichkeit präsentiert.
-
-[https://youtu.be/mJsl1Hwu7B0](https://youtu.be/mJsl1Hwu7B0 "https://youtu.be/mJsl1Hwu7B0")
 
 Zudem konnten wir _Celebrate the music_ als [dritte Variation gemeinsam mit in Kooperation mit dem _Trockendock e.V._ und der _Staatlichen Jugendmusikschule Hamburg_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v) als größeres Kooperationsvorhaben mit offener Workshoprunde sowie einem inklusiven Band-Clash und einem Songschmiede-Workshop umsetzen. Hier konnten sich externe Teilnehmer:innen für die Workshopangebote anmelden, wodurch Celebrate the music auch einer heterogenen Zielgruppe zugänglich gemacht werden konnte. Auch hier wurden die Ergebnisse des Tages gemeinsam auf die Bühne gebracht, die Dozentinnenband hat beim Abschlusskonzert ihr musikalisches Können unter Beweis gestellt und es wurde gemeinsam das Tanzbein geschwungen.
 
 Wir möchten uns an dieser Stelle bei allen Menschen und Kooperationspartner:innen bedanken, die zu diesem positiven Verlauf von _Celebrate the music_ beigetragen und die Umsetzung des Projekts überhaupt erst ermöglicht haben.
+
+<video-gallery class="wide" name="celebrate-the-music"></video-gallery>
 
 Durch die sehr unterschiedlichen Formate und die bunte Vielfalt der Kooperationspartner:innen durften wir in diesem Jahr viel Erfahrung sammeln. Die Synergien, die in diesem Jahr entstanden sind, möchten wir nicht versiegen lassen!
 
