@@ -34,13 +34,13 @@ Im Folgenden schon einmal **3 mögliche Veranstaltungs-Module**:
 
 Modul 1:
 
-* Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
+* Offene Workshoprunde - 4 Gruppen schnuppern alle in folgende Workshops rein: Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining
 * Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent:innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 2:
 
-* Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
-* 2 Band-Clashes 
+* 2 Workshop-Gruppen: 1. Gruppe: Drumcircle & Body Rhythm und 2. Gruppe: Stimme & Chor & Bandtraining
+* 2 Band-Clashes: Bands verschiedenster Couleur begegnen sich erstmals und proben einen Song ein, der beim Abschlusskonzert auf die Bühne gebracht wird. 
 * Gemeinsames Abschlusskonzert (Ergebnisse Workshops & Band-Clashes, Auftritt Dozent:innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltungen):
@@ -50,4 +50,4 @@ Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltung
 
   a) Auftritt Dozent:innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden gemeinsam mit dem Publikum einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
 
-  b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum
+  b) Interaktive Workshops mit dem Publikum (Chor, Rhythm´n´Groove, Bodyrhythm, etc.)
