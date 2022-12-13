@@ -2,16 +2,10 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v.md",
-      "title": "Jetzt anmelden! Fr. 02.12.22 \"Celebrate the music - Come together!\" ",
-      "subtitle": "Die Staatliche Jugendmusikschule Hamburg, das Trockendock e.V. und Grenzen sind relativ e.V. laden Musikbegeisterte und Interessierte bei einer ganz besonderen Veranstaltung mitzumachen.",
-      "image": "/media/2022/11/2-12.png"
-    },
-    {
-      "page": "content/aktivitaeten/netzwerk-und-oeffentlichkeitsarbeit/come-together-partys-grenzen-sind-relativ-e.v.friends.md",
-      "title": "Come together Party #6 - Grenzen sind relativ e.V. & Friends // Fr. 09.12.22 \"Alte Liebe\" ",
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
+      "title": "Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht",
       "subtitle": "",
-      "image": ""
+      "image": "/media/2020/10/neu1.jpg"
     },
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md",
@@ -20,22 +14,16 @@
       "image": "/media/2022/10/beitragsbild-youtube-gsr-e-v-public-events.png"
     },
     {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
-      "title": "Grenzen sind relativ e.V. Veranstaltungsformate - Eine Übersicht",
-      "subtitle": "",
-      "image": "/media/2020/10/neu1.jpg"
-    },
-    {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg.md",
-      "title": "\"Kultur ALIVE - Grenzen sind relativ\" // Sa. 01.10.22 Spielbudenplatz (Reeperbahn Hamburg)",
-      "subtitle": "Im Geiste des Mottos „Grenzen sind relativ“ kommen über 100 Künstler*innen, Ausstellende und gemeinnützige Organisationen zusammen, um gemeinsam das “synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke diverser Backgrounds zu feiern. ",
-      "image": "/media/2022/09/kulture-alive_01-10_facebook-header_jpg-72-dpi.jpg"
-    },
-    {
-      "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/ab-2023-celebrate-the-music-bundesweit.md",
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion.md",
       "title": "\"Celebrate the music\" - Aktionstage mit Musik-Workshops, Band-Clashed und Abschlusskonzert ",
       "subtitle": "",
       "image": ""
+    },
+    {
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg.md",
+      "title": "Review \"Kultur ALIVE - Grenzen sind relativ\" // Sa. 01.10.22 Spielbudenplatz (Reeperbahn Hamburg)",
+      "subtitle": "Im Geiste des Mottos „Grenzen sind relativ“ kommen über 100 Künstler*innen, Ausstellende und gemeinnützige Organisationen zusammen, um gemeinsam das “synergetisch multipolare Spektrum” der Künste, Menschen und Netzwerke diverser Backgrounds zu feiern. ",
+      "image": "/media/2022/09/kulture-alive_01-10_facebook-header_jpg-72-dpi.jpg"
     },
     {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
