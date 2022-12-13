@@ -11,47 +11,95 @@ wide: false
 accessible: ''
 
 ---
-# CELEBRATE THE MUSIC
+# "CELEBRATE THE MUSIC"
 
-## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten
+## Aktionstage mit Musik-Workshops, Band-Clashed und Abschlusskonzert (ab 2023 bundesweit)
 
-Musik verbindet! Und weil das so ist, schaffen wir mit unserem neuen Projekt „Celebrate the music“ Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel!
+Aufbauend auf die wunderbaren "Celebrate the music" - Veranstaltungen 2022 in Hamburg, wollen wir das Format ab nächstes Jahr bundesweit zum Leben bringen.
 
-Durch Musik-Workshops, interaktive Begegnungen und Konzertveranstaltungen werden an fünf Veranstaltungstagen gemeinsam mit Institutionen aus Bildung, Kultur und Sozialem Impulse für eine “gelebte(re) gesamtgesellschaftliche Inklusion” freigesetzt:
+Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), den **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
-#### Do. 05.05.2022: ReBBZ Eimsbüttel
+Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. Bei “Celebrate the music” sind alle Lehrende und Lernende.
+
+<video-gallery class="wide" name="celebrate-the-music"></video-gallery>
+
+"Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. Im Folgenden 3 mögliche Veranstaltungs-Module, die natürlich nicht statisch sind, sondern im individuellen Dialog - je nach Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - final kreiert und umgesetzt werden können:
+
+Modul 1:
+
+* Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
+* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
+
+Modul 2:
+
+* Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
+* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
+
+Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltungen):
+
+* In Zelten, Open-Air, etc.: Chor- und Rhythm´n´Groove Workshops (die Teilnehmenden lernen einen Song wie z.B. "Give peace a chance" und performen diesen anschließend zusammen mit den Dozent*innen auf der Bühne)
+* Bühnen-Performances:
+
+  a) Auftritt Dozent*innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
+
+  b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum
+
+***
+
+**Workshop 1: Drumcircle**
+
+Ihr wolltet schon immer mal eine Trommel ausprobieren oder wissen wie es ist, in einem großen Percussion-Orchester zu spielen? Hier ist die Gelegenheit. Unabhängig von deinen Vorkenntnissen tragen alle zu einem gemeinsamen Rhythmus bei. Wir üben spielerisch das musikalische Kommunizieren und das gegenseitige Miteinander. Jeder Einzelne ist ein gleichwertiger Teil vom Ganzen und kann sich im Team ausprobieren. Wir bauen Hemmungen ab und setzen kreative Potenziale frei. Jeder muss jeden stützen, jeder gewährt jedem Freiraum. Alle können es sofort fühlen, ein Gemeinschaftserlebnis entsteht.
+
+**Workshop 2: Body Rhythm**
+
+Hier bekommst Du einen Einblick in die Welt der Body Percussion – der Verbindung von Rhythmus, Bewegung und Stimme. Mit Spielen und Übungen bereiten wir uns vor, um im Anschluss eine kurze Choreografie zu erlernen. Bodypercussion ermöglicht es uns, den eigenen Körper im Fluss der Musik zu spüren und gleichzeitig mit anderen in Kontakt zu treten.
+
+**Workshop 3: Stimme & Chor**
+
+In diesem Workshop widmen wir uns dem Gesang. Dabei darf jeder in seinem eigenen Tempo seine Stimme entdecken und weiterentwickeln. Egal ob du zum ersten Mal singst oder schon fortgeschritten bist, jeder ist herzlich willkommen! Ganz nebenbei bekommst du wertvolle Tipps für deine Stimme. Und wenn du Lust hast auf ein Rap- oder Gesangssolo bist du hier ebenso richtig!
+
+**Workshop 4: Bandtraining**
+
+Hier kannst Du die Instrumente Bass, Gitarre, Schlagzeug, Keyboard sowie Gesang kennenlernen und ausprobieren. Du erfährst, was es ausmacht in einer Band zusammen zu spielen und wie die verschiedenen musikalischen Elemente Rhythmus, Harmonie und Melodie ein Ganzes ergeben. Dabei erhälst Du einen Einblick in die Musikwelt, unter anderem mit einigen lustigen Anekdoten aus dem Tourleben.
+
+**Band-Clashes**, bei dem sich Bands verschiedenster Couleur erstmals begegnen, einen Song einproben und auf die Bühne zaubern werden, wie sie es noch nie gesehen, gehört und erlebt haben.
+
+Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen die Ergebnisse des Veranstaltungstages präsentieren und die Bühne ausgiebig rocken.
+
+***
+
+# Review "CELEBRATE THE MUSIC" (2022 Hamburg)
+
+## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten (gefördert von der Aktion Mensch)
+
+Unser Projekt _Celebrate the music_ ist erfolgreich zu Ende gegangen: Wir konnten 6 tolle Projekttage voller Musik und Begegnung durchführen, die durch die Vielseitigkeit der Kooperationspartner*innen und Veranstaltungsformate jeweils ihren ganz eigenen Zauber hatten: Gemeinsam mit unseren professionellen Dozent*innen, die schon mit Größen wie Nena, Udo Lindenberg, Phil Collins konnten wir für Begeisterung und positive Resonanz sowohl auf Seite der Teilnehmenden als auch der Kooperationspartner*innen sorgen.
+
+So wurde _Celebrate the music_ an Schulen und Bildungseinrichtungen wie der _Nelson Mandela Schule_ und dem _Bildungszentrum Eimsbüttel_ veranstaltet: Mit der offener Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining) und dem gemeinsamen Abschlusskonzert konnten wir für lachende Gesichter und tanzende Körper sorgen.
 
 [https://youtu.be/iKk9QSiuOF4](https://youtu.be/iKk9QSiuOF4 "https://youtu.be/iKk9QSiuOF4")
 
-#### Fr. 06.05.2022: Grundschule Bindfeldweg
-
 [https://youtu.be/yaepk0pOa8c](https://youtu.be/yaepk0pOa8c "https://youtu.be/yaepk0pOa8c")
 
-#### Do. 12.05.2022: Nelson Mandela Schule
+[https://youtu.be/x8POp5okdqk](https://youtu.be/x8POp5okdqk "https://youtu.be/x8POp5okdqk")
 
-https://youtu.be/x8POp5okdqk
-
-#### So. 11.09.2022: [Inklusionsagentur Norderstedt - Sportfest „Norderstedt bewegt Inklusion“](https://norderstedt-sportiv-inklusiv.de/?page_id=17)
+In einem zweiten Format wurde _Celebrate the music_ als [übergreifende Netzwerkveranstaltung im Rahmen von bestehenden Kulturveranstaltungen wie der _altonale_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine) und dem Sportfest der [_Inklusionsagentur_ _Norderstedt_](https://norderstedt-sportiv-inklusiv.de/?page_id=17) realisiert. Hier wurden Acts aller Kooperationspartner*innen des Projekts in das Bühnenprogramm bestehender öffentlichen Veranstaltungen integriert. Dieses Format wurde teils mit einem Angebot der offenen Workshoprunde ergänzt. Die Darstellung der gemeinsamen Ergebnisse und der Dozent*innenband wurde als Programmpunkt im jeweiligen Bühnenprogramm einer breiten Öffentlichkeit präsentiert.
 
 [https://youtu.be/mJsl1Hwu7B0](https://youtu.be/mJsl1Hwu7B0 "https://youtu.be/mJsl1Hwu7B0")
 
-#### [Fr. 02.12.2022: Trockendock (zusammen mit der staatlichen Jugendmusikschule Hamburg)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v)
+Zudem konnten wir _Celebrate the music_ als [dritte Variation gemeinsam mit in Kooperation mit dem _Trockendock e.V._ und der _Staatlichen Jugendmusikschule Hamburg_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v) als größeres Kooperationsvorhaben mit offener Workshoprunde sowie einem inklusiven BandClash und einem Songschmiede-Workshop umsetzen. Hier konnten sich externe Teilnehmer*innen für die Workshopangebote anmelden, wodurch _Celebrate the music_ auch einer heterogenen Zielgruppe zugänglich gemacht werden konnte. Auch hier wurden die Ergebnisse des Tages gemeinsam auf die Bühne gebracht, die Dozent*innenband hat beim Abschlusskonzert ihr musikalisches Können unter Beweis gestellt und es wurde gemeinsam das Tanzbein geschwungen.
 
-Die Veranstaltungstage umfassen unterschiedliche Workshopformate wie zum Beispiel Musik-Orient(ierung) & Bandtraining, Drumcircle & Rhythm´n´Groove, Stimme & Chor, Body Rhythm und Tanz & Bewegung.
+Wir möchten uns an dieser Stelle bei allen Menschen und Kooperationspartner*innen bedanken, die zu diesem positiven Verlauf von _Celebrate the music_ beigetragen und die Umsetzung des Projekts überhaupt erst ermöglicht haben.
 
-Jeder Tag schließt mit einer Abschlussveranstaltung, bei der die Teilnehmenden zusammen mit den Dozent:innen und weiteren künstlerischen Acts die Bühne rocken werden.
+Durch die sehr unterschiedlichen Formate und die bunte Vielfalt der Kooperationspartner*innen durften wir in diesem Jahr viel Erfahrung sammeln. Die Synergien, die in diesem Jahr entstanden sind, möchten wir nicht versiegen lassen!
 
-Das [Dozenten-Team](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können.
+Die gemeinsamen Erfahrungswerte und den entstandenen Wissensfundus möchten wir nutzen und nun in die nächste Runde starten: Celebrate the music soll 2023 weitergehen und zwar bundesweit!
 
-Bei der Netzwerkveranstaltung [“Celebrate the music - Come together!” am So. 19.06.2022 auf der altonale (Platz der Republik)](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine) sind alle mitwirkenden Schüler:innen, Institutionen und Dozent:innen zusammen gekommen. Gemeinsam mit dem Publikum wurde die Essenz der Musik gebührend zelebriert.
+Ihr habt Interesse an einer - ersten oder wiederholten - Kooperation im Rahmen von _Celebrate the music_? Lasst uns gemeinsam ein passendes Format entwickeln und weiter für positive Energien und Musikbegeisterug sorgen!
 
-Das Ganze wird von einem Filmteam begleitet, das einen Dokumentarfilm über das Projekt machen wird.
+Bei Interesse oder Feedback meldet euch gerne bei Fabia unter [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de).
 
-Das Projektformat bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikator:innen und weiterführende Folgeprozesse auf den Weg gebracht werden.
-
-Ziel des Projektes ist die Förderung von Dialog und Austausch zwischen unterschiedlichsten Menschen. Durch das Medium Musik werden Potenziale für persönliche Entwicklungsprozesse der Teilnehmenden freigesetzt. Dabei soll die typische Lehrer:innen-Schüler:innen-Hierarchie aufgebrochen werden: Bei “Celebrate the music” sind alle gleichzeitig Lehrende und Lernende.
-
-Bei Fragen wende dich gerne an produktion@grenzensindrelativ.de
+  
+Wir freuen uns auf die nächste Runde von _Celebrate the music_ mit euch im Jahr 2023!
 
 ### Gefördert durch:
 

@@ -47,28 +47,6 @@
                   "title": "Dozenten-Team ",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops.md",
                   "disabled": false
-                },
-                {
-                  "title": "Celebrate the music - Come together! // So. 19.06. altonale 2022",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine.md",
-                  "disabled": false
-                },
-                {
-                  "children": [
-
-                  ],
-                  "title": "Celebrate the music - Come together! // Fr. 02.12.22 Trockendock e.V.",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v.md",
-                  "disabled": false
-                },
-                {
-                  "title": "Ab 2023: \"Celebrate the music\" - bundesweit",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/ab-2023-celebrate-the-music-bundesweit.md"
-                },
-                {
-                  "title": "Dokumentation",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dokumentation.md",
-                  "disabled": true
                 }
               ],
               "external": false,
