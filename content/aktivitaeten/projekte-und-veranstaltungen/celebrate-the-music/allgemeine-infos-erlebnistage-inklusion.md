@@ -22,13 +22,13 @@ Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandt
 
 Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
-"Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. In folgenden Kurzfilmen könnt ihr euch einige audioviduelle Eindrücke von unseren bisherigen "Celebrate the music"-Veranstaltungen in Hamburg verschaffen: 
+"Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. In folgenden Kurzfilmen könnt ihr euch einige audioviduelle Eindrücke von unseren bisherigen "Celebrate the music"-Veranstaltungen in Hamburg verschaffen:
 
 <video-gallery class="wide" name="celebrate-the-music"></video-gallery>
 
 **Du möchtest mit uns eine "Celebrate the music"-Veranstaltung realisieren?! :-)**
 
-Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Dozent:innen-Team, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - individuell ausarbeiten und umsetzen. 
+Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Dozent:innen-Team, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - individuell ausarbeiten und umsetzen.
 
 Im Folgenden schon einmal **3 mögliche Veranstaltungs-Module**:
 
@@ -79,7 +79,7 @@ Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen
 
 ## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten _(gefördert von der Aktion Mensch und der Stiftung Hamburger Wohnen)_
 
-Unser Projekt _Celebrate the music_ ist erfolgreich zu Ende gegangen: Wir konnten 6 tolle Projekttage voller Musik und Begegnung durchführen, die durch die Vielseitigkeit der Kooperationspartner_innen und Veranstaltungsformate jeweils ihren ganz eigenen Zauber hatten: Gemeinsam mit unseren professionellen Dozent_innen, die schon mit Größen wie Nena, Udo Lindenberg, Phil Collins, Madonna, Shakira, etc. auf der Bühne standen, konnten wir für Begeisterung und positive Resonanz sowohl auf Seite der Teilnehmenden als auch der Kooperationspartner:innen sorgen.
+Unser Projekt _Celebrate the music_ ist erfolgreich zu Ende gegangen: Wir konnten 6 tolle Projekttage voller Musik und Begegnung durchführen, die durch die Vielseitigkeit der Kooperationspartner:innen und Veranstaltungsformate jeweils ihren ganz eigenen Zauber hatten: Gemeinsam mit unseren professionellen Dozent_innen, die schon mit Größen wie Nena, Udo Lindenberg, Phil Collins, Madonna, Shakira, etc. auf der Bühne standen, konnten wir für Begeisterung und positive Resonanz sowohl auf Seite der Teilnehmenden als auch der Kooperationspartner:innen sorgen.
 
 So wurde _Celebrate the music_ an Schulen und Bildungseinrichtungen wie der _Nelson Mandela Schule_ und dem _Bildungszentrum Eimsbüttel_ veranstaltet: Mit der offener Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining) und dem gemeinsamen Abschlusskonzert konnten wir für lachende Gesichter und tanzende Körper sorgen.
 
