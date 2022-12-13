@@ -20,13 +20,13 @@ Aufbauend auf die wunderbaren "Celebrate the music" - Veranstaltungen in Hamburg
 
 Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), den **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
-Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. Bei “Celebrate the music” sind alle Lehrende und Lernende.
+Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
 <video-gallery class="wide" name="celebrate-the-music"></video-gallery>
 
 "Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. 
 
-Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Dozent:innen-Team, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. usw. - individuell ausarbeiten und umsetzen. 
+Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmenprogramm, Dozent:innen-Team, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Zielgruppen, Bedarf, Budget, Räumlichkeiten, etc. - individuell ausarbeiten und umsetzen. 
 
 Im Folgenden schon einmal 3 mögliche Veranstaltungs-Module:
 
