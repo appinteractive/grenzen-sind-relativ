@@ -73,7 +73,7 @@ Beim **Abschlusskonzert** werden die Teilnehmenden zusammen mit den Dozent:innen
 
 ## Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten (gefördert von der Aktion Mensch)
 
-Unser Projekt _Celebrate the music_ ist erfolgreich zu Ende gegangen: Wir konnten 6 tolle Projekttage voller Musik und Begegnung durchführen, die durch die Vielseitigkeit der Kooperationspartner*innen und Veranstaltungsformate jeweils ihren ganz eigenen Zauber hatten: Gemeinsam mit unseren professionellen Dozent*innen, die schon mit Größen wie Nena, Udo Lindenberg, Phil Collins konnten wir für Begeisterung und positive Resonanz sowohl auf Seite der Teilnehmenden als auch der Kooperationspartner*innen sorgen.
+Unser Projekt _Celebrate the music_ ist erfolgreich zu Ende gegangen: Wir konnten 6 tolle Projekttage voller Musik und Begegnung durchführen, die durch die Vielseitigkeit der Kooperationspartner_innen und Veranstaltungsformate jeweils ihren ganz eigenen Zauber hatten: Gemeinsam mit unseren professionellen Dozent_innen, die schon mit Größen wie Nena, Udo Lindenberg, Phil Collins konnten wir für Begeisterung und positive Resonanz sowohl auf Seite der Teilnehmenden als auch der Kooperationspartner*innen sorgen.
 
 So wurde _Celebrate the music_ an Schulen und Bildungseinrichtungen wie der _Nelson Mandela Schule_ und dem _Bildungszentrum Eimsbüttel_ veranstaltet: Mit der offener Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor und Bandtraining) und dem gemeinsamen Abschlusskonzert konnten wir für lachende Gesichter und tanzende Körper sorgen.
 
@@ -83,11 +83,11 @@ So wurde _Celebrate the music_ an Schulen und Bildungseinrichtungen wie der _Nel
 
 [https://youtu.be/x8POp5okdqk](https://youtu.be/x8POp5okdqk "https://youtu.be/x8POp5okdqk")
 
-In einem zweiten Format wurde _Celebrate the music_ als [übergreifende Netzwerkveranstaltung im Rahmen von bestehenden Kulturveranstaltungen wie der _altonale_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine) und dem Sportfest der [_Inklusionsagentur_ _Norderstedt_](https://norderstedt-sportiv-inklusiv.de/?page_id=17) realisiert. Hier wurden Acts aller Kooperationspartner*innen des Projekts in das Bühnenprogramm bestehender öffentlichen Veranstaltungen integriert. Dieses Format wurde teils mit einem Angebot der offenen Workshoprunde ergänzt. Die Darstellung der gemeinsamen Ergebnisse und der Dozent*innenband wurde als Programmpunkt im jeweiligen Bühnenprogramm einer breiten Öffentlichkeit präsentiert.
+In einem zweiten Format wurde _Celebrate the music_ als [übergreifende Netzwerkveranstaltung im Rahmen von bestehenden Kulturveranstaltungen wie der _altonale_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/veranstaltungstermine) und dem Sportfest der [_Inklusionsagentur_ _Norderstedt_](https://norderstedt-sportiv-inklusiv.de/?page_id=17) realisiert. Hier wurden Acts aller Kooperationspartner_innen des Projekts in das Bühnenprogramm bestehender öffentlichen Veranstaltungen integriert. Dieses Format wurde teils mit einem Angebot der offenen Workshoprunde ergänzt. Die Darstellung der gemeinsamen Ergebnisse und der Dozent_innenband wurde als Programmpunkt im jeweiligen Bühnenprogramm einer breiten Öffentlichkeit präsentiert.
 
 [https://youtu.be/mJsl1Hwu7B0](https://youtu.be/mJsl1Hwu7B0 "https://youtu.be/mJsl1Hwu7B0")
 
-Zudem konnten wir _Celebrate the music_ als [dritte Variation gemeinsam mit in Kooperation mit dem _Trockendock e.V._ und der _Staatlichen Jugendmusikschule Hamburg_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v) als größeres Kooperationsvorhaben mit offener Workshoprunde sowie einem inklusiven BandClash und einem Songschmiede-Workshop umsetzen. Hier konnten sich externe Teilnehmer*innen für die Workshopangebote anmelden, wodurch _Celebrate the music_ auch einer heterogenen Zielgruppe zugänglich gemacht werden konnte. Auch hier wurden die Ergebnisse des Tages gemeinsam auf die Bühne gebracht, die Dozent*innenband hat beim Abschlusskonzert ihr musikalisches Können unter Beweis gestellt und es wurde gemeinsam das Tanzbein geschwungen.
+Zudem konnten wir _Celebrate the music_ als [dritte Variation gemeinsam mit in Kooperation mit dem _Trockendock e.V._ und der _Staatlichen Jugendmusikschule Hamburg_](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/celebrate-the-music-come-together-sa.02.12.22-trockendock-e.v) als größeres Kooperationsvorhaben mit offener Workshoprunde sowie einem inklusiven BandClash und einem Songschmiede-Workshop umsetzen. Hier konnten sich externe Teilnehmer_innen für die Workshopangebote anmelden, wodurch Celebrate the music_ auch einer heterogenen Zielgruppe zugänglich gemacht werden konnte. Auch hier wurden die Ergebnisse des Tages gemeinsam auf die Bühne gebracht, die Dozentinnenband hat beim Abschlusskonzert ihr musikalisches Können unter Beweis gestellt und es wurde gemeinsam das Tanzbein geschwungen.
 
 Wir möchten uns an dieser Stelle bei allen Menschen und Kooperationspartner*innen bedanken, die zu diesem positiven Verlauf von _Celebrate the music_ beigetragen und die Umsetzung des Projekts überhaupt erst ermöglicht haben.
 
@@ -99,7 +99,6 @@ Ihr habt Interesse an einer - ersten oder wiederholten - Kooperation im Rahmen v
 
 Bei Interesse oder Feedback meldet euch gerne bei Fabia unter [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de).
 
-  
 Wir freuen uns auf die nächste Runde von _Celebrate the music_ mit euch im Jahr 2023!
 
 ### Gefördert durch:
