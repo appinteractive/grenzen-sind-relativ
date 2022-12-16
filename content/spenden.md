@@ -19,7 +19,8 @@ Viel Engagement, Zeit und vor allem Herzblut stecken in unseren Veranstaltungen,
 
 Um unsere relevante und vielfältige Arbeit auch in Zukunft weiterführen und den wachsenden Anforderungen gerecht werden zu können, sind wir **dringend auf Spenden für folgende Kostenbereiche angewiesen:**
 
-Personal- & Honorarkosten, laufende Kosten, Miete & Büroausstattung für unser neues Vereinsbüro ab dem 01.03.2023, Außenauftritt (Designs, Filme, usw.) sowie Eigenmittel bei unseren Projekten, Veranstaltungen und Kampagnen:[ Kampagne 2. Inklusions- & Friedenssong](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong),[ GSR e.V. Public Events](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion),[ Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion), etc.
+1. Institutionelle Vereinsinfrastruktur (Personal- & Honorarkosten, laufende Kosten, Miete & Büroausstattung für unser neues Vereinsbüro ab dem 01.03.2023, Außenauftritt, etc.) 
+2. Eigenmittel bei unseren Projekten, Veranstaltungen und Kampagnen:[ Kampagne 2. Inklusions- & Friedenssong](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong),[ GSR e.V. Public Events](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion),[ Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion), etc.
 
 **Dabei sind Transparenz, Wirkung und Teamspirit für uns essenziell!**
 
@@ -29,7 +30,7 @@ Für Rückfragen und Informationen stehen wir Dir natürlich gerne zur Verfügun
 Kontakt: Mischa Gohlke, [mischa.gohlke@grenzensindrelativ.de](mailto:mischa.gohlke@grenzensindrelativ.de)
 
 Wir freuen uns über jede einmalige und/oder regelmäßige (monatliche) Spende! 🙂  
-Bereits kleine Beträge können Großes bewirken!   
+Bereits kleine Beträge können Großes bewirken!  
 Spendenbescheinigungen können selbstverständlich ausgestellt werden.
 
 Gespendet werden kann direkt über das Spendenformular oder per Überweisung:
