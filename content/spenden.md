@@ -1,7 +1,7 @@
 ---
 title: Spenden
 description: Wir freuen uns über jede einmalige und/oder regelmäßige (monatliche)
-  Spende
+  Spende! :)
 wide: false
 alias: "/spenden.html"
 teaser: "/media/2022/12/vielen-dank-untersutzung.jpg"
