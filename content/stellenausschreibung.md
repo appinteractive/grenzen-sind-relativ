@@ -12,7 +12,7 @@ accessible: ''
 
 Mit Projekten, Veranstaltungen, Kampagnen, Musikunterricht, Workshops, Beratung und Öffentlichkeitsarbeit & Bewusstseinsbildung bringen wir Menschen verschiedenster Backgrounds zusammen und setzen uns für interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Dialog & Miteinander und gelebten Frieden für alle Menschen auf diesem Planeten ein.
 
-Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und suchen aktuell suchen noch einen Mitarbeiter*in für folgenden Arbeitsbereich:
+Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) erweitern und suchen aktuell noch einen Mitarbeiter*in für folgenden Arbeitsbereich:
 
 #### 1.) Veranstaltungsmanagement, Produktionsleitung, Akquise & Booking GSR e.V. Veranstaltungsformate _(ab sofort, 25-32 Wochenstunden)_
 
