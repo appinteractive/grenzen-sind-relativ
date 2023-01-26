@@ -19,15 +19,29 @@ accessible: ''
 
 Das Veranstaltungsformat Konzert, Workshops & Talk und von/mit der [Mischa Gohlke Band](https://mischagohlkeband.de/) ermöglicht Raum für Begegnung, Erfahrungsaustausch und Perspektivwechsel und soll Impulse/Inspirationen für die [gelebte(re) gesamtgesellschaftliche Inklusion](/ueber-uns/herleitung.html) freisetzen.
 
+Die Veranstaltungen werden exklusiv in Schulen, Universitäten, Unternehmen, Sportvereinen, Institutionen, usw. umgesetzt oder finden im Rahmen von Festivals, Stadtteil- und Strassenfesten, Kongressen, Sommerfesten, Kampagnen, Projektwochen, usw. statt.
+
 Musik ist ein wunderbares Kommunikationsmittel, um in den Dialog zu kommen und dabei persönliche Entwicklungsprozesse zu unterstützen, für die Bedürfnisse anderer zu sensibilisieren, Denkblockaden aufzudecken und das Gemeinschaftsgefühl zu stärken.
 
 Darüber hinaus schafft man mit dem Veranstaltungsformat eine erfrischende kulturelle Abwechslung und bringt verschiedenste Menschen, Netzwerke und Themen zusammen. So können diverse Synergien, Multiplikatoren und weiterführende Folgeprozesse auf den Weg gebracht werden.
 
-Die Veranstaltungen werden exklusiv in Schulen, Universitäten, Unternehmen, Sportvereinen, Institutionen, usw. umgesetzt oder finden im Rahmen von Festivals, Stadtteil- und Strassenfesten, Kongressen, Sommerfesten, Kampagnen, Projektwochen, usw. statt.
+***
+
+**Mischa Gohlke Band**
+
+Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht.
+
+In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
+
+Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie dem Schlagzeuger Michael Nick (The Magic of Santana, Trez Hombres).
+
+Die Mischa Gohlke Band spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho (_ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, uvwm.)_.
+
+Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt.
 
 ***
 
-Das Veranstaltungsformat umfasst folgende Säulen:
+Das Veranstaltungsformat "**Konzert, Workshops & Talk mit der Mischa Gohlke Band"** umfasst folgende Säulen:
 
 1. Konzert „[Mischa Gohlke Band](https://mischagohlkeband.de/)“ + ggfs. weitere Acts (Local Hero, Musikprojekt von einer gemeinnützigen Organisation, Nachwuchsgruppen, usw.)
 2. Workshops/Seminare von/mit der „Mischa Gohlke Band“ (Rhythm´n´Groove, Musikorient, Bandtraing, Instrumente, Chor, usw.)
