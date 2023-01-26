@@ -14,7 +14,7 @@ accessible: ''
 ---
 # "CELEBRATE THE MUSIC"
 
-## Aktionstage mit Musik-Workshops, Band-Clashed und Abschlusskonzert (ab 2023 bundesweit)
+## Aktionstage mit Musik-Workshops, Band-Clashes und Abschlusskonzert (ab 2023 bundesweit)
 
 Aufbauend auf die wunderbaren "Celebrate the music" - Veranstaltungen in Hamburg, wollen wir das Format ab 2023 bundesweit zum Leben bringen.
 
@@ -40,7 +40,7 @@ Modul 1:
 Modul 2:
 
 * 2 Workshop-Gruppen: 1. Gruppe: Drumcircle & Body Rhythm und 2. Gruppe: Stimme & Chor & Bandtraining
-* 2 Band-Clashes: Bands verschiedenster Couleur begegnen sich erstmals und proben einen Song ein, der beim Abschlusskonzert auf die Bühne gebracht wird. 
+* 2 Band-Clashes: Bands verschiedenster Couleur begegnen sich erstmals und proben einen Song ein, der beim Abschlusskonzert auf die Bühne gebracht wird.
 * Gemeinsames Abschlusskonzert (Ergebnisse Workshops & Band-Clashes, Auftritt Dozent:innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltungen):
