@@ -14,13 +14,13 @@ accessible: ''
 ---
 # "CELEBRATE THE MUSIC"
 
-## Aktionstage mit Musik-Workshops, Band-Clashes und Abschlusskonzert (ab 2023 bundesweit)
+## Aktionstage mit Musik-Workshops, Band-Clashes und Abschlusskonzert 
 
-Aufbauend auf die wunderbaren "Celebrate the music" - Veranstaltungen in Hamburg, wollen wir das Format ab 2023 bundesweit zum Leben bringen.
+Mit unserem Format aus **offenen Workshoprunden** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), den **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
 
-Mit der **offenen Workshoprunde** (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining), den **Band-Clashes** und dem gemeinsamen **Abschlusskonzert** schaffen wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz viel Musik.
+Initiiert wurde “Celebrate the music” von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager [**Mischa Gohlke**](https://www.grenzensindrelativ.de/ueber-uns/das-team/aktionsbuero/mischa-gohlke)**,** der mit seiner an Taubheit grenzenden Hörschädigung erfolgreich den Weg als Profimusiker beschritten und damit das scheinbar Unmögliche möglich gemacht hat.
 
-Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops) besteht aus erfahrenen und passionierten Musiker:innen: Mischa Gohlke, David Alleckna, Volkan Baydar, Oded Kafri, Lili Czuya, Ben Schütz, Rico Bowen, Alexandra Pengler und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Sasha und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
+Neben ihm wirken noch weitere professionelle und passionierte Musiker im „Celebrate the music“ [**Dozenten-Team **](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/dozenten-team-workshops)mit: David Alleckna, Volkan Baydar, Oded Kafri, Ben Schütz, Rico Bowen, Alexandra Pengler, Jens Carstens, Lili Czuya und Michael Nick. Diese haben bereits mit Größen wie Phil Collins, Madonna, Shakira, Dave Matthews Band, Udo Lindenberg, Roger Cicero, Selig, Sasha, Helene Fischer und Nena zusammen gespielt und wissen nur zu gut, dass alle “nur mit Wasser kochen” und wir von- und miteinander lernen können. **Bei “Celebrate the music” sind alle Lehrende und Lernende.**
 
 "Celebrate the music" findet in Schulen, Universitäten, Kultur- Bildungszentren sowie im Rahmen von Festivals, Stadtfesten und Sport- und Kulturveranstaltungen statt. In folgenden Kurzfilmen könnt ihr euch einige audioviduelle Eindrücke von unseren bisherigen "Celebrate the music"-Veranstaltungen in Hamburg verschaffen:
 
