@@ -1,6 +1,6 @@
 ---
 teaser: ''
-title: 'Dozenten-Team '
+title: 'Dozent_innen-Team '
 description: ''
 wide: false
 gallery: []
