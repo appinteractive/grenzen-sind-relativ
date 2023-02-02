@@ -8,7 +8,7 @@ alias: "/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-
 accessible: ''
 
 ---
-# Dozenten-Team
+# Dozent_innen-Team
 
 ### **David Alleckna** (Bass, Multiinstrumentalist & Bandtraining)
 
@@ -66,7 +66,7 @@ Alexandra liebt Katzen, Yoga, Wein und Reisen.
 
 Oded begann im Alter von 10 Jahren mit dem Schlagzeugspielen im Luftschutzbunker seiner Familie in Tel Aviv Israel. Als Teenager lebte und studierte Oded Kafri Musik in Paris, Frankreich, was seine musikalische Richtung prägte und ihn dem Jazz und der Weltmusik aussetzte. In seinen Zwanzigern war er ein gefeierter Sessionspieler. Im Jahr 2008 wurde Kafri gebeten, den israelischen Sänger David d’Or auf seiner Welttournee zu begleiten, die das Womad Festival, UK und das Spielen in verschiedenen Arenas beinhaltete. Im Jahr 2009 zog Kafri von Tel Aviv nach London, wo er Schlagzeug für die Koby Israelite-Group spielte, die in Prestige-Veranstaltungsorten performte. Kafris Straßenkunst gab ihm weltweite Anerkennung mit einer wachsenden Fangemeinde durch YouTube und andere soziale Medienplattformen. Im Dezember 2011 trat Kafri Beatboxer Beardyman bei seiner Brixton Electric Show bei. Ab 2012 wurde er ein Murat Diril Cymbals Endorser.
 
-Oded Kafri ist seit über einem Jahrzehnt in seiner „Drum The World“ -Initiative unterwegs und hat starke Fanbasen in ganz Europa und Großbritannien. Oded Kafri hat drei Studioalben „Rhythm for Dancing Lessons Vol. 2“, „The Drum Machine Project“ und zuletzt mit seiner neuen Band in Hamburg die EP mit dem Titel „Drum The World“ veröffentlicht. Oded Kafri lebt derzeit in Hamburg Deutschland, wo er bereits durch regionale TV- und Presseberichte bekannt ist. Er wurde auch eingeladen einen „TEDx Talk“ zu geben, um seine inspirierende Geschichte zu erzählen und wurde 2016 für den „Kutiman-Mix Hamburg“ ausgewählt. Er ist signierter Künstler von Off Ya Tree Records und Broken Silence Distribution. Im Mai 2017 repräsentierte er die High-End Lautsprecher von Avantgarde Acoustic bei der High End Exhibition in München.
+Oded Kafri ist seit über einem Jahrzehnt in seiner „Drum The World“ -Initiative unterwegs und hat starke Fanbasen in ganz Europa und Großbritannien. Oded Kafri hat drei Studioalben „Rhythm for Dancing Lessons Vol. 2“, „The Drum Machine Project“ und zuletzt mit seiner neuen Band in Hamburg die EP mit dem Titel „Drum The World“ veröffentlicht. Oded Kafri lebt derzeit in Hamburg, wo er bereits durch regionale TV- und Presseberichte bekannt ist. Er wurde auch eingeladen, einen „TEDx Talk“ zu geben, um seine inspirierende Geschichte zu erzählen und wurde 2016 für den „Kutiman-Mix Hamburg“ ausgewählt. Er ist signierter Künstler von Off Ya Tree Records und Broken Silence Distribution. Im Mai 2017 repräsentierte er die High-End Lautsprecher von Avantgarde Acoustic bei der High End Exhibition in München.
 
 ### **Volkan Baydar** (Stimme & Chor)
 
@@ -81,11 +81,11 @@ Aktuell arbeitet Volkan Baydar an seinem neuen Album mit dem Arbeits-Titel „ZW
 
 ![](/media/2022/04/rico-bowen-_-mischa-gohlke-band-__-foto-by-jorp-lippmann.jpg)
 
-Multi-Talent Rico Bowen stellte begann seine Laufbahn als Musik in sehr jungen Alter. Bereits als Kind traf er sich mit der Supergruppe Earth Wind & Fire, durch seinen Vater, der als Taxifahrer die Künstler bei einer Fahrt nach einem ihrer Konzerte kennen lernte.
+Multi-Talent Rico Bowen begann seine Laufbahn als Musiker im sehr jungen Alter. Bereits als Kind traf er sich mit der Supergruppe Earth Wind & Fire, durch seinen Vater, der als Taxifahrer die Künstler bei einer Fahrt nach einem ihrer Konzerte kennenlernte.
 
-Durch dieses Treffen auf Augenhöhe und das Erleben der Schwingungen und Bewegungen, inspiriert es den jungen Rico Bowen, die Musik als seine Zukunft zu betrachten. Ein paar Jahre später Rico nahm die Gitarre und lernte viele Arten von Musik, von R & B, Jazz, Funk und Rock n Roll bis zu Country und Reggae.
+Durch dieses Treffen auf Augenhöhe und das Erleben der Schwingungen und Bewegungen, inspiriert es den jungen Rico Bowen, die Musik als seine Zukunft zu betrachten. Ein paar Jahre später nahm Rico die Gitarre und lernte viele Arten von Musik, von R & B, Jazz, Funk und Rock n Roll bis zu Country und Reggae.
 
-Er besuchte die Schule der darstellende Künste und Musik in den USA und dort lernte Bowen die Arbeitsmoral und herzliche Leidenschaft, die er als Musiker benötigte. Ein Jahr später begann Bowen mit verschiedenen Band-Projekten, zusammen mit Größen wie Julian Lennon, Blondie, Dave Matthews Band, Madonna, Shakira und The Tom Tom Club.
+Er besuchte die Schule der darstellende Künste und Musik in den USA und dort lernte Bowen die Arbeitsmoral und Leidenschaft, die er als Musiker benötigte. Ein Jahr später begann Bowen mit verschiedenen Band-Projekten, zusammen mit Größen wie Julian Lennon, Blondie, Dave Matthews Band, Madonna, Shakira und The Tom Tom Club.
 
 ### **Jens Carstens** (Schlagzeug, Rhythm´n´Groove & Drum-Circle)
 
@@ -93,11 +93,11 @@ Er besuchte die Schule der darstellende Künste und Musik in den USA und dort le
 
 [Jens Carstens](https://de.wikipedia.org/wiki/Jens_Carstens) spielte in den letzten 20 Jahren als fester Schlagzeuger für „Rosenstolz“ und „Helene Fischer“ auf zahlreichen Arena und Stadion Tournee Shows.
 
-Seit über 20 Jahre ist er der Schlagzeuger und musikalische Leiter von Heinz Rudolf Kunze. Im Studio spielte er u.a für Udo Lindenberg, Selig, Aha, Rolf Zuckowski, Rosenstolz, Patricia Kaas, Helene Fischer.
+Seit über 20 Jahre ist er  Schlagzeuger und musikalischer Leiter von Heinz Rudolf Kunze. Im Studio spielte er u.a für Udo Lindenberg, Selig, Aha, Rolf Zuckowski, Rosenstolz, Patricia Kaas, Helene Fischer.
 
 Er komponiert und produziert Musik für unterschiedliche Künstler und gab 2015 mit der Kinderbuchreihe Quentin Qualle sein Debüt als Kinderbuch-Autor.
 
-> Musik ist für mich die wunderbarste Form sich auszudrücken und mit anderen Menschen zu kommunizieren. Musik schafft emotionale Brücken zwischen den Menschen. In der Musik finde ich den Schlüssel zu mir selbst und den Ausgleich den ich brauche.
+> Musik ist für mich die wunderbarste Form, sich auszudrücken und mit anderen Menschen zu kommunizieren. Musik schafft emotionale Brücken zwischen den Menschen. In der Musik finde ich den Schlüssel zu mir selbst und den Ausgleich, den ich brauche.
 
 ### **Lili Czuya** (Stimme & Chor)
 
