@@ -69,11 +69,11 @@ Das Pack, Jan Plewka & Marco Schmedtje, Sebó, Rolf Stahlhofen (Söhne Mannheims
 
 Folgende **gemeinnützige Organisationen** haben als Kooperationspartner und im Rahmen der Network-Area bei unseren bisherigen Festivals mitgewirkt:
 
-handiclapped e.V., Beyond Borders e.V., Inklusion muss laut sein e.V., University of Applied Sciences Europe, YACHTKLUB – Künstler*innen-Kollektiv, Hüller Medienwerkstatt e.V., Alive!Kultur e.V., Schlei Akademie e.V., sense the steps e.V., Rap for refugees e.V., Embassy of Hope Thalia Theater, KinderLeben e.V., Good Cause e.V., BdS Hamburg e.V., LernArt, Urban Citizenship Card,  Shiatsu zum Leben, Kurve e.V., Human Connection, Good Cause e.V., BdS Hamburg e.V., uvam.
+handiclapped e.V., Eucrea e.V., Beyond Borders e.V., Inklusion muss laut sein e.V., University of Applied Sciences Europe, YACHTKLUB – Künstler*innen-Kollektiv, Hüller Medienwerkstatt e.V., Alive!Kultur e.V., Schlei Akademie e.V., sense the steps e.V., Rap for refugees e.V., Embassy of Hope Thalia Theater, KinderLeben e.V., Good Cause e.V., Hamburg wird inklusiv, Senatskoordinatorin für die Gleichstellung von Menschen mit Behinderungen, BdS Hamburg e.V., LernArt, Urban Citizenship Card,  Shiatsu zum Leben, Kurve e.V., Human Connection, Good Cause e.V., BdS Hamburg e.V., uvam.
 
 Folgende **Medien** (Print, Online, TV & Radio) haben über unsere bisherigen Festivals berichtet:
 
-ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, Zeit, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, Junge Welt, Eimsbüttler Wochenblatt, Hamburg Magazin, Sommer in Hamburg, uvam.
+ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, NDR 90.3, NDR Hamburg Journal, MOPO, Hamburger Abendblatt, Junge Welt, Eimsbüttler Wochenblatt, Hamburg Ahoi (Tourismus Marketing Hamburg), Hamburger Klönschnack, Kulturlotse, Elmshorner Nachrichten, Noa4, Kieler Nachrichten, Zeit, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, Hamburg Magazin, Sommer in Hamburg, uvam.
 
 ***
 
