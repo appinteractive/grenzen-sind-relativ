@@ -30,12 +30,10 @@ Die gemeinsamen Erfahrungswerte und den entstandenen Wissensfundus möchten wir 
 
 Ihr habt Interesse an einer - ersten oder wiederholten - Kooperation im Rahmen von _Celebrate the music_? Lasst uns gemeinsam ein passendes Format entwickeln und weiter für positive Energien und Musikbegeisterug sorgen!
 
-Bei Interesse oder Feedback meldet euch gerne bei Fabia unter [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de).
+Bei Interesse oder Feedback meldet euch gerne bei Fabia unter [produktion@grenzensindrelativ.de](mailto:produktion@grenzensindrelativ.de)
 
 Wir freuen uns auf die nächste Runde von _Celebrate the music_ mit euch im Jahr 2023!
 
 ### Gefördert durch:
 
-![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
-
-![](/media/2022/03/stiftung_hw_logo_rgb_inumlauf.JPG)
+![](/media/2022/11/2022-11-02-12-02-14-676-removebg-preview.png)
