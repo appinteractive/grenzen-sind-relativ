@@ -19,7 +19,7 @@ accessible: ''
 
 Aufbauend auf unsere [Grenzen sind relativ Festivals](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/review-grenzen-sind-relativ-festivals-2017-2019) in der “Fabrik Hamburg” haben wir ein neues interdisziplinäres Veranstaltungsformat kreiert, welches im Rahmen von Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen umgesetzt wird.
 
-Die Premiere-Veranstaltung [Kultur ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg) ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Ab 2023 werden wir das Format zusammen mit Veranstaltern, Agenturen, etc. bundesweit zum Leben erwecken.
+Die Premiere-Veranstaltung [Kultur ALIVE - Grenzen sind relativ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/kultur-alive-grenzen-sind-relativ-sa.1.10.22-spielbudenplatz-reeperbahn-hamburg) ist am 01. Oktober 2022 auf dem [Spielbudenplatz](https://spielbudenplatz.eu/) (Reeperbahn) gewesen. Nun werden wir das Format - zusammen mit Veranstaltern, Agenturen, gemeinnützigen Organisationen, Behörden, etc. - bundesweit zum Leben erwecken.
 
 Das interdisziplinäre Veranstaltungsformat beinhaltet ein spannendes und qualitativ hochwertiges Kultur-Rahmenprogramm, welches aus 3 Säulen besteht:
 
@@ -65,15 +65,15 @@ Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren K
 
 Folgende **Künstler*innen** sind bei unseren bisherigen Festivals aufgetreten:
 
-Das Pack, Jan Plewka & Marco Schmedtje, Sebó, Rolf Stahlhofen (Söhne Mannheims), Volkan Baydar (Orange Blue), Jessy Martens, Oded Kafri, Rudolf Rock & die Schocker feat. Susi Salm & Special Guest J.J. Kravetz, Graf Fidi, Martin Fromme, Kassandra Wedel, Latin Fever Trio feat. Maire Ramirez, Soulounge feat. Sarajane & Phil Siemers, Shirley Holmes, Mischa Gohlke Band, Rapfugees, Soularia, Kiddo Kat, Michael Krebs, Klabauter Theater, stringNbase, Bodyrhythm Unlimited, Safar Band, Superbad feat. Souni T., Jirri & Lash & Lesley Farfisa, Edwin Hosoomel, TONALi, Fani & Bouba, Jessé Gomes Trio, Fame Academy feat. Souzan Alavi, G-Connection feat. Can “Kazim” Gülec, uvam. 
+_Das Pack, Jan Plewka & Marco Schmedtje, Sebó, Rolf Stahlhofen (Söhne Mannheims), Volkan Baydar (Orange Blue), Jessy Martens, Oded Kafri, Rudolf Rock & die Schocker feat. Susi Salm & Special Guest J.J. Kravetz, Graf Fidi, Martin Fromme, Kassandra Wedel, Latin Fever Trio feat. Maire Ramirez, Soulounge feat. Sarajane & Phil Siemers, Shirley Holmes, Mischa Gohlke Band, Rapfugees, Soularia, Kiddo Kat, Michael Krebs, Klabauter Theater, stringNbase, Bodyrhythm Unlimited, Safar Band, Superbad feat. Souni T., Jirri & Lash & Lesley Farfisa, Edwin Hosoomel, TONALi, Fani & Bouba, Jessé Gomes Trio, Fame Academy feat. Souzan Alavi, G-Connection feat. Can “Kazim” Gülec, uvam._
 
 Folgende **gemeinnützige Organisationen** haben als Kooperationspartner und im Rahmen der Network-Area bei unseren bisherigen Festivals mitgewirkt:
 
-handiclapped e.V., Eucrea e.V., Beyond Borders e.V., Inklusion muss laut sein e.V., University of Applied Sciences Europe, YACHTKLUB – Künstler*innen-Kollektiv, Hüller Medienwerkstatt e.V., Alive!Kultur e.V., Schlei Akademie e.V., sense the steps e.V., Rap for refugees e.V., Embassy of Hope Thalia Theater, KinderLeben e.V., Good Cause e.V., Hamburg wird inklusiv, Senatskoordinatorin für die Gleichstellung von Menschen mit Behinderungen, BdS Hamburg e.V., LernArt, Urban Citizenship Card,  Shiatsu zum Leben, Kurve e.V., Human Connection, Good Cause e.V., BdS Hamburg e.V., uvam.
+_Handiclapped e.V., Eucrea e.V., Beyond Borders e.V., Inklusion muss laut sein e.V., University of Applied Sciences Europe, YACHTKLUB – Künstler*innen-Kollektiv, Hüller Medienwerkstatt e.V., Alive!Kultur e.V., Schlei Akademie e.V., sense the steps e.V., Rap for refugees e.V., Embassy of Hope Thalia Theater, KinderLeben e.V., Good Cause e.V., Hamburg wird inklusiv, Senatskoordinatorin für die Gleichstellung von Menschen mit Behinderungen, BdS Hamburg e.V., LernArt, Urban Citizenship Card,  Shiatsu zum Leben, Kurve e.V., Human Connection, Good Cause e.V., BdS Hamburg e.V., uvam._
 
 Folgende **Medien** (Print, Online, TV & Radio) haben über unsere bisherigen Festivals berichtet:
 
-ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, NDR 90.3, NDR Hamburg Journal, MOPO, Hamburger Abendblatt, Junge Welt, Eimsbüttler Wochenblatt, Hamburg Ahoi (Tourismus Marketing Hamburg), Hamburger Klönschnack, Kulturlotse, Elmshorner Nachrichten, Noa4, Kieler Nachrichten, Zeit, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, Hamburg Magazin, Sommer in Hamburg, uvam.
+_ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, NDR 90.3, NDR Hamburg Journal, MOPO, Hamburger Abendblatt, Junge Welt, Eimsbüttler Wochenblatt, Hamburg Ahoi (Tourismus Marketing Hamburg), Hamburger Klönschnack, Kulturlotse, Elmshorner Nachrichten, Noa4, Kieler Nachrichten, Zeit, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, Hamburg Magazin, Sommer in Hamburg, uvam._
 
 ***
 
