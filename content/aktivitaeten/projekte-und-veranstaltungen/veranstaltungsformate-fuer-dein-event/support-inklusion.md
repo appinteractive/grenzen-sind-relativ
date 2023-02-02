@@ -59,6 +59,24 @@ Verbunden mit den bundesweiten Veranstaltungen wollen wir zusammen mit unseren K
 2. Netzwerkarbeit, Wissenstransfer & Beratungsangebote für alle mitwirkenden Akteure, u.a. mit 10 Online-Workshops und Coaching
 3. das Kreieren von konkreten nachhaltigen Ergebnissen (individuelle Handouts & Toolboxes, Gründung Aktionsbündnis für interdisziplinäre Kulturveranstaltungen, etc.)
 
+***
+
+### **Referenzen:**
+
+Folgende **Künstler*innen** sind bei unseren bisherigen Festivals aufgetreten:
+
+Das Pack, Jan Plewka & Marco Schmedtje, Sebó, Rolf Stahlhofen (Söhne Mannheims), Volkan Baydar (Orange Blue), Jessy Martens, Oded Kafri, Rudolf Rock & die Schocker feat. Susi Salm & Special Guest J.J. Kravetz, Graf Fidi, Martin Fromme, Kassandra Wedel, Latin Fever Trio feat. Maire Ramirez, Soulounge feat. Sarajane & Phil Siemers, Shirley Holmes, Mischa Gohlke & Friends, Rapfugees, Soularia, Kiddo Kat, Michael Krebs, Klabauter Theater, stringNbase, Bodyrhythm Unlimited, Safar Band, Superbad feat. Souni T., Jirri & Lash & Lesley Farfisa, Edwin Hosoomel, TONALiFani & Bouba, Jessé Gomes Trio, Fame Academy feat. Souzan Alavi, G-Connection feat. Can “Kazim” Gülec, uvam. 
+
+Folgende **gemeinnützige Organisationen** haben als Kooperationspartner und im Rahmen der Network-Area bei unseren bisherigen Festivals mitgewirkt:
+
+Beyond Borders e.V., University of Applied Sciences Europe, YACHTKLUB – Künstler*innen-Kollektiv, Hüller Medienwerkstatt e.V., Rap for refugees e.V., Embassy of Hope Thalia Theater, KinderLeben e.V., Inklusion muss laut sein e.V., Good Cause e.V., BdS Hamburg e.V., LernArt, Urban Citizenship Card,  Shiatsu zum Leben, Kurve e.V., Human Connection, Good Cause e.V. und BdS Hamburg e.V., uvam.
+
+Folgende **Medien** (Print, Online, TV & Radio) haben über unsere bisherigen Festivals berichtet:
+
+ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, Zeit, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, Junge Welt, Eimsbüttler Wochenblatt, Hamburg Magazin, Sommer in Hamburg, uvam.
+
+***
+
 Gefördert von
 
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
