@@ -33,6 +33,8 @@ Ein Highlight des Veranstaltungsformates sind die "Art-Clashes": Die mitwirkende
 
 Das Veranstaltungsformat schafft eine verbindende Plattform für Veranstalter, Künstler:innen und gemeinnützige Organisationen und trägt Thematiken wie [gesamtgesellschaftliche Inklusion, interdisziplinäre Kultur und Dialog & Miteinander](https://www.grenzensindrelativ.de/ueber-uns/mission-und-vision) auf eine erfahrbare und mitreißende Art auf die Bühne, ins Publikum und in die Mitte der Gesellschaft. So können diverse Synergien, Multiplikatoren, Folgeprozesse und weiterführende Basisarbeit auf den Weg gebracht werden. Nicht zuletzt geht es einfach um Musik, Kunst und Begegnungen!
 
+Konkretes & Details bezüglich strat. Konzeption, Veranstaltungstermin, Rahmen- & Bühnenprogramm (2-8 Stunden, Line Up, etc.), Projektteam, PR- & Öffentlichkeitsarbeit, Finanzierung, usw. können wir gerne im persönlichen Dialog - je nach Veranstaltungsrahmen, Zielsetzungen, Budget, Möglichkeiten, usw. - individuell ausarbeiten und umsetzen.
+
 **Grenzen sind relativ e.V. als Anlaufstelle und Co-Veranstalter**
 
 Initiiert wurde der Verein von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager Mischa Gohlke. Dazu wirken im [Vereins-Team](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) mehrere professionelle Kulturschaffende, Projekt- & Veranstaltungsmanager:innen, Künstler:innen, Promoter:innen und Campaigner:innen mit und der Verein kann auf ein großes Netzwerk, u.a. in den Bereichen Künstler:innenkontakte, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
