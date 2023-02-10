@@ -431,6 +431,11 @@
               "showInMainNavigation": true,
               "children": [
                 {
+                  "title": "Sommerblut Kulturfestival",
+                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/sommerblut-kulturfestival.md",
+                  "showInMainNavigation": true
+                },
+                {
                   "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/rock-und-pop-schule-kiel.md",
                   "title": "Rock und Pop Schule Kiel",
                   "disabled": false,
