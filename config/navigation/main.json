@@ -433,7 +433,8 @@
                 {
                   "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/rock-und-pop-schule-kiel.md",
                   "title": "Rock und Pop Schule Kiel",
-                  "disabled": true
+                  "disabled": false,
+                  "showInMainNavigation": true
                 },
                 {
                   "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/eucrea.md",
