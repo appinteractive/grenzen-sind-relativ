@@ -28,4 +28,4 @@ Da Musik erwiesenermaßen eine Bereicherung des kulturellen Lebens darstellt, ha
 
 Auch die bundesweite Auszeichnung „1. Preis zur Förderung der Rock & Pop Musik“ durch die angesehene Deutsche Popstiftung zeigt die hohe musisch-kulturelle Kompetenz der ROCK & POP SCHULE. Weiterhin ist die andere coole Schule Inklusionspreisträger der LH für den inklusiven Chor "Die Chorwürmer".
 
-Weitere Infos unter: [http://www.rockpopschule.de/](http://www.rockpopschule.de/ "http://www.rockpopschule.de/")
+Weitere Infos unter: [http://www.rockpopschule.de](http://www.rockpopschule.de/ "http://www.rockpopschule.de/")
