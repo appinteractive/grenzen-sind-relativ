@@ -431,22 +431,6 @@
               "showInMainNavigation": true,
               "children": [
                 {
-                  "title": "Stiftung Generationen-Zusammenhalt",
-                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/stiftung-generationen-zusammenhalt.md",
-                  "showInMainNavigation": true
-                },
-                {
-                  "title": "Sommerblut Kulturfestival",
-                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/sommerblut-kulturfestival.md",
-                  "showInMainNavigation": true
-                },
-                {
-                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/rock-und-pop-schule-kiel.md",
-                  "title": "Rock und Pop Schule Kiel",
-                  "disabled": false,
-                  "showInMainNavigation": true
-                },
-                {
                   "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/eucrea.md",
                   "title": "EUCREA e.V."
                 },
@@ -460,6 +444,22 @@
                   "title": "sense the steps e.V.",
                   "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/sense-the-steps-e.v.md",
                   "disabled": false,
+                  "showInMainNavigation": true
+                },
+                {
+                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/rock-und-pop-schule-kiel.md",
+                  "title": "Rock und Pop Schule Kiel",
+                  "disabled": false,
+                  "showInMainNavigation": true
+                },
+                {
+                  "title": "Sommerblut Kulturfestival",
+                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/sommerblut-kulturfestival.md",
+                  "showInMainNavigation": true
+                },
+                {
+                  "title": "Stiftung Generationen-Zusammenhalt",
+                  "page": "content/aktivitaeten/gsr-medienportal/support-your-crowd/stiftung-generationen-zusammenhalt.md",
                   "showInMainNavigation": true
                 }
               ],
