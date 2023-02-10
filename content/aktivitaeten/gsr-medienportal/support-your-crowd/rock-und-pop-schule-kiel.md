@@ -1,7 +1,9 @@
 ---
 teaser: "/media/2023/02/banner-support-your-cloud-musikschule-horbie-schmidt-1.jpg"
 title: Rock und Pop Schule Kiel
-description: ''
+description: 'Wir leben und lieben Musik! Das Ziel des Initiators der Rock und Pop
+  Schule Kiel ist, das vernachlässigte Kulturgut Musik Kindern, Jugendlichen und Erwachsenen
+  wieder näher zu bringen. '
 wide: false
 gallery: []
 alias: ''

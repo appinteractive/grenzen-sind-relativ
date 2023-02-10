@@ -1,7 +1,9 @@
 ---
 teaser: "/media/2023/02/banner-support-your-cloud-stiftung-generationen-zusammenhalt-1.jpg"
 title: Stiftung Generationen-Zusammenhalt
-description: ''
+description: Die Stiftung Generationen-Zusammenhalt entwickelt und realisiert Projekte,
+  die mit Hilfe eines inter-generationellen Ansatzes zu Partizipation und Integration
+  anstiften.
 wide: false
 gallery: []
 alias: ''
