@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2023/02/r-rahmen01.jpg"
 title: r - rahmen mental - das festival zu schizophrenie
 description: Der kleine, luftarme Kellerraum ist zu eng für den Applaus. Das Ende
   einer Performance drückt das Publikum die Wände entlang. Bewegung, die eben nur
