@@ -16,12 +16,12 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 
 #### 1.) Veranstaltungsmanagement, Produktionsleitung, Akquise & Booking GSR e.V. Veranstaltungsformate _(ab sofort, 25-32 Wochenstunden)_
 
-* Veranstaltungsmanagement & Produktionsleitung [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event), [GSR e.V. Public Events](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion), [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion), etc. (strat. Konzeption, operative Umsetzung, Booking Rahmenprogramme, Budgetplanung & Abrechnungen, Promotion, Koordination Veranstaltungstechnik und -crews, Vertragsverhandlungen und Ausfertigung Verträge)
+* Veranstaltungsmanagement & Produktionsleitung [GSR e.V. Veranstaltungsformate](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event), [GSR e.V. Public Events](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion), [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion), etc. (strat. Konzeption, operative Umsetzung, Booking Rahmenprogramme, Budgetplanung & Abrechnungen, Promotion, Koordination Veranstaltungstechnik und -crews, Vertragsverhandlungen und Ausfertigung Verträge, etc.)
 * “GSR Agentur”: Booking Bands wie [Mischa Gohlke Band](https://mischagohlkeband.de/) + Akquise [GSR e.V. Veranstaltungsformate](), [GSR e.V. Public Events](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion), [Celebrate the music](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion), etc.
 
 #### Voraussetzungen, Sinnhaftigkeit & Identität:
 
-* Professionelle Kompetenzen in den oben genannten Arbeitsbereichen (gerne "Bundesliga-Niveau")  sowie mehrjährige Erfahrung in der Veranstaltungsbranche
+* Professionelle Kompetenzen in den oben genannten Arbeitsbereichen (gerne "Bundesliga-Niveau") sowie mehrjährige Erfahrung in der Veranstaltungs- oder/und Musikagenturbranche (Festivals, Public Events, Booking, etc.)
 * Persönlichkeit, Kreativität, Pioniergeist, Führungs- & Managementfähigkeiten
 * Analyse & Aktiv Sein, aktiv gestaltend agieren können/wollen, selbst & neu denken
 * Kommunikationsfreude mit Dritten (Telefon, E-Mail & Live)
