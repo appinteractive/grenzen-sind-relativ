@@ -25,11 +25,11 @@ Wir wollen unser [Grenzen sind relativ e.V. - Team](https://www.grenzensindrelat
 * Institution Grenzen sind relativ e.V.: Word-Bild-Marke, Logo, Banner, Flyer, Broschüre, Briefpapier, Visitenkarten, Webseite, etc.
 * Haupt-Aktivitäten Grenzen sind relativ e.V.: 
 
-  a) "GSR e.V. Public Events - Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen"
+  a) ["GSR e.V. Public Events - Interdisziplinäre Kulturevents auf Festivals, Stadtfesten, Sport- & Kulturveranstaltungen und öffentlichen Plätzen"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion) - Label, CI/CD, Banner, Flyer & Plakate
 
-  b) "Celebrate the music - Aktionstage mit Musik-Workshops, Band-Clashes und Abschlusskonzert": Label, CI/CD, Banner, Flyer & Plakate
+  b) ["Celebrate the music - Aktionstage mit Musik-Workshops, Band-Clashes und Abschlusskonzert"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music/allgemeine-infos-erlebnistage-inklusion) - Label, CI/CD, Banner, Flyer & Plakate
 
-  c) Kampagne 2. Inklusions- & Friedenssong
+  c) [Kampagne 2. Inklusions- & Friedenssong](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong) - Label, CI/CD, Banner, Flyer, Bookleg, Merchandising, etc.
 
 #### Voraussetzungen, Sinnhaftigkeit & Identität:
 
