@@ -10,13 +10,13 @@ alias: ''
 accessible: ''
 
 ---
-## r - rahmen
+# r - rahmen
 
-mental - das festival zu schizophrenie
+## mental - das festival zu schizophrenie
 
 ![](/media/2023/02/1-1.jpg)
 
-(ihr gesicht) bedrohlich kalt   
+(ihr gesicht) bedrohlich kalt  
 geschreckt von etwas, das fragt aber nicht lächelt (der körper) dreht sich, achsenlos, schwappt knapp, reckt nach ihr  
 fremd streckt sie hände aus, ohne antwort  
 da sind fäden, die ziehen nach unten  
@@ -37,8 +37,8 @@ und doch
 abdrücke,  
 großspurig
 
-gnädig weicht matsch,  
-  
+gnädig weicht matsch,
+
 eine bewegung  
 das erste mal  
 aus einer mitte  
@@ -47,7 +47,7 @@ heraus
 ![](/media/2023/02/2.jpg)
 
 Der kleine, luftarme Kellerraum ist zu eng für den Applaus. Das Ende einer  
-Performance drückt das Publikum die Wände entlang. Bewegung, die eben nur einem Körper bestimmt war, strömt nun in die herumstehenden Menschen. Und doch weilen Einige - angezogen von dem intimen Ort, an dem die Performerin gerade in Schlamm verwelkte. Es ist ein abgesteckter Rahmen aus Holz, gefüllt mit matschigem Ton. 
+Performance drückt das Publikum die Wände entlang. Bewegung, die eben nur einem Körper bestimmt war, strömt nun in die herumstehenden Menschen. Und doch weilen Einige - angezogen von dem intimen Ort, an dem die Performerin gerade in Schlamm verwelkte. Es ist ein abgesteckter Rahmen aus Holz, gefüllt mit matschigem Ton.
 
 ![](/media/2023/02/3.jpg)
 
