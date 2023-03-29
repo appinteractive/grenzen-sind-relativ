@@ -1,7 +1,10 @@
 ---
 teaser: "/media/2023/03/1.jpg"
 title: q - quō Ohrenkuss
-description: ''
+description: 'Am Anfang haben viele Menschen nicht geglaubt, dass Menschen mit Down-Syndrom
+  Texte wie diese schreiben würden. Dabei verfügen sie über Techniken, an die Menschen
+  ohne Down-Syndrom gar nicht herankommen könnten. So meint Katja de Bragança, Chef-Redakteurin
+  des Ohrenkuss Magazins. '
 wide: false
 gallery: []
 alias: ''

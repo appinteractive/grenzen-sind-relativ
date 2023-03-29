@@ -1,7 +1,10 @@
 ---
 teaser: "/media/2023/03/p-probe-01.jpg"
 title: p-probe
-description: ''
+description: Es braucht nur ein paar Wendungen vom Remscheider Bahnhof aus und schon
+  wird Asphalt zu Stein. All die kleinen gepflasterten Wege, die hier von den Straßen
+  abgehen, führen in gerade auflebendes Laub. Es wird zu massivem Grün werden, das
+  sich entlang der Wupper windet und in waldige Weiten öffnet.
 wide: false
 gallery: []
 alias: ''
