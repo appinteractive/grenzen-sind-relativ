@@ -2,16 +2,16 @@
   "teasers": true,
   "slides": [
     {
-      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/p-probe.md",
-      "title": "P- Probe",
-      "subtitle": "UN-LABEL",
-      "image": "/media/2023/03/p-probe-01.jpg"
-    },
-    {
       "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/grenzenlos-vernetzt.md",
       "title": "Projektinfo \"grenzenlos vernetzt von a-z\"",
       "subtitle": "Auf dem Weg in eine neue Beziehungskultur braucht es Netzwerke und Kooperationen. Um diese zu ermöglichen, bringt dieses Alphabet Projekte und ihre Akteur:innen",
       "image": "/media/2022/08/banner-ankundigungstext-01.jpg"
+    },
+    {
+      "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/p-probe.md",
+      "title": "P- Probe",
+      "subtitle": "UN-LABEL",
+      "image": "/media/2023/03/p-probe-01.jpg"
     },
     {
       "page": "content/aktivitaeten/gsr-medienportal/grenzenlos-vernetzt/q-quo-ohrenkuss.md",
