@@ -1,16 +1,17 @@
 ---
-teaser: "/media/2022/10/ctm_100001.jpg"
+teaser: '/media/2022/10/ctm_100001.jpg'
 title: 'Ab 2023: Celebrate the music - bundesweit'
-description: Mit der offenen Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor,
+description:
+  Mit der offenen Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor,
   Bandtraining), den beiden Band-Clashes und dem gemeinsamen Abschlusskonzert schaffen
   wir Raum für Begegnung, Erfahrungsaustausch, Perspektivwechsel und natürlich ganz
   viel Musik.
 wide: false
 gallery: []
-alias: "/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/ab-2023-celebrate-the-music-bundesweit"
-accessible: https://leicht.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music
-
+alias: '/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/ab-2023-celebrate-the-music-bundesweit'
+accessible: false
 ---
+
 # Ab 2023: "Celebrate the music" - bundesweit
 
 Aufbauend auf die wunderbaren "Celebrate the music" - Veranstaltungen in Hamburg, wollen wir das Format ab nächstes Jahr bundesweit zum Leben bringen.
@@ -25,24 +26,24 @@ Das [**Dozenten-Team**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-
 
 Modul 1:
 
-* Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
-* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
+- Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
+- Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent\*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 2:
 
-* Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
-* Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
+- Offene Workshoprunde (Drumcircle, Body Rhythm, Stimme & Chor, Bandtraining)
+- Gemeinsames Abschlusskonzert (Ergebnisse Workshops, Auftritt Dozent\*innen-Band, Finale wo alle Mitwirkenden zusammen einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen)
 
 Modul 3 (speziell für Festivals, Stadtfesten und Sport- und Kulturveranstaltungen):
 
-* In Zelten, Open-Air, etc.: Chor- und Rhythm´n´Groove Workshops (die Teilnehmenden lernen einen Song wie z.B. "Give peace a chance" und performen diesen anschließend zusammen mit den Dozent*innen auf der Bühne)
-* Bühnen-Performances:
+- In Zelten, Open-Air, etc.: Chor- und Rhythm´n´Groove Workshops (die Teilnehmenden lernen einen Song wie z.B. "Give peace a chance" und performen diesen anschließend zusammen mit den Dozent\*innen auf der Bühne)
+- Bühnen-Performances:
 
-  a) Auftritt Dozent*innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
+  a) Auftritt Dozent\*innen Band inklusive großes Finale, wo alle Workshop-Teilnehmenden einen Song wie z.B. "Give peace a chance" singen, grooven, tanzen und performen.
 
   b) Workshops (Chor, Rhythm´n´Groove, Bodyrhythm, etc.) interaktiv mit dem Publikum
 
-***
+---
 
 **Workshop 1: Drumcircle**
 
