@@ -19,17 +19,9 @@ Diverse Medien, u.a. ARD, ZDF, NDR, BR3, WDR, MDR, 3sat, Sat1, RTL, Deutsche Wel
 
 Initiiert wurde unser Verein von dem nahezu gehörlosen Profi-Musiker, Aktivisten und Kultur- & Medienmanager Mischa Gohlke. Weiter wirken im[ **Vereins-Team**](https://www.grenzensindrelativ.de/ueber-uns/das-team/alle) mehrere professionelle Kulturschaffende, Projekt- & Veranstaltungsmanager:innen, Künstler:innen, Promoter:innen und Campaigner:innen mit. Zudem kann wir auf ein großes Netzwerk, u.a. in den Bereichen gemeinnützige Organisationen, , Künstler:innenkontakte, Veranstaltungstechnik, Personal am Veranstaltungstagen, Musik- & Filmproduktion, Design, Marketing und PR- & Öffentlichkeitsarbeit, zurückgreifen.
 
-Unsere [**Veranstaltungsformate**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) realisieren wir seit mehreren Jahren bundesweit zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenden. Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in diversen Institutionen (Schulen, Universitäten, Kultur- & Bildungseinrichtungen, Vereine, Unternehmen, usw.). Konkretes & Details bezüglich strategischer Konzeption, Veranstaltungstermin, Rahmenprogramm, Projektteam, PR- & Öffentlichkeitsarbeit, Finanzierung, Planung und Durchführung arbeiten wir stets individuell - je nach Veranstaltungsrahmen, Zielsetzungen, Budget, Möglichkeiten, usw. - im persönlichen Dialog mit unseren Kooperationspartnern aus. Bei Interesse kontaktiere uns gerne. :)
+Unsere [**Veranstaltungsformate**](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event) realisieren wir seit mehreren Jahren bundesweit zusammen mit Veranstaltern, Agenturen, Institutionen und Behörden sowie partizipativ mit Schüler:innen, Student:innen und Auszubildenden. Umgesetzt werden die Veranstaltungen zumeist im Rahmen von Festivals, Kultur- & Sportveranstaltungen, Stadtfesten, Kongressen sowie in diversen Institutionen (Schulen, Universitäten, Kultur- & Bildungseinrichtungen, Vereine, Unternehmen, usw.). Konkretes & Details bezüglich strategischer Konzeption, Veranstaltungstermin, Rahmenprogramm, Projektteam, PR- & Öffentlichkeitsarbeit, Finanzierung, Planung und Durchführung arbeiten wir stets individuell - je nach Veranstaltungsrahmen, Zielsetzungen, Budget, Möglichkeiten, usw. - im persönlichen Dialog mit unseren Kooperationspartnern aus. 
 
-## Unsere Aktivitäten
-
-</div>
-
-<slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
-
-<div class="text-center">
-
-<hr class="wide !border-grey-700">
+***
 
 Übrigens ist mit unserem Vereinsnamen “**Grenzen sind relativ**” kein grenzenloses Wachstum, Schneller-Weiter-Mehr, Selbstoptimierung, etc. gemeint. Im Sinne der Dialektik haben wir alle das Begrenzte und Grenzenlose in uns. Die Polaritäten wie zum Beispiel Licht und Schatten, das Selbstlose und das Ego sowie Liebe und Hass bedingen einander. Wichtig dabei ist, dass wir unsere eigenen Themen, Prozesse, Ängste, Widersprüche und Entfremdungen annehmen und mit unseren Mitmenschen in einen möglichst ergebnisoffenen und wertfreien Dialog kommen können. Daran können wir arbeiten und auf Augenhöhe von- und miteinander lernen.
 
@@ -47,7 +39,7 @@ Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der D
 
 Um diesen und anderen Bewusstseinsprozessen eine Plattform zu geben und AKTIV zu sein, ist der gemeinnützige Verein „Grenzen sind relativ e.V.“ ins Leben gerufen worden.
 
-Let´s do it - auf in eine neue Beziehungskultur!
+Let´s do it together - auf in eine neue Beziehungskultur!
 
 ***
 
