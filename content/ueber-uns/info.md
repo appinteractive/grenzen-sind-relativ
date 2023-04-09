@@ -31,8 +31,6 @@ Unsere [**Veranstaltungsformate**](https://www.grenzensindrelativ.de/aktivitaete
 
 <hr class="wide !border-grey-700">
 
-***
-
 Übrigens ist mit unserem Vereinsnamen “**Grenzen sind relativ**” kein grenzenloses Wachstum, Schneller-Weiter-Mehr, Selbstoptimierung, etc. gemeint. Im Sinne der Dialektik haben wir alle das Begrenzte und Grenzenlose in uns. Die Polaritäten wie zum Beispiel Licht und Schatten, das Selbstlose und das Ego sowie Liebe und Hass bedingen einander. Wichtig dabei ist, dass wir unsere eigenen Themen, Prozesse, Ängste, Widersprüche und Entfremdungen annehmen und mit unseren Mitmenschen in einen möglichst ergebnisoffenen und wertfreien Dialog kommen können. Daran können wir arbeiten und auf Augenhöhe von- und miteinander lernen.
 
 Dazu gibt es viele strukturelle, gesellschaftliche und politische Grenzen. Hier braucht es wesentlich mehr Dialog & Miteinander und Allgemeingüter wie Kultur, Bildung, Gesundheit und dezentrale Infrastrukturen sollten für alle Menschen zugänglich sein. Dabei geht es natürlich auch um die Verteilung von Geld, Macht und Einfluss und wie wir unsere “Demokratie” leben & gestalten wollen. Was von Menschen gemacht worden ist, kann auch verändert werden. Im Kleinen wie im Großen. Grenzen zu spüren, mit ihnen im Prozess zu sein, daran zu wachsen und gesellschaftspolitisch aktiv zu sein. Darin verstehen wir unsere Aufgabe und wollen unseren Part erfüllen.
