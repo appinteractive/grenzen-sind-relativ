@@ -7,6 +7,8 @@ description: Aktionsbüro für eine multipolare Gesellschaftskultur
 
 ## Aktionsbüro für eine multipolare Gesellschaftskultur
 
+![](/media/2022/05/banner_web_banner-startseite.jpg)
+
 **Mit Projekten, Veranstaltungen, Kampagnen, Musikunterricht, Workshops, Beratung und Öffentlichkeitsarbeit & Bewusstseinsbildung bringen wir Menschen verschiedenster Backgrounds zusammen und setzen uns für interdisziplinäre Kultur, gesamtgesellschaftliche Inklusion, Dialog & Miteinander und gelebten Frieden für alle Menschen auf diesem Planeten ein.**
 
 Verbunden mit unserem Arbeitsmotto “**Analyse & Aktiv Sein**” haben wir mehrere Veranstaltungs- und Projektformate ins Leben gerufen, die wir bundesweit zusammen mit unseren Kooperationspartnern umsetzen. Dabei sind Menschlichkeit, Vision, Perspektivwechsel und Liebe zum Detail essentiell für uns.
