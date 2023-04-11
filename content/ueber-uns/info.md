@@ -1,6 +1,7 @@
 ---
 title: Grenzen sind relativ e.V.
 description: Aktionsbüro für eine multipolare Gesellschaftskultur
+teaser: "/media/2022/05/banner_web_banner-startseite.jpg"
 
 ---
 # Grenzen sind relativ e.V.
