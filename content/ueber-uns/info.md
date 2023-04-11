@@ -32,7 +32,7 @@ Zu Zeiten der Kategorisierungen und Spaltung brauchen wir - im Bewusstsein der D
 
 * **Kunst & Kultur** – interdisziplinäre Projekte, Veranstaltungen und Kampagnen, u.a. aus den Sparten Musik, Film, Medien, Theater, Tanz, Kabarett, Performance, Interaktives, uvm.
 * **Gesamtgesellschaftliche Inklusion** – Inklusion ist keine Spezialkonvention für Menschen mit formal anerkannter Behinderung, sondern die Konkretisierung der universellen Menschenrechte. Darüber hinaus: Wir ALLE sind „behindert“. Ob körperlicher, mentaler, sozialer, kultureller, emotionaler, empathischer, finanzieller oder/und struktureller Natur.
-* **Dialog & Miteinander** - Es braucht einen problem- und lösungsorientierten Diskurs, der möglichst ergebnisoffen, wertschätzend und empathisch geführt werden sollte. Daran können wir arbeiten und auf Augenhöhe von- und miteinander lernen. Im Kleinen wie im Großen.
+* **Dialog & Miteinander** - Es braucht einen problem- und lösungsorientierten Diskurs, der möglichst ergebnisoffen, wertschätzend und empathisch geführt wird. Daran können wir arbeiten und auf Augenhöhe von- und miteinander lernen. 
 * **Frieden** – Ein Wort wartet auf Verständnis. Frieden. Braucht uns. In aller Vielfalt.
 * **Integrales Bewusstsein** – Soziale, ökologische, ökonomische, bildungspolitische, kulturelle, globale, spirituelle, persönliche, zwischenmenschliche, gesellschaftspolitische sowie viele weitere Themenbereiche können nicht mehr getrennt voneinander, sondern müssen – in Beziehung zueinander stehend – als Ganzes wahrgenommen und angenommen werden.
 
